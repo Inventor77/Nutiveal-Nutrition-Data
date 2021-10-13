@@ -292,5 +292,18 @@
       "wiki": "https://en.wikipedia.org/wiki/Linoleic_acid",
       "required": true,
       "type": "Essential Fatty Acids"
+  },
+  {
+    "name": "Cod liver oil",
+    "usda_id": "04589",
+    "fat": 1000000,
+    "calories": 9.02,
+    "proteins": 0,
+    "carbohydrates": 0,
+    "serving": 100,
+    "nutrients": {
+      "Vitamin A": 300,
+      "Iodine": 4
+    }
   }
 ]
