@@ -1,6 +1,7 @@
 # Nutriveal-Nutrition-Data
 Data Set for Nutriveal Application
 
+**Please Star the repository before moving forward to resolve/Create a issue**
 
 ## Special Note For Everyone
 
