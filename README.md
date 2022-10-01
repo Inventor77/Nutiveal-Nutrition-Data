@@ -1,6 +1,7 @@
 # Nutriveal-Nutrition-Data
 Data Set for Nutriveal Application
 
+**Please Star the repository before moving forward to resolve/Create a issue**
 
 ## Special Note For Everyone
 
@@ -109,7 +110,7 @@ You cannot receive freebies or t-shirts if you don't submit 4 pull requests.
 - Lemon
 - Turnips, raw
 
-### All Edibles in nutrients.json
+## All Edibles in nutrients.json
 
 - Cornstarch
 - Nuts
