@@ -1,4 +1,5 @@
 # Nutriveal-Nutrition-Data
+
 Data Set for Nutriveal Application
 
 **Please Star the repository before moving forward to resolve/Create a issue**
@@ -6,8 +7,8 @@ Data Set for Nutriveal Application
 ## Special Note For Everyone
 
 ```
-Always submit more than 4 pull requests. 
-If you submit only 4 pull requests to various projects, 
+Always submit more than 4 pull requests.
+If you submit only 4 pull requests to various projects,
 but one of those projects isn't participating in Hackoctoberfest,
 your pull requests won't be considered, leaving you with 3 still legitimate pull requests.
 You cannot receive freebies or t-shirts if you don't submit 4 pull requests.
@@ -109,6 +110,8 @@ You cannot receive freebies or t-shirts if you don't submit 4 pull requests.
 - Baked Potatoes
 - Lemon
 - Turnips, raw
+- Celtus
+- Syrups
 
 ## All Edibles in nutrients.json
 
