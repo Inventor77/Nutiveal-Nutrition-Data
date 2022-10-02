@@ -115,7 +115,7 @@ You cannot receive freebies or t-shirts if you don't submit 4 pull requests.
 - Cod liver oil
 - Tuna
 
-## All Edibles in nutrients.json
+## All Edibles in nutrition.json
 
 - Cornstarch
 - Nuts
