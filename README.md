@@ -112,6 +112,8 @@ You cannot receive freebies or t-shirts if you don't submit 4 pull requests.
 - Turnips, raw
 - Celtus
 - Syrups
+- Cod liver oil
+- Tuna
 
 ## All Edibles in nutrients.json
 
