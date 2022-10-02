@@ -3389,5 +3389,45 @@
 			"Vitamin A": 300,
 			"Iodine": 4
 		}
+	},
+	{
+		"name": "Tuna",
+		"usda_id": "15117",
+		"fat": 81000,
+		"calories": 1.86,
+		"proteins": 265000,
+		"carbohydrates": 0,
+		"serving": 150,
+		"nutrients": {
+			"Calcium": 40,
+			"Iron": 7,
+			"Potassium": 3330,
+			"Magnesium": 340,
+			"Phosphorus": 2670,
+			"Iodine": 0.2,
+			"Sodium": 3960,
+			"Zinc": 5,
+			"Copper": 1,
+			"Selenium": 0.6,
+			"Vitamin B12": 0.02,
+			"Vitamin B2": 1,
+			"Vitamin B3": 117,
+			"Vitamin B5": 4,
+			"Vitamin B6": 4,
+			"Vitamin B7": 0.025,
+			"Vitamin B9": 0.05,
+			"Vitamin A": 0.05,
+			"Vitamin E": 23,
+			"Vitamin K": 0.07,
+			"Tryptophan": 2970,
+			"Threonine": 11630,
+			"Isoleucine": 12230,
+			"Leucine": 21560,
+			"Lysine": 24370,
+			"Methionine": 7850,
+			"Phenylalanine": 10360,
+			"Valine": 13670,
+			"Histidine": 7810
+		}
 	}
 ]
