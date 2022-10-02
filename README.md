@@ -114,6 +114,7 @@ You cannot receive freebies or t-shirts if you don't submit 4 pull requests.
 - Syrups
 - Cod liver oil
 - Tuna
+- Chicken liver
 
 ## All Edibles in nutrition.json
 
