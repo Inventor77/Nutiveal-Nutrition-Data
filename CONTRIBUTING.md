@@ -33,3 +33,39 @@ Then, you must merge four PRs into your repository between 1st to 31st October. 
 1. The PRs will only count into your participation which are merged between October 1st to October 31st.
 2. Contributions must be made to public repositories.
 3. PR with label as `spam` or `invalid` will not be counted. And, if a participant has 2 or more spam PRs, they'll be disqualified from Hacktoberfest.
+
+##Quick guide for first time contributors
+
+### Fork this repository
+
+Fork this repository by clicking on the fork button on the top of this page.
+This will create a copy of this repository in your account.
+
+### Clone the repository
+
+```
+git clone "url you just copied"
+```
+### Create a branch
+
+```
+git checkout -b your-new-branch-name
+```
+### Make necessary changes and commit those changes
+
+```
+git add "name of the file you add or edit"
+```
+
+Now commit those changes using the `git commit` command:
+
+```
+git commit -m "Add message for the change"
+```
+
+### Push changes to GitHub
+
+```
+git push origin <add-your-branch-name>
+```
+Then go ahead and submit the pull request.
