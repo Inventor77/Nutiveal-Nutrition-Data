@@ -34,14 +34,14 @@ Then, you must merge four PRs into your repository between 1st to 31st October. 
 2. Contributions must be made to public repositories.
 3. PR with label as `spam` or `invalid` will not be counted. And, if a participant has 2 or more spam PRs, they'll be disqualified from Hacktoberfest.
 
-##Quick guide for first time contributors:
+Quick guide for first time contributors:
 
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-##Clone the repository
+And clone the repository
 
 ```
 git clone "url you just copied"
