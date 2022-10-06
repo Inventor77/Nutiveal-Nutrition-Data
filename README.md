@@ -2,9 +2,9 @@
 # Hacktoberfest 2022
 # Nutriveal-Nutrition-Data
 
-Data Set for Nutriveal Application
+Data Set for Nutriveal Application in JSON format
 
-**Please Star the repository before moving forward to resolve/Create a issue**
+**Please Star the repository before moving forward to resolve/create a issue**
 
 ## Special Note For Everyone
 
