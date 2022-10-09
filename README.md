@@ -202,3 +202,5 @@ You cannot receive freebies or t-shirts if you don't submit 4 pull requests.
 - white pepper
 - Yambean
 - Turnip
+- Chicken Liver
+- Tuna
