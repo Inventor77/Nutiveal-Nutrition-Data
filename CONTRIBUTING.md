@@ -56,6 +56,11 @@ git checkout -b your-new-branch-name
 ```
 git add "name of the file you add or edit"
 ```
+OR
+
+```
+git add .
+```
 
 Now commit those changes using the `git commit` command:
 
