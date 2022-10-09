@@ -1,0 +1,8791 @@
+## All Edibles in nutrition.json
+
+-  Cornstarch      
+-  Nuts, pecans    
+-  Eggplant, raw   
+-  Teff, uncooked  
+-  Sherbet, orange 
+-  Cauliflower, raw
+-  Taro leaves, raw
+-  Lamb, raw, ground
+-  Cheese, camembert
+-  Vegetarian fillets
+-  PACE, Picante Sauce
+-  Goji berries, dried
+-  Mango nectar, canned
+-  Crackers, rusk toast
+-  Chicken, boiled, feet
+-  Quail, raw, meat only
+-  Pie, lemon, fried pies
+-  Peppers, raw, jalapeno
+-  Winged bean tuber, raw
+-  Salami, turkey, cooked
+-  Grapes, raw, muscadine
+-  Nuts, raw, ginkgo nuts
+-  Spices, ground, savory
+-  Candies, sesame crunch
+-  Cheese, low fat, cream
+-  PACE, Green Taco Sauce
+-  Syrup, Canadian, maple
+-  Ostrich, raw, top loin
+-  Chewing gum, sugarless
+-  Nuts, dried, pine nuts
+-  Pasta, unenriched, dry
+-  McDONALD'S, Side Salad
+-  Cookies, Marie biscuit
+-  Broccoli, raw, chinese
+-  McDONALD'S, Hash Brown
+-  Agave, raw (Southwest)
+-  Emu, raw, outside drum
+-  Nuts, dried, beechnuts
+-  Currants, dried, zante
+-  Lentils, raw, sprouted
+-  Gravy, mix, dry, onion
+-  Pie, fruit, fried pies
+-  Snacks, cakes, popcorn
+-  Snack, Mixed Berry Bar
+-  Fish, raw, sheepshead
+-  Babyfood, pear, juice
+-  Brussels sprouts, raw
+-  Broccoli raab, cooked
+-  Butter oil, anhydrous
+-  Chicory, raw, witloof
+-  KEEBLER, Waffle Cones
+-  KEEBLER, Waffle Bowls
+-  Broccoli, raw, leaves
+-  Durian, raw or frozen
+-  Tomatoes, raw, orange
+-  Tomatoes, raw, yellow
+-  Egg custards, dry mix
+-  Peanut flour, low fat
+-  Fish, smoked, haddock
+-  DENNY'S, french fries
+-  Ground turkey, cooked
+-  MURRAY, Vanilla Wafer
+-  WENDY'S, french fries
+-  Bread, toasted, wheat
+-  Danish pastry, cheese
+-  Nuts, glazed, walnuts
+-  Spices, garlic powder
+-  Oil, soybean lecithin
+-  Egg, fresh, raw, yolk
+-  Fireweed, raw, leaves
+-  Beef, pastrami, cured
+-  Frankfurter, meatless
+-  Emu, raw, flat fillet
+-  Emu, raw, inside drum
+-  Ice creams, chocolate
+-  Snacks, potato sticks
+-  USDA Commodity, salsa
+-  Figs, uncooked, dried
+-  Game meat, raw, horse
+-  Syrup, fruit flavored
+-  Broccoli, raw, stalks
+-  Cream, cultured, sour
+-  Gravy, canned, au jus
+-  McDONALD'S, Hamburger
+-  Cheese, port de salut
+-  SILK Original Creamer
+-  SILK Hazelnut Creamer
+-  Soup, mix, dry, onion
+-  Mushrooms, raw, enoki
+-  Bacon and beef sticks
+-  Salami, pork, Italian
+-  Crackers, whole-wheat
+-  Peanuts, raw, spanish
+-  Hominy, white, canned
+-  Game meat, raw, moose
+-  Pears, red anjou, raw
+-  Horseradish, prepared
+-  Fish, raw, butterfish
+-  Lebanon bologna, beef
+-  Ham and cheese spread
+-  TACO BELL, Taco Salad
+-  Sauce, worcestershire
+-  Candies, marshmallows
+-  Hummus, home prepared
+-  Horned melon (Kiwano)
+-  Ice cream sundae cone
+-  Peppers, raw, serrano
+-  Cabbage, cooked, napa
+-  Peppers, dried, ancho
+-  Parsley, freeze-dried
+-  Spices, black, pepper
+-  Spices, white, pepper
+-  Yambean (jicama), raw
+-  Nuts, dried, pilinuts
+-  Kiwifruit, raw, green
+-  Drumstick leaves, raw
+-  Yautia (tannier), raw
+-  Candies, butterscotch
+-  Cucumber, raw, peeled
+-  Dandelion greens, raw
+-  Melons, raw, honeydew
+-  Potato salad with egg
+-  Mushrooms, raw, white
+-  Mushrooms, raw, morel
+-  Cheese, Mexican blend
+-  Oranges, Florida, raw
+-  SILK Vanilla, soymilk
+-  Papaya nectar, canned
+-  Fiddlehead ferns, raw
+-  SILK Peach soy yogurt
+-  SILK Plain soy yogurt
+-  PACE, Enchilada Sauce
+-  Yeast extract spread
+-  Tomatoes, raw, green
+-  Mollusks, raw, snail
+-  Emu, raw, fan fillet
+-  Pasta, enriched, dry
+-  Cookies, gingersnaps
+-  Sour cream, fat free
+-  MURRAY, Honey Graham
+-  Frankfurter, chicken
+-  Ham, canned, chopped
+-  Spices, dried, thyme
+-  Carrot juice, canned
+-  Corn, dried (Navajo)
+-  Pate, truffle flavor
+-  Fruit butters, apple
+-  Fast foods, coleslaw
+-  Salami, beef, cooked
+-  Spices, chili powder
+-  Spices, caraway seed
+-  Spices, dried, basil
+-  Pickle relish, sweet
+-  Chives, freeze-dried
+-  Fish, raw, sablefish
+-  Crackers, multigrain
+-  Spices, ground, mace
+-  Spices, onion powder
+-  Butter, without salt
+-  Rice noodles, cooked
+-  Barley flour or meal
+-  Sesbania flower, raw
+-  Garlic bread, frozen
+-  KFC, Popcorn Chicken
+-  APPLEBEE'S, coleslaw
+-  Rolls, sweet, dinner
+-  Cherries, raw, sweet
+-  Ostrich, raw, ground
+-  SILK Coffee, soymilk
+-  Snacks, banana chips
+-  Peaches, raw, yellow
+-  Rolls, wheat, dinner
+-  Candies, HEATH BITES
+-  Chicken, raw, ground
+-  Pears, bartlett, raw
+-  Toppings, strawberry
+-  KEEBLER, Sugar Cones
+-  Seaweed, raw, wakame
+-  Seaweed, dried, agar
+-  Bread, cracked-wheat
+-  Amaranth leaves, raw
+-  Barley, raw, pearled
+-  Polish sausage, pork
+-  Spices, curry powder
+-  Bacon bits, meatless
+-  Semolina, unenriched
+-  Grape leaves, canned
+-  Spices, ground, sage
+-  PACE, Red Taco Sauce
+-  DENNY'S, hash browns
+-  DENNY'S, onion rings
+-  Ostrich, raw, oyster
+-  Oil, corn and canola
+-  Pumpkin flowers, raw
+-  Celery flakes, dried
+-  Crackers, egg, matzo
+-  Loganberries, frozen
+-  Tangerine juice, raw
+-  Soybeans, raw, green
+-  Soybean, curd cheese
+-  Game meat, raw, bear
+-  Game meat, raw, deer
+-  Oranges, navels, raw
+-  Tostada shells, corn
+-  Fish, raw, swordfish
+-  Taro, raw, tahitian
+-  Chicory greens, raw
+-  Hearts of palm, raw
+-  Chayote, raw, fruit
+-  Fish, smoked, cisco
+-  Frankfurter, turkey
+-  Candies, jellybeans
+-  Oil, ucuhuba butter
+-  Soy protein isolate
+-  Syrups, light, corn
+-  Fish, raw, milkfish
+-  Fish, raw, monkfish
+-  Mother's loaf, pork
+-  Tapioca, dry, pearl
+-  Guavas, raw, common
+-  Spices, celery seed
+-  Candies, peanut bar
+-  Bread, toasted, rye
+-  Oil, apricot kernel
+-  Candies, YORK BITES
+-  Meatballs, meatless
+-  Emu, raw, full rump
+-  Mustard greens, raw
+-  Seaweed, raw, laver
+-  Sweet rolls, cheese
+-  Figs, stewed, dried
+-  Bread sticks, plain
+-  SILK Mocha, soymilk
+-  Milk and cereal bar
+-  Bread, pumpernickel
+-  Game meat, raw, elk
+-  PACE, Pico De Gallo
+-  Ostrich, raw, round
+-  HORMEL, Cure 81 Ham
+-  Prune juice, canned
+-  McDONALD'S, BIG MAC
+-  Soy flour, defatted
+-  Bread, toasted, egg
+-  Fish, raw, mahimahi
+-  Fish, raw, bluefish
+-  Spices, fennel seed
+-  Potatoes, skin, raw
+-  Pepper, raw, banana
+-  Drumstick pods, raw
+-  Toppings, pineapple
+-  Acorn stew (Apache)
+-  Tomatoes, sun-dried
+-  Guava sauce, cooked
+-  Pumpkin leaves, raw
+-  Melons, raw, casaba
+-  Melon balls, frozen
+-  Fish oil, cod liver
+-  Nuts, dried, acorns
+-  Rolls, pumpernickel
+-  Gravy, dry, chicken
+-  Fish, raw, tilefish
+-  Ice creams, vanilla
+-  SILK Plain, soymilk
+-  Cabbage, raw, savoy
+-  Fish, raw, tilapia
+-  Broccoli raab, raw
+-  Corn grain, yellow
+-  Turtle, raw, green
+-  Chicory roots, raw
+-  Ice cream sandwich
+-  Croutons, seasoned
+-  Snacks, taro chips
+-  Prickly pears, raw
+-  Fish, raw, haddock
+-  Liver cheese, pork
+-  Ground turkey, raw
+-  Jams and preserves
+-  Carrots, raw, baby
+-  Oil, nutmeg butter
+-  Semolina, enriched
+-  Spices, anise seed
+-  Snacks, corn cakes
+-  Catsup, low sodium
+-  Croissants, cheese
+-  Milk, fluid, sheep
+-  Acerola juice, raw
+-  Jute, raw, potherb
+-  Fast food, biscuit
+-  Bagels, multigrain
+-  Beef, dried, cured
+-  Nuts, almond paste
+-  Seaweed, raw, kelp
+-  Seaweed, raw, agar
+-  Fish oil, menhaden
+-  Rolls, egg, dinner
+-  Bread, white wheat
+-  Onions, raw, sweet
+-  Onions, raw, welsh
+-  SILK Chai, soymilk
+-  Rolls, rye, dinner
+-  Gravy, dry, au jus
+-  Cheese, neufchatel
+-  Hummus, commercial
+-  Croissants, butter
+-  Carrot, dehydrated
+-  Vinegar, distilled
+-  Sapote, raw, mamey
+-  Soy flour, low-fat
+-  Syrups, sugar free
+-  Syrups, dark, corn
+-  Taco shells, baked
+-  Spices, cumin seed
+-  Bamboo shoots, raw
+-  Fish, raw, lingcod
+-  Whey, dried, sweet
+-  Whey, fluid, sweet
+-  Spices, poppy seed
+-  Babyfood, pretzels
+-  Fat, mutton tallow
+-  Coffeecake, cheese
+-  Sauce, horseradish
+-  Yardlong bean, raw
+-  Cress, raw, garden
+-  Dates, deglet noor
+-  Lambsquarters, raw
+-  Gravy, dry, turkey
+-  Vital wheat gluten
+-  Turnip greens, raw
+-  Sugars, granulated
+-  Frankfurter, pork
+-  Pomegranates, raw
+-  Pears, raw, asian
+-  Cookies, molasses
+-  Cookies, fig bars
+-  Liverwurst spread
+-  Roast beef spread
+-  Chard, raw, swiss
+-  Goose, raw, liver
+-  TACO BELL, Nachos
+-  Sausage, meatless
+-  Frankfurter, meat
+-  Rice flour, brown
+-  Peppermint, fresh
+-  Vinegar, red wine
+-  Vinegar, balsamic
+-  Luxury loaf, pork
+-  Rye flour, medium
+-  DENNY'S, coleslaw
+-  Bread, wheat bran
+-  Croissants, apple
+-  Candies, Tamarind
+-  Oheloberries, raw
+-  PACE, Salsa Verde
+-  Barley malt flour
+-  Rice noodles, dry
+-  Fish oil, sardine
+-  Fish oil, herring
+-  Plantains, cooked
+-  Burdock root, raw
+-  Butterbur, canned
+-  Ostrich, raw, fan
+-  SILK Nog, soymilk
+-  Gravy, dry, brown
+-  Cheese, provolone
+-  Cheese, roquefort
+-  Muffins, oat bran
+-  Syrups, grenadine
+-  Raisins, seedless
+-  Strawberries, raw
+-  Fish, raw, burbot
+-  Wheat germ, crude
+-  Wheat, hard white
+-  Wheat bran, crude
+-  Gooseberries, raw
+-  Spices, dill seed
+-  Oil, cocoa butter
+-  APPLEBEE'S, chili
+-  Grape leaves, raw
+-  Kale, raw, scotch
+-  Marmalade, orange
+-  Whey, dried, acid
+-  Whey, fluid, acid
+-  Eggplant, pickled
+-  Babyfood, cookies
+-  Fennel, raw, bulb
+-  Egg, dried, whole
+-  Coffeecake, fruit
+-  Candies, caramels
+-  Sour cream, light
+-  Egg, dried, white
+-  Wild rice, cooked
+-  Chicken, meatless
+-  Corn grain, white
+-  Veal, raw, ground
+-  Wheat, soft white
+-  Elderberries, raw
+-  Nuts, raw, acorns
+-  Orange juice, raw
+-  POPEYES, Coleslaw
+-  Cabbage, raw, red
+-  Blackberries, raw
+-  Wasabi, raw, root
+-  Cheese, limburger
+-  Raspberries, raw
+-  Corn bran, crude
+-  Bread, rice bran
+-  Taro shoots, raw
+-  Sugars, powdered
+-  Emu, raw, ground
+-  Cookies, fortune
+-  Fish, raw, cisco
+-  Couscous, cooked
+-  Dill weed, fresh
+-  Spearmint, dried
+-  Spearmint, fresh
+-  Tamales (Navajo)
+-  Rice bran, crude
+-  Rye flour, light
+-  Spices, bay leaf
+-  Spices, cardamom
+-  Lemon juice, raw
+-  Ginger root, raw
+-  Fish oil, salmon
+-  Fish, tuna salad
+-  Orange peel, raw
+-  Blueberries, raw
+-  Cheese, muenster
+-  Beet greens, raw
+-  Cheese, cheshire
+-  Bagels, oat bran
+-  Fat, beef tallow
+-  Clementines, raw
+-  Peas, raw, green
+-  Oat bran, cooked
+-  Pears, bosc, raw
+-  Sugar, turbinado
+-  Headcheese, pork
+-  Ham salad spread
+-  Olive loaf, pork
+-  Pastrami, turkey
+-  Cranberries, raw
+-  POPEYES, biscuit
+-  Egg, dried, yolk
+-  Quinoa, uncooked
+-  Emu, raw, oyster
+-  Rose-apples, raw
+-  Cheese, monterey
+-  Fish, raw, scup
+-  Cheese, cheddar
+-  Cheese, caraway
+-  Oil, wheat germ
+-  Bread, oat bran
+-  Watermelon, raw
+-  Potato pancakes
+-  Spinach souffle
+-  Bacon, meatless
+-  Rosemary, fresh
+-  Syrups, sorghum
+-  Rye flour, dark
+-  Oil, tomatoseed
+-  Croutons, plain
+-  Lemon peel, raw
+-  Spices, paprika
+-  Nectarines, raw
+-  Mulberries, raw
+-  Lotus root, raw
+-  Sauce, barbecue
+-  Fish, raw, spot
+-  Crabapples, raw
+-  Breadfruit, raw
+-  Arrowroot flour
+-  Pimento, canned
+-  Tomatillos, raw
+-  Raisins, seeded
+-  Bologna, turkey
+-  Vanilla extract
+-  Fish, raw, carp
+-  Wheat, sprouted
+-  Fish, raw, cusk
+-  Watercress, raw
+-  Fish, raw, ling
+-  Bread, cinnamon
+-  Spices, saffron
+-  Lime juice, raw
+-  Spelt, uncooked
+-  Cabbage, kimchi
+-  Seeds, flaxseed
+-  Cheese, gruyere
+-  Cheese, gjetost
+-  Cheese, fontina
+-  Butter, salted
+-  Oil, rice bran
+-  Crackers, milk
+-  Dates, medjool
+-  Arrowroot, raw
+-  Bread, oatmeal
+-  Bread, italian
+-  Tamarinds, raw
+-  Millet, puffed
+-  Vinegar, cider
+-  Scrapple, pork
+-  Oil, poppyseed
+-  Oil, grapeseed
+-  Longans, dried
+-  Pectin, liquid
+-  Pretzels, soft
+-  Quinoa, cooked
+-  Plantains, raw
+-  Parsley, fresh
+-  Barley, hulled
+-  Cheese, romano
+-  Dulce de Leche
+-  Radicchio, raw
+-  Bulgur, cooked
+-  Tempeh, cooked
+-  Chicken spread
+-  Millet, cooked
+-  Capers, canned
+-  Sapodilla, raw
+-  Wild rice, raw
+-  Arrowhead, raw
+-  Frog legs, raw
+-  Jackfruit, raw
+-  Litchis, dried
+-  Rutabagas, raw
+-  Cornsalad, raw
+-  Strudel, apple
+-  Oil, cupu assu
+-  Cherimoya, raw
+-  Cheese, tilsit
+-  Asparagus, raw
+-  Apricots, raw
+-  Broccoli, raw
+-  Cheese, brick
+-  Sugars, brown
+-  Candied fruit
+-  Bologna, beef
+-  Blood sausage
+-  Nuts, almonds
+-  Shallots, raw
+-  Couscous, dry
+-  Candies, hard
+-  Meat extender
+-  Syrups, maple
+-  Sorghum grain
+-  Oil, hazelnut
+-  Pepeao, dried
+-  Purslane, raw
+-  Radishes, raw
+-  Rolls, french
+-  Bagels, wheat
+-  KFC, Coleslaw
+-  Parsnips, raw
+-  Sugars, maple
+-  Collards, raw
+-  Rice crackers
+-  Cheese, colby
+-  Cheese, cream
+-  Bologna, pork
+-  Celeriac, raw
+-  Kumquats, raw
+-  Oat bran, raw
+-  Spelt, cooked
+-  Bread, cheese
+-  Bread, potato
+-  Kohlrabi, raw
+-  Cheese, swiss
+-  Cheese, gouda
+-  Tomato powder
+-  Cheese, blue
+-  Cheese, brie
+-  Celtuce, raw
+-  Thyme, fresh
+-  Basil, fresh
+-  Rhubarb, raw
+-  Nopales, raw
+-  Syrups, malt
+-  Oil, teaseed
+-  Oil, sheanut
+-  Oil, babassu
+-  Longans, raw
+-  Loquats, raw
+-  Epazote, raw
+-  Pumpkin, raw
+-  Carrots, raw
+-  Fish, surimi
+-  Cabbage, raw
+-  Cardoon, raw
+-  Abiyuch, raw
+-  Bread, wheat
+-  Cheese, edam
+-  Cheese, feta
+-  Pummelo, raw
+-  Quinces, raw
+-  Cracker meal
+-  Roselle, raw
+-  Soursop, raw
+-  Oil, coconut
+-  Wheat, durum
+-  KFC, biscuit
+-  Millet flour
+-  Arugula, raw
+-  Potato flour
+-  Litchis, raw
+-  Teff, cooked
+-  Spinach, raw
+-  Oil, mustard
+-  Oil, avocado
+-  Phyllo dough
+-  Lentils, raw
+-  Fat, chicken
+-  Cassava, raw
+-  Turnips, raw
+-  Bananas, raw
+-  Papayas, raw
+-  Fruit syrup
+-  Chives, raw
+-  Carob flour
+-  Prune puree
+-  Salt, table
+-  Chewing gum
+-  Fat, turkey
+-  Tofu, fried
+-  Borage, raw
+-  Mangos, raw
+-  Garlic, raw
+-  Endive, raw
+-  Tofu yogurt
+-  Celery, raw
+-  Bagels, egg
+-  Bulgur, dry
+-  Feijoa, raw
+-  Millet, raw
+-  Ham, minced
+-  Oil, almond
+-  Oil, walnut
+-  Jujube, raw
+-  Oil, canola
+-  Syrup, Cane
+-  Onions, raw
+-  Clif Z bar
+-  Fish broth
+-  Fat, goose
+-  Bread, rye
+-  Eppaw, raw
+-  Limes, raw
+-  Pie, peach
+-  Pears, raw
+-  Plums, raw
+-  Rowal, raw
+-  Beets, raw
+-  Bread, egg
+-  Buckwheat
+-  Oil, palm
+-  Fat, duck
+-  Triticale
+-  Rye grain
+-  Dock, raw
+-  Kale, raw
+-  Okra, raw
+-  Taro, raw
+-  Figs, raw
+-  Goat, raw
+-  Molasses
+-  Zwieback
+-  Yam, raw
+-  Oil, oat
+-  Jellies
+-  Eggnog
+-  Catsup
+-  Tempeh
+-  Wasabi
+-  Honey
+-  Natto
+-  Okara
+-  Papad
+-  Lard
+-  Oats
+-  Miso
+-  Poi
+-  Spices, dried, oregano
+-  Winged bean leaves, raw
+-  Corn, raw, white, sweet
+-  Wheat flour, whole-grain
+-  CRACKER BARREL, coleslaw
+-  Fish, raw, king, mackerel
+-  Cookies, chocolate wafers
+-  Mushrooms, raw, portabella
+-  Fish, raw, striped, mullet
+-  Egg, poached, cooked, whole
+-  Noodles, chow mein, chinese
+-  Oil, cold pressed, flaxseed
+-  Triticale flour, whole-grain
+-  Cheese, queso anejo, mexican
+-  Smelt, dried (Alaska Native)
+-  Lamb, broiled, cooked, ground
+-  Tofu, dried-frozen (koyadofu)
+-  Poultry salad sandwich spread
+-  Salami, beef and pork, cooked
+-  Rice flour, unenriched, white
+-  Yogurt, nonfat, fruit variety
+-  Babyfood, vegetable, crackers
+-  Babyfood, fruit, baby, cookie
+-  Chicken, raw, giblets, capons
+-  Fish, raw, mixed species, roe
+-  Fish, smoked, chinook, salmon
+-  HOUSE FOODS Premium Firm Tofu
+-  Crackers, whole grain, cheese
+-  Seeds, high-fat, sesame flour
+-  Peppers, canned, green, chili
+-  Egg, raw, fresh, whole, quail
+-  Pumpkin, without salt, canned
+-  Dove, cooked (includes squab)
+-  Beverages, orange, carbonated
+-  Kefir, LIFEWAY, plain, lowfat
+-  Candies, ALMOND JOY Candy Bar
+-  Cheese substitute, mozzarella
+-  Crustaceans, raw, queen, crab
+-  Wheat, cooked, KAMUT khorasan
+-  Sauce, ready-to-serve, hoisin
+-  Sauce, ready-to-serve, oyster
+-  Noodles, dry, somen, japanese
+-  Crackers, reduced fat, cheese
+-  Cookies, reduced fat, oatmeal
+-  Cranberries, sweetened, dried
+-  Cheese, queso cotija, mexican
+-  Rolls, hard (includes kaiser)
+-  Ostrich, cooked, inside strip
+-  SILK Light Chocolate, soymilk
+-  Candies, sugar-coated almonds
+-  KELLOGG'S, Corn Flakes Crumbs
+-  Cheese, queso seco, dry white
+-  Fish, raw, wild, coho, salmon
+-  Beets, drained solids, canned
+-  Beef, reduced sodium, bologna
+-  Fast foods, hot fudge, sundae
+-  KEEBLER, Iced Oatmeal Cookies
+-  Ice creams, fat free, vanilla
+-  Turkey Pot Pie, frozen entree
+-  Peanut butter, reduced sodium
+-  Oil, salad or cooking, peanut
+-  Turkey, raw, meat only, whole
+-  Syrups, fudge-type, chocolate
+-  Corn, steamed (Navajo), white
+-  Fish, raw, mixed species, eel
+-  Spices, dried, coriander leaf
+-  Popovers, unenriched, dry mix
+-  Lemon grass (citronella), raw
+-  Candies, with almonds, nougat
+-  Fish, raw, Atlantic, mackerel
+-  Candies, REESE'S PIECES Candy
+-  Sauce, ready-to-serve, cheese
+-  Noodles, unenriched, dry, egg
+-  Egg, scrambled, cooked, whole
+-  Egg, raw, fresh, whole, goose
+-  Jujube, dried, fresh, Chinese
+-  GIRL SCOUTS, Trefoils Cookies
+-  Quail, raw, meat only, breast
+-  Blueberries, sweetened, dried
+-  McDONALD'S, Hot Mustard Sauce
+-  Candies, PAYDAY Bar, HERSHEYS
+-  Sauce, ready-to-serve, tartar
+-  Pulled pork in barbecue sauce
+-  Sauce, thick, white, homemade
+-  Veal, broiled, cooked, ground
+-  Bison, raw, grass-fed, ground
+-  Bread, bollilo, Mexican, roll
+-  McDONALD'S, Chicken McNUGGETS
+-  Currants, raw, european black
+-  Pineapple, all varieties, raw
+-  Fish, raw, Atlantic, wolffish
+-  Cereals ready-to-eat, FAMILIA
+-  Leavening agents, baking soda
+-  Asparagus, unprepared, frozen
+-  English muffins, whole-wheat
+-  Ice creams, light, chocolate
+-  Crackers, wheat, melba toast
+-  Crackers, plain, melba toast
+-  Crackers, plain, wafers, rye
+-  Apples, with skin, gala, raw
+-  Fish, dry heat, cooked, ling
+-  Fish, dry heat, cooked, cusk
+-  Peanut spread, reduced sugar
+-  Beerwurst, pork, beer salami
+-  Babyfood, junior, beef, meat
+-  Peppers, sauteed, red, sweet
+-  Tree fern, with salt, cooked
+-  Pheasant, meat and skin, raw
+-  Oil, salad or cooking, olive
+-  Squash, raw, hubbard, winter
+-  Rambutan, syrup pack, canned
+-  Fish, raw, Atlantic, herring
+-  Bologna, beef, pork, chicken
+-  DENNY'S, golden fried shrimp
+-  McDONALD'S, Hot Fudge Sundae
+-  Fish, raw, spanish, mackerel
+-  PEPPERIDGE FARM, White Bread
+-  Crackers, low sodium, cheese
+-  USDA Commodity, canned, pork
+-  Orange Pineapple Juice Blend
+-  Beverages, hard cider, AMBER
+-  Babyfood, apple-banana juice
+-  Spices, ground, mustard seed
+-  ON THE BORDER, refried beans
+-  Cornmeal, white, whole-grain
+-  Ground turkey, raw, fat free
+-  Kanpyo, (dried gourd strips)
+-  Pancakes, reduced fat, plain
+-  Tennis Bread, plain (Apache)
+-  USDA Commodity, canned, beef
+-  Cockles, raw (Alaska Native)
+-  Yogurt, lowfat, plain, Greek
+-  Apples, with skin, fuji, raw
+-  Cheese, low sodium, parmesan
+-  Peppers, canned, hot pickled
+-  McDONALD'S, Hotcakes (plain)
+-  Lettuce, raw, cos or romaine
+-  MURRAY, JACKS Vanilla Wafers
+-  Noodles, dry, soba, japanese
+-  Beverages, powder, Cocoa mix
+-  Game meat, raw, ground, deer
+-  Dessert topping, pressurized
+-  Cheese, reduced fat, cheddar
+-  Cream, light whipping, fluid
+-  Cream, heavy whipping, fluid
+-  Pinon Nuts, roasted (Navajo)
+-  Mothbeans, raw, mature seeds
+-  Bread, toasted, pumpernickel
+-  Bread, enriched, white, pita
+-  Beef, raw, ground, grass-fed
+-  Muffins, dry mix, wheat bran
+-  Candies, semisweet chocolate
+-  Sauce, dry, cheese sauce mix
+-  Cranberry juice, unsweetened
+-  Ostrich, cooked, tip trimmed
+-  Cake, dry mix, light, yellow
+-  Buckwheat flour, whole-groat
+-  Sweet potato, mashed, canned
+-  Sausage, smoked, hot, turkey
+-  Pastrami, 98% fat-free, beef
+-  Fish, dry heat, cooked, scup
+-  Fish, dry heat, cooked, spot
+-  Rice, raw, long-grain, brown
+-  Babyfood, junior, lamb, meat
+-  Oil, and olive, peanut, corn
+-  Soy flour, roasted, full-fat
+-  Fish, dry heat, cooked, carp
+-  Fish, raw, european, anchovy
+-  Game meat, raw, wild, rabbit
+-  PACE, Dry Taco Seasoning Mix
+-  Alfalfa seeds, raw, sprouted
+-  Squash, raw (Navajo), Indian
+-  Fish, raw, Atlantic, croaker
+-  SMART SOUP, Greek Minestrone
+-  Cream, lowfat, half and half
+-  Babyfood, mixed fruit, juice
+-  Milk shakes, thick chocolate
+-  Grapefruit juice, raw, white
+-  Babyfood, arrowroot, cookies
+-  Fish, raw, Atlantic, pollock
+-  Egg, raw, fresh, whole, duck
+-  McDONALD'S, Sausage McMUFFIN
+-  HEALTHY REQUEST Tomato juice
+-  Crackers, whole-wheat, matzo
+-  Soup, dry, cubed, beef broth
+-  Puddings, ready-to-eat, rice
+-  Pectin, dry mix, unsweetened
+-  Candies, CARAMELLO Candy Bar
+-  Veal, raw, external fat only
+-  Seeds, raw, breadfruit seeds
+-  Mushrooms, stir-fried, white
+-  Snacks, rolls, fruit leather
+-  Sauce, thin, white, homemade
+-  Sauce, ready-to-serve, salsa
+-  Peppers, raw, red, hot chili
+-  Squash, raw, scallop, summer
+-  Currants, raw, red and white
+-  Crustaceans, raw, blue, crab
+-  Pie fillings, cherry, canned
+-  Yogurt, nonfat, plain, Greek
+-  Crackers, reduced fat, wheat
+-  Gravy, powder, dry, mushroom
+-  Gravy, dry, unspecified type
+-  Seeds, low-fat, sesame flour
+-  Mushrooms, microwaved, white
+-  Beverages, AMP, Energy drink
+-  SILK Black Cherry soy yogurt
+-  Snack, original bar, BALANCE
+-  Beverages, well, tap, water
+-  Chrysanthemum, raw, garland
+-  Stew, moose (Alaska Native)
+-  Ice creams, rich, chocolate
+-  Oil, walrus (Alaska Native)
+-  Grapefruit juice, raw, pink
+-  Babyfood, junior, ham, meat
+-  Radish seeds, raw, sprouted
+-  MORI-NU, firm, silken, Tofu
+-  MORI-NU, soft, silken, Tofu
+-  Bread, rye, reduced-calorie
+-  Snacks, air-popped, popcorn
+-  Muffins, dry mix, blueberry
+-  Frankfurter, unheated, beef
+-  Turkey, raw, giblets, whole
+-  Corn pudding, home prepared
+-  Popovers, enriched, dry mix
+-  Soybeans, raw, mature seeds
+-  Beef sausage, cooked, fresh
+-  Luncheon meat, canned, pork
+-  MURRAY, Vanilla Sugar Wafer
+-  Radishes, raw, white icicle
+-  Vinespinach, raw, (basella)
+-  Syrups, high-fructose, corn
+-  Stew, steamed corn (Navajo)
+-  OSCAR MAYER, Bologna (beef)
+-  Ostrich, raw, outside strip
+-  Milk, fluid, indian buffalo
+-  Nuts, dried, black, walnuts
+-  ON THE BORDER, Mexican rice
+-  Mushrooms, raw, Chanterelle
+-  McDONALD'S, Baked Apple Pie
+-  McDONALD'S, Sausage Biscuit
+-  CHICK-FIL-A, Chick-n-Strips
+-  Edamame, unprepared, frozen
+-  Mollusks, raw, blue, mussel
+-  Quail, total edible, cooked
+-  Cereals, dry, CREAM OF RICE
+-  LEAN POCKETS, Ham N Cheddar
+-  Snacks, tropical, trail mix
+-  Nuts, full fat, acorn flour
+-  Sauce, ready-to-serve, fish
+-  Fish, raw, european, turbot
+-  Fast foods, caramel, sundae
+-  Pie fillings, canned, apple
+-  Sauce, ready-to-serve, plum
+-  Ostrich, cooked, inside leg
+-  Gravy, mushroom, CAMPBELL'S
+-  Snacks, smoked, beef sticks
+-  Cheese, whole milk, ricotta
+-  SILK French Vanilla Creamer
+-  Bread, canned, boston brown
+-  Cheese, queso blanco, white
+-  Cheese, queso fresco, fresh
+-  Beverages, powder, Lemonade
+-  Apricots, sweetened, frozen
+-  Muffins, toaster-type, corn
+-  Tomatoes, cooked, ripe, red
+-  Squash, raw, baby, zucchini
+-  HORMEL Canadian Style Bacon
+-  McDONALD'S, QUARTER POUNDER
+-  Brotwurst, link, beef, pork
+-  Pork, cooked, ground, fresh
+-  Sausage, raw, pork, Italian
+-  Ham and cheese loaf or roll
+-  CRACKER BARREL, steak fries
+-  McDONALD'S, Sausage Burrito
+-  Candies, CHUNKY Bar, NESTLE
+-  Fish, raw, freshwater, drum
+-  Pate, canned, chicken liver
+-  BURGER KING, Chicken Strips
+-  Pork, raw, salt pork, cured
+-  Cereals ready-to-eat, ALPEN
+-  Light ice cream, Creamsicle
+-  Toppings, marshmallow cream
+-  Fish, raw, Pacific, herring
+-  Sandwich spread, beef, pork
+-  Nuts, hazelnuts or filberts
+-  Babyfood, teething biscuits
+-  PACE, Organic Picante Sauce
+-  Peppers, raw, yellow, sweet
+-  Fish, raw, florida, pompano
+-  Potato salad, home-prepared
+-  GIRL SCOUTS, Chalet Cookies
+-  GIRL SCOUTS, Samoas Cookies
+-  Cheese, semisoft type, goat
+-  Game meat, raw, ground, elk
+-  Candies, unsweetened, carob
+-  Babyfood, toddler, potatoes
+-  Veal, cooked, seam fat only
+-  Sauce, ready-to-serve, duck
+-  Corn dogs, prepared, frozen
+-  Seeds, paste, sesame butter
+-  Noodles, enriched, dry, egg
+-  Persimmons, dried, japanese
+-  Carrots, unprepared, frozen
+-  Carambola, raw, (starfruit)
+-  Fast foods, chicken tenders
+-  Beans, home prepared, baked
+-  Cream, half and half, fluid
+-  SILK Light Vanilla, soymilk
+-  Turnips, unprepared, frozen
+-  PACE, Cilantro Chunky Salsa
+-  PACE, Chipotle Chunky Salsa
+-  Jams and preserves, apricot
+-  Butter, with salt, whipped
+-  Ham, cooked, smoked, honey
+-  Spaghetti, cooked, spinach
+-  Bockwurst, raw, veal, pork
+-  Guinea hen, raw, meat only
+-  Cookies, soft-type, raisin
+-  Squash, raw, acorn, winter
+-  Candies, KIT KAT Wafer Bar
+-  Peppers, raw, green, sweet
+-  Turkey sausage, raw, fresh
+-  DENNY'S, top sirloin steak
+-  Pomegranate juice, bottled
+-  Nance, unsweetened, frozen
+-  Sauce, sriracha, hot chile
+-  Bread, toasted, wheat germ
+-  Bread, kneel down (Navajo)
+-  Vegetable oil, palm kernel
+-  Fish, raw, chinook, salmon
+-  Milk, fluid, mature, human
+-  Pork, pickled, feet, cured
+-  Canadian bacon, unprepared
+-  Cake, dry mix, gingerbread
+-  BURGER KING, Vanilla Shake
+-  Cheese, shredded, parmesan
+-  Pumpkin, with salt, canned
+-  KEEBLER, Crackers, ANIMALS
+-  Game meat, raw, wild, boar
+-  Rolls, whole-wheat, dinner
+-  Cheese, nonfat, mozzarella
+-  KFC, Crispy Chicken Strips
+-  Ice creams, light, vanilla
+-  Ostrich, raw, inside strip
+-  SILK Very Vanilla, soymilk
+-  Fish, raw, sockeye, salmon
+-  Fast foods, scrambled, egg
+-  Snacks, salted, pita chips
+-  Taro, without salt, cooked
+-  Bratwurst, cooked, chicken
+-  Gravy, chicken, CAMPBELL'S
+-  Fast foods, mashed, potato
+-  OSCAR MAYER, Salami (hard)
+-  Gravy, dry, instant turkey
+-  Sorghum flour, whole-grain
+-  Milk shakes, thick vanilla
+-  MOTHER'S, Macaroon Cookies
+-  PACE, Thick & Chunky Salsa
+-  Egg, omelet, cooked, whole
+-  Java-plum, raw, (jambolan)
+-  Snacks, regular, trail mix
+-  Puddings, dry mix, tapioca
+-  Dip, original flavor, bean
+-  SWANSON, Chicken A La King
+-  McDONALD'S, Barbeque Sauce
+-  Pasta, cooked, whole-wheat
+-  Sauce, tomato based, steak
+-  Mushrooms, dried, shiitake
+-  Cream substitute, powdered
+-  Carissa, raw, (natal-plum)
+-  Beverages, chocolate syrup
+-  Mayonnaise, made with tofu
+-  Frankfurter, low fat, beef
+-  Babyfood, toddler, carrots
+-  Snacks, plain, bagel chips
+-  SILK Strawberry soy yogurt
+-  Fish, raw, american, shad
+-  Fish, raw, rainbow, smelt
+-  Bread, unenriched, raisin
+-  Cheese, low sodium, swiss
+-  Bagels, whole grain white
+-  Ice cream cookie sandwich
+-  Apples, without skin, raw
+-  Tomatoes, canned, crushed
+-  Chrysanthemum leaves, raw
+-  Lentils, raw, pink or red
+-  Barbecue loaf, beef, pork
+-  Quail, raw, meat and skin
+-  Bologna, meat and poultry
+-  Bacon, low sodium, turkey
+-  Corned beef loaf, jellied
+-  TACO BELL, Nachos Supreme
+-  Mustard, yellow, prepared
+-  Rhubarb, uncooked, frozen
+-  BURGER KING, french fries
+-  Bread, toasted, rice bran
+-  Broccoli, cooked, chinese
+-  Nuts, raw, macadamia nuts
+-  Candies, MOUNDS Candy Bar
+-  Ice creams, rich, vanilla
+-  Ostrich, raw, outside leg
+-  Fish, raw, orange, roughy
+-  Lemons, without peel, raw
+-  Nuts, raw, pistachio nuts
+-  Egg, fried, cooked, whole
+-  Mammy-apple, raw, (mamey)
+-  Snacks, plain, pork skins
+-  Edamame, prepared, frozen
+-  Sandwich spread, meatless
+-  Luncheon slices, meatless
+-  KEEBLER, Cookies, ANIMALS
+-  Vermicelli, made from soy
+-  Frozen yogurts, chocolate
+-  Mountain yam, raw, hawaii
+-  PACE, Salsa Refried Beans
+-  Campbell's Pork and Beans
+-  PACE, Triple Pepper Salsa
+-  Cheese, low fat, muenster
+-  Dessert topping, powdered
+-  Gravy, turkey, CAMPBELL'S
+-  SILK Unsweetened, soymilk
+-  PACE, Diced Green Chilies
+-  Blueberries, frozen, wild
+-  Lupins, raw, mature seeds
+-  Agave, cooked (Southwest)
+-  Cookies, coconut macaroon
+-  Avocados, California, raw
+-  Crackers, rye, crispbread
+-  Pork, raw, backfat, fresh
+-  Crackers, regular, cheese
+-  Gravy, au jus, CAMPBELL'S
+-  Seaweed, dried, spirulina
+-  Cookies, dry mix, oatmeal
+-  Chicken, no broth, canned
+-  McDONALD'S, BIG BREAKFAST
+-  Crackers, low salt, wheat
+-  Cornmeal, yellow (Navajo)
+-  Frankfurter, heated, meat
+-  Frankfurter, heated, beef
+-  Peppered loaf, beef, pork
+-  BURGER KING, Cheeseburger
+-  Gelatin desserts, dry mix
+-  Gravy, dry, brown instant
+-  SMART SOUP, French Lentil
+-  Fast foods, plain, hotdog
+-  Salami, pork, dry or hard
+-  Smoked link sausage, pork
+-  Nuts, canned, ginkgo nuts
+-  Spices, pumpkin pie spice
+-  Spices, poultry seasoning
+-  Ostrich, raw, tip trimmed
+-  Ostrich, cooked, top loin
+-  Shake, vanilla, fast food
+-  Fish, raw, northern, pike
+-  Jerusalem-artichokes, raw
+-  Radishes, dried, oriental
+-  Side dishes, potato salad
+-  Persimmons, raw, japanese
+-  Rice and Wheat cereal bar
+-  SILK Light Plain, soymilk
+-  Cheese, low fat, monterey
+-  Onions, dehydrated flakes
+-  Seeds, dried, lotus seeds
+-  SILK Raspberry soy yogurt
+-  SILK Blueberry soy yogurt
+-  Pretzels, unsalted, soft
+-  Sweet potato leaves, raw
+-  Beerwurst, pork and beef
+-  Bread, toasted, oat bran
+-  Pheasant, meat only, raw
+-  Fish, raw, Atlantic, cod
+-  Turkey bacon, microwaved
+-  Ham, not canned, chopped
+-  Spices, ground, turmeric
+-  BURGER KING, Onion Rings
+-  Salad dressing, coleslaw
+-  Beef sausage, pre-cooked
+-  WENDY'S, Chicken Nuggets
+-  Pork, raw, ground, fresh
+-  APPLEBEE'S, french fries
+-  Candies, white chocolate
+-  Fast foods, hush puppies
+-  Nuts, dried, hickorynuts
+-  Spices, ground, allspice
+-  Beef stew, canned entree
+-  Honey roll sausage, beef
+-  Kale, unprepared, frozen
+-  Mushrooms, raw, shiitake
+-  Milk, non-soy, imitation
+-  Fungi, dried, Cloud ears
+-  CHICK-FIL-A, hash browns
+-  Crackers, water biscuits
+-  KEEBLER, Oatmeal Cookies
+-  New Zealand spinach, raw
+-  PACE, Tequila Lime Salsa
+-  Lettuce, raw, green leaf
+-  Cake, dry mix, angelfood
+-  Fish, raw, white, sucker
+-  Peppers, raw, red, sweet
+-  Ostrich, raw, inside leg
+-  Seeds, dried, chia seeds
+-  SILK Plus Fiber, soymilk
+-  Snacks, brown rice chips
+-  Corn, raw, yellow, sweet
+-  Animal fat, bacon grease
+-  Pork, pickled pork hocks
+-  Agave, dried (Southwest)
+-  Bread, whole-wheat, pita
+-  Cheese, grated, parmesan
+-  Chili with beans, canned
+-  Candies, sweet chocolate
+-  Beans, raw, yellow, snap
+-  Ostrich, raw, tenderloin
+-  McDONALD'S, Egg McMUFFIN
+-  CAMPBELL'S, Tomato juice
+-  Raisins, golden seedless
+-  Crackers, regular, wheat
+-  Guanabana nectar, canned
+-  McDONALD'S, french fries
+-  McDONALD'S, FILET-O-FISH
+-  McDONALD'S, Cheeseburger
+-  Peas, raw, edible-podded
+-  Soy flour, raw, full-fat
+-  Fish, raw, striped, bass
+-  Game meat, raw, squirrel
+-  Jellyfish, salted, dried
+-  Amaranth grain, uncooked
+-  Cornmeal, white (Navajo)
+-  Spices, ground, cinnamon
+-  Spices, dried, dill weed
+-  Gravy, dry, instant beef
+-  Beans, raw, in pod, fava
+-  Nuts, dried, ginkgo nuts
+-  Pickle relish, hamburger
+-  Fish, raw, walleye, pike
+-  Jew's ear, raw, (pepeao)
+-  Turkey bacon, unprepared
+-  Turkey and gravy, frozen
+-  Cucumber, raw, with peel
+-  Cowpeas, raw, leafy tips
+-  Syrup, chocolate, NESTLE
+-  Veal, raw, seam fat only
+-  Yogurt, non-fat, vanilla
+-  Game meat, raw, antelope
+-  Cherries, raw, red, sour
+-  Gravy, powder, dry, pork
+-  Cabbage, salted, mustard
+-  Blackberry juice, canned
+-  Okra, unprepared, frozen
+-  Seeds, hulled, hemp seed
+-  SILK Key Lime soy yogurt
+-  Egg Mix, USDA Commodity
+-  Peanuts, raw, all types
+-  Beans, raw, green, snap
+-  Spaghetti, dry, spinach
+-  Bratwurst, cooked, veal
+-  Cheese, fat free, cream
+-  Candies, milk chocolate
+-  Plantains, fried, green
+-  Water, generic, bottled
+-  Sauce, dry, alfredo mix
+-  Milk, fluid, low sodium
+-  TACO BELL, Bean Burrito
+-  Cauliflower, raw, green
+-  Picnic loaf, beef, pork
+-  DENNY'S, chicken strips
+-  Breakfast tart, low fat
+-  Fish, raw, chum, salmon
+-  Fish, smoked, sablefish
+-  Spices, dried, marjoram
+-  Mango, sweetened, dried
+-  Malabar spinach, cooked
+-  Peppers, raw, hungarian
+-  Peppers, dried, pasilla
+-  Pumpkin pie mix, canned
+-  Seaweed, raw, irishmoss
+-  Nuts, blanched, almonds
+-  SCHIFF,TIGER'S MILK BAR
+-  Game meat, raw, muskrat
+-  Pickles, sour, cucumber
+-  Frankfurter, low sodium
+-  Bread, enriched, raisin
+-  Bread, toasted, oatmeal
+-  Fish, raw, pink, salmon
+-  Octopus (Alaska Native)
+-  Ostrich, cooked, oyster
+-  Bagels, cinnamon-raisin
+-  Pork, raw, belly, fresh
+-  Tamarind nectar, canned
+-  Nuts, dried, butternuts
+-  Bratwurst, cooked, pork
+-  Pears, green anjou, raw
+-  Gravy, beef, CAMPBELL'S
+-  Seaweed, raw, spirulina
+-  Soy meal, raw, defatted
+-  Candies, plain, halavah
+-  Milk, dried, buttermilk
+-  Barley, cooked, pearled
+-  Cornmeal, blue (Navajo)
+-  Nuts, raw, coconut meat
+-  Pie, cherry, fried pies
+-  Toppings, nuts in syrup
+-  Babyfood, orange, juice
+-  Spices, dried, rosemary
+-  KEEBLER, Vanilla Wafers
+-  Guavas, raw, strawberry
+-  Cheese, hard type, goat
+-  Cheese, soft type, goat
+-  Radishes, raw, oriental
+-  Puddings, dry mix, rice
+-  Mushrooms, raw, maitake
+-  Sour cream, reduced fat
+-  Taro, with salt, cooked
+-  Melons, raw, cantaloupe
+-  Pasta, dry, whole-wheat
+-  Persimmons, raw, native
+-  KASHI, Blueberry Waffle
+-  Game meat, raw, caribou
+-  Oranges, with peel, raw
+-  Seeds, raw, lotus seeds
+-  Rolls, oat bran, dinner
+-  Gravy, canned, mushroom
+-  Spices, dried, tarragon
+-  SILK Chocolate, soymilk
+-  Sweetener, agave, syrup
+-  Onions, sauteed, yellow
+-  Fish, salted, mackerel
+-  English muffins, wheat
+-  Apples, with skin, raw
+-  Bologna, beef and pork
+-  Beverages, cola, ZEVIA
+-  Fast foods, taco salad
+-  Hearts of palm, canned
+-  Fish, raw, ocean, pout
+-  Bread, sprouted, wheat
+-  Spices, dried, chervil
+-  Babyfood, apple, juice
+-  Nuts, english, walnuts
+-  Spices, dried, parsley
+-  Spices, ground, ginger
+-  Spices, ground, nutmeg
+-  Egg, fresh, raw, white
+-  Egg, fresh, raw, whole
+-  Candies, REESE'S BITES
+-  Mushrooms, raw, oyster
+-  Egg substitute, powder
+-  Cereals, dry, WHEATENA
+-  Ice creams, strawberry
+-  Hominy, yellow, canned
+-  Cheese, low fat, swiss
+-  Lettuce, raw, red leaf
+-  Game meat, raw, beaver
+-  Bologna, low fat, beef
+-  Butterbur, raw, (fuki)
+-  Cheese, hard, parmesan
+-  Pickle relish, hot dog
+-  Snacks, shrimp cracker
+-  Avocados, Florida, raw
+-  Chickpea flour (besan)
+-  Peanuts, raw, virginia
+-  Peanuts, raw, valencia
+-  Peanut flour, defatted
+-  Nuts, raw, cashew nuts
+-  Chorizo, pork and beef
+-  Crackers, plain, matzo
+-  Bologna, pork, chicken
+-  KASHI, Original Waffle
+-  Amaranth grain, cooked
+-  Shallots, freeze-dried
+-  Falafel, home-prepared
+-  Melon, banana (Navajo)
+-  Mortadella, pork, beef
+-  Wheat, hard red spring
+-  Wheat, soft red winter
+-  Wheat, hard red winter
+-  BURGER KING, Hamburger
+-  Spices, coriander seed
+-  Spices, ground, cloves
+-  Spices, fenugreek seed
+-  Cheese, sliced, sharp, cheddar
+-  Babyfood, junior, turkey, meat
+-  Soup, vegetable broth, SWANSON
+-  Beans, with beef, canned, baked
+-  Beans, raw, mature seeds, pinto
+-  APPLEBEE'S, crunchy onion rings
+-  Yogurt, whole milk, fruit, Greek
+-  Muffins, toaster-type, blueberry
+-  Soy sauce made from soy (tamari)
+-  Hyacinth beans, raw, mature seeds
+-  McDONALD'S, Low Fat Caramel Sauce
+-  Cloudberries, raw (Alaska Native)
+-  KEEBLER, Wheat Crackers, TOASTEDS
+-  Nuts, roasted, european, chestnuts
+-  Cherries, sweetened, frozen, sweet
+-  SPAGHETTIOS, SpaghettiOs  A to Z's
+-  Dip, original flavor, bean, FRITO'S
+-  Cowpeas, raw, young pods with seeds
+-  Soy protein isolate, potassium type
+-  Babyfood, junior, applesauce, fruit
+-  Mollusks, raw, mixed species, squid
+-  Puddings, regular, dry mix, vanilla
+-  Puddings, instant, dry mix, vanilla
+-  Whale, eyes (Alaska Native), beluga
+-  Sauce, ready-to-serve, verde, salsa
+-  Pasta mix, unprepared, classic beef
+-  Mayonnaise dressing, no cholesterol
+-  Nuts, unblanched, dried, brazilnuts
+-  Walrus, dried (Alaska Native), meat
+-  Seal, liver (Alaska Native), ringed
+-  Restaurant, sesame chicken, Chinese
+-  KASHI, Toasted Asiago Crackers, TLC
+-  Crustaceans, raw, alaska king, crab
+-  Fish, raw, mixed species, whitefish
+-  Salad dressing, home recipe, french
+-  Game meat, roasted, cooked, caribou
+-  CAMPBELL'S, V8 100% Vegetable Juice
+-  Oranges, valencias, California, raw
+-  Bread, sweet yeast bread, pan dulce
+-  Beans, no salt added, canned, baked
+-  Candies, TWIZZLERS NIBS CHERRY BITS
+-  Cake, dry mix, carrot, pudding-type
+-  Candies, BUTTERFINGER Crisp, NESTLE
+-  ARCHWAY Home Style Cookies, Oatmeal
+-  Lasagna, unprepared, frozen, cheese
+-  Onions, unprepared, chopped, frozen
+-  Cowpeas, raw, mature seeds, catjang
+-  Tea, Hohoysi (Hopi), brewed, herbal
+-  Fish, raw, mixed species, sea bass
+-  Fish, dry heat, cooked, sheepshead
+-  Snacks, almond, hard, granola bars
+-  Fish, raw, mixed species, seatrout
+-  Restaurant, refried beans, Mexican
+-  SUNSHINE, Cheez-It Crackers, GRIPZ
+-  PEPPERIDGE FARM, White Hoagie Roll
+-  Fish, dry heat, cooked, butterfish
+-  KEEBLER, Sesame Crackers, TOASTEDS
+-  Walrus, raw (Alaska Native), liver
+-  Cookies, refrigerated dough, sugar
+-  Chocolate-flavored hazelnut spread
+-  Baking chocolate, squares, mexican
+-  Puddings, instant, dry mix, banana
+-  WENDY'S, with cheese, Double Stack
+-  Corn flour, enriched, masa, yellow
+-  Salisbury steak with gravy, frozen
+-  Restaurant, lemon chicken, Chinese
+-  Beverages, Cran Grape, OCEAN SPRAY
+-  Grapefruit, California, white, raw
+-  Peaches, uncooked, sulfured, dried
+-  Potatoes, raw, flesh and skin, red
+-  Candies, WHATCHAMACALLIT Candy Bar
+-  KEEBLER, Multigrain Crackers, CLUB
+-  SUNSHINE, Colby Crackers, CHEEZ-IT
+-  Sorghum flour, unenriched, refined
+-  Candies, MR. GOODBAR Chocolate Bar
+-  Turkey breast, prepackaged, sliced
+-  Acerola, raw, (west indian cherry)
+-  CRACKER BARREL, macaroni n' cheese
+-  Burrito, microwaved, beef and bean
+-  Pie, prepared from recipe, pumpkin
+-  OSCAR MAYER, Wieners (beef franks)
+-  English muffins, whole grain white
+-  Stew/soup, caribou (Alaska Native)
+-  Pie, commercially prepared, cherry
+-  Beverages, tonic water, carbonated
+-  Emu, broiled, cooked, inside drums
+-  Mustard greens, unprepared, frozen
+-  Cheese sauce, prepared from recipe
+-  Peaches, sweetened, sliced, frozen
+-  Game meat, roasted, cooked, beaver
+-  PACE, Spicy Jalapeno Refried Beans
+-  Cake, prepared, dry mix, angelfood
+-  Bread stuffing, dry mix, cornbread
+-  Fish, raw, mixed species, sturgeon
+-  Huckleberries, raw (Alaska Native)
+-  Chicken, raw, all classes, gizzard
+-  Cream, cultured, reduced fat, sour
+-  SILK Plus for Bone Health, soymilk
+-  Reddi Wip Fat Free Whipped Topping
+-  Cream substitute, liquid, flavored
+-  Boysenberries, heavy syrup, canned
+-  Boysenberries, unsweetened, frozen
+-  Butter, without salt, stick, light
+-  Cake, prepared from recipe, sponge
+-  Hush puppies, prepared from recipe
+-  Beans, canned, mature seeds, white
+-  Doughnuts, glazed, french crullers
+-  Pork, cooked, separable fat, fresh
+-  Peanut butter, reduced fat, smooth
+-  Cookies, lower fat, vanilla wafers
+-  Candies, HERSHEY'S SKOR Toffee Bar
+-  Duck, raw, meat only, domesticated
+-  Duck, raw, meat only, breast, wild
+-  Babyfood, chicken and rice, dinner
+-  Puddings, regular, dry mix, banana
+-  Knackwurst, beef, pork, knockwurst
+-  Seasoning mix, original, taco, dry
+-  Artichokes, raw, (globe or french)
+-  Milk, calcium reduced, nonfat, dry
+-  Milk, sweetened, condensed, canned
+-  Squash, raw, all varieties, summer
+-  Squash, raw, all varieties, winter
+-  Pate, canned, not specified, liver
+-  BURGER KING, Premium Fish Sandwich
+-  Crackers, reduced fat, whole-wheat
+-  Salmonberries, raw (Alaska Native)
+-  Babyfood, orange and banana, juice
+-  Candies, AFTER EIGHT Mints, NESTLE
+-  Beverages, PERRIER, bottled, water
+-  Restaurant, coleslaw, family style
+-  MOTHER'S, Vanilla Sandwich Cookies
+-  Pancakes, dry mix, special dietary
+-  Gourd, raw, dishcloth (towelgourd)
+-  Babyfood, strained, peaches, fruit
+-  Desserts, dry mix, vanilla, rennin
+-  Cereals ready-to-eat, KASHI GOLEAN
+-  Tangerine juice, sweetened, canned
+-  Wheat flour, enriched, cake, white
+-  Oil, whale (Alaska Native), beluga
+-  Puff pastry, ready-to-bake, frozen
+-  Kefir, LIFEWAY, strawberry, lowfat
+-  Macaroni and cheese, frozen entree
+-  Turkey from whole, raw, light meat
+-  Lemonade, pink, frozen concentrate
+-  Mollusks, raw, mixed species, clam
+-  Macaroni, dry, enriched, vegetable
+-  Seal, meat (Alaska Native), ringed
+-  Sea cucumber, yane (Alaska Native)
+-  KEEBLER, Original, Saltines, ZESTA
+-  Cranberry sauce, sweetened, canned
+-  Focaccia, plain, Italian flatbread
+-  CAMPBELL'S, condensed, Tomato Soup
+-  Vitasoy USA, Nasoya Lite Firm Tofu
+-  Soup, Chinese restaurant, egg drop
+-  Nuts, roasted, japanese, chestnuts
+-  Cheese, swiss, pasteurized process
+-  Macaroni and Cheese, canned entree
+-  Asparagus, drained, boiled, cooked
+-  Peanut butter with omega-3, creamy
+-  Onions, solids and liquids, canned
+-  Cheese, part skim milk, mozzarella
+-  MOTHER'S, Coconut Cocadas Cookies
+-  Cream substitute, light, powdered
+-  Fast foods, with sausage, biscuit
+-  Frybread, made with lard (Apache)
+-  Snacks, plain, hard, granola bars
+-  Taro shoots, without salt, cooked
+-  Fish, raw, farmed, rainbow, trout
+-  Mollusks, canned, eastern, oyster
+-  Restaurant, spanish rice, Mexican
+-  Pork, cooked, rendered fat, bacon
+-  Pork, baked, cooked, bacon, cured
+-  KEEBLER, Onion Crackers, TOASTEDS
+-  Walrus, raw (Alaska Native), meat
+-  Cake, dry mix, unenriched, yellow
+-  Parmesan cheese topping, fat free
+-  Fish, dry heat, cooked, sablefish
+-  Grapefruit, all areas, white, raw
+-  Peas, raw, sprouted, mature seeds
+-  Babyfood, apple and cherry, juice
+-  Nuts, roasted, chinese, chestnuts
+-  Candies, BUTTERFINGER Bar, NESTLE
+-  MORI-NU, extra firm, silken, Tofu
+-  Fish, raw, wild, channel, catfish
+-  Candies, vanilla with nuts, fudge
+-  Fish, raw, mixed species, grouper
+-  Asparagus, drained solids, canned
+-  Turkey, raw, all classes, gizzard
+-  DENNY'S, mozzarella cheese sticks
+-  Rice, cooked, medium-grain, brown
+-  McDONALD'S, Peanuts (for Sundaes)
+-  Chicken, raw, meat only, roasting
+-  T.G.I. FRIDAY'S, fried mozzarella
+-  Pie fillings, low calorie, cherry
+-  Frybread, made with lard (Navajo)
+-  Stew, hominy with mutton (Navajo)
+-  PEPPERIDGE FARM, Deli Swirl Bread
+-  Crackers, low sodium, toast thins
+-  SMART SOUP, Santa Fe Corn Chowder
+-  Beverages, ginger ale, carbonated
+-  Danish pastry, enriched, cinnamon
+-  Fish, raw, wild, Atlantic, salmon
+-  Bear, meat (Alaska Native), black
+-  Babyfood, toddler, dices, peaches
+-  Potato puffs, oven-heated, frozen
+-  NABISCO, NABISCO GRAHAMS Crackers
+-  CARRABBA'S ITALIAN GRILL, lasagne
+-  Pie, commercially prepared, pecan
+-  Puddings, ready-to-eat, chocolate
+-  Beef, chopped beef, smoked, cured
+-  Caribou, raw (Alaska Native), eye
+-  Pie, prepared from recipe, cherry
+-  Beverages, RED BULL, Energy drink
+-  Yogurt, nonfat, strawberry, Greek
+-  Yogurt, lowfat, strawberry, Greek
+-  USDA Commodity, Flour Mix, Bakery
+-  KEEBLER, Frosted Cookies, ANIMALS
+-  Cheese, cheddar or colby, low fat
+-  Crustaceans, raw, dungeness, crab
+-  Fish, raw, yellowfin, fresh, tuna
+-  Bread, somiviki (Hopi), blue corn
+-  Beans, canned, mature seeds, navy
+-  Fish, raw, mixed species, snapper
+-  Cookies, lemon wafer, gluten-free
+-  Potatoes, with salt, flesh, baked
+-  Game meat, roasted, cooked, horse
+-  Alcoholic beverage, cooking, wine
+-  Seeds, dried, whole, sesame seeds
+-  Cheese, nonfat or fat free, Swiss
+-  Seeds, dried, breadnut tree seeds
+-  Turnip greens, unprepared, frozen
+-  Snacks, barbecue-flavor, cornnuts
+-  Beverages, unsweetened, rice milk
+-  Chicken, fried, breaded, meatless
+-  Mollusks, baked or broiled, conch
+-  Taro, with salt, cooked, tahitian
+-  Frostings, dry mix, fluffy, white
+-  Apples, uncooked, sulfured, dried
+-  Mouse nuts, roots (Alaska Native)
+-  Salad dressing, light, mayonnaise
+-  Corn flour, white, enriched, masa
+-  Buckwheat groats, cooked, roasted
+-  Sweet potato, vacuum pack, canned
+-  Orange juice, unsweetened, canned
+-  Refried beans, vegetarian, canned
+-  Game meat, roasted, cooked, moose
+-  Babyfood, strained, chicken, meat
+-  Peppers, freeze-dried, red, sweet
+-  Strawberries, unsweetened, frozen
+-  Kielbasa, pan-fried, fully cooked
+-  Turkey, raw, meat and skin, whole
+-  Canadian bacon, pan-fried, cooked
+-  Yardlong beans, raw, mature seeds
+-  Tofu, salted and fermented (fuyu)
+-  Mush, blue corn with ash (Navajo)
+-  Pate, canned, smoked, goose liver
+-  Beverages, powder, rich chocolate
+-  BURGER KING, with cheese, WHOPPER
+-  Gelatins, unsweetened, dry powder
+-  Oil, salad or cooking, cottonseed
+-  Winged beans, raw, immature seeds
+-  Toppings, butterscotch or caramel
+-  Fish, kippered, Atlantic, herring
+-  Oil, spotted seal (Alaska Native)
+-  Cranberry juice cocktail, bottled
+-  Babyfood, orange and apple, juice
+-  Babyfood, prune and orange, juice
+-  Lasagna, prepared, frozen, cheese
+-  KASHI, Sea Salt, Pita Crisps, TLC
+-  Snacks, reduced fat, potato chips
+-  MURRAY, Vanilla Wafer, SUGAR FREE
+-  SPAGHETTIOS, SpaghettiOs Original
+-  Soup, ready to serve, beef barley
+-  Salad dressing, creamy, poppyseed
+-  Dressing, fat-free, honey mustard
+-  Mollusks, raw, unspecified, whelk
+-  Pie crust, dry mix, standard-type
+-  Beverages, grape soda, carbonated
+-  Mushrooms, drained solids, canned
+-  Game meat, simmered, cooked, bear
+-  Rolls, plain, hamburger or hotdog
+-  KASHI, Honey Sesame Crackers, TLC
+-  Fish, raw, mixed species, whiting
+-  Leavening agents, cream of tartar
+-  Beans, with franks, canned, baked
+-  Fish, dry heat, cooked, swordfish
+-  Radishes, pickled, hawaiian style
+-  Gravy, fat free, beef, CAMPBELL'S
+-  Blackberries, unsweetened, frozen
+-  Onions, unprepared, whole, frozen
+-  Puddings, regular, dry mix, lemon
+-  Lasagna, baked, frozen, Vegetable
+-  Puddings, instant, dry mix, lemon
+-  Beverages, ROCKSTAR, Energy drink
+-  SILK Banana-Strawberry soy yogurt
+-  MOTHER'S, Chocolate Chip Cookies
+-  Whipped topping, low fat, frozen
+-  Vitasoy USA Azumaya, Silken Tofu
+-  Ice cream, chocolate, soft serve
+-  Moose, raw (Alaska Native), meat
+-  Bread crumbs, plain, grated, dry
+-  Oven-roasted chicken breast roll
+-  Salad dressing, russian dressing
+-  Oil, original, PAM cooking spray
+-  Restaurant, corn, tamale, Latino
+-  Restaurant, pork, tamale, Latino
+-  Fish, dry heat, cooked, mahimahi
+-  Emu, broiled, cooked, fan fillet
+-  Beans, raw, mature seeds, yellow
+-  KEEBLER, Toasted Coconut Cookies
+-  Fish, dry heat, cooked, milkfish
+-  Fish, dry heat, cooked, monkfish
+-  Babyfood, apple and grape, juice
+-  Pheasant, raw, meat only, breast
+-  Burrito, frozen, bean and cheese
+-  Potatoes, home-prepared, o'brien
+-  MORI-NU, lite firm, silken, Tofu
+-  Tofu, prepared with nigari, hard
+-  Meatballs, Italian style, frozen
+-  Kielbasa, unheated, fully cooked
+-  Alcoholic beverage, whiskey sour
+-  WEND'YS, Crispy Chicken Sandwich
+-  BURGER KING, Double Cheeseburger
+-  SUNSHINE, BIG Crackers, CHEEZ-IT
+-  Babyfood, junior, cherry cobbler
+-  Danish pastry, unenriched, lemon
+-  APPLEBEE'S, Double Crunch Shrimp
+-  BURGER KING, french toast sticks
+-  Mutton, roasted (Navajo), cooked
+-  Fish, raw, Atlantic, ocean perch
+-  Cereals, Dry, Quick Oats, QUAKER
+-  Cookies, reduced fat, shortbread
+-  Potatoes, drained solids, canned
+-  T.G.I. FRIDAY'S, chicken fingers
+-  Babyfood, apple and peach, juice
+-  Seeds, roasted, breadfruit seeds
+-  Potato puffs, unprepared, frozen
+-  Pie, prepared from recipe, pecan
+-  Pie, prepared from recipe, mince
+-  Nuts, dried, japanese, chestnuts
+-  McDONALD'S, Hotcakes and Sausage
+-  KELLOGG'S, Original, SIMPLY EGGO
+-  Pie, prepared from recipe, apple
+-  Beverages, root beer, carbonated
+-  Emu, pan-broiled, cooked, ground
+-  Cheese, queso chihuahua, mexican
+-  KEEBLER, Original Crackers, CLUB
+-  Pears, uncooked, sulfured, dried
+-  Soup, home-prepared, beef, stock
+-  Soup, home-prepared, fish, stock
+-  Fish, raw, skipjack, fresh, tuna
+-  Noodles, cooked, somen, japanese
+-  Cheesecake commercially prepared
+-  Crackers, GAMESA SABROSAS, cream
+-  Fish, raw, pumpkin seed, sunfish
+-  Sauce, original, KRAFT, barbecue
+-  Snacks, rice-based, oriental mix
+-  Chicken, raw, all classes, liver
+-  Chicken, raw, all classes, heart
+-  Vegetable juice cocktail, canned
+-  Coriander (cilantro) leaves, raw
+-  Snacks, almond, crisped rice bar
+-  Blueberries, unsweetened, frozen
+-  Bread, oat bran, reduced-calorie
+-  Bread, toasted, enriched, raisin
+-  Bread, protein (includes gluten)
+-  Beverages, municipal, tap, water
+-  Game meat, roasted, cooked, goat
+-  Muffins, prepared, dry mix, corn
+-  Chicken, raw, meat only, stewing
+-  Fish, dry heat, cooked, bluefish
+-  Bagels, toasted, cinnamon-raisin
+-  Sweet potato, unprepared, frozen
+-  Mashu roots, raw (Alaska Native)
+-  CAMPBELL'S, Organic Tomato juice
+-  Bratwurst, smoked, beef and pork
+-  Sausage, smoked, turkey, Italian
+-  Beverages, Citrus,  Energy drink
+-  KEEBLER, Holiday Jingles Cookies
+-  Succotash, raw, (corn and limas)
+-  Babyfood, strained, turkey, meat
+-  Pepperoni, sliced, beef and pork
+-  Cookies, dry mix, chocolate chip
+-  Frozen novelties, lime, ice type
+-  Salad dressing, lite, buttermilk
+-  Fish, pickled, Atlantic, herring
+-  Babyfood, apple and prune, juice
+-  Pasta, cooked, corn, gluten-free
+-  Cheese spread, cream cheese base
+-  Cheese, with vegetables, cottage
+-  MOTHER'S, Taffy Sandwich Cookies
+-  PACE, Lime & Garlic Chunky Salsa
+-  DENNY'S, spaghetti and meatballs
+-  Beverages, club soda, carbonated
+-  ON THE BORDER, cheese quesadilla
+-  Cabbage, raw, chinese (pak-choi)
+-  Babyfood, strained, pears, fruit
+-  Babyfood, junior, peaches, fruit
+-  Beef, canned, corned beef, cured
+-  Salsify, raw, (vegetable oyster)
+-  Salad dressing, fat-free, caesar
+-  Cereals, dry, unenriched, farina
+-  Passion-fruit juice, raw, yellow
+-  Raspberries, unsweetened, frozen
+-  Babyfood, toddler, dices, apples
+-  Pork, dehydrated, oriental style
+-  Yogurt, whole milk, plain, Greek
+-  KEEBLER, Cinnamon Crisp, Grahams
+-  Bison, cooked, grass-fed, ground
+-  Beans, raw, mature seeds, french
+-  Game meat, roasted, cooked, deer
+-  Soup, Chinese restaurant, wonton
+-  Beans, raw, mature seeds, adzuki
+-  Salad dressing, bacon and tomato
+-  Fish, dry heat, cooked, tilefish
+-  Passion-fruit juice, raw, purple
+-  Beverages, brewed, hibiscus, tea
+-  Cheese food, American, cold pack
+-  Cherries, sweetened, dried, tart
+-  MOTHER'S, Circus Animal Cookies
+-  Beverages, drinking, tap, water
+-  Fish, raw, mixed species, shark
+-  English muffins, toasted, wheat
+-  Beans, raw, mature seeds, white
+-  Fish, dry heat, cooked, tilapia
+-  Fast foods, french toast sticks
+-  Crackers, fish-shaped, flavored
+-  Crackers, seasoned, wafers, rye
+-  Fish, dry heat, cooked, lingcod
+-  Salami, less sodium, beef, pork
+-  Corn flour, yellow, whole-grain
+-  Grapefruit, Florida, white, raw
+-  Nuts, dried, chinese, chestnuts
+-  Soymilk, unfortified, chocolate
+-  Bread, oatmeal, reduced-calorie
+-  Chicken patty, uncooked, frozen
+-  Babyfood, tropical fruit medley
+-  Turkey, raw, all classes, heart
+-  Turkey, raw, all classes, liver
+-  Fish, dry heat, cooked, haddock
+-  Liver sausage, pork, liverwurst
+-  Lima beans, raw, immature seeds
+-  Chicken, raw, giblets, roasting
+-  Veal, pan-fried, cooked, ground
+-  Bread, toasted, sprouted, wheat
+-  Carbonated beverage, cream soda
+-  Beverages, Malt liquor beverage
+-  Alcoholic beverages, rose, wine
+-  Babyfood, apple-cranberry juice
+-  KEEBLER, Danish Wedding Cookies
+-  McDONALD'S, Double Cheeseburger
+-  ON THE BORDER, cheese enchilada
+-  Babyfood, toddler, dices, pears
+-  Egg, hard-boiled, cooked, whole
+-  Eggs, frozen mixture, scrambled
+-  Puddings, ready-to-eat, tapioca
+-  Emu, broiled, cooked, full rump
+-  Candies, TWIZZLERS CHERRY BITES
+-  Crustaceans, canned, blue, crab
+-  Wheat, uncooked, KAMUT khorasan
+-  Sauce, ready-to-serve, cocktail
+-  Babyfood, fruit supreme dessert
+-  Noodles, cooked, soba, japanese
+-  PACE, Traditional Refried Beans
+-  Cake, dry mix, enriched, yellow
+-  Soup, condensed, canned, tomato
+-  Sour cream, cultured, imitation
+-  Alcoholic beverage, light, wine
+-  Soymilk (All flavors), enhanced
+-  Cream substitute, light, liquid
+-  Beans, raw, mature seeds, black
+-  Seeds, boiled, breadfruit seeds
+-  Seeds, raw, breadnut tree seeds
+-  Snacks, mixed flavors, CLIF BAR
+-  Bologna, low fat, beef and pork
+-  Butter, with salt, stick, light
+-  Alcoholic beverage, rice (sake)
+-  Sauce, ready-to-serve, teriyaki
+-  Cheese, part skim milk, ricotta
+-  Game meat, roasted, cooked, elk
+-  Broadbeans, raw, immature seeds
+-  Taro, with salt, cooked, shoots
+-  Alcoholic beverage, light, beer
+-  Fish, raw, farmed, coho, salmon
+-  Pork, raw, separable fat, fresh
+-  Pie fillings, canned, blueberry
+-  Plums, uncooked, dried (prunes)
+-  Refried beans, fat-free, canned
+-  KEEBLER, Cinnamon Toast Grahams
+-  Rice, cooked, long-grain, brown
+-  Fast foods, with cheese, nachos
+-  Babyfood, junior, chicken, meat
+-  Kielbasa, grilled, fully cooked
+-  Pigeonpeas, raw, immature seeds
+-  Crackers, low salt, whole-wheat
+-  Squab, raw, meat only, (pigeon)
+-  Babyfood, peach yogurt, dessert
+-  Babyfood, apple - cherry, juice
+-  Soup, condensed, canned, cheese
+-  Winged beans, raw, mature seeds
+-  BURGER KING, no cheese, WHOPPER
+-  Frozen novelties, pop, ice type
+-  Fast foods, with beans, burrito
+-  APPLEBEE'S, hand battered, fish
+-  Salami, beef, pork, dry or hard
+-  Babyfood, apple and plum, juice
+-  MOTHER'S, Iced Lemonade Cookies
+-  MOTHER'S, Jungle Animal Cookies
+-  Peas, unprepared, frozen, green
+-  Fish, raw, mixed species, perch
+-  Luncheon sausage, pork and beef
+-  GIRL SCOUTS, Thin Mints Cookies
+-  McDONALD'S, Sweet 'N Sour Sauce
+-  McDONALD'S, Spicy Buffalo Sauce
+-  Wheat flours, unenriched, bread
+-  Veal, cooked, external fat only
+-  Puddings, ready-to-eat, vanilla
+-  Mushrooms, stir-fried, shiitake
+-  Cranberry-orange relish, canned
+-  BEAR NAKED, Fruit & Nut Cookies
+-  TACO BELL, Soft Taco with steak
+-  Cauliflower, unprepared, frozen
+-  Beans, with pork, canned, baked
+-  Fish, raw, bluefin, fresh, tuna
+-  Fish, raw, mixed species, trout
+-  Fish, raw, wild, rainbow, trout
+-  Candies, YORK Peppermint Pattie
+-  Tree fern, without salt, cooked
+-  Cabbage, raw, chinese (pe-tsai)
+-  Pizza rolls, unprepared, frozen
+-  Vitasoy USA Azumaya, Firm Tofu
+-  Milk, whole, fluid, buttermilk
+-  Snacks, salted, plantain chips
+-  Soup, dry, chicken broth cubes
+-  Bologna, turkey and beef, pork
+-  Bologna, lite, pork and turkey
+-  Restaurant, tripe soup, Latino
+-  Mungo beans, raw, mature seeds
+-  Fish, dry heat, cooked, burbot
+-  Ravioli, canned, cheese-filled
+-  Beans, raw, mature seeds, pink
+-  Sausage, links, sweet, Italian
+-  Buckwheat groats, dry, roasted
+-  Yogurt, nonfat milk, chocolate
+-  Beverages, non-alcoholic, Wine
+-  Babyfood, strained, beef, meat
+-  Babyfood, strained, pork, meat
+-  Babyfood, strained, veal, meat
+-  Guinea hen, raw, meat and skin
+-  Peppers, raw, green, hot chili
+-  Squash, raw, butternut, winter
+-  Peppers, sauteed, green, sweet
+-  Bread, unenriched, white, pita
+-  Corn flour, white, whole-grain
+-  Salad dressing, sweet and sour
+-  Bologna, pork, turkey, chicken
+-  Rice, raw, medium-grain, brown
+-  Cocoa, unsweetened, dry powder
+-  McDONALD'S, Hot Caramel Sundae
+-  BURGER KING, Hash Brown Rounds
+-  Beverages, canned, grape drink
+-  Candies, 100 GRAND Bar, NESTLE
+-  Sausage, cooked, pork, Italian
+-  Babyfood, dry, rice and apples
+-  OLIVE GARDEN, lasagna classico
+-  Soup, condensed, canned, onion
+-  Mangosteen, syrup pack, canned
+-  Kiwifruit, raw, ZESPRI SunGold
+-  McDONALD'S, Sausage McGRIDDLES
+-  Flan, dry mix, caramel custard
+-  Snacks, cheese-flavor, popcorn
+-  Babyfood, toddler, dices, peas
+-  Egg, raw, fresh, whole, turkey
+-  Mollusks, raw, common, octopus
+-  Vegetarian meatloaf or patties
+-  Pheasant, total edible, cooked
+-  Yogurt, nonfat, vanilla, Greek
+-  KEEBLER, Iced Cookies, ANIMALS
+-  Cheese, queso asadero, mexican
+-  Oat flour, partially debranned
+-  Potatoes, ready-to-eat, mashed
+-  Snacks, plain, CORNNUTS, KRAFT
+-  Noodles, cooked, enriched, egg
+-  Pitanga, raw, (surinam-cherry)
+-  Crackers, GOYA CRACKERS, snack
+-  Beans, raw, mature seeds, navy
+-  Topping, SMUCKER'S MAGIC SHELL
+-  Bread stuffing, dry mix, bread
+-  Broccoli, raw, flower clusters
+-  Gravy, golden pork, CAMPBELL'S
+-  SILK Plus Omega-3 DHA, soymilk
+-  Cheese, reduced fat, provolone
+-  Blueberries, sweetened, frozen
+-  Beets, drained, boiled, cooked
+-  Babyfood, orange-carrot, juice
+-  Fast foods, strawberry, sundae
+-  Chicken, raw, giblets, stewing
+-  McDONALD'S, McCHICKEN Sandwich
+-  Cream, fat free, half and half
+-  Squash, raw, spaghetti, winter
+-  Beans, microwaved, green, snap
+-  Babyfood, strained, lamb, meat
+-  Duck, raw, liver, domesticated
+-  Duck, raw, meat and skin, wild
+-  Oil, salad or cooking, soybean
+-  Candies, OH HENRY! Bar, NESTLE
+-  Candies, KRACKEL Chocolate Bar
+-  Candies, BABY RUTH Bar, NESTLE
+-  PEPPERIDGE FARM, Hamburger Bun
+-  Pickle and pimiento loaf, pork
+-  SMART SOUP, Indian Bean Masala
+-  SMART SOUP, Moroccan Chick Pea
+-  SMART SOUP, Thai Coconut Curry
+-  NABISCO, NABISCO RITZ Crackers
+-  Fast foods, with chili, hotdog
+-  Spices, red or cayenne, pepper
+-  MOTHER'S, Iced Oatmeal Cookies
+-  Chili, canned entree, no beans
+-  Burrito, frozen, beef and bean
+-  Ostrich, cooked, outside strip
+-  Onions, tops only, young green
+-  Pork, unprepared, bacon, cured
+-  Nuts, dried, pinyon, pine nuts
+-  GIRL SCOUTS, Do-si-dos Cookies
+-  GIRL SCOUTS, Tagalongs Cookies
+-  Babyfood, junior, pears, fruit
+-  SWANSON, Chicken and Dumplings
+-  McDONALD'S, Creamy Ranch Sauce
+-  Game meat , raw, ground, bison
+-  Mollusks, raw, Pacific, oyster
+-  Yogurt, lowfat, vanilla, Greek
+-  Emu, broiled, cooked, top loin
+-  Cheese, low sodium, mozzarella
+-  Sauce, medium, white, homemade
+-  Crackers, egg and onion, matzo
+-  Mushrooms, grilled, portabella
+-  Game meat, raw, water, buffalo
+-  Beverages, brewed, Oolong, tea
+-  Nuts, raw, japanese, chestnuts
+-  Soup, mix, dry, chicken noodle
+-  Cheese, whole milk, mozzarella
+-  Tomato products, sauce, canned
+-  Fast foods, with egg, biscuit
+-  Fast foods, with ham, biscuit
+-  Candies, 5TH AVENUE Candy Bar
+-  Snacks, pieces, fruit leather
+-  Beverages, Orange juice drink
+-  Babyfood, peas and brown rice
+-  HOUSE FOODS Premium Soft Tofu
+-  Sweet potato, unprepared, raw
+-  Jackfruit, syrup pack, canned
+-  Mung beans, raw, mature seeds
+-  KEEBLER, Sweet Cremes Cookies
+-  Sausage, beef, pork, Berliner
+-  Syrups, pancake, table blends
+-  Babyfood, strained, ham, meat
+-  CHICK-FIL-A, chicken sandwich
+-  Sugar-apples, raw, (sweetsop)
+-  Pheasant, raw, meat only, leg
+-  Nuts, raw, chinese, chestnuts
+-  Bread, wheat, reduced-calorie
+-  Bread, white, reduced-calorie
+-  Oil, salad or cooking, sesame
+-  Cornmeal, yellow, whole-grain
+-  Chicken patty, cooked, frozen
+-  Potato soup, dry mix, instant
+-  SUNSHINE, Snack Mix, CHEEZ-IT
+-  Fish, raw, Greenland, halibut
+-  Turkey sausage, cooked, fresh
+-  Pasta, dry, corn, gluten-free
+-  Nance, drained, syrup, canned
+-  WENDY'S, Frosty Dairy Dessert
+-  Pokeberry shoots, raw, (poke)
+-  Potatoes, raw, flesh and skin
+-  McDONALD'S, Strawberry Sundae
+-  Peppers, sun-dried, hot chile
+-  Nopales, without salt, cooked
+-  T.G.I. FRIDAY'S, french fries
+-  APPLEBEE'S, mozzarella sticks
+-  BARBARA DEE, Winter Mints Cookies
+-  KEEBLER, Wheat Crackers, TOWN HOUSE
+-  Egg, pasteurized, frozen, raw, yolk
+-  Raspberries, sweetened, red, frozen
+-  Peas and carrots, unprepared, frozen
+-  Pie, prepared from recipe, blueberry
+-  Beans, drained solids, canned, pinto
+-  Turkey, with broth, meat only, canned
+-  Plums, wild (Northern Plains Indians)
+-  McDONALD'S, Grilled, RANCH SNACK WRAP
+-  Squirrel, meat (Alaska Native), ground
+-  Cereals ready-to-eat, UNCLE SAM CEREAL
+-  Bear, raw (Alaska Native), meat, polar
+-  Babyfood, toddler, macaroni and cheese
+-  Babyfood, pasta with vegetables, dinner
+-  SPAGHETTIOS, SpaghettiOs with Meatballs
+-  Gravy, country style sausage, CAMPBELL'S
+-  Nuts, peeled, dried, european, chestnuts
+-  SMART SOUP, Vietnamese Carrot Lemongrass
+-  Syrups, cane and 15% maple, table blends
+-  Pasta, cooked, plain, fresh-refrigerated
+-  Candies, ROLO Caramels in Milk Chocolate
+-  Candies, SNICKERS Bar, MARS SNACKFOOD US
+-  Potatoes, unprepared, dry mix, scalloped
+-  Potatoes, unprepared, dry mix, au gratin
+-  Beverages, POLAND SPRING, bottled, water
+-  PIZZA HUT 14" Pepperoni Pizza, Pan Crust
+-  Pasta with tomato sauce, canned, no meat
+-  Lasagna with meat & sauce, frozen entree
+-  Soup, condensed, canned, cream of potato
+-  Soup, condensed, canned, cream of shrimp
+-  MURRAY, Chocolate Creme Sandwich Cookies
+-  Fish, dry heat, cooked, florida, pompano
+-  KELLOGG'S, Cinnamon Toast, Waffles, EGGO
+-  Pancakes, incomplete, dry mix, buckwheat
+-  GIRL SCOUTS, Thank U Berry Munch Cookies
+-  Gravy, classic chicken, HEINZ Home Style
+-  Cereals ready-to-eat, KASHI GOOD FRIENDS
+-  Oil, fully hydrogenated, soy, industrial
+-  Cowpeas (blackeyes), raw, immature seeds
+-  Egg rolls, heated, refrigerated, chicken
+-  Beef, raw, inside, imported, New Zealand
+-  Candies, chocolate-flavor roll, caramels
+-  Taro, with salt, steamed, cooked, leaves
+-  Veal, raw, separable lean and fat, shank
+-  Spaghetti with meat sauce, frozen entree
+-  Whale, raw (Alaska Native), meat, beluga
+-  Snacks, chocolate chip, crisped rice bar
+-  SUNSHINE, Reduced Fat Crackers, CHEEZ-IT
+-  Beverages, Classic Malt powder, OVALTINE
+-  Kale, with salt, drained, boiled, cooked
+-  Lamb, raw, testes, imported, New Zealand
+-  Beans, raw, mature seeds, great northern
+-  Cherries, unsweetened, frozen, red, sour
+-  Nuts, unblanched, honey roasted, almonds
+-  Lamb, raw, brains, imported, New Zealand
+-  Cereals ready-to-eat, GOLDEN CRISP, POST
+-  ARCHWAY Home Style Cookies, Iced Oatmeal
+-  PAPA JOHN'S 14" Cheese Pizza, Thin Crust
+-  KASHI, Frozen Entree, Tuscan Veggie Bake
+-  Peanut butter, without salt, chunk style
+-  Babyfood, junior, with egg yolks, cereal
+-  Beverages, sugar free, AMP, Energy drink
+-  Salad dressing, regular, ranch dressing
+-  Beverages, No pulp, light, Orange juice
+-  Fast foods, with egg and bacon, biscuit
+-  Cereals ready-to-eat, homemade, granola
+-  Yachtwurst, cooked, with pistachio nuts
+-  ARCHWAY Home Style Cookies, Dutch Cocoa
+-  Alcoholic beverage, canned, pina colada
+-  Sausage, hot, beef with chicken, Polish
+-  Soup, dry, chicken flavor, ramen noodle
+-  Bread, prepared from recipe, irish soda
+-  Strawberries, sliced, sweetened, frozen
+-  OLIVE GARDEN, spaghetti with meat sauce
+-  WORTHINGTON Leanies, unprepared, frozen
+-  Turkey from whole, raw, meat only, neck
+-  Turkey sticks, fried, battered, breaded
+-  SUNSHINE, Baby Swiss Crackers, CHEEZ-IT
+-  Potatoes, baked, flesh and skin, Russet
+-  Soup, condensed, canned, bean with pork
+-  Fish, dry heat, cooked, striped, mullet
+-  Cookies, chocolate-covered, sugar wafer
+-  Soup, lower sodium, beef broth, SWANSON
+-  Pickles, reduced sodium, dill, cucumber
+-  Potato chips, reduced fat, without salt
+-  Beverages, Light Cranberry, OCEAN SPRAY
+-  Milk, with added vitamin D, fluid, goat
+-  McDONALD'S, NEWMAN'S OWN Ranch Dressing
+-  Soup, condensed, canned, cream of onion
+-  Cake, prepared from recipe, gingerbread
+-  MURRAY, Fudge Dipped Wafers, SUGAR FREE
+-  KELLOGG'S, Original, Pancakes, CINNABON
+-  KASHI, Frozen Entree, Red Curry Chicken
+-  Cookies, prepared from recipe, brownies
+-  SUNSHINE, Mozzarella Crackers, CHEEZ-IT
+-  Pie, prepared from recipe, banana cream
+-  KASHI, Oatmeal Raisin Flax Cookies, TLC
+-  Babyfood, toddler, beef lasagna, dinner
+-  Veal, raw, separable lean only, sirloin
+-  Cookies, with frosting or icing, animal
+-  KASHI, unprepared, 7 Whole Grain, Pilaf
+-  Lamb, raw, liver, imported, New Zealand
+-  Noodles, cooked, enriched, spinach, egg
+-  Ice cream, chocolate, soft serve, light
+-  Pie crust, baked, regular, refrigerated
+-  Babyfood, strained, beef noodle, dinner
+-  Candies, prepared-from-recipe, divinity
+-  Lima beans, canned, mature seeds, large
+-  Babyfood, dry fortified, barley, cereal
+-  Fish, New York State, raw, brook, trout
+-  Sea lion, meat (Alaska Native), Steller
+-  Beverages, strawberry, fast food, shake
+-  Fish, dry heat, cooked, sockeye, salmon
+-  Avocados, all commercial varieties, raw
+-  LOMA LINDA Linketts, unprepared, canned
+-  Candies, sweet chocolate coated fondant
+-  Pie, commercially prepared, egg custard
+-  WORTHINGTON FriPats, unprepared, frozen
+-  Owl, raw (Alaska Native), flesh, horned
+-  McDONALD'S, QUARTER POUNDER with Cheese
+-  Fish, dry heat, cooked, chinook, salmon
+-  Peas, unprepared, frozen, edible-podded
+-  Mung beans, raw, sprouted, mature seeds
+-  Cheesefurter, beef, pork, cheese smokie
+-  HEALTHY REQUEST, condensed, Tomato Soup
+-  Candies, prepared-from-recipe, truffles
+-  Beverages, chamomile, brewed, herb, tea
+-  MOTHER'S, Old Fashioned Oatmeal Cookies
+-  Goose, raw, meat and skin, domesticated
+-  Soybeans, salted, roasted, mature seeds
+-  Babyfood, strained, tutti frutti, fruit
+-  Frankfurter, unheated, meat and poultry
+-  Game meat, stewed, cooked, wild, rabbit
+-  Soup, canned, low sodium, chicken broth
+-  Babyfood, toddler, chicken stew, dinner
+-  Soup, condensed, canned, chicken noodle
+-  Squash, boiled (Navajo), cooked, Indian
+-  Butter replacement, powder, without fat
+-  Oil, (approx. 65%), linoleic, sunflower
+-  Restaurant, sirloin steak, family style
+-  Pie, Commercially Prepared, Dutch Apple
+-  MURRAY, Vanilla Sugar Wafer, SUGAR FREE
+-  Fish, raw (Alaska Native), Chum, Salmon
+-  Chicken, skin, BBQ, rotisserie, broiler
+-  MOTHER'S, Holiday Circus Animal Cookies
+-  MOTHER'S, Peanut Butter Gauchos Cookies
+-  Babyfood, canned, no sugar, grape juice
+-  Cake, sponge, creme-filled, snack cakes
+-  Babyfood, strained, carrots, vegetables
+-  Soup, condensed, canned, vegetable beef
+-  JACKSON'S, Old Fashioned Vanilla Wafers
+-  Veal, raw, separable lean and fat, loin
+-  Mayonnaise, with olive oil, reduced fat
+-  Candies, yogurt, confectioner's coating
+-  Blackberries, raw (Alaska Native), wild
+-  McDONALD'S, McFLURRY with M&M'S CANDIES
+-  Rolls, mixed-grain, hamburger or hotdog
+-  Lamb, raw, heart, imported, New Zealand
+-  SCHAR, Classic White Rolls, Gluten-Free
+-  TACO BELL, BURRITO SUPREME with chicken
+-  Vitasoy USA, Organic Nasoya Silken Tofu
+-  Cheese food, swiss, pasteurized process
+-  Cabbage, pickled, fresh, japanese style
+-  Seeds, partially defatted, sesame flour
+-  Yogurt, DANNON OIKOS, strawberry, Greek
+-  Yogurt, CHOBANI, vanilla, nonfat, Greek
+-  Beverages, Tropical, V8 V-FUSION Juices
+-  Gravy, microwavable, turkey, CAMPBELL'S
+-  Formulated Bar, SOUTH BEACH protein bar
+-  MOTHER'S, English Tea Sandwich Cookies
+-  Fast foods, biscuit with egg and steak
+-  Candies, prepared-from-recipe, fondant
+-  Mollusks, raw, farmed, eastern, oyster
+-  KEEBLER, Rainbow, Vanilla Wafers Minis
+-  Crackers, regular, standard snack-type
+-  Pork, microwaved, cooked, bacon, cured
+-  Sausage, smoked, pork and beef, Polish
+-  Sausage, mild, breakfast links, turkey
+-  Fish, dry heat, cooked, king, mackerel
+-  Candies, milk chocolate coated raisins
+-  Candies, milk chocolate coated peanuts
+-  Grapefruit, Florida, pink and red, raw
+-  PIZZA HUT, parmesan garlic, breadstick
+-  MORI-NU, lite extra firm, silken, Tofu
+-  Frankfurter, low fat, meat and poultry
+-  Cookies, sugar free, dry mix, brownies
+-  Beverages, fortified, Acai berry drink
+-  Beverages, Whey protein powder isolate
+-  Candies, starch jelly pieces, gumdrops
+-  Alcoholic beverage, dry, dessert, wine
+-  Salad dressing, regular, green goddess
+-  WENDY'S, without cheese, Jr. Hamburger
+-  Nuts, sweetened, canned, coconut cream
+-  Potatoes, baked, flesh and skin, white
+-  McDONALD'S, McFLURRY with OREO cookies
+-  Babyfood, junior, dutch apple, dessert
+-  Fast foods, plain, roast beef sandwich
+-  Beverages, regular, brewed, green, tea
+-  Grapes, raw, american type (slip skin)
+-  CRACKER BARREL, thick-cut, onion rings
+-  Duck, raw, meat and skin, domesticated
+-  Frostings, prepared-from-recipe, glaze
+-  Babyfood, strained, mixed fruit yogurt
+-  Snacks, salted, fat free, potato chips
+-  Popcorn, fat-free, sugar syrup/caramel
+-  Cake, commercially prepared, fruitcake
+-  KELLOGG'S, Caramel, Pancakes, CINNABON
+-  McDONALD'S, Bacon Egg & Cheese Biscuit
+-  PIZZA HUT 14" Sausage Pizza, Pan Crust
+-  Veal, raw, separable lean and fat, rib
+-  Candies, prepared-from-recipe, praline
+-  Babyfood, strained, squash, vegetables
+-  Dip, medium, salsa con queso, TOSTITOS
+-  Fish oil, fully hydrogenated, menhaden
+-  Snacks, chopped and formed, beef jerky
+-  Tomato and vegetable juice, low sodium
+-  KEEBLER, Minis Original Crackers, CLUB
+-  Game meat, roasted, cooked, wild, boar
+-  Soup, condensed, canned, tomato bisque
+-  Cake, commercially prepared, angelfood
+-  Fish, dry heat, cooked, rainbow, smelt
+-  Desserts, unsweetened, tablets, rennin
+-  Tortillas, corn, ready-to-bake or -fry
+-  Toaster pastries, brown-sugar-cinnamon
+-  Beans, raw, mature seeds, black turtle
+-  Cereals ready-to-eat, ALPHA-BITS, POST
+-  Babyfood, dry fortified, mixed, cereal
+-  Fish, dried (Alaska Native), whitefish
+-  Tomatoes, with salt, cooked, ripe, red
+-  Cereals ready-to-eat, POST Bran Flakes
+-  KEEBLER, Original Crackers, TOWN HOUSE
+-  Biscuits, dry mix, plain or buttermilk
+-  Alcoholic beverage, all, regular, beer
+-  Blueberries, raw (Alaska Native), wild
+-  Fish, dry heat, cooked, orange, roughy
+-  Babyfood, beef with vegetables, dinner
+-  Pineapple, drained, juice pack, canned
+-  Apricots, drained, heavy syrup, canned
+-  Chicken, with broth, meat only, canned
+-  Tofu, prepared with nigari, extra firm
+-  Cream puff shell, prepared from recipe
+-  Peanut butter, with salt, smooth style
+-  Fish, dry heat, cooked, american, shad
+-  Popcorn, low fat and sodium, microwave
+-  Braunschweiger (a liver sausage), pork
+-  Restaurant, chicken chow mein, Chinese
+-  Vanilla extract, no alcohol, imitation
+-  Babyfood, junior, chicken sticks, meat
+-  Pickles, dill or kosher dill, cucumber
+-  Strawberries, whole, sweetened, frozen
+-  Restaurant, lasagna with meat, Italian
+-  Jellies, home preserved, reduced sugar
+-  Snacks, air-popped (Unsalted), popcorn
+-  McDONALD'S, NEWMAN'S OWN Cobb Dressing
+-  Milk, with added vitamin D, whole, dry
+-  Soup, condensed, canned, chicken gumbo
+-  Soup, condensed, canned, chicken broth
+-  Chilchen (Red Berry Beverage) (Navajo)
+-  BURGER KING, Original Chicken Sandwich
+-  BURGER KING, no cheese, DOUBLE WHOPPER
+-  MURRAY, Shortbread Cookies, SUGAR FREE
+-  Babyfood, junior, peach melba, dessert
+-  Milk, reduced sugar, lowfat, chocolate
+-  Taco shells, without added salt, baked
+-  MURRAY, Vanilla Creme Sandwich Cookies
+-  Restaurant, french fries, family style
+-  Pasta, cooked, made with egg, homemade
+-  Fish, dry heat, cooked, northern, pike
+-  KELLOGG'S, French Toast, Waffles, EGGO
+-  Cornmeal, yellow, unenriched, degermed
+-  Restaurant, cheese quesadilla, Mexican
+-  Alcoholic beverage, white, table, wine
+-  SPAGHETTIOS, SpaghettiOs in Meat Sauce
+-  Snacks, plain, rice cracker brown rice
+-  ANDREA'S, Gluten Free Soft Dinner Roll
+-  Nuts, peeled, raw, european, chestnuts
+-  Beef, raw, brisket, corned beef, cured
+-  Sauerkraut, solids and liquids, canned
+-  Salad dressing, light, mayonnaise-type
+-  Salad dressing, regular, honey mustard
+-  Beverages, Mixed Berry, Zero, POWERADE
+-  Egg rolls, prepared, frozen, vegetable
+-  Baking chocolate, squares, unsweetened
+-  KEEBLER, Coconut Cookies, CHIPS DELUXE
+-  Beans, liquid from stewed kidney beans
+-  Fish, whole (Alaska Native), blackfish
+-  Strawberry-flavor beverage mix, powder
+-  Sweeteners, liquid, fructose, tabletop
+-  Sauce, TABASCO, pepper, ready-to-serve
+-  Frozen novelties, fruit and juice bars
+-  Sourdock, young leaves (Alaska Native)
+-  Sweet Potato puffs, unprepared, frozen
+-  AUSTIN, sandwich-type, PB & J Crackers
+-  Mushrooms, with salt, cooked, shiitake
+-  Soup, condensed, canned, beef mushroom
+-  Fish, smoked, mixed species, whitefish
+-  Soup, Chinese restaurant, hot and sour
+-  Oranges, all commercial varieties, raw
+-  Keikitos (muffins), Latino bakery item
+-  Cereals ready-to-eat, RALSTON TASTEEOS
+-  Cake, dry mix, chocolate, pudding-type
+-  Ice creams, soft-serve, french vanilla
+-  Ice creams, soft-serve, light, vanilla
+-  Seeds, partially defatted, sesame meal
+-  Gravy, country style cream, CAMPBELL'S
+-  Pasta mix, unprepared, Italian lasagna
+-  Beverages, Kiwi Strawberry Juice Drink
+-  Beverages, FULL THROTTLE, Energy drink
+-  Snacks, wasabi-flavored, roasted, peas
+-  Sea lion, fat (Alaska Native), Steller
+-  PEPPERIDGE FARM, Cinnamon Swirl Bread
+-  English muffins, toasted, whole-wheat
+-  Willow, leaves in oil (Alaska Native)
+-  Fast foods, with egg and ham, biscuit
+-  WORTHINGTON Chili, unprepared, canned
+-  Broccoli, unprepared, chopped, frozen
+-  Vitasoy USA Organic Nasoya, Soft Tofu
+-  Beef, raw, separable fat, retail cuts
+-  Tortilla chips, salted, plain, yellow
+-  Cookies, chocolate wafer, gluten-free
+-  Pineapple, traditional varieties, raw
+-  Apples, with skin, red delicious, raw
+-  Peas, raw, mature seeds, split, green
+-  Babyfood, junior, beef noodle, dinner
+-  Beans, raw, mature seeds, small white
+-  Beerwurst, pork and beef, beer salami
+-  Rhubarb, leaves (Alaska Native), wild
+-  Beverages, caffeine free, cola, ZEVIA
+-  Fish, dry heat, cooked, walleye, pike
+-  USDA Commodity, smooth, Peanut Butter
+-  Fish, dried and salted, Atlantic, cod
+-  Fish, dry heat, cooked, Atlantic, cod
+-  Fish, granular, black and red, caviar
+-  Beverages, Cran Lemonade, OCEAN SPRAY
+-  Snacks, unsalted, plain, potato chips
+-  KEEBLER, Export Sodas Crackers, ZESTA
+-  Babyfood, strained, banana no tapioca
+-  USDA Commodity, canned, luncheon meat
+-  Restaurant, kung pao chicken, Chinese
+-  Potatoes, raw, flesh and skin, russet
+-  Cauliflower, with salt, cooked, green
+-  Waterchestnuts, raw, (matai), chinese
+-  Vegetables, unprepared, frozen, mixed
+-  Ascidians (tunughnak) (Alaska Native)
+-  Potatoes, unprepared, frozen, o'brien
+-  Ground turkey, raw, 15% fat, 85% lean
+-  Seeds, dried, watermelon seed kernels
+-  Candies, REESE'S NUTRAGEOUS Candy Bar
+-  Puddings, instant, dry mix, chocolate
+-  Puddings, regular, dry mix, chocolate
+-  Snacks, barbecue-flavor, potato chips
+-  Snacks, salted, plain, hard, pretzels
+-  Gourd, raw, white-flowered (calabash)
+-  Cereals, dry, instant, CREAM OF WHEAT
+-  Pie, commercially prepared, blueberry
+-  Babyfood, junior, carrots, vegetables
+-  Veal, raw, separable lean only, shank
+-  Sauce, original, BULL'S-EYE, barbecue
+-  Sauce, ready-to-serve, sweet and sour
+-  Pork, raw, 84% lean / 16% fat, ground
+-  MURRAY, Duplex Creme Sandwich Cookies
+-  Candies, KIT KAT BIG KAT Bar, HERSHEY
+-  Spanish rice mix, unprepared, dry mix
+-  Fish, smoked, mixed species, sturgeon
+-  Waffles, ready-to-heat, frozen, plain
+-  Gravy, microwavable, beef, CAMPBELL'S
+-  Snacks, salted, yucca (cassava) chips
+-  Candies, prepared-from-recipe, toffee
+-  Collards, unprepared, chopped, frozen
+-  Cornmeal, white, unenriched, degermed
+-  Soup, ready to serve, vegetable broth
+-  Lemonade, prepared with water, powder
+-  Peaches, drained, heavy syrup, canned
+-  Restaurant, onion rings, family style
+-  Frostings, dry mix, creamy, chocolate
+-  Beans, raw, mature seeds, red, kidney
+-  Moose, braised (Alaska Native), liver
+-  Apples, unheated, unsweetened, frozen
+-  Oil, sunflower, mid-oleic, industrial
+-  Fish, dry heat, cooked, striped, bass
+-  Mouse nuts, seedlings (Alaska Native)
+-  Fast foods, breaded and fried, shrimp
+-  Peanut butter, with salt, chunk style
+-  Fish, dry heat, cooked, white, sucker
+-  Candies, with almonds, milk chocolate
+-  Babyfood, junior, turkey sticks, meat
+-  Chocolate, 45- 59% cacao solids, dark
+-  Babyfood, junior, tutti frutti, fruit
+-  Beef Pot Pie, prepared, frozen entree
+-  CRACKER BARREL, grilled sirloin steak
+-  PIZZA HUT 12" Cheese Pizza, Pan Crust
+-  Bamboo shoots, drained solids, canned
+-  Balsam-pear (bitter gourd), raw, pods
+-  MURRAY, Chocolatey Chip Thins Cookies
+-  Fish, eggs (Alaska Native), whitefish
+-  Beverages, ready to drink, black, tea
+-  Babyfood, orange and pineapple, juice
+-  Nuts, blanched, hazelnuts or filberts
+-  Restaurant, hash browns, family style
+-  New england brand sausage, beef, pork
+-  Pancakes, prepared from recipe, plain
+-  McDONALD'S, Sausage McMUFFIN with Egg
+-  SPAGHETTIOS, SpaghettiOs plus Calcium
+-  USDA Commodity, frozen, Potato wedges
+-  Babyfood, strained, beets, vegetables
+-  Babyfood, toddler, dices, green beans
+-  Restaurant, cheese enchilada, Mexican
+-  Beef, cooked, breakfast strips, cured
+-  Fish, meat (Alaska Native), devilfish
+-  Egg rolls, heated, refrigerated, pork
+-  McDONALD'S, Tangy Honey Mustard Sauce
+-  Baking chocolate, liquid, unsweetened
+-  Babyfood, strained, applesauce, fruit
+-  Mollusks, raw, mixed species, scallop
+-  Soybeans, raw, sprouted, mature seeds
+-  Turkey, raw, meat and skin, dark meat
+-  Mollusks, raw, mixed species, abalone
+-  Macaroni, cooked, enriched, vegetable
+-  SUNSHINE, Original Crackers, CHEEZ-IT
+-  Custard-apple, raw, (bullock's-heart)
+-  KASHI, Original 7-Grain Crackers, TLC
+-  Potatoes, with salt, skin only, baked
+-  TACO BELL, BURRITO SUPREME with steak
+-  Vitasoy USA, Organic Nasoya Firm Tofu
+-  Gravy, ready-to-serve, canned, turkey
+-  PIZZA HUT 14" Cheese Pizza, Pan Crust
+-  Snacks, NUTRI-GRAIN FRUIT AND NUT BAR
+-  Bananas, or banana powder, dehydrated
+-  Soup, powder, dry, cream of vegetable
+-  Babyfood, strained, with eggs, cereal
+-  Babyfood, dry fortified, rice, cereal
+-  SILK Vanilla soy yogurt (family size)
+-  Snack, hard chocolate coated, Pretzel
+-  Frozen yogurts, soft-serve, chocolate
+-  Tomato juice, with salt added, canned
+-  Tamales, masa and pork filling (Hopi)
+-  Beverages, Protein powder whey based
+-  Broccoli, unprepared, spears, frozen
+-  Vitasoy USA Nasoya, Lite Silken Tofu
+-  Vitasoy USA Azumaya, Extra Firm Tofu
+-  Taro, without salt, cooked, tahitian
+-  Bread, whole wheat, french or vienna
+-  Water, NAYA, non-carbonated, bottled
+-  Fast foods, french toast with butter
+-  Soup, dry, chicken broth or bouillon
+-  Apples, with skin, granny smith, raw
+-  Soup, restaurant-prepared, shark fin
+-  Soup, dry, beef flavor, ramen noodle
+-  Gravy, savory beef, HEINZ Home Style
+-  Babyfood, with calcium, apple, juice
+-  ARBY'S, classic, roast beef sandwich
+-  McDONALD'S, Crispy, RANCH SNACK WRAP
+-  Maraschino cherries, drained, canned
+-  Muffins, commercially prepared, corn
+-  Pork sausage, cooked, reduced sodium
+-  Cornmeal, yellow, enriched, degermed
+-  BEAR NAKED, Double Chocolate Cookies
+-  Soup, with water, low sodium, tomato
+-  TACO BELL, BURRITO SUPREME with beef
+-  MURRAY, Shortbread Bites, SUGAR FREE
+-  WENDY'S, with cheese, CLASSIC DOUBLE
+-  Potatoes, raw, flesh and skin, white
+-  Potatoes, baked, flesh and skin, red
+-  APPLEBEE'S, 9 oz house sirloin steak
+-  Soup, condensed, canned, beef noodle
+-  Pork sausage, unprepared, link/patty
+-  Pork and beef sausage, cooked, fresh
+-  Danish pastry, unenriched, raspberry
+-  Potatoes, solids and liquids, canned
+-  Babyfood, Baby MUM MUM Rice Biscuits
+-  Snacks, unsalted, regular, trail mix
+-  Ground turkey, raw, 7% fat, 93% lean
+-  Soup, condensed, canned, oyster stew
+-  KELLOGG'S, Blueberry, Pancakes, EGGO
+-  McDONALD'S, Sausage Biscuit with Egg
+-  Soup, condensed, canned, tomato rice
+-  KELLOGG'S, Strawberry, Waffles, EGGO
+-  KASHI, Zesty Salsa, Pita Crisps, TLC
+-  Babyfood, strained, peas, vegetables
+-  Mollusks, raw, wild, eastern, oyster
+-  Alcoholic beverage, red, table, wine
+-  Beef, smoked, cooked, sausage, cured
+-  Fast foods, miniature cinnamon rolls
+-  Caribou, raw (Alaska Native), tongue
+-  Beverages, diet, lemon, instant, tea
+-  Snacks, corn, brown rice, rice cakes
+-  Lean Pockets, Meatballs & Mozzarella
+-  Chili with beans, microwavable bowls
+-  Frozen novelties, orange, juice type
+-  Babyfood, junior, squash, vegetables
+-  Cheese, cheddar or colby, low-sodium
+-  Pork, raw, 96% lean / 4% fat, ground
+-  KEEBLER, Dash of Salt Crackers, CLUB
+-  MURRAY, Lemon Creme Sandwich Cookies
+-  Noodles, dry, enriched, spinach, egg
+-  Veal, raw, separable fat, Australian
+-  Pineapple, sweetened, chunks, frozen
+-  Sauce, ready-to-serve, canned, pizza
+-  Chocolate, 70-85% cacao solids, dark
+-  Seeds, dried, safflower seed kernels
+-  Waffles, prepared from recipe, plain
+-  Ostrich, pan-broiled, cooked, ground
+-  Gravy, fat free, chicken, CAMPBELL'S
+-  Candies, prepared-from-recipe, taffy
+-  PACE, Jalapenos Nacho Sliced Peppers
+-  Cream substitute, powdered, flavored
+-  Lima beans, raw, mature seeds, large
+-  Artificial Blueberry Muffin Mix, dry
+-  Beverages, canned, grape juice drink
+-  Cheese, with fruit, creamed, cottage
+-  Formulated bar, chocolate, POWER BAR
+-  Snacks, unsalted, sweet potato chips
+-  Alcoholic beverage, canned, daiquiri
+-  Turnip greens, no salt added, canned
+-  Chicken, raw, meat and skin, stewing
+-  Babyfood, toddler, beef stew, dinner
+-  Snacks, mixed flavors, granola bites
+-  CAMPBELL'S, low sodium, Tomato juice
+-  Beverages, bottled, Whiskey sour mix
+-  Fish, dry heat, cooked, chum, salmon
+-  Fish, dry heat, cooked, pink, salmon
+-  Babyfood, strained, carrots and beef
+-  Gravy, brown with onions, CAMPBELL'S
+-  Cereals, cooked with water, WHEATENA
+-  Chocolate, 60-69% cacao solids, dark
+-  Cookies, refrigerated dough, oatmeal
+-  Game meat, roasted, cooked, squirrel
+-  Fish, liver (Alaska Native), lingcod
+-  CAMPBELL'S Homestyle Minestrone Soup
+-  Brussels sprouts, unprepared, frozen
+-  Alcoholic beverage, all, table, wine
+-  Potatoes, without salt, flesh, baked
+-  Wheat flour, soft wheat, whole-grain
+-  KELLOGG'S, Buttermilk, Waffles, EGGO
+-  Fast foods, with chicken, quesadilla
+-  Snacks, nacho cheese, tortilla chips
+-  Snacks, ranch-flavor, tortilla chips
+-  Veal, raw, separable lean only, loin
+-  Desserts, dry mix, chocolate, rennin
+-  Frostings, ready-to-eat, coconut-nut
+-  Cereals, dry, chocolate, MALT-O-MEAL
+-  Fiddlehead ferns, unprepared, frozen
+-  Guava nectar, canned, with sucralose
+-  Egg, pasteurized, frozen, raw, whole
+-  Egg, pasteurized, frozen, raw, white
+-  Beverages, regular, cola, carbonated
+-  Sauce, pepper or hot, ready-to-serve
+-  Game meat, roasted, cooked, antelope
+-  Soup, homemade (Alaska Native), fish
+-  KASHI, Country Cheddar Crackers, TLC
+-  Sauce, prepared from recipe, sofrito
+-  Fish, raw, mixed species, yellowtail
+-  Cheese, nonfat or fat free, American
+-  Candies, ALMOND JOY BITES, HERSHEY'S
+-  Candies, SYMPHONY Milk Chocolate Bar
+-  Cheese, pimento, pasteurized process
+-  Seeds, dried, sunflower seed kernels
+-  ARCHWAY Home Style Cookies, Molasses
+-  Papaya, drained, heavy syrup, canned
+-  Snacks, lightly salted, potato chips
+-  French toast, ready-to-heat, frozen
+-  Beverages, sugar free, Energy Drink
+-  Beverages, Protein powder soy based
+-  Veal, cooked, separable fat, breast
+-  Snacks, low fat, microwave, popcorn
+-  Lemonade, white, frozen concentrate
+-  Snacks, salted, soy chips or crisps
+-  Swamp cabbage, raw, (skunk cabbage)
+-  Restaurant, black bean soup, Latino
+-  Babyfood, strained, apples with ham
+-  Snacks, rye, brown rice, rice cakes
+-  Oil, bowhead (Alaska Native), whale
+-  Oil, low linolenic, soy, industrial
+-  Oil, high oleic, canola, industrial
+-  Fish, dry heat, cooked, ocean, pout
+-  MURRAY, Oatmeal Cookies, SUGAR FREE
+-  Ham, low sodium, extra lean, smoked
+-  Babyfood, junior, meat sticks, meat
+-  Frozen yogurts, soft-serve, vanilla
+-  Pork and turkey sausage, pre-cooked
+-  WENDY'S, with cheese, Jr. Hamburger
+-  Turkey, deli cut, rotisserie, white
+-  Candies, SPECIAL DARK Chocolate Bar
+-  SUNSHINE, Asiago Crackers, CHEEZ-IT
+-  Peppers, freeze-dried, green, sweet
+-  McDONALD'S, Fruit 'n Yogurt Parfait
+-  Soup, condensed, canned, black bean
+-  PEPPERIDGE FARM, Pumpernickel Bread
+-  Stew, squash (Navajo), corn, mutton
+-  Stew, dumpling with mutton (Navajo)
+-  Danish pastry, unenriched, cinnamon
+-  Potatoes, home-prepared, hash brown
+-  APPLEBEE'S, chicken tenders platter
+-  Chicken, raw, meat and skin, capons
+-  Soup, condensed, canned, chili beef
+-  Cake, commercially prepared, sponge
+-  Beverages, Cran Cherry, OCEAN SPRAY
+-  Potatoes, prepared, frozen, o'brien
+-  Soup, condensed, canned, green, pea
+-  Soup, condensed, canned, minestrone
+-  Cake, dry mix, marble, pudding-type
+-  KELLOGG'S, Blueberry, Waffles, EGGO
+-  Potatoes, unprepared, whole, frozen
+-  Cookies, regular, dry mix, brownies
+-  FAMOUS AMOS, Chocolate Chip Cookies
+-  Beef, jellied, luncheon meat, cured
+-  Veal, raw, separable lean only, rib
+-  Caribou, raw (Alaska Native), liver
+-  Snacks, taco-flavor, tortilla chips
+-  Mustard spinach, raw, (tendergreen)
+-  Salad dressing, regular, mayonnaise
+-  Crustaceans, raw, northern, lobster
+-  KEEBLER, Reduced Fat Crackers, CLUB
+-  Sauce, original, OPEN PIT, barbecue
+-  Cornmeal, white, enriched, degermed
+-  Pie, commercially prepared, pumpkin
+-  Snacks, salted, plain, potato chips
+-  Soup, home-prepared, chicken, stock
+-  Dessert topping, frozen, semi solid
+-  Milk, 3.7% milkfat, fluid, producer
+-  Game meat, roasted, cooked, opossum
+-  Game meat, roasted, cooked, muskrat
+-  Cheese, nonfat or fat free, cheddar
+-  Tangerines, raw, (mandarin oranges)
+-  Gravy, fat free, turkey, CAMPBELL'S
+-  Soup, dry, any flavor, ramen noodle
+-  Cheese, reduced fat, blend, Mexican
+-  Cheese, imitation, american cheddar
+-  Gravy, ready-to-serve, canned, beef
+-  Pickles, low sodium, sour, cucumber
+-  Fish, raw (Alaska Native), sheefish
+-  Ice cream cones, cake or wafer-type
+-  Ice cream cones, rolled-type, sugar
+-  Beverages, Cranberry juice cocktail
+-  Apricots, uncooked, sulfured, dried
+-  Pears, drained, heavy syrup, canned
+-  Plums, drained, heavy syrup, canned
+-  Cheese, 1% milkfat, lowfat, cottage
+-  Cheese, 2% milkfat, lowfat, cottage
+-  Babyfood, apple-sweet potato, juice
+-  Tomatoes, stewed, canned, ripe, red
+-  Frostings, dry mix, creamy, vanilla
+-  Apples, heated, unsweetened, frozen
+-  Fish, raw, farmed, Atlantic, salmon
+-  Fish, raw, farmed, channel, catfish
+-  KEEBLER, Fudge Sticks, FUDGE SHOPPE
+-  Corn flour, white, unenriched, masa
+-  Bread crumbs, seasoned, grated, dry
+-  Beverages, powder, Whiskey sour mix
+-  Pineapple, extra sweet variety, raw
+-  Restaurant, orange chicken, Chinese
+-  Cookies, higher fat, vanilla wafers
+-  Beverages, chicory, instant, coffee
+-  Candies, soft fruit and nut squares
+-  Soup, ready-to-serve, chicken broth
+-  Vanilla extract, alcohol, imitation
+-  Peas and onions, unprepared, frozen
+-  Rhubarb, with sugar, cooked, frozen
+-  Goose, raw, meat only, domesticated
+-  Tomatoes, stewed, cooked, ripe, red
+-  Soybeans, dry roasted, mature seeds
+-  Wheat flour, enriched, bread, white
+-  Game meat, roasted, cooked, raccoon
+-  Seasoning mix, original, chili, dry
+-  Squab, raw, meat and skin, (pigeon)
+-  Salad dressing, low calorie, caesar
+-  Fish, prepared, frozen, fish sticks
+-  Potatoes, without salt, skin, baked
+-  Tomato sauce, no salt added, canned
+-  Cake, dry mix, yellow, pudding-type
+-  Babyfood, orange and apricot, juice
+-  Pork, unheated, patties, ham, cured
+-  Candies, REESE'S Peanut Butter Cups
+-  Snacks, barbecue-flavor, pork skins
+-  Snacks, very low sodium, corn cakes
+-  KELLOGG'S, Homestyle, Waffles, EGGO
+-  Snacks, cheese-flavor, potato chips
+-  Restaurant, cheese tamales, Mexican
+-  KASHI, Happy Trail Mix Cookies, TLC
+-  Hyacinth-beans, raw, immature seeds
+-  KEEBLER, Minis Multigrain Crackers, CLUB
+-  Veggie burgers or soyburgers, unprepared
+-  Snacks, peanut butter, hard, granola bars
+-  Cheese, reduced fat, dry grated, parmesan
+-  Rice, unenriched, raw, short-grain, white
+-  Crustaceans, canned, mixed species, shrimp
+-  Peanuts, with salt, dry-roasted, all types
+-  KASHI, Oatmeal Dark Chocolate Cookies, TLC
+-  Beverages, EAS whey protein powder, ABBOTT
+-  GLUTINO, Lemon Flavored, Gluten Free Wafers
+-  KASHI, Fire Roasted Vegetable Crackers, TLC
+-  Beans, cooked, ranch style, barbecue, chili
+-  KASHI Pizza, unprepared, frozen, Margherita
+-  Turkey from whole, raw, meat only, dark meat
+-  Cookies, vanilla sandwich with creme filling
+-  McDONALD'S, Egg & Cheese McGRIDDLES, Sausage
+-  Cereals ready-to-eat, COCO-ROOS, MALT-O-MEAL
+-  USDA Commodity, reduced fat, cheddar, cheese
+-  Carbonated beverage, chocolate-flavored soda
+-  Alcoholic Beverage, Merlot, red, table, wine
+-  Ham, regular (approximately 11% fat), sliced
+-  Alcoholic beverage, hard lemonade, malt beer
+-  Alcoholic beverage, 80 proof, rum, distilled
+-  SUNSHINE, White Cheddar, Snack Mix, CHEEZ-IT
+-  Rice, unenriched, cooked, short-grain, white
+-  Turkey, simmered, cooked, all classes, liver
+-  Turkey, simmered, cooked, all classes, heart
+-  Sweet potato, home-prepared, candied, cooked
+-  Shortening, fractionated palm, confectionery
+-  Chicken, raw, meat only, dark meat, roasting
+-  Chicken, simmered, cooked, giblets, roasting
+-  APPLEBEE'S, from kids' menu, chicken tenders
+-  Vegetable juice cocktail, canned, low sodium
+-  Cereals ready-to-eat, BASIC 4, GENERAL MILLS
+-  Cranberry juice cocktail, frozen concentrate
+-  Fast foods, with tartar sauce, fish sandwich
+-  MURRAY, Pecan Shortbread Cookies, SUGAR FREE
+-  Sausage, pork, beef, chicken, canned, Vienna
+-  KEEBLER, Butter Flavored Cookies, E.L. FUDGE
+-  SPAGHETTIOS, Mini Beef Ravioli in Meat Sauce
+-  KELLOGG'S, Low Fat, Homestyle, Waffles, EGGO
+-  Egg, pasteurized, sugared, frozen, raw, yolk
+-  Soup, prepared with water, cubed, beef broth
+-  KASHI Three Cheese Penne, unprepared, frozen
+-  Soup, ready-to-serve, canned, chunky, turkey
+-  Purslane, with salt, drained, boiled, cooked
+-  Cranberries, raw (Alaska Native), bush, wild
+-  SPAGHETTIOS, easy open, SpaghettiOs Original
+-  Turkey, raw, meat and skin, leg, all classes
+-  Candies, chocolate-flavor roll, TOOTSIE ROLL
+-  Babyfood, junior, sweet potatoes, vegetables
+-  Salad dressing, reduced fat, french dressing
+-  Vegetable smoothie, KALE BLAZER, NAKED JUICE
+-  Cereals ready-to-eat, KELLOGG'S KRAVE Smores
+-  KASHI Mayan Harvest Bake, unprepared, frozen
+-  KASHI, Frozen Entree, Chicken Pasta Pomodoro
+-  Frozen yogurts, flavors other than chocolate
+-  Eggplant, with salt, drained, boiled, cooked
+-  Snacks, white corn, unsalted, tortilla chips
+-  Parsnips, with salt, drained, boiled, cooked
+-  Spinach, unprepared, chopped or leaf, frozen
+-  KASHI, Frozen Entree, Sweet and Sour Chicken
+-  Figs, solids and liquids, water pack, canned
+-  Beverages, powder, no sugar added, Cocoa mix
+-  Fish, dry heat, cooked, mixed species, trout
+-  Cinnamon buns, frosted (includes honey buns)
+-  Frostings, ready-to-eat, cream cheese-flavor
+-  Game meat, pan-broiled, cooked, ground, deer
+-  Leavening agents, compressed, baker's, yeast
+-  PEPPERIDGE FARM, Jewish Rye Bread (Seedless)
+-  Bread stuffing, prepared, dry mix, cornbread
+-  Wonton wrappers (includes egg roll wrappers)
+-  Broccoli, with salt, drained, boiled, cooked
+-  Turkey, raw, meat only, back from whole bird
+-  Cake, dry mix, enriched, white, pudding-type
+-  CAMPBELL'S, Spicy Hot V8, V8 Vegetable Juice
+-  KELLOGG'S, Cheddar, Cracker Chips, SPECIAL K
+-  Celeriac, with salt, drained, boiled, cooked
+-  Collards, with salt, drained, boiled, cooked
+-  Beverages, as served in restaurant, Horchata
+-  Rice mix, unprepared, dry mix, cheese flavor
+-  KRAFT, STOVE TOP Stuffing Mix Chicken Flavor
+-  Fish, moist heat, cooked, wild, coho, salmon
+-  Ice creams, Vanilla, No Sugar Added, BREYERS
+-  Babyfood, junior, apple and blueberry, fruit
+-  Snacks, raisin, uncoated, soft, granola bars
+-  Alcoholic beverage, BUDWEISER, regular, beer
+-  WORTHINGTON Dinner Roast, unprepared, frozen
+-  Fish, dry heat, cooked, farmed, coho, salmon
+-  Biscuits, baked, frozen, plain or buttermilk
+-  Cake, fat-free, commercially prepared, pound
+-  Fruit cocktail, drained, heavy syrup, canned
+-  Leavening agents, active dry, baker's, yeast
+-  WENDY'S, no cheese, CLASSIC SINGLE Hamburger
+-  CAMPBELL'S Homestyle Butternut Squash Bisque
+-  Beverages, sweetened, mocha, instant, coffee
+-  Beverages, Diet Cranberry Juice, OCEAN SPRAY
+-  Alcoholic beverage, 90 proof, gin, distilled
+-  Cereals, dry, whole wheat hot natural cereal
+-  Squash, without salt, baked, hubbard, winter
+-  Bread, french or vienna (includes sourdough)
+-  Cookies, prepared from recipe, peanut butter
+-  CRACKER BARREL, country fried shrimp platter
+-  Rice, uncooked, enriched, short-grain, white
+-  Rice, uncooked, unenriched, glutinous, white
+-  Gravy, prepared, low sodium, meat or poultry
+-  Pancakes, ready-to-heat, frozen, gluten-free
+-  Fish, dry heat, cooked, wild, rainbow, trout
+-  Beverages, decaffeinated, brewed, green, tea
+-  Gums, seed gums (includes locust bean, guar)
+-  Snacks, unsalted, wheat-based, sesame sticks
+-  POPEYES, analyzed 2006, Spicy Chicken Strips
+-  Syrups, with 2% maple, pancake, table blends
+-  Fish, drained solids, canned, jack, mackerel
+-  Babyfood, orange and apple and banana, juice
+-  Candies, 3 MUSKETEERS Bar, MARS SNACKFOOD US
+-  MOTHER'S, Old Fashioned Iced Oatmeal Cookies
+-  Chicken, raw, meat only, light meat, stewing
+-  Soup, condensed, canned, split with ham, pea
+-  Fish, dry heat, cooked, mixed species, perch
+-  Pancakes, prepared, complete, dry mix, plain
+-  Babyfood, junior, pears and pineapple, fruit
+-  Babyfood, junior, apple and raspberry, fruit
+-  Alcoholic Beverage, Claret, red, table, wine
+-  Beef, raw, sweetbread, imported, New Zealand
+-  UDI'S, Whole Grain Dinner Rolls, Gluten Free
+-  Prickly pears, raw (Northern Plains Indians)
+-  Nuts, boiled and steamed, chinese, chestnuts
+-  Turkey, seasoned, light and dark meat, diced
+-  Beverages, powder, Carob-flavor beverage mix
+-  Lambsquarters, raw (Northern Plains Indians)
+-  Egg custards, prepared with 2% milk, dry mix
+-  Beverages, powder, unsweetened, instant, tea
+-  Seeds, low fat (glandless), cottonseed flour
+-  Squash, raw, includes skin, zucchini, summer
+-  Ice creams, no sugar added, light, chocolate
+-  KELLOGG'S, Blueberry, Mini Muffin Tops, EGGO
+-  KELLOGG'S, Original 3-Bean Chips, BEANATURAL
+-  Kohlrabi, with salt, drained, boiled, cooked
+-  Lamb, raw, sweetbread, imported, New Zealand
+-  Salad dressing, vinegar and oil, home recipe
+-  Egg, pasteurized, salted, frozen, raw, whole
+-  Pastry, Pastelitos de Guava (guava pastries)
+-  Fish, dry heat, cooked, bluefin, fresh, tuna
+-  ARCHWAY Home Style Cookies, Raspberry Filled
+-  Cheese spread, American, pasteurized process
+-  Candies, M&M MARS 3 MUSKETEERS Truffle Crisp
+-  Yogurt, DANNON OIKOS, vanilla, nonfat, Greek
+-  Vegetable oil-butter spread, reduced calorie
+-  PAPA JOHN'S 14" Cheese Pizza, Original Crust
+-  Peanuts, without salt, oil-roasted, valencia
+-  Peanuts, without salt, oil-roasted, virginia
+-  Babyfood, dry, with bananas, oatmeal, cereal
+-  Cheese, low moisture, whole milk, mozzarella
+-  CAMPBELL'S, condensed, Cream of Chicken Soup
+-  MOTHER'S, 4th of July Circus Animal Cookies
+-  Game meat, pan-broiled, cooked, ground, elk
+-  Chicken, raw, skin only, broilers or fryers
+-  Chicken, raw, meat only, broilers or fryers
+-  Beverages, no sugar added, chocolate powder
+-  WORTHINGTON Super Links, unprepared, canned
+-  Babyfood, Banana with orange medley, GERBER
+-  Turkey, raw, meat only, thigh, retail parts
+-  Pie, commercially prepared, coconut custard
+-  WORTHINGTON Wham (roll), unprepared, frozen
+-  Cherries, drained, water pack, canned, sour
+-  Ice creams, 98% Fat Free Chocolate, BREYERS
+-  Salad dressing, KRAFT Mayo Light Mayonnaise
+-  Prunes, uncooked, dehydrated (low-moisture)
+-  Fish, liver (Alaska Native), northern, pike
+-  Alcoholic beverage, canned, tequila sunrise
+-  Babyfood, mix vegetables junior, vegetables
+-  Sesbania flower, with salt, steamed, cooked
+-  Fish, sweet recipe, commercial, gefiltefish
+-  Roast beef, sliced, prepackaged, deli style
+-  DENNY'S, from kid's menu, macaroni & cheese
+-  Beverages, powder, regular, instant, coffee
+-  Plantains, Latino restaurant, fried, yellow
+-  Soup, prepared with water, mix, dry, tomato
+-  Candies, HERSHEY'S GOLDEN ALMOND SOLITAIRES
+-  Soup, condensed, canned, cream of asparagus
+-  Pork sausage, pan-fried, cooked, link/patty
+-  CAMPBELL'S, condensed, Cream of Potato Soup
+-  Dock, without salt, drained, boiled, cooked
+-  Beef, canned, with potato, corned beef hash
+-  Chicken, raw, meat only, dark meat, stewing
+-  Fish, raw, mixed species, Pacific, rockfish
+-  Nuts, with salt added, dry roasted, walnuts
+-  KEEBLER, Double Stuffed Cookies, E.L. FUDGE
+-  Babyfood, strained, turkey and rice, dinner
+-  OLIVE GARDEN, spaghetti with pomodoro sauce
+-  Beverage, not chocolate, dry, milkshake mix
+-  Kale, without salt, drained, boiled, cooked
+-  Cranberry sauce, OCEAN SPRAY, canned, whole
+-  Puddings, fat free, ready-to-eat, chocolate
+-  Desserts, prepared-from-recipe, apple crisp
+-  KELLOGG, Buttermilk Pancake, KELLOGG'S EGGO
+-  SPAGHETTIOS, SpaghettiOs with Sliced Franks
+-  Nuts, with salt added, oil roasted, almonds
+-  Nuts, with salt added, dry roasted, almonds
+-  GIRL SCOUTS, Caramel Dulce De Leche Cookies
+-  Babyfood, junior, creamed, corn, vegetables
+-  Pumpkin, with salt, drained, boiled, cooked
+-  Olives, canned (jumbo-super colossal), ripe
+-  KEEBLER, Chocolate Chip Cookies, SOFT BATCH
+-  KEEBLER, Simply Shortbread Cookies, SANDIES
+-  Alcoholic Beverage, Gamay, red, table, wine
+-  Babyfood, strained, corn and sweet potatoes
+-  Okra, without salt, drained, boiled, cooked
+-  KEEBLER, Cheese & Cheddar Sandwich Crackers
+-  Egg, pasteurized, salted, frozen, raw, yolk
+-  Crustaceans, moist heat, cooked, blue, crab
+-  CAMPBELL'S CHUNKY, New England Clam Chowder
+-  Candies, milk chocolate coated coffee beans
+-  Sauce, original, SWEET BABY RAY'S, barbecue
+-  POPEYES, analyzed 2006, Mild Chicken Strips
+-  Beverages, diet, ready-to-drink, green, tea
+-  PEPPERIDGE FARM, Whole Grain 15 Grain Bread
+-  Leavening agents, low-sodium, baking powder
+-  Beans, raw, mature seeds, royal red, kidney
+-  Naranjilla (lulo) pulp, unsweetened, frozen
+-  Snacks, plain, uncoated, soft, granola bars
+-  Beans, raw, mature seeds, cranberry (roman)
+-  Raspberries, wild (Northern Plains Indians)
+-  Beverages, fast-food cola, cola, carbonated
+-  Tomato products, with onions, sauce, canned
+-  Sauce, prepared-from-recipe, sweet and sour
+-  LOMA LINDA Little Links, unprepared, canned
+-  Salmon, total can contents, canned, sockeye
+-  Turnips, with salt, drained, boiled, cooked
+-  Tomatoes, drained, packed in oil, sun-dried
+-  Pie, commercially prepared, chocolate creme
+-  Salad dressing, reduced fat, ranch dressing
+-  KEEBLER, Cashew Shortbread Cookies, SANDIES
+-  KRAFT BREAKSTONE'S FREE Fat Free Sour Cream
+-  Babyfood, strained, bananas and rice, plums
+-  Wheat flour, unenriched, all-purpose, white
+-  KEEBLER, bite-size, Cinnamon Grahams, GRIPZ
+-  Restaurant, sweet and sour chicken, Chinese
+-  Restaurant, chicken and vegetables, Chinese
+-  Margarine-like spread, BENECOL Light Spread
+-  HEALTHY REQUEST, condensed, Minestrone Soup
+-  Peas and onions, solids and liquids, canned
+-  Babyfood, strained, mixed vegetable, dinner
+-  WENDY'S, single, DAVE'S Hot 'N Juicy 1/4 LB
+-  Babyfood, strained, banana pudding, dessert
+-  Fish, raw, mixed species, fresh water, bass
+-  Cookies, baked, refrigerated dough, oatmeal
+-  CRACKER BARREL, farm raised catfish platter
+-  Rice, cooked, enriched, medium-grain, white
+-  Beverages, diet, lemon, ready-to-drink, tea
+-  Nuts, with salt added, plain, almond butter
+-  Candies, MARS Almond Bar, MARS SNACKFOOD US
+-  Waffles, ready-to-heat, frozen, gluten-free
+-  Cookies, refrigerated dough, chocolate chip
+-  Beverages, Peach Mango, V8 SPLASH Smoothies
+-  Sweeteners, powder, dry, fructose, tabletop
+-  Balsam-pear (bitter gourd), raw, leafy tips
+-  Sausage, pork and beef, smoked link sausage
+-  Babyfood, mango with tapioca, fruit dessert
+-  Candies, M&M MARS Pretzel Chocolate Candies
+-  Chicken, stewed, cooked, meat only, stewing
+-  Chicken, simmered, cooked, giblets, stewing
+-  McDONALD'S, BIG MAC (without Big Mac Sauce)
+-  MURRAY, Butter Cookies, COOKIE JAR CLASSICS
+-  KELLOGG'S, Homestyle, Waffles, EGGO Protein
+-  Babyfood, strained, green beans, vegetables
+-  Alcoholic Beverage, Syrah, red, table, wine
+-  Snacks, sesame seed, brown rice, rice cakes
+-  Spinach, with salt, drained, boiled, cooked
+-  Salsify, with salt, drained, boiled, cooked
+-  Fireweed, raw (Alaska Native), young leaves
+-  Sauce, ready to serve, mild, red, enchilada
+-  Mayonnaise, low calorie or diet, low sodium
+-  Pasta, without added salt, enriched, cooked
+-  Candies, not chocolate covered, coconut bar
+-  Whale, raw (Alaska Native), flipper, beluga
+-  Beverages, unsweetened, lemon, instant, tea
+-  FAMOUS AMOS, Vanilla Sandwich Creme Cookies
+-  Cheese, low fat, swiss, pasteurized process
+-  Candies, dark chocolate coated coffee beans
+-  Rolls, reduced-calorie, hamburger or hotdog
+-  Beans, raw, mature seeds, all types, kidney
+-  Beans, canned, mature seeds, great northern
+-  Vitasoy USA, Organic Nasoya Extra Firm Tofu
+-  Yokan, prepared from adzuki beans and sugar
+-  Cheese, part-skim, low moisture, mozzarella
+-  Nuts, with salt added, plain, cashew butter
+-  LITTLE CAESARS 14" Cheese Pizza, Thin Crust
+-  GLUTINO, Vanilla Creme, Gluten Free Cookies
+-  GLUTINO, Milk Chocolate, Gluten Free Wafers
+-  Shortening, composite, household, vegetable
+-  KELLOGG'S, Buttermilk, Pancakes, EGGO Minis
+-  Peanuts, without salt, oil-roasted, spanish
+-  Cardoon, with salt, drained, boiled, cooked
+-  Carrots, with salt, drained, boiled, cooked
+-  Cereals ready-to-eat, RALSTON Corn Biscuits
+-  Gravy, slow roast, chicken, FRANCO-AMERICAN
+-  Hazelnuts, beaked (Northern Plains Indians)
+-  KELLOGG'S, Savory Herb Crackers, SPECIAL K
+-  Salad dressing, fat-free, italian dressing
+-  WORTHINGTON Diced Chik, unprepared, canned
+-  Fish, drained solids, canned, pink, salmon
+-  Cereals ready-to-eat, FRUITY PEBBLES, POST
+-  Nuts, with salt added, dry roasted, pecans
+-  Cereals ready-to-eat, KING VITAMAN, QUAKER
+-  Turkey, raw, meat only, wing, retail parts
+-  Vitasoy USA Organic Nasoya, Tofu Plus Firm
+-  Taro leaves, without salt, steamed, cooked
+-  Wheat flour, enriched, tortilla mix, white
+-  Ice cream, chocolate covered, bar or stick
+-  Babyfood, banana juice with low fat yogurt
+-  Fish, dry heat, cooked, wild, coho, salmon
+-  Broadbeans (fava beans), raw, mature seeds
+-  KEEBLER, Vienna Fingers with Creme Filling
+-  KEEBLER, Iced Lemonade Cookies, TRADITIONS
+-  Chicken, reheated, breaded, frozen, thighs
+-  Borage, with salt, drained, boiled, cooked
+-  Peanuts, with salt, oil-roasted, all types
+-  Nuts, with salt added, oil roasted, pecans
+-  Fish, dry heat, cooked, Atlantic, wolffish
+-  Fish, dry heat, cooked, greenland, halibut
+-  Beef, raw, 90% lean meat / 10% fat, ground
+-  Beef, raw, 85% lean meat / 15% fat, ground
+-  Beans, solids and liquids, canned, shellie
+-  Babyfood, strained, chicken noodle, dinner
+-  Cookies, chocolate-coated, graham crackers
+-  Deer (venison), raw (Alaska Native), sitka
+-  Crackers, without salt, plain, melba toast
+-  Nuts, lightly salted, oil roasted, almonds
+-  Fish, dry heat, cooked, mixed species, roe
+-  Babyfood, with calcium, fruit punch, juice
+-  McDONALD'S, Southern Style Chicken Biscuit
+-  KEEBLER, Shortbread Pie Crust, READY CRUST
+-  Babyfood, strained, green beans and turkey
+-  Babyfood, instant, dry, brown rice, cereal
+-  Rice, unenriched, raw, medium-grain, white
+-  Pasta, cooked, spinach, fresh-refrigerated
+-  Restaurant, general tso's chicken, Chinese
+-  Chicken, raw, meat only, cornish game hens
+-  WENDY'S, Homestyle Chicken Fillet Sandwich
+-  Nuts, coconut water (liquid from coconuts)
+-  Soup, prepared with water, mix, dry, onion
+-  Babyfood, strained, peach cobbler, dessert
+-  Bread, toasted, (includes gluten), protein
+-  Rice, UNCLE BENS, cooked, parboiled, brown
+-  Soymilk, unfortified, original and vanilla
+-  OSCAR MAYER, Chicken Breast (honey glazed)
+-  PEPPERIDGE FARM, Farmhouse Sourdough Bread
+-  Breakfast bar, corn flake crust with fruit
+-  Snacks, salted, wheat-based, sesame sticks
+-  Cereals ready-to-eat, KASHI Honey Sunshine
+-  Snacks, chocolate chip, hard, granola bars
+-  Chicken, simmered, cooked, giblets, capons
+-  Soup, condensed, canned, chicken vegetable
+-  Soup, condensed, canned, chicken with rice
+-  Tortilla chips, baked without fat, low fat
+-  Beef, raw, 70% lean meat / 30% fat, ground
+-  Pie, commercially prepared, lemon meringue
+-  Soup, condensed, canned, cream of mushroom
+-  CAMPBELL'S Low Sodium Soups, Chicken Broth
+-  Cereals ready-to-eat, KASHI GOLEAN CRUNCH!
+-  Mollusks, moist heat, cooked, blue, mussel
+-  ARCHWAY Home Style Cookies, Oatmeal Raisin
+-  Pancakes, incomplete, dry mix, whole wheat
+-  Chiton, gumboots (Alaska Native), leathery
+-  Yogurt, CHOBANI, strawberry, nonfat, Greek
+-  Fast foods, sausage, griddle cake sandwich
+-  Veal, raw, separable lean and fat, sirloin
+-  Whale, dried (Alaska Native), meat, beluga
+-  Beverages, chocolate malt powder, OVALTINE
+-  Snacks, multigrain, brown rice, rice cakes
+-  McDONALD'S, Egg & Cheese McGRIDDLES, Bacon
+-  Snacks, plain, cones, extruded, corn-based
+-  Snacks, onion-flavor, extruded, corn-based
+-  Snacks, plain, chips, extruded, corn-based
+-  MURRAY, Old Fashioned Iced Oatmeal Cookies
+-  Noodles, Chinese restaurant, crunchy, flat
+-  Onions, with salt, drained, boiled, cooked
+-  Game meat, raw, separable lean only, bison
+-  Game meat, raw, composite of cuts, beefalo
+-  Seeds, without salt, sunflower seed butter
+-  KEEBLER, Mini, Fudge Stripes, FUDGE SHOPPE
+-  Potatoes, with salt, flesh and skin, baked
+-  Beef, raw, 75% lean meat / 25% fat, ground
+-  Cream, pressurized, cream topping, whipped
+-  CAMPBELL'S Homestyle Vegetable Medley Soup
+-  Pasta, with added salt, unenriched, cooked
+-  Celery, with salt, drained, boiled, cooked
+-  Babyfood, dry, with bananas, mixed, cereal
+-  Dumpling, frozen, potato- or cheese-filled
+-  Egg substitute, fat free, liquid or frozen
+-  Beverages, Ruby Red cranberry, OCEAN SPRAY
+-  Fast foods, with egg and cheese, croissant
+-  LOMA LINDA Vege-Burger, unprepared, canned
+-  LOMA LINDA Redi-Burger, unprepared, canned
+-  LOMA LINDA Tender Bits, unprepared, canned
+-  Fast foods, with beans and cheese, burrito
+-  Alcoholic beverage, BUD LIGHT, light, beer
+-  WORTHINGTON Veja-Links, unprepared, canned
+-  WORTHINGTON Chic-Ketts, unprepared, frozen
+-  Beef, raw, 80% lean meat / 20% fat, ground
+-  Sweet potato, without skin, boiled, cooked
+-  KEEBLER, Pecan Shortbread Cookies, SANDIES
+-  Oil, bearded seal (Oogruk) (Alaska Native)
+-  CAMPBELL'S, Organic V8, V8 Vegetable Juice
+-  KEEBLER, Holiday, Almond Crescents Cookies
+-  Restaurant, shrimp and vegetables, Chinese
+-  HEALTHY REQUEST, condensed, Vegetable Soup
+-  Cookies, refrigerated dough, peanut butter
+-  Rice, cooked, enriched, short-grain, white
+-  Rice, cooked, unenriched, glutinous, white
+-  Candies, TWIZZLERS Strawberry Twists Candy
+-  Syrups, with butter, pancake, table blends
+-  Pancakes, prepared from recipe, buttermilk
+-  Cereals ready-to-eat, KASHI INDIGO MORNING
+-  Babyfood, strained, banana yogurt, dessert
+-  Fast foods, breaded and fried, onion rings
+-  Fish, dry heat, cooked, mixed species, eel
+-  PEPPERIDGE FARM, Whole Grain Oatmeal Bread
+-  Beans, raw, sprouted, mature seeds, kidney
+-  Sauce, refrigerated, ready-to-serve, pesto
+-  Sauce, shelf stable, ready-to-serve, pesto
+-  CAMPBELL'S, condensed, Cheddar Cheese Soup
+-  Fish, dry heat, cooked, Atlantic, mackerel
+-  Cheesecake prepared from mix, no-bake type
+-  Grapefruit juice, sweetened, canned, white
+-  MOTHER'S, Halloween Circus Animals Cookies
+-  Beets, solids and liquids, canned, pickled
+-  Beets, solids and liquids, canned, harvard
+-  Candies, with high vitamin C, fruit snacks
+-  MURRAY, Chocolate Chip Cookies, SUGAR FREE
+-  Pancakes, incomplete, dry mix, whole-wheat
+-  Cereals, Dry, Quick Oats with Iron, QUAKER
+-  Chicken, raw, skin (drumsticks and thighs)
+-  Nuts, unpeeled, dried, european, chestnuts
+-  Lime juice, unsweetened, canned or bottled
+-  Frostings, ready-to-eat, creamy, chocolate
+-  Waffles, ready-to-heat, frozen, buttermilk
+-  Tofu, prepared with calcium sulfate, fried
+-  Cereals ready-to-eat, CAP'N CRUNCH, QUAKER
+-  KEEBLER, Cheese on Wheat Sandwich Crackers
+-  Cereals, dry, plain, original, MALT-O-MEAL
+-  Chicken tenders, prepared, frozen, breaded
+-  KASHI Black Bean Mango, unprepared, frozen
+-  Mushrooms, raw, or crimini, italian, brown
+-  Ice creams, no sugar added, light, vanilla
+-  Malt beverage, includes non-alcoholic beer
+-  Game meat, roasted, cooked, water, buffalo
+-  CAMPBELL'S, condensed, Vegetable Beef Soup
+-  Vitasoy USA, Vitasoy Light Vanilla Soymilk
+-  Beverages, breakfast blend, brewed, coffee
+-  Cake, cherry fudge with chocolate frosting
+-  Babyfood, dry, with honey, oatmeal, cereal
+-  Babyfood, strained, with egg yolks, cereal
+-  Beverages, Acai Berry, V8 V- FUSION Juices
+-  Beverages, Peach Mango, V8 V-FUSION Juices
+-  Gravy, slow roast, turkey, FRANCO-AMERICAN
+-  Piki bread, made from blue cornmeal (Hopi)
+-  KELLOGG'S, Multigrain Crackers, SPECIAL K
+-  Milk, without added vitamin D, whole, dry
+-  Fast Foods, with egg and sausage, biscuit
+-  WORTHINGTON Saucettes, unprepared, canned
+-  Apples, boiled, cooked, without skin, raw
+-  Seeds, dried, whole, sisymbrium sp. seeds
+-  WORTHINGTON Stripples, unprepared, frozen
+-  WORTHINGTON Stakelets, unprepared, frozen
+-  Bread, commercially prepared, whole-wheat
+-  Cereals ready-to-eat, COCOA PEBBLES, POST
+-  KEEBLER, Honey Wheat Crackers, WHEATABLES
+-  KEEBLER, Iced Oatmeal Cookies, TRADITIONS
+-  Kielbasa, smoked, turkey and beef, Polish
+-  Alcoholic beverage, low carb, light, beer
+-  Beets, with salt, boiled. drained, cooked
+-  Cookies, baked, refrigerated dough, sugar
+-  Beverages, EAS soy protein powder, ABBOTT
+-  GARDENBURGER Original, unprepared, frozen
+-  Fish, dry heat, cooked, Atlantic, pollock
+-  MURRAY, Oatmeal Cookies, SOUTHERN KITCHEN
+-  Bread, toasted, oat bran, reduced-calorie
+-  KEEBLER, Chocolate Pie Crust, READY CRUST
+-  Snacks, unsalted, low fat, tortilla chips
+-  Chicken breast tenders, uncooked, breaded
+-  SUNSHINE, Scrabble Jr. Crackers, CHEEZ-IT
+-  Milk, lowfat, cultured, fluid, buttermilk
+-  Beans, raw, sprouted, mature seeds, pinto
+-  Pigeon peas (red gram), raw, mature seeds
+-  Sausage, egg and cheese breakfast biscuit
+-  SUNSHINE, Cheddar Jack Crackers, CHEEZ-IT
+-  Muffins, toasted, toaster-type, blueberry
+-  Cauliflower, no salt added, cooked, green
+-  T.G.I. FRIDAY'S, breaded, FRIDAY'S Shrimp
+-  Vegetables, drained solids, canned, mixed
+-  Soy sauce made from soy and wheat (shoyu)
+-  Fish, dry heat, cooked, spanish, mackerel
+-  Beverages, ready-to-drink, Tropical Punch
+-  Ruffed Grouse, raw, skinless, breast meat
+-  USDA Commodity, Flour Mix Low-fat, Bakery
+-  Chili con carne with beans, canned entree
+-  Alcoholic beverages, higher alcohol, beer
+-  Snacks, nonfat, fruit-filled, granola bar
+-  Babyfood, junior, turkey and rice, dinner
+-  Ground turkey, broiled, patties, fat free
+-  MURRAY, Peanut Butter Cookies, SUGAR FREE
+-  KELLOGG'S, Chocolate Chip, Pancakes, EGGO
+-  Ice creams, 98% Fat Free Vanilla, BREYERS
+-  Puddings, fat free, ready-to-eat, tapioca
+-  Puddings, fat free, ready-to-eat, vanilla
+-  FAMOUS AMOS, Chocolate Chip Pecan Cookies
+-  Cookies, made with rice cereal, chocolate
+-  Olives, green, canned or bottled, pickled
+-  Beverages, Limeade, Lemonada, MINUTE MAID
+-  Caribou, raw (Alaska Native), bone marrow
+-  Candies, BIT-O'-HONEY Candy Chews, NESTLE
+-  Jams, reduced sugar, marmalade, preserves
+-  Squash, with salt, baked, hubbard, winter
+-  Sauce, original, KC MASTERPIECE, barbecue
+-  Dip, medium, Cheese 'n Salsa, OLD EL PASO
+-  Pie, prepared from recipe, lemon meringue
+-  MURRAY, Coconut Cookies, SOUTHERN KITCHEN
+-  Pasta, cooked, made without egg, homemade
+-  Chicken, raw, giblets, broilers or fryers
+-  Turnip greens, solids and liquids, canned
+-  Rose Hips, wild (Northern Plains Indians)
+-  Sea lion, kidney (Alaska Native), Steller
+-  Beef, raw, 95% lean meat / 5% fat, ground
+-  KEEBLER, Reduced Fat Crackers, TOWN HOUSE
+-  Candies, with peanut butter, honey-combed
+-  Biscuits, refrigerated dough, mixed grain
+-  ARCHWAY Home Style Cookies, Iced Molasses
+-  Blueberries, drained, light syrup, canned
+-  Prunes, stewed, dehydrated (low-moisture)
+-  KRAFT BREAKSTONE'S Reduced Fat Sour Cream
+-  Beverages, low carb, MONSTER energy drink
+-  Peanuts, with salt, oil-roasted, virginia
+-  KEEBLER, Holiday, Gingerbread Men Cookies
+-  Peanuts, with salt, oil-roasted, valencia
+-  Puff pastry, baked, ready-to-bake, frozen
+-  Candies, HERSHEY'S POT OF GOLD Almond Bar
+-  Candies, with rice cereal, milk chocolate
+-  Candies, MILKY WAY Bar, MARS SNACKFOOD US
+-  Babyfood, junior, mixed vegetable, dinner
+-  PIZZA HUT 14" Cheese Pizza, Stuffed Crust
+-  Puddings, regular, dry mix, coconut cream
+-  Puddings, instant, dry mix, coconut cream
+-  Turkey, roasted, cooked, meat only, whole
+-  Soup, condensed, canned, cream of chicken
+-  Babyfood, junior, tropical fruit, dessert
+-  Pie crust, unbaked, regular, refrigerated
+-  Waxgourd, raw, (chinese preserving melon)
+-  Beef, raw, 93% lean meat / 7% fat, ground
+-  Beef, raw, 97% lean meat / 3% fat, ground
+-  Fish, dry heat, cooked, Atlantic, herring
+-  Babyfood, dry, with bananas, rice, cereal
+-  Cereals ready-to-eat, KASHI Berry Blossom
+-  KEEBLER, KEEBLER Chocolate Graham SELECTS
+-  Restaurant, chicken tenders, family style
+-  Macaroni and Cheese, microwavable, canned
+-  MURRAY, Old Fashioned Gingersnaps Cookies
+-  Beans, canned, mature seeds, black turtle
+-  HORMEL Pillow Pak Sliced Turkey Pepperoni
+-  Fish, dried (Alaska Native), chum, salmon
+-  Pancakes, prepared from recipe, blueberry
+-  Babyfood, junior, green beans, vegetables
+-  Soup, ready-to-serve, canned, chunky beef
+-  Soup, dry, powder, beef broth or bouillon
+-  Snacks, buckwheat, brown rice, rice cakes
+-  LOMA LINDA Big Franks, unprepared, canned
+-  Beef, cooked, brisket, corned beef, cured
+-  Oil, ultra low linolenic, soy, industrial
+-  KEEBLER, Club & Cheddar Sandwich Crackers
+-  Blueberries, frozen (Alaska Native), wild
+-  Whale, raw (Alaska Native), liver, beluga
+-  Oil, high oleic (70% and over), sunflower
+-  Lasagna with meat sauce, prepared, frozen
+-  Mushrooms, without salt, cooked, shiitake
+-  Bread, multi-grain (includes whole-grain)
+-  KEEBLER, Saltines with Whole Wheat, ZESTA
+-  Salad Dressing, fat-free, mayonnaise-like
+-  Leeks, raw, (bulb and lower leaf-portion)
+-  Soup, condensed, canned, chicken mushroom
+-  Cereals ready-to-eat, RALSTON Corn Flakes
+-  Milk, with lauric acid oil, fluid, filled
+-  Salad dressing, fat-free, french dressing
+-  Beans, plain or vegetarian, canned, baked
+-  Cereals ready-to-eat, TRIX, GENERAL MILLS
+-  ARCHWAY Home Style Cookies, Peanut Butter
+-  Pie, commercially prepared, coconut creme
+-  Peanut butter, without salt, smooth style
+-  Tortilla, Sakwavikaviki (Hopi), blue corn
+-  Salad dressing, fat-free, ranch dressing
+-  WORTHINGTON Choplets, unprepared, canned
+-  Snacks, 94% fat free, microwave, popcorn
+-  Beverages, powder, lemonade-flavor drink
+-  Bread, prepared from recipe, whole-wheat
+-  Babyfood, toddler, beef and rice, dinner
+-  ARCHWAY Home Style Cookies, Frosty Lemon
+-  Fish, dry heat, cooked, european, turbot
+-  PEPPERIDGE FARM, Light Style Wheat Bread
+-  Fish, dry heat, cooked, Pacific, herring
+-  Fish, dry heat, cooked, freshwater, drum
+-  Babyfood, junior, chicken noodle, dinner
+-  KEEBLER, Buttercrisps Crackers, TOASTEDS
+-  Applesauce, with salt, sweetened, canned
+-  Soup, SWANSON Chicken Broth 99% Fat Free
+-  Dock, with salt, drained, boiled, cooked
+-  Nuts, unpeeled, raw, european, chestnuts
+-  Cookies, regular, peanut butter sandwich
+-  Dutch brand loaf, pork and beef, chicken
+-  Beverages, Diet Cran Cherry, OCEAN SPRAY
+-  Alcoholic beverage, sweet, dessert, wine
+-  Turkey, simmered, cooked, giblets, whole
+-  Salad dressing, regular, caesar dressing
+-  Fish, raw, Atlantic and Pacific, halibut
+-  Rice, UNCLE BEN'S, dry, parboiled, brown
+-  WENDY'S, Ultimate Chicken Grill Sandwich
+-  Babyfood, strained, dutch apple, dessert
+-  Babyfood, strained, peach melba, dessert
+-  Babyfood, junior, peach cobbler, dessert
+-  Canada Goose, raw, skinless, breast meat
+-  PEPPERIDGE FARM, Farmhouse Oatmeal Bread
+-  PEPPERIDGE FARM, Hamburger Buns w/Sesame
+-  Rolls, whole wheat, hamburger or hot dog
+-  Chicken pot pie, prepared, frozen entree
+-  Beverages, Cran Pomegranate, OCEAN SPRAY
+-  Cookie, with icing or coating, chocolate
+-  Pasta, with added salt, enriched, cooked
+-  Soup, condensed, canned, mushroom barley
+-  Grapefruit, all areas, pink and red, raw
+-  MURRAY, Fudge Dipped Grahams, SUGAR FREE
+-  Frostings, ready-to-eat, creamy, vanilla
+-  KASHI, Frozen Entree, Chicken Florentine
+-  Cookies, commercially prepared, brownies
+-  Mushrooms, drained solids, canned, straw
+-  SUNSHINE, Hot & Spicy Crackers, CHEEZ-IT
+-  Mollusks, raw, mixed species, cuttlefish
+-  Olives, canned (small-extra large), ripe
+-  Babyfood, strained, apple yogurt dessert
+-  Apples, with skin, golden delicious, raw
+-  Pie, prepared from recipe, vanilla cream
+-  Lamb, raw, kidney, imported, New Zealand
+-  Okra, with salt, drained, boiled, cooked
+-  KASHI, Original, H2H Woven Wheat Cracker
+-  Bread stuffing, prepared, dry mix, bread
+-  Crackers, low-sodium, fat-free, saltines
+-  Cereals ready-to-eat, Waffle Crisp, Post
+-  Gravy, slow roast, beef, FRANCO-AMERICAN
+-  Gravy, microwavable, chicken, CAMPBELL'S
+-  Passion-fruit, raw, purple, (granadilla)
+-  Babyfood, dry fortified, oatmeal, cereal
+-  Cereals ready-to-eat, KIX, GENERAL MILLS
+-  Sea lion, heart (Alaska Native), Steller
+-  Sea lion, liver (Alaska Native), Steller
+-  KELLOGG'S, Multigrain Crackers, ALL-BRAN
+-  Beef, cooked, separable fat, retail cuts
+-  Tomato juice, without salt added, canned
+-  Cereals ready-to-eat, RALSTON CRISP RICE
+-  Fast foods, with beans and beef, burrito
+-  Corn flour, unenriched, degermed, yellow
+-  Alcoholic beverage, canned, whiskey sour
+-  Peanuts, with salt, oil-roasted, spanish
+-  Beverages, canned, Clam and tomato juice
+-  Beans, raw, sprouted, mature seeds, navy
+-  Babyfood, strained, chicken soup, dinner
+-  Oil, linoleic (less than 60%), sunflower
+-  Restaurant, sweet and sour pork, Chinese
+-  Beverages, with chicory, instant, coffee
+-  KELLOGG'S, Chocolate Chip, Waffles, EGGO
+-  Babyfood, strained, banana apple dessert
+-  Restaurant, assorted, egg rolls, Chinese
+-  Restaurant, beef and vegetables, Chinese
+-  Rice, enriched, raw, medium-grain, white
+-  Rice, Chinese restaurant, steamed, white
+-  PIZZA HUT 12" Pepperoni Pizza, Pan Crust
+-  SUNSHINE, Pepper Jack Crackers, CHEEZ-IT
+-  Cereals ready-to-eat, KASHI Simply Maize
+-  Fish, raw (Alaska Native), meat, lingcod
+-  Soup, condensed, canned, cream of celery
+-  PEPPERIDGE FARM, Seeded Jewish Rye Bread
+-  BURGER KING, with cheese, DOUBLE WHOPPER
+-  Babyfood, strained, creamed, corn, vegetables
+-  Frankfurter, fat free, and turkey, pork, beef
+-  Cereals, dry, plain, fortified, instant, oats
+-  Celery, without salt, drained, boiled, cooked
+-  Crustaceans, raw, mixed species, spiny lobster
+-  Ice cream bar, covered with chocolate and nuts
+-  MURRAY, Iced Oatmeal Cookies, SOUTHERN KITCHEN
+-  Restaurant, spaghetti with meat sauce, Italian
+-  Fruit juice smoothie, BLUE MACHINE, NAKED JUICE
+-  CAMPBELL'S Red and White, condensed, Beef Broth
+-  Turkey, raw, meat and skin, breast, all classes
+-  KEEBLER, Bistro Multigrain Crackers, TOWN HOUSE
+-  Limeade, prepared with water, frozen concentrate
+-  PIZZA HUT 12" Pepperoni Pizza, Hand-Tossed Crust
+-  KASHI, Frozen Entree, Lemongrass Coconut Chicken
+-  Cookies, special dietary, peanut butter sandwich
+-  PIZZA HUT 14" Sausage Pizza, THIN 'N CRISPY Crust
+-  Pineapple, solids and liquids, juice pack, canned
+-  Pineapple, solids and liquids, water pack, canned
+-  KELLOGG'S, Egg & Cheese, Biscuit Scramblers, EGGO
+-  Lambsquarters, with salt, drained, boiled, cooked
+-  SAGE VALLEY, Gluten Free Vanilla Sandwich Cookies
+-  USDA Commodity, canned, meatless, spaghetti sauce
+-  Rice cake, cracker (include hain mini rice cakes)
+-  USDA Commodity, raw, frozen, patties (100%), beef
+-  Potatoes, with salt, skin, cooked in skin, boiled
+-  Vitasoy USA, Organic Nasoya Super Firm Cubed Tofu
+-  Snacks, fruit, NUTRI-GRAIN Cereal Bars, KELLOGG'S
+-  McDONALD'S, Premium Grilled Chicken Club Sandwich
+-  Taquitos, oven-heated, chicken and cheese, frozen
+-  Turkey, roasted, meat only, from whole bird, wing
+-  Snacks, yogurt covered with vitamin C, candy bits
+-  Chicken, back meat only, BBQ, rotisserie, broiler
+-  KASHI Spinach Artichoke Pasta, unprepared, frozen
+-  Cereals ready-to-eat, LUCKY CHARMS, GENERAL MILLS
+-  Cookies, baked, refrigerated dough, peanut butter
+-  Frozen novelties, No Sugar Added CREAMSICLE Pops
+-  Fast foods, and bacon, cheese, with egg, biscuit
+-  PEPPERIDGE FARM, 100% Whole Wheat Hamburger Buns
+-  WORTHINGTON Low Fat Fri Chik, unprepared, canned
+-  WORTHINGTON FriChik Original, unprepared, canned
+-  Vitasoy USA Organic Nasoya, Tofu Plus Extra Firm
+-  Veal, raw, thymus, variety meats and by-products
+-  Veal, raw, spleen, variety meats and by-products
+-  Lamb, raw, spleen, variety meats and by-products
+-  Ice creams, chocolate, low carbohydrate, regular
+-  Crackers, saltines (includes oyster, soda, soup)
+-  Crackers, sandwich-type with cheese filling, rye
+-  Restaurant, bunuelos (fried yeast bread), Latino
+-  Beets, solids and liquids, no salt added, canned
+-  SUNSHINE, Italian Four Cheese Crackers, CHEEZ-IT
+-  Crustaceans, moist heat, cooked, dungeness, crab
+-  Fish, dry heat, cooked, mixed species, whitefish
+-  Babyfood, strained, garden vegetable, vegetables
+-  KEEBLER, Party Pack Cracker Assortment, TOASTEDS
+-  Margarine, soybean (hydrogenated), hard, regular
+-  Crackers, low salt, regular, standard snack-type
+-  Apricot nectar, with added ascorbic acid, canned
+-  HEALTHY REQUEST, condensed, Cream of Celery Soup
+-  Frozen novelties, FUDGSICLE pops, No Sugar Added
+-  Beverages, EVIAN, non-carbonated, bottled, water
+-  Mountain yam, with salt, steamed, cooked, hawaii
+-  Lentils, with salt, stir-fried, cooked, sprouted
+-  KEEBLER, Toast & Peanut Butter Sandwich Crackers
+-  Snacks, baked, restructured, white, potato chips
+-  Alcoholic beverage, 86 proof, whiskey, distilled
+-  Lentils, with salt, boiled, cooked, mature seeds
+-  CAMPBELL'S Homestyle Potato Broccoli Cheese Soup
+-  Cookies, regular, commercially prepared, oatmeal
+-  Fast foods, and ham, cheese, with egg, croissant
+-  Cereals, dry, plain, instant, corn grits, QUAKER
+-  Soy sauce made from hydrolyzed vegetable protein
+-  Alcoholic Beverage, Pinot Noir, red, table, wine
+-  Groundcherries, raw, (cape-gooseberries or poha)
+-  Rolls, wheat/cracked wheat, hamburger or hot dog
+-  DENNY'S, fried, battered or breaded, fish fillet
+-  Alcoholic beverage, Riesling, white, table, wine
+-  Pizza, cooked, frozen, thick crust, meat topping
+-  Soup, condensed, canned, manhattan, clam chowder
+-  MURRAY, Lemon Creme Sandwich Cookies, SUGAR FREE
+-  Cereals ready-to-eat, KELLOGG'S MUESLIX, KELLOGG
+-  Cornmeal, enriched, degermed, self-rising, white
+-  Babyfood, junior, applesauce and cherries, fruit
+-  Babyfood, junior, applesauce and apricots, fruit
+-  Cookies, enriched, commercially prepared, butter
+-  SPAGHETTIOS, SpaghettiOs A to Z's with Meatballs
+-  Soup, condensed, canned, tomato beef with noodle
+-  Escarole, no salt added, drained, boiled, cooked
+-  Babyfood, strained, creamed, spinach, vegetables
+-  CAMPBELL'S CHUNKY Soups, Hearty Beef Barley Soup
+-  Fruit juice smoothie, GREEN MACHINE, NAKED JUICE
+-  Crustaceans, home recipe, crab cakes, blue, crab
+-  Beef, raw, thymus, variety meats and by-products
+-  Beef, raw, spleen, variety meats and by-products
+-  Beef, raw, tongue, variety meats and by-products
+-  Lettuce, raw, iceberg (includes crisphead types)
+-  MURRAY, Chocolate Chip Cookies, SOUTHERN KITCHEN
+-  Fish, drained solids, canned in oil, white, tuna
+-  Okra, with salt, drained, boiled, cooked, frozen
+-  CAMPBELL'S Red and White, condensed, Lentil Soup
+-  Duck, meat (Alaska Native), white-winged, scoter
+-  Fish, raw (Alaska Native), coho (silver), salmon
+-  Crackers, LA MODERNA RIKIS CREAM CRACKERS, cream
+-  Beans, raw, mature seeds, california red, kidney
+-  Cereals ready-to-eat, Honey BUZZERS, MALT-O-MEAL
+-  Milk, with added vitamin D, 3.25% milkfat, whole
+-  Cereals ready-to-eat, KASHI 7 Whole Grain Flakes
+-  Butterbur, without salt, drained, boiled, cooked
+-  Burdock root, with salt, drained, boiled, cooked
+-  Beans, with pork and tomato sauce, canned, baked
+-  Cereals ready-to-eat, QUAKER Puffed Rice, QUAKER
+-  Chard, with salt, drained, boiled, cooked, swiss
+-  Crustaceans, raw (not previously frozen), shrimp
+-  MORNINGSTAR FARMS Veggie Dog, unprepared, frozen
+-  Cookies, lowfat, plain or honey, graham crackers
+-  Cereals ready-to-eat, KELLOGG SCOOBY-DOO! cereal
+-  Beverages, Orchard Blend, V8 SPLASH Juice Drinks
+-  Biscuits, prepared, dry mix, plain or buttermilk
+-  WORTHINGTON Vegetable Steaks, unprepared, canned
+-  Fish, dry heat, cooked, farmed, Atlantic, salmon
+-  Fish, dry heat, cooked, farmed, channel, catfish
+-  Babyfood, strained, vegetables and bacon, dinner
+-  KRAFT VELVEETA Pasteurized Process Cheese Spread
+-  Beans, unprepared, frozen, immature seeds, pinto
+-  Cereals, dry, 1 minute cook time, CREAM OF WHEAT
+-  Veal, raw, tongue, variety meats and by-products
+-  Lamb, raw, tongue, variety meats and by-products
+-  Chicken, raw, meat only, leg, broilers or fryers
+-  Sweeteners, SPLENDA packets, sucralose, tabletop
+-  Babyfood, junior, vegetables and chicken, dinner
+-  Pork sausage, unheated, fully cooked, link/patty
+-  Cereals ready-to-eat, KELLOGG'S CRISPIX, KELLOGG
+-  Beverages, sweetened, ready-to-drink, green, tea
+-  Chicken, barbecue flavored, glazed, frozen, wing
+-  PIZZA HUT 12" Cheese Pizza, THIN 'N CRISPY Crust
+-  Soup, chunk style, low sodium, beef and mushroom
+-  Arrowhead, without salt, drained, boiled, cooked
+-  Peppers, unprepared, chopped, frozen, red, sweet
+-  Sweet potato, drained solids, syrup pack, canned
+-  Fish, dry (Alaska Native), Pacific, herring eggs
+-  Macaroni and cheese loaf, pork and beef, chicken
+-  Beverages, frozen concentrate, Fruit punch drink
+-  Cereals ready-to-eat, COCOA PUFFS, GENERAL MILLS
+-  Cereals ready-to-eat, plain, toasted, wheat germ
+-  Soup, ready-to-serve, chunky, canned, minestrone
+-  Fish, with skin (Alaska Native), cooked, halibut
+-  Steelhead trout, flesh (Shoshone Bannock), dried
+-  Fish, raw (Alaska Native), sockeye (red), salmon
+-  USDA Commodity, cooked, frozen, turkey taco meat
+-  Pasta, as purchased, spinach, fresh-refrigerated
+-  Sauce, ready-to-serve, spaghetti/marinara, pasta
+-  SWANSON BROTH, Certified Organic Vegetable Broth
+-  PIZZA HUT 14" Pepperoni Pizza, Hand-Tossed Crust
+-  Alcoholic beverage, Semillon, white, table, wine
+-  KELLOGG'S, Honey Oat, Waffles, NUTRI-GRAIN, EGGO
+-  KELLOGG'S, Blueberry, Waffles, NUTRI-GRAIN, EGGO
+-  Cereals, dry, Whole Wheat Natural Cereal, QUAKER
+-  OLIVE GARDEN, cheese ravioli with marinara sauce
+-  Alcoholic Beverage, Sangiovese, red, table, wine
+-  McDONALD'S Bacon Ranch Salad with Crispy Chicken
+-  Coffeecake, dry mix, cinnamon with crumb topping
+-  Coffeecake, creme-filled with chocolate frosting
+-  Prickly pears, broiled (Northern Plains Indians)
+-  Veal, roasted, cooked, separable lean only, loin
+-  Veal, braised, cooked, separable lean only, loin
+-  Rutabagas, without salt, drained, boiled, cooked
+-  Lambsquarters, steamed (Northern Plains Indians)
+-  Mollusks, moist heat, cooked, unspecified, whelk
+-  Veal, raw, separable lean and fat, arm, shoulder
+-  Fruit juice smoothie, strawberry banana, ODWALLA
+-  Turkey, roasted, cooked, light meat, all classes
+-  DOMINO'S 14" Pepperoni Pizza, Crunchy Thin Crust
+-  SUNSHINE, Soup & Oyster Crackers (large), KRISPY
+-  Lamb, raw, seam fat, fresh, imported, Australian
+-  KELLOGG'S, Original, French Toaster Sticks, EGGO
+-  Pears, with added sugar, stewed, sulfured, dried
+-  Pear nectar, without added ascorbic acid, canned
+-  KASHI, Frozen Entree, Sesame Chicken, STEAM MEAL
+-  KELLOGG'S, Cinnamon, French Toaster Sticks, EGGO
+-  Pork sausage rice links, cooked, brown and serve
+-  Kale, with salt, drained, boiled, cooked, frozen
+-  Kale, with salt, drained, boiled, cooked, scotch
+-  Snacks, without peanuts, caramel-coated, popcorn
+-  Orange juice, includes from concentrate, chilled
+-  McDONALD'S, Premium Crispy Chicken Club Sandwich
+-  Seeds, dried (decorticated), sesame seed kernels
+-  Salad dressing, reduced calorie, french dressing
+-  Rice and vermicelli mix, unprepared, beef flavor
+-  Fish, drained solids, canned in oil, light, tuna
+-  PIZZA HUT 14" Cheese Pizza, THIN 'N CRISPY Crust
+-  Soup, canned, HEALTHY CHOICE Chicken Noodle Soup
+-  Cereals, dry, quick, white, hominy grits, QUAKER
+-  Babyfood, prepared with whole milk, rice, cereal
+-  Cabbage, with salt, drained, boiled, cooked, red
+-  Cereals ready-to-eat, SWEET CRUNCH/QUISP, QUAKER
+-  Beverages, Strawberry Banana, V8 V-FUSION Juices
+-  Turkey, raw, meat and skin, breast, retail parts
+-  School Lunch, whole grain breaded, chicken patty
+-  Sea lion, meat with fat (Alaska Native), Steller
+-  Fish, dry heat, cooked, mixed species, sea bass
+-  English muffins, mixed-grain (includes granola)
+-  Chicken, roasted, meat only, broilers or fryers
+-  Fish, raw (not previously frozen), Pacific, cod
+-  Broccoli, without salt, drained, boiled, cooked
+-  Turkey, raw, meat only, drumstick, retail parts
+-  Succotash, unprepared, frozen, (corn and limas)
+-  Beet greens, with salt, drained, boiled, cooked
+-  Fruit juice smoothie, MIGHTY MANGO, NAKED JUICE
+-  HEINZ, frozen, Chocolate Eclair, WEIGHT WATCHER
+-  Babyfood, strained, vegetables and lamb, dinner
+-  Cookies, with lemon juice and rind, ladyfingers
+-  Beef, raw, lungs, variety meats and by-products
+-  Cereals, dry, QUAKER MultiGrain Oatmeal, QUAKER
+-  Sauce, reduced sodium, ready-to-serve, teriyaki
+-  Celeriac, without salt, drained, boiled, cooked
+-  Sausage, reduced sodium, and beef, turkey, pork
+-  Beverages, bottled, cranberry-apple juice drink
+-  Lupins, with salt, boiled, cooked, mature seeds
+-  Snacks, unsalted, plain, brown rice, rice cakes
+-  Candies, prepared-from-recipe, chocolate, fudge
+-  CAMPBELL'S Homestyle Italian-Style Wedding Soup
+-  Sweeteners, packets, EQUAL, aspartame, tabletop
+-  Rice, enriched, raw, regular, long-grain, white
+-  Lamb, raw, heart, variety meats and by-products
+-  Veal, raw, heart, variety meats and by-products
+-  Lamb, raw, liver, variety meats and by-products
+-  Nuts, toasted, dried (desiccated), coconut meat
+-  Fast foods, with crispy chicken fillet, biscuit
+-  POPEYES, Skin and Breading, Mild, Fried Chicken
+-  Pasta, cooked, corn and rice flour, gluten-free
+-  McDONALD'S, FILET-O-FISH (without tartar sauce)
+-  Soup, condensed, canned, bean with frankfurters
+-  Chicken, roasted, cooked, meat and skin, capons
+-  Tomato products, with salt added, puree, canned
+-  Lemon juice from concentrate, canned or bottled
+-  Potatoes, unprepared, plain, frozen, hash brown
+-  CAMPBELL'S CHUNKY Soups, Split Pea 'N' Ham Soup
+-  Babyfood, junior, vegetables and turkey, dinner
+-  Babyfood, strained, macaroni and cheese, dinner
+-  Babyfood, junior, applesauce with banana, fruit
+-  Nuts, creamed, dried (desiccated), coconut meat
+-  Cereals ready-to-eat, KASHI 7 Whole Grain Puffs
+-  Eggplant, without salt, drained, boiled, cooked
+-  KELLOGG'S, Pumpkin Spice, Waffles, EGGO Seasons
+-  KELLOGG'S, Original, Waffles, NUTRI-GRAIN, EGGO
+-  Babyfood, strained, bananas with tapioca, fruit
+-  Veal, braised, cooked, separable lean only, rib
+-  Veal, roasted, cooked, separable lean only, rib
+-  Purslane, without salt, drained, boiled, cooked
+-  Rennin, prepared with 2% milk, dry mix, vanilla
+-  Yogurt, DANNON OIKOS, strawberry, nonfat, Greek
+-  Cookies, chocolate cream covered biscuit sticks
+-  Crustaceans, raw, wild, mixed species, crayfish
+-  Squash, with salt, baked, cooked, acorn, winter
+-  KASHI Pesto Pasta Primavera, unprepared, frozen
+-  Candies, CRUNCH Bar and Dessert Topping, NESTLE
+-  Veal, raw, separable lean only, leg (top round)
+-  Beef, raw, brain, variety meats and by-products
+-  Squash, raw, crookneck and straightneck, summer
+-  Seeds, partially defatted, sunflower seed flour
+-  Seaweed, dry, Canadian Cultivated EMI-TSUNOMATA
+-  Cocoa mix, Rich Chocolate Hot Cocoa Mix, NESTLE
+-  Milk dessert bar, made from lowfat milk, frozen
+-  Fish, dry heat, cooked, mixed species, sturgeon
+-  Seeds, roasted and toasted, whole, sesame seeds
+-  Candies, DOVE Dark Chocolate, MARS SNACKFOOD US
+-  Candies, DOVE Milk Chocolate, MARS SNACKFOOD US
+-  Chicken, simmered, cooked, all classes, gizzard
+-  Parsnips, without salt, drained, boiled, cooked
+-  Beans, with pork and sweet sauce, canned, baked
+-  Babyfood, strained, vegetables and beef, dinner
+-  Turkey, raw, meat only, from whole bird, breast
+-  Turkey, raw, meat and skin, thigh, retail parts
+-  Margarine-like spread, SMART BEAT Smart Squeeze
+-  Snacks, all flavors, DIPPS, QUAKER, granola bar
+-  CAMPBELL'S Soup on the Go, Creamy Broccoli Soup
+-  CAMPBELL'S Soup on the Go, Chicken & Stars Soup
+-  Collards, without salt, drained, boiled, cooked
+-  Cereals, with salt, cooked with water, WHEATENA
+-  Babyfood, mixed fruit juice with low fat yogurt
+-  Peaches, solids and liquids, water pack, canned
+-  Peaches, solids and liquids, juice pack, canned
+-  Chicken, raw, meat and skin, broilers or fryers
+-  Cauliflower, with salt, drained, boiled, cooked
+-  Crackers, with whole wheat, standard snack-type
+-  Caribou, raw (Alaska Native), hind quarter meat
+-  Beets, solids and liquids, regular pack, canned
+-  Beverages, Fruit Medley, V8 SPLASH Juice Drinks
+-  Tomatoes, with green chilies, canned, ripe, red
+-  KEEBLER, Original Crackers, TOPPERS, TOWN HOUSE
+-  Chicken, raw, separable fat, broilers or fryers
+-  Blueberries, drained, heavy syrup, canned, wild
+-  Lamb, raw, lungs, variety meats and by-products
+-  Veal, raw, lungs, variety meats and by-products
+-  Veal, raw, liver, variety meats and by-products
+-  Cereals ready-to-eat, HONEY GRAHAM OH!S, QUAKER
+-  Plums, with added sugar, stewed, dried (prunes)
+-  Fish, dry heat, cooked, mixed species, seatrout
+-  Candies, SNICKERS Almond bar, MARS SNACKFOOD US
+-  Turkey, smoked, low fat, and beef sausage, pork
+-  Oil, 80% diglycerides, ENOVA, cooking and salad
+-  Goose, roasted, cooked, meat only, domesticated
+-  Beverages, KELLOGG'S SPECIAL K20 protein powder
+-  Lamb, raw, brain, variety meats and by-products
+-  Veal, raw, brain, variety meats and by-products
+-  McDONALD'S, NEWMAN'S OWN Creamy Caesar Dressing
+-  Peppers, solids and liquids, canned, red, sweet
+-  Fish, raw, flatfish (flounder and sole species)
+-  Beverages, Tropical Colada, V8 SPLASH Smoothies
+-  Egg custards, prepared with whole milk, dry mix
+-  Soup, reduced sodium, condensed, canned, tomato
+-  Cereals ready-to-eat, Wheat CHEX, GENERAL MILLS
+-  Steelhead trout, canned (Alaska Native), boiled
+-  Thuringer, pork, beef, summer sausage, cervelat
+-  Alcoholic beverage, higher alcohol, light, beer
+-  Beverages, bottled, cranberry-grape juice drink
+-  Cereals ready-to-eat, GOLDEN PUFFS, MALT-O-MEAL
+-  Chicken, stewed, cooked, meat and skin, stewing
+-  Elk, raw (Shoshone Bannock), ground, free range
+-  Alcoholic Beverage, Carignane, red, table, wine
+-  Alcoholic Beverage, Lemberger, red, table, wine
+-  Alcoholic Beverage, Zinfandel, red, table, wine
+-  SPAGHETTIOS, Spaghetti in Tomato & Cheese Sauce
+-  Sweeteners, brown, granulated, sugar substitute
+-  Beef, raw, ribs prepared, imported, New Zealand
+-  UDI'S, Classic French Dinner Rolls, Gluten Free
+-  Beef, raw, tripe, variety meats and by-products
+-  Oil, fully hydrogenated, cottonseed, industrial
+-  Waffle, microwave, ready-to-heat, frozen, plain
+-  KEEBLER, Chocolate Lovers Cookies, CHIPS DELUXE
+-  Babyfood, strained, apricot with tapioca, fruit
+-  ARCHWAY Home Style Cookies, Date Filled Oatmeal
+-  Sweet potato leaves, with salt, steamed, cooked
+-  PAPA JOHN'S 14" The Works Pizza, Original Crust
+-  Beef, raw, heart, variety meats and by-products
+-  Beef, raw, liver, variety meats and by-products
+-  Noodles, with added salt, enriched, cooked, egg
+-  Mollusks, fried, cooked, mixed species, abalone
+-  Peas, with salt, drained, boiled, cooked, green
+-  CAMPBELL'S CHUNKY Soups, Manhattan Clam Chowder
+-  PAPA JOHN'S 14" Pepperoni Pizza, Original Crust
+-  Waffles, toasted, ready -to-heat, frozen, plain
+-  Kohlrabi, without salt, drained, boiled, cooked
+-  Potatoes, no salt added, drained solids, canned
+-  Bread, pan de torta salvadoran, pound cake type
+-  Nuts, with salt added, dry roasted, cashew nuts
+-  Nuts, with salt added, oil roasted, cashew nuts
+-  Squash, canned, italian style, zucchini, summer
+-  Fish, fermented (Alaska Native), tipnuk, salmon
+-  Milk dessert, chocolate, milk-fat free, frozen
+-  Cake, dry mix, unenriched, white, pudding-type
+-  Chicken, stewed, meat only, broilers or fryers
+-  Nuts, without salt added, plain, almond butter
+-  Salad dressing, soybean, imitation, mayonnaise
+-  Fish, dry heat, cooked, farmed, rainbow, trout
+-  Cereals ready-to-eat, Corn CHEX, GENERAL MILLS
+-  Ice creams, vanilla, low carbohydrate, regular
+-  Chicken breast, sliced, fat-free, oven-roasted
+-  Soup, single brand, condensed, bean with bacon
+-  Fish, dry heat, cooked, fresh, yellowfin, tuna
+-  INTERSTATE BRANDS CORP, WONDER Hamburger Rolls
+-  Babyfood, strained, vegetables and ham, dinner
+-  Salad Dressing, reduced fat, coleslaw dressing
+-  Peach nectar, with added ascorbic acid, canned
+-  Beans, low sodium, canned, mature seeds, black
+-  Fish, dry heat, cooked, wild, Atlantic, salmon
+-  Syrups, reduced-calorie, pancake, table blends
+-  Fish, solids and liquid, canned, Atlantic, cod
+-  Alcoholic beverage, 80 proof, vodka, distilled
+-  Soup, condensed, low sodium, canned, vegetable
+-  Sauce, canned, mature red, chili, hot, peppers
+-  KASHI Pizza, unprepared, frozen, Mediterranean
+-  Turkey, simmered, cooked, all classes, gizzard
+-  Fish, dry heat, cooked, mixed species, grouper
+-  ARCHWAY Home Style Cookies, Sugar Free Oatmeal
+-  Chicken, raw, meat and skin, cornish game hens
+-  WENDY'S, with cheese, CLASSIC SINGLE Hamburger
+-  Candies, SNICKERS MUNCH bar, MARS SNACKFOOD US
+-  Sauce, CHA! BY TEXAS PETE, sriracha, hot chile
+-  McDONALD'S, Vanilla Reduced Fat Ice Cream Cone
+-  BURGER KING, CROISSAN'WICH with Egg and Cheese
+-  Candies, peanut butter, confectioner's coating
+-  Potatoes, home-prepared with butter, scalloped
+-  GEORGE WESTON BAKERIES, Thomas English Muffins
+-  Babyfood, junior, banana and strawberry, fruit
+-  Vegetable juice, DAILY GREENS, BOLTHOUSE FARMS
+-  Babyfood, strained, apple and blueberry, fruit
+-  Beverages, ready-to-drink, ENSURE PLUS, ABBOTT
+-  Dip, cheese and salsa- medium, salsa con queso
+-  KEEBLER, Original, Snack Sticks, CLUB Crackers
+-  Chicken, pan-fried, cooked, all classes, liver
+-  McDONALD'S, DOUBLE QUARTER POUNDER with Cheese
+-  KELLOGG'S, Low Fat, Waffles, NUTRI-GRAIN, EGGO
+-  Lemon juice from concentrate, CONCORD, bottled
+-  Corn, microwaved, frozen, whole kernel, yellow
+-  Soup, ready-to-serve, canned, chunky vegetable
+-  Pumpkin, without salt, drained, boiled, cooked
+-  Alcoholic Beverage, Burgundy, red, table, wine
+-  Alcoholic Beverage, Mouvedre, red, table, wine
+-  Beef, raw, suet, variety meats and by-products
+-  Sesbania flower, without salt, steamed, cooked
+-  Nuts, without salt added, oil roasted, almonds
+-  Nuts, without salt added, dry roasted, almonds
+-  Beverages, powder, chocolate, malted drink mix
+-  Cereals ready-to-eat, Crispy Rice, MALT-O-MEAL
+-  Milk, reduced fat, cultured, fluid, buttermilk
+-  Soybeans, no salt added, roasted, mature seeds
+-  Beef, broiled, cooked, frozen, patties, ground
+-  Yogurt parfait, with fruit and granola, lowfat
+-  Carrots, without salt, drained, boiled, cooked
+-  Cardoon, without salt, drained, boiled, cooked
+-  Fish, dry heat, cooked, mixed species, snapper
+-  Seeds, partially defatted, safflower seed meal
+-  Pie Crust, Ready Crust, Chocolate, Cookie-type
+-  Frozen novelties, juice with cream, juice type
+-  Cereals ready-to-eat, Rice CHEX, GENERAL MILLS
+-  CAMPBELL'S Soup on the Go, Classic Tomato Soup
+-  Rice mix, unprepared, flavored, white and wild
+-  Tomato products, with mushrooms, sauce, canned
+-  Caribou, half dried (Alaska Native), rump meat
+-  Fish, total can contents, canned, pink, salmon
+-  Beverages, Berry Blend, V8 SPLASH Juice Drinks
+-  Beverages, Mango Peach, V8 SPLASH Juice Drinks
+-  Doughnuts, sugared or glazed, plain, cake-type
+-  Cereals ready-to-eat, Apple ZINGS, MALT-O-MEAL
+-  Fish, dry heat, cooked, wild, channel, catfish
+-  Cereals ready-to-eat, Christmas Crunch, QUAKER
+-  Oopah (tunicate), whole animal (Alaska Native)
+-  Sausage, smoked, skinless, pork, beef, chicken
+-  Bratwurst, smoked, lite, beef and turkey, pork
+-  Crackers, with cheese filling, sandwich, wheat
+-  Guava nectar, with added ascorbic acid, canned
+-  Babyfood, strained, apples and chicken, dinner
+-  Babyfood, junior, broccoli and chicken, dinner
+-  Nuts, without salt added, plain, cashew butter
+-  MORNINGSTAR FARMS Corn Dog, unprepared, frozen
+-  Duck, roasted, cooked, meat only, domesticated
+-  Frankfurter, grilled, cooked, meat and poultry
+-  KASHI, Roasted Garlic, H2H Woven Wheat Cracker
+-  Prairie Turnips, raw (Northern Plains Indians)
+-  Seasoning mix, coriander & annatto, sazon, dry
+-  Babyfood, strained, vegetables chicken, dinner
+-  Cereals ready-to-eat, Honey KIX, GENERAL MILLS
+-  Turkey, raw, (light and dark), skin from whole
+-  Cereals ready-to-eat, BOO BERRY, GENERAL MILLS
+-  Gelatin desserts, prepared with water, dry mix
+-  Cereals ready-to-eat, CORN BURSTS, MALT-O-MEAL
+-  Ice creams, All Natural Light Vanilla, BREYERS
+-  Cereals ready-to-eat, KELLOGG'S CINNAMON JACKS
+-  T.G.I. FRIDAY'S, classic sirloin steak (10 oz)
+-  Syrups, and sugar, refiner, corn, table blends
+-  Pasta, as purchased, plain, fresh-refrigerated
+-  Cheese, low fat, American, pasteurized process
+-  MOTHER'S, Old Fashioned Chocolate Chip Cookies
+-  Candies, crispy bar with peanut butter filling
+-  KELLOGG'S, Buttermilk, FIBERPLUS Waffles, EGGO
+-  Pancakes, prepared, incomplete, dry mix, plain
+-  Babyfood, strained, pears and pineapple, fruit
+-  Babyfood, strained, apple and raspberry, fruit
+-  Egg, glucose reduced, stabilized, dried, whole
+-  Pork, raw or unheated, breakfast strips, cured
+-  CAMPBELL'S CHUNKY Soups, Savory Pot Roast Soup
+-  CAMPBELL'S CHUNKY Soups, Savory Vegetable Soup
+-  Cereals ready-to-eat, fortified, puffed, wheat
+-  OLIVE GARDEN, chicken parmigiana without pasta
+-  Puddings, with no added salt, dry mix, tapioca
+-  Beverages, lemon, ready-to-drink, tea, ARIZONA
+-  Chicken, pan-browned, cooked, crumbles, ground
+-  Milk, with added vitamin A, evaporated, canned
+-  Seeds, roasted (glandless), cottonseed kernels
+-  Beef, raw or unheated, breakfast strips, cured
+-  Salsify, without salt, drained, boiled, cooked
+-  CAMPBELL'S CHUNKY, Classic Chicken Noodle Soup
+-  CAMPBELL'S CHUNKY Soups, Steak 'N' Potato Soup
+-  Soy protein concentrate, produced by acid wash
+-  Tofu, prepared with calcium sulfate, firm, raw
+-  Babyfood, butternut squash and corn, vegetable
+-  Sweet potato, with salt, baked, cooked, frozen
+-  Turkey, raw, meat only, from whole bird, thigh
+-  Spinach, without salt, drained, boiled, cooked
+-  Puddings, prepared with 2% milk, dry mix, rice
+-  Alcoholic beverage, Muscat, white, table, wine
+-  Taquitos, oven-heated, beef and cheese, frozen
+-  Turkey, roasted, cooked, dark meat, from whole
+-  Candies, made with butter, semisweet chocolate
+-  PIZZA HUT 14" Sausage Pizza, Hand-Tossed Crust
+-  DOMINO'S 14" Sausage Pizza, Crunchy Thin Crust
+-  Potatoes, unprepared, refrigerated, hash brown
+-  Lotus root, with salt, drained, boiled, cooked
+-  Beans, canned, mature seeds, cranberry (roman)
+-  Beans, canned, mature seeds, all types, kidney
+-  KEEBLER, Original, Fudge Stripes, FUDGE SHOPPE
+-  Fish, dry heat, cooked, mixed species, whiting
+-  Egg, glucose reduced, stabilized, dried, white
+-  Waffles, ready-to-heat, frozen, chocolate chip
+-  Beans, sweetened, canned, mature seeds, adzuki
+-  Turnips, without salt, drained, boiled, cooked
+-  Cabbage, without salt, drained, boiled, cooked
+-  Carrots, drained solids, no salt added, canned
+-  Turkey, raw, meat and skin, wing, retail parts
+-  CAMPBELL'S Soup on the Go, Vegetable Beef Soup
+-  CAMPBELL'S Soup on the Go, Creamy Chicken Soup
+-  MOTHER'S, Double Fudge Creme Sandwich Cookies
+-  Alcoholic beverage, 53 proof, coffee, liqueur
+-  Willow, chopped (Alaska Native), young leaves
+-  Frozen novelties, CREAMSICLE Pops, Sugar Free
+-  Cereals ready-to-eat, GRAPE-NUTS Flakes, POST
+-  Cereals ready-to-eat, GRAPE-NUTS Cereal, POST
+-  Corn, yellow (Northern Plains Indians), dried
+-  WORTHINGTON Prosage Links, unprepared, frozen
+-  Cereals ready-to-eat, CHEERIOS, GENERAL MILLS
+-  Broadbeans (fava beans), canned, mature seeds
+-  Formulated bar, NUTZ OVER CHOCOLATE, LUNA BAR
+-  Salad dressing, regular, sesame seed dressing
+-  Cocoa, plain, hi-fat or breakfast, dry powder
+-  Peanuts, with salt, boiled, cooked, all types
+-  Fish, dry heat, cooked, fresh, skipjack, tuna
+-  Turkey, raw, meat and skin, wing, all classes
+-  Babyfood, junior, bananas with tapioca, fruit
+-  Babyfood, mix vegetables strained, vegetables
+-  Babyfood, junior, vegetables and lamb, dinner
+-  Fish, liver (Alaska Native), broad, whitefish
+-  Alcoholic beverage, 72 proof, creme de menthe
+-  Pear nectar, with added ascorbic acid, canned
+-  Babyfood, toddler, fruit medley, juice treats
+-  Potatoes, without salt, flesh and skin, baked
+-  CAMPBELL'S Homestyle New England Clam Chowder
+-  Beverages, SPECIAL K Protein Shake, KELLOGG'S
+-  Squash, unprepared, frozen, butternut, winter
+-  Candies, prepared-from-recipe, vanilla, fudge
+-  Alcoholic beverage, 63 proof, coffee, liqueur
+-  Rice, unenriched, cooked, medium-grain, white
+-  Soybeans, without salt, boiled, mature cooked
+-  Sauce, TUONG OT SRIRACHA, sriracha, hot chile
+-  Chicken, raw, meat only, light meat, roasting
+-  Chicken, roasted, cooked, meat only, roasting
+-  Peppers, solids and liquids, canned, jalapeno
+-  Candies, caramel with nuts, chocolate covered
+-  Candies, butterscotch, confectioner's coating
+-  Fish, with skin (Alaska Native), raw, halibut
+-  Fish, dry heat, cooked, Atlantic, ocean perch
+-  Candies, prepared-from-recipe, peanut brittle
+-  Babyfood, junior, egg yolks and bacon, cereal
+-  PILLSBURY, dry, Traditional Fudge Brownie Mix
+-  Borage, without salt, drained, boiled, cooked
+-  Babyfood, strained, banana with mixed berries
+-  Beverages, White Cranberry Peach, OCEAN SPRAY
+-  Milk, homemade, hot cocoa, chocolate beverage
+-  Tortillas, whole wheat, ready-to-bake or -fry
+-  Candies, SNICKERS CRUNCHER, MARS SNACKFOOD US
+-  Ground turkey, pan-broiled crumbles, fat free
+-  Cookies, with creme filling, oatmeal sandwich
+-  Cake, dry mix, german chocolate, pudding-type
+-  KELLOGG'S, Strawberry Strudel, Wafflers, EGGO
+-  MURRAY, Fudge Dipped Mint Cookies, SUGAR FREE
+-  Cranberry sauce, OCEAN SPRAY, canned, jellied
+-  Soup, condensed, canned, vegetarian vegetable
+-  Babyfood, junior, apricot with tapioca, fruit
+-  Mollusks, liquid, canned, mixed species, clam
+-  Corned beef and potatoes in tortilla (Apache)
+-  Babyfood, sweet potatoes strained, vegetables
+-  Salad dressing, low calorie, russian dressing
+-  Snacks, with vitamin C, pieces, fruit leather
+-  Pears, solids and liquids, water pack, canned
+-  Pears, solids and liquids, juice pack, canned
+-  Spinach, drained solids, regular pack, canned
+-  KASHI, Frozen Entree, Southwest Style Chicken
+-  PEPPERIDGE FARM, Farmhouse Hearty White Bread
+-  CAMPBELL'S, High Fiber V8, V8 Vegetable Juice
+-  Carrots, drained solids, regular pack, canned
+-  Milk substitutes, with lauric acid oil, fluid
+-  CAMPBELL'S, condensed, Chicken with Rice Soup
+-  Chicken, simmered, cooked, all classes, heart
+-  Chicken, simmered, cooked, all classes, liver
+-  Butterbur, with salt, drained, boiled, cooked
+-  Cereals ready-to-eat, POST Raisin Bran Cereal
+-  Frozen novelties, pineapple-coconut, ice type
+-  Turnip greens and turnips, unprepared, frozen
+-  Vegetables, solids and liquids, canned, mixed
+-  CAMPBELL'S, Low Sodium V8, V8 Vegetable Juice
+-  CAMPBELL'S, V8 V-Lite, V8 60% Vegetable Juice
+-  KELLOGG'S, Sea Salt, Cracker Chips, SPECIAL K
+-  Beverages, sugar free, ROCKSTAR, Energy drink
+-  Turkey, roasted, cooked, skin only, young hen
+-  KELLOGG'S, Garlic and Herb Crackers, ALL-BRAN
+-  Caribou, dried (Alaska Native), shoulder meat
+-  Fish, drained solids, canned, sockeye, salmon
+-  Arrowhead, with salt, drained, boiled, cooked
+-  Asparagus, with salt, drained, boiled, cooked
+-  Babyfood, toddler, beef with vegetables, meat
+-  Cheese, large or small curd, creamed, cottage
+-  Doughnuts, with jelly filling, yeast-leavened
+-  Doughnuts, with creme filling, yeast-leavened
+-  Restaurant, prepared, beef, empanadas, Latino
+-  Mollusks, moist heat, cooked, Pacific, oyster
+-  Mollusks, moist heat, cooked, common, octopus
+-  Beef, raw, lean only, strip steaks, grass-fed
+-  Babyfood, junior, vegetables and beef, dinner
+-  KEEBLER, Deluxe Grahams Cookies, FUDGE SHOPPE
+-  KEEBLER, Caramel Filled Cookies, FUDGE SHOPPE
+-  Cereals ready-to-eat, Oatmeal Squares, QUAKER
+-  Fish, dry heat, cooked, pumpkin seed, sunfish
+-  FAMOUS AMOS, Chocolate Sandwich Creme Cookies
+-  Shortening, lard and vegetable oil, household
+-  Shortening industrial, lard and vegetable oil
+-  Snacks, unsalted, chips, extruded, corn-based
+-  Frankfurter, boiled, cooked, meat and poultry
+-  Restaurant, without meat, fried rice, Chinese
+-  DOMINO'S 14" Cheese Pizza, Crunchy Thin Crust
+-  PIZZA HUT 12" Cheese Pizza, Hand-Tossed Crust
+-  Sauce, with salt, bottled, tomato chili sauce
+-  Turkey, roasted, cooked, meat and skin, whole
+-  Squab, raw, light meat without skin, (pigeon)
+-  Tomato products, spanish style, sauce, canned
+-  Babyfood, strained, blueberry yogurt, dessert
+-  Soup, ready-to-serve, chunky, canned, chicken
+-  Nuts, boiled and steamed, european, chestnuts
+-  Cereals ready-to-eat, WHEATIES, GENERAL MILLS
+-  KEEBLER, Coconut Dreams Cookies, FUDGE SHOPPE
+-  ARCHWAY Home Style Cookies, Strawberry Filled
+-  Soup, ready-to-serve, canned, lentil with ham
+-  OSCAR MAYER, Ham (chopped with natural juice)
+-  USDA Commodity, frozen, chicken fajita strips
+-  Seeds, with salt added, sunflower seed butter
+-  Chokecherries, pitted (Shoshone Bannock), raw
+-  Nuts, without salt added, oil roasted, pecans
+-  Nuts, without salt added, dry roasted, pecans
+-  Babyfood, green beans and potatoes, vegetable
+-  Babyfood, junior, macaroni and cheese, dinner
+-  Cereals ready-to-eat, fortified, puffed, rice
+-  Pasta, without added salt, unenriched, cooked
+-  Alcoholic Beverage, Barbera, red, table, wine
+-  Babyfood, fruit filling, fortified cereal bar
+-  McDONALD'S, Bacon Ranch Salad without chicken
+-  VAN'S, Totally Original Pancakes, Gluten Free
+-  JACKSON'S, Old Fashioned Lemon Jumble Cookies
+-  Babyfood, strained, without vitamin c, prunes
+-  Rutabagas, with salt, drained, boiled, cooked
+-  Oil, contains added sliced flaxseed, flaxseed
+-  Beverages, high caffeine, limeade, carbonated
+-  Game meat, pan-broiled, cooked, ground, bison
+-  Mollusks, fried, cooked, mixed species, squid
+-  Fish, regular, (lox), smoked, chinook, salmon
+-  Veal, raw, separable lean only, arm, shoulder
+-  Beverages, without caffeine, cola, carbonated
+-  Beef, cooked, unspecified fat content, ground
+-  Babyfood, GERBER GRADUATE YOGURT MELTS, snack
+-  Lamb, raw, ground lamb, imported, New Zealand
+-  Snacks, with peanuts, caramel-coated, popcorn
+-  KEEBLER, Oatmeal, Fudge Stripes, FUDGE SHOPPE
+-  CAMPBELL'S CHUNKY Soups, Chicken Corn Chowder
+-  Nuts, boiled and steamed, japanese, chestnuts
+-  Cake, commercially prepared, boston cream pie
+-  Beverages, citrus flavor, VAULT, Energy drink
+-  PIZZA HUT 14" Cheese Pizza, Hand-Tossed Crust
+-  Peanuts, without salt, oil-roasted, all types
+-  Peanuts, without salt, dry-roasted, all types
+-  Onions, without salt, drained, boiled, cooked
+-  Cereals ready-to-eat, RALSTON Crispy Hexagons
+-  Turkey, raw, meat only, from whole bird, wing
+-  CAMPBELL'S, condensed, Cream of Mushroom Soup
+-  Seeds, dried, pumpkin and squash seed kernels
+-  SILK Vanilla soy yogurt (single serving size)
+-  CAMPBELL'S Soup on the Go, Creamy Tomato Soup
+-  Stew, badufsuki (Hopi), pinto bean and hominy
+-  PEPPERIDGE FARM, Raisin Cinnamon Swirl Bread
+-  Margarine Spread, tub, approximately 48% fat
+-  VAN'S, Totally Original Waffles, Gluten Free
+-  WORTHINGTON Prime Stakes, unprepared, canned
+-  Cereals ready-to-eat, Honeycomb Cereal, POST
+-  Turkey, raw, meat only, breast, retail parts
+-  Babyfood, strained, vegetable and brown rice
+-  Tomatoes, year round average, raw, ripe, red
+-  Apples, microwave, cooked, without skin, raw
+-  WORTHINGTON Prosage Roll, unprepared, frozen
+-  Bread, toasted, commercially prepared, white
+-  ARCHWAY Home Style Cookies, Coconut Macaroon
+-  SUNSHINE, Parmesan Garlic Crackers, CHEEZ-IT
+-  Crustaceans, moist heat, cooked, queen, crab
+-  Babyfood, junior, vegetables and ham, dinner
+-  Pork, raw, separable lean and fat, carcass, fresh
+-  Snacks, sour-cream-and-onion-flavor, potato chips
+-  Cookies, regular, sugar wafers with creme filling
+-  Mustard greens, with salt, drained, boiled, cooked
+-  KEEBLER, Peanut Butter, Fudge Sticks, FUDGE SHOPPE
+-  Figs, solids and liquids, heavy syrup pack, canned
+-  Sauce, canned, immature green, hot, peppers, chili
+-  Rice and vermicelli mix, unprepared, chicken flavor
+-  Soup, ready-to-serve, canned, chunky chicken noodle
+-  Pears, solids and liquids, light syrup pack, canned
+-  Mollusks, dry heat, cooked, farmed, eastern, oyster
+-  MURRAY, Chocolate Creme Sandwich Cookies, SUGAR FREE
+-  Stinging Nettles, blanched (Northern Plains Indians)
+-  Beef, raw, seam fat, grass-fed, imported, Australian
+-  Vitasoy USA, Vitasoy Organic Classic Original Soymilk
+-  Salad dressing, low calorie, blue or roquefort cheese
+-  DOMINO'S 14" Sausage Pizza, Classic Hand-Tossed Crust
+-  USDA Commodity, frozen, smoked, dark meat, turkey ham
+-  KELLOGG'S, Brown Sugar, Waffles, Thick & Fluffy, EGGO
+-  Mollusks, drained solids, canned, mixed species, clam
+-  Winged beans, with salt, boiled, cooked, mature seeds
+-  Mustard greens, without salt, drained, boiled, cooked
+-  Salad dressing, reduced fat, thousand island dressing
+-  Potatoes, unprepared, frozen, cross cut, french fried
+-  Pork, pan-broiled, cooked, 84% lean / 16% fat, ground
+-  Cornmeal, enriched, plain, bolted, self-rising, white
+-  Wheat flour, unbleached, enriched, all-purpose, white
+-  Lamb, cooked, subcutaneous fat, imported, New Zealand
+-  Turkey, bone removed, with skin, cooked, smoked, wing
+-  KEEBLER, Rainbow Chocolate Chip Cookies, CHIPS DELUXE
+-  Cereals ready-to-eat, MARSHMALLOW MATEYS, MALT-O-MEAL
+-  Campbell's Brown Sugar And Bacon Flavored Baked Beans
+-  Salad dressing, without salt, soybean oil, mayonnaise
+-  Tortillas, refrigerated, flour, ready-to-bake or -fry
+-  Gravy, fat free, slow roast, chicken, FRANCO-AMERICAN
+-  Mothbeans, without salt, boiled, cooked, mature seeds
+-  Tomato products, with herbs and cheese, sauce, canned
+-  Cocoa, processed with alkali, unsweetened, dry powder
+-  Apricots, stewed, sulfured, dehydrated (low-moisture)
+-  Asparagus, with salt, drained, boiled, cooked, frozen
+-  LOMA LINDA Swiss Stake with Gravy, unprepared, canned
+-  Chicken, raw, meat and skin, back, broilers or fryers
+-  Sauce, with butter, prepared-from-recipe, thin, white
+-  WORTHINGTON Meatless Chicken Roll, unprepared, frozen
+-  Cereals ready-to-eat, POST SELECTS Maple Pecan Crunch
+-  USDA Commodity Food, refined, soybean, vegetable, oil
+-  KEEBLER, bite size, Pecan Shortbread Cookies, SANDIES
+-  Crackers, with peanut butter filling, sandwich, wheat
+-  Beverages, with added vitamin C, canned, orange drink
+-  Peas, solids and liquids, regular pack, canned, green
+-  McDONALD'S, Premium Crispy Chicken Ranch BLT Sandwich
+-  Frijoles rojos volteados (Refried beans, red, canned)
+-  Chicken, raw, meat and skin, neck, broilers or fryers
+-  Beans, with salt, boiled, cooked, mature seed, adzuki
+-  GARDENBURGER Flame Grilled Burger, unprepared, frozen
+-  GARDENBURGER Veggie Medley Burger, unprepared, frozen
+-  Pork, raw, separable lean and fat, whole, loin, fresh
+-  Cookies, with extra creme filling, chocolate sandwich
+-  Cereals, dry, Cinnamon-Spice, Instant Oatmeal, QUAKER
+-  Nuts, not sweetened, dried (desiccated), coconut meat
+-  Beans, with salt, boiled, cooked, mature seeds, pinto
+-  Potatoes, without salt, flesh, cooked in skin, boiled
+-  Soup, prepared with water, mix, dry, cream of chicken
+-  Babyfood, strained, pineapple, fruit pudding, dessert
+-  Drumstick pods, without salt, drained, boiled, cooked
+-  Lamb, raw, separable fat, fresh, imported, Australian
+-  Chicken, raw, meat and skin, wing, broilers or fryers
+-  Pork, pan-broiled, cooked, 72% lean / 28% fat, ground
+-  Chicken, back meat and skin, BBQ, rotisserie, broiler
+-  Pumpkin leaves, without salt, drained, boiled, cooked
+-  Beef, cooked, subcutaneous fat, imported, New Zealand
+-  GLUTINO, Chocolate Vanilla Creme, Gluten Free Cookies
+-  Pork, raw, feet, variety meats and by-products, fresh
+-  Pork, raw, jowl, variety meats and by-products, fresh
+-  Waffle, microwaved, ready-to-heat, frozen, buttermilk
+-  Fruit juice smoothie, GREEN GOODNESS, BOLTHOUSE FARMS
+-  Soy sauce made from soy and wheat (shoyu), low sodium
+-  Cattail, Narrow Leaf Shoots (Northern Plains Indians)
+-  KEEBLER, Oatmeal Chocolate Chip Cookies, CHIPS DELUXE
+-  Sweet potato, with salt, flesh, baked in skin, cooked
+-  Sweet potato, with salt, without skin, boiled, cooked
+-  Incaparina, unprepared, dry mix (corn and soy flours)
+-  Corn flour, blue (harina de maiz morado), whole-grain
+-  Pie crust, baked, prepared from recipe, standard-type
+-  Peaches, solids and liquids, heavy syrup pack, canned
+-  Peaches, solids and liquids, light syrup pack, canned
+-  Salad dressing, regular, commercial, italian dressing
+-  Potatoes, unprepared, frozen, wedge cut, french fried
+-  Cereals ready-to-eat, MOTHER'S GRAHAM BUMPERS, QUAKER
+-  Cereals ready-to-eat, Cinnamon Crunch, CASCADIAN FARM
+-  Tortillas, shelf stable, flour, ready-to-bake or -fry
+-  CAMPBELL'S Red and White, condensed, Beef Noodle Soup
+-  USDA Commodity, cooked, frozen, beef patties with VPP
+-  Potatoes, skin with salt, in skin, cooked, microwaved
+-  TACO BELL, cheese and lettuce, Soft Taco with chicken
+-  Snacks, unsalted, sesame seed, brown rice, rice cakes
+-  Babyfood, apple and sweet potato, fruit and vegetable
+-  Cereals ready-to-eat, KELLOGG'S HONEY SMACKS, KELLOGG
+-  Desserts, prepared-from-recipe, caramel custard, flan
+-  Formulated bar, oats and chocolate, chewy, high fiber
+-  Cabbage, without salt, drained, boiled, cooked, savoy
+-  Cheese, shredded, part-skim, low moisture, mozzarella
+-  Blackberries, solids and liquids, heavy syrup, canned
+-  Cereals ready-to-eat, POST SELECTS Blueberry Morning
+-  Cereals ready-to-eat, KELLOGG'S FROOT LOOPS, KELLOGG
+-  Beverages, unsweetened, ready-to-drink, tea, WENDY'S
+-  Beverages, Diet Fruit Medley, V8 SPLASH Juice Drinks
+-  Yambean (jicama), with salt, drained, boiled, cooked
+-  Turkey, raw, from dark meat, from retail parts, skin
+-  Fast foods, large patty; plain, cheeseburger; single
+-  Apples, unheated, drained, sliced, sweetened, canned
+-  Chicken, raw, meat and skin, leg, broilers or fryers
+-  Cheese, with vegetables, 1% milkfat, lowfat, cottage
+-  Snacks, unsalted, oil-popped, home-prepared, popcorn
+-  Salad dressing, regular, commercial, thousand island
+-  Prunes, solids and liquids, heavy syrup pack, canned
+-  SUNSHINE, Crackers (made with Whole Grain), CHEEZ-IT
+-  Beans, with salt, boiled, cooked, mature seeds, navy
+-  MORNINGSTAR FARMS Chik'n Nuggets, unprepared, frozen
+-  Cheese, lactose reduced, 1% milkfat, lowfat, cottage
+-  Cookies, sugar free, with creme filling, sugar wafer
+-  Snacks, unsalted, multigrain, brown rice, rice cakes
+-  Shortening household soybean (hydrogenated) and palm
+-  Rice, cooked, enriched, parboiled, long-grain, white
+-  Poultry, raw, from mature hens, mechanically deboned
+-  Candies, TWIX Caramel Cookie Bars, MARS SNACKFOOD US
+-  Fast foods, and sausage, cheese, with egg, croissant
+-  Lima beans, unprepared, baby, frozen, immature seeds
+-  Veal, raw, boneless, cutlet, cap off, top round, leg
+-  Fish, raw, mixed species, Pacific and jack, mackerel
+-  Alcoholic Beverage, Cabernet Franc, red, table, wine
+-  Cereals ready-to-eat, RAISIN NUT BRAN, GENERAL MILLS
+-  Beverages, CALISTOGA, non-carbonated, bottled, water
+-  Candies, RAISINETS Chocolate Covered Raisins, NESTLE
+-  Beverages, lemon, ready-to-drink, black, tea, NESTEA
+-  Alcoholic beverage, late harvest, white, table, wine
+-  Candies, low sugar or low calorie, chocolate covered
+-  Beverages, Strawberry Banana, V8 SPLASH Juice Drinks
+-  Alcoholic beverage, Chenin Blanc, white, table, wine
+-  Beef, raw, manufacturing beef, imported, New Zealand
+-  Bread, commercially prepared, plain, chapati or roti
+-  Jute, without salt, drained, boiled, cooked, potherb
+-  KELLOGG'S, Brown Sugar Cinnamon Roll, Wafflers, EGGO
+-  Yogurt, 11 grams protein per 8 ounce, low fat, fruit
+-  Yogurt, 10 grams protein per 8 ounce, low fat, fruit
+-  Cereals, dry, not fortified, regular and quick, oats
+-  Cereals, with salt, cooked with water, CREAM OF RICE
+-  DOMINO'S 14" Sausage Pizza, Ultimate Deep Dish Crust
+-  McDONALD'S, Hotcakes (with 2 pats margarine & syrup)
+-  Mollusks, breaded and fried, cooked, eastern, oyster
+-  Pumpkin, with salt, drained, boiled, cooked, flowers
+-  Cookies, with creme filling, chocolate chip sandwich
+-  Pancakes, prepared, incomplete, dry mix, whole-wheat
+-  SPAGHETTIOS, SpaghettiOs  with Meatballs - Easy Open
+-  Veal, raw, separable lean only, blade chop, shoulder
+-  CAMPBELL'S Red and White, condensed, SCOOBY-DOO Soup
+-  Cookie, chocolate-coated, with peanut butter filling
+-  KASHI, Frozen Entree, Chicken Fettuccine, STEAM MEAL
+-  Snack, plain, made from dried potatoes, potato chips
+-  Dandelion greens, with salt, drained, boiled, cooked
+-  Drumstick leaves, with salt, drained, boiled, cooked
+-  Snacks, barbecue-flavor, chips, extruded, corn-based
+-  Salad dressing, regular, commercial, french dressing
+-  CAMPBELL'S Red and White, condensed, Minestrone Soup
+-  CAMPBELL'S, condensed, Homestyle Chicken Noodle Soup
+-  Salad dressing, home recipe, oil, cottonseed, french
+-  Noodles, without added salt, cooked, unenriched, egg
+-  Lamb, raw, external fat, fresh, imported, Australian
+-  Brussels sprouts, with salt, drained, boiled, cooked
+-  Cereals ready-to-eat, KELLOGG'S APPLE JACKS, KELLOGG
+-  Cereals ready-to-eat, KELLOGG'S RAISIN BRAN, KELLOGG
+-  Soup, commercial, condensed, canned, broccoli cheese
+-  Chokecherries, pitted (Northern Plains Indians), raw
+-  CAMPBELL'S, Low Sodium Spicy Hot, V8 Vegetable Juice
+-  KELLOGG'S, Southwest Ranch, Cracker Chips, SPECIAL K
+-  Snacks, chocolate chip, uncoated, soft, granola bars
+-  Snacks, nut and raisin, uncoated, soft, granola bars
+-  Blueberries, solids and liquids, heavy syrup, canned
+-  Peas, with salt, boiled, cooked, mature seeds, split
+-  Mungo beans, with salt, boiled, cooked, mature seeds
+-  Pizza, cooked, frozen, regular crust, cheese topping
+-  Cereals ready-to-eat, plain, QUAKER OAT LIFE, QUAKER
+-  ARCHWAY Home Style Cookies, Reduced Fat Ginger Snaps
+-  Fish, drained solids with bone, canned, chum, salmon
+-  Beverages, decaffeinated, ready to drink, black, tea
+-  Asparagus, solids and liquids, no salt added, canned
+-  Cereals ready-to-eat, KELLOGG'S Corn Flakes, KELLOGG
+-  Cereals ready-to-eat, CINNAMON TOASTERS, MALT-O-MEAL
+-  Apples, without added sugar, stewed, sulfured, dried
+-  HORMEL ALWAYS TENDER, Fresh Pork, Boneless Pork Loin
+-  KEEBLER, Dark Chocolate, Fudge Stripes, FUDGE SHOPPE
+-  Peanut butter, vitamin and mineral fortified, chunky
+-  Peanut butter, vitamin and mineral fortified, smooth
+-  Swisswurst, smoked, with swiss cheese, pork and beef
+-  USDA Commodity peaches, drained, light syrup, canned
+-  MORNINGSTAR FARMS Grillers Prime, unprepared, frozen
+-  Cereals, dry, 2 1/2 minute cook time, CREAM OF WHEAT
+-  Restaurant, without meat, vegetable lo mein, Chinese
+-  PIZZA HUT 12" Super Supreme Pizza, Hand-Tossed Crust
+-  DOMINO'S 14" Cheese Pizza, Classic Hand-Tossed Crust
+-  Cereals ready-to-eat, HEALTH VALLEY, OAT BRAN FLAKES
+-  Sweet potato, solids and liquids, syrup pack, canned
+-  Cereals ready-to-eat, BERRY BERRY KIX, GENERAL MILLS
+-  Beans, with salt, boiled, cooked, mature seeds, pink
+-  Potatoes, without salt, skin, cooked in skin, boiled
+-  Bamboo shoots, without salt, drained, boiled, cooked
+-  Cereals ready-to-eat, Honey Nut Shredded Wheat, POST
+-  Fast foods, patty; plain, regular, hamburger; double
+-  Pork, pan-broiled, cooked, 96% lean / 4% fat, ground
+-  Yogurt, 12 grams protein per 8 ounce, low fat, plain
+-  Seeds, without salt, toasted, sunflower seed kernels
+-  Yam, without salt, or baked, drained, boiled, cooked
+-  Fast foods, soft, cheese and lettuce, taco with beef
+-  Sweeteners, contains sugar and sucralose, for baking
+-  MORNINGSTAR FARMS Grillers Vegan, unprepared, frozen
+-  Pate de foie gras, smoked, canned (goose liver pate)
+-  Rennin, prepared with whole milk, dry mix, chocolate
+-  Puddings, prepared with whole milk, dry mix, tapioca
+-  Cheese, no sodium added, 1% milkfat, lowfat, cottage
+-  Cress, without salt, drained, boiled, cooked, garden
+-  Yardlong bean, without salt, drained, boiled, cooked
+-  Cereals ready-to-eat, Fruity CHEERIOS, GENERAL MILLS
+-  Soybeans, stir-fried, cooked, sprouted, mature seeds
+-  Yogurt, lowfat, flavors other than chocolate, frozen
+-  Fruit juice smoothie, strawberry banana, NAKED JUICE
+-  Peaches, stewed, sulfured, dehydrated (low-moisture)
+-  Turkey from whole, simmered, cooked, meat only, neck
+-  Pasta mix, unprepared, classic cheeseburger macaroni
+-  PEPPERIDGE FARM, Whole Grain Honey Whole Wheat Bread
+-  Cereals ready-to-eat, MOTHER'S COCOA BUMPERS, QUAKER
+-  Cereals ready-to-eat, QUAKER WHOLE HEARTS oat cereal
+-  KASHI Spicy Black Bean Enchilada, unprepared, frozen
+-  Mushrooms, with salt, drained, boiled, cooked, white
+-  Lamb, raw, tongue - swiss cut, imported, New Zealand
+-  Lambsquarters, without salt, drained, boiled, cooked
+-  USDA Commodity, cooked, frozen, patties (100%), beef
+-  CAMPBELL'S CHUNKY, Creamy Chicken and Dumplings Soup
+-  Vitasoy USA, Vitasoy Organic Creamy Original Soymilk
+-  Beverages, prepared with whole milk, chocolate syrup
+-  McDONALD'S, Premium Grilled Chicken Classic Sandwich
+-  PIZZA HUT 14" Super Supreme Pizza, Hand-Tossed Crust
+-  Snacks, made from garden vegetables, vegetable chips
+-  Turnip greens, without salt, drained, boiled, cooked
+-  Cereals ready-to-eat, Fruity DYNO-BITES, MALT-O-MEAL
+-  Cookies, with raisins, prepared from recipe, oatmeal
+-  Margarine-like, tub, fat-free, vegetable oil spread
+-  UDI'S, Soft & Hearty Whole Grain Bread, Gluten Free
+-  Cereals ready-to-eat, GOLDEN GRAHAMS, GENERAL MILLS
+-  Turnips, with salt, drained, boiled, cooked, frozen
+-  Snacks, chocolate coated, with coconut, granola bar
+-  Fast foods, with cheese and sausage, english muffin
+-  Salad dressing, with salt, regular, mayonnaise type
+-  Beans, unprepared, all styles, frozen, yellow, snap
+-  MORNINGSTAR FARMS Buffalo Wings, unprepared, frozen
+-  Biscuits, prepared from recipe, plain or buttermilk
+-  SCHAR, Classic White Bread, Wheat-Free, Gluten-Free
+-  Sausage, smoked, with cheddar cheese, pork and beef
+-  Chard, without salt, drained, boiled, cooked, swiss
+-  Waffles, ready-to-heat, frozen, lowfat, whole wheat
+-  Snacks, light (baked with less oil), tortilla chips
+-  Beverages, Diet Berry Blend, V8 SPLASH Juice Drinks
+-  Chicken breast tenders, microwaved, cooked, breaded
+-  Candies, prepared-from-recipe, peanut butter, fudge
+-  Asparagus, solids and liquids, regular pack, canned
+-  Babyfood, junior, vanilla, custard pudding, dessert
+-  Shortening frying (heavy duty), palm (hydrogenated)
+-  Babyfood, strained, cherry vanilla pudding, dessert
+-  T.G.I. FRIDAY'S, from kid's menu, macaroni & cheese
+-  PEPPERIDGE FARM, Whole Grain 100% Whole Wheat Bread
+-  Pork loin, lean only, raw, bone-in, backribs, fresh
+-  Soup, ready-to-serve, beef broth or bouillon canned
+-  Soup, ready-to-serve, chunky, canned, bean with ham
+-  Alcoholic beverage, Pinot Blanc, white, table, wine
+-  Fast foods, regular patty; plain, hamburger; single
+-  Soup, ready-to-serve, canned, chicken and vegetable
+-  KEEBLER, Country Style Oatmeal Cookies with Raisins
+-  Cheese puffs and twists, low fat, baked, corn based
+-  Beef, raw, intermuscular fat, imported, New Zealand
+-  Kale, without salt, drained, boiled, cooked, frozen
+-  KELLOGG'S EGGO Lowfat Blueberry Nutri-Grain Waffles
+-  Yogurt, 9 grams protein per 8 ounce, low fat, fruit
+-  Beverages, diet, lemon, decaffeinated, instant, tea
+-  CAMPBELL'S, Calcium Enriched V8, V8 Vegetable Juice
+-  Candies, HERSHEY'S MILK CHOCOLATE WITH ALMOND BITES
+-  RUDI'S, Original Sandwich Bread, Gluten-Free Bakery
+-  Mollusks, moist heat, cooked, wild, eastern, oyster
+-  Squash, with salt, baked, cooked, butternut, winter
+-  Cereals ready-to-eat, Chocolate CHEX, GENERAL MILLS
+-  Veal, braised, cooked, separable lean only, sirloin
+-  Veal, roasted, cooked, separable lean only, sirloin
+-  Pears, solids and liquids, heavy syrup pack, canned
+-  Mountain yam, without salt, steamed, cooked, hawaii
+-  CAMPBELL'S Red and White, condensed, Green Pea Soup
+-  Cake, prepared from recipe without frosting, yellow
+-  CAMPBELL'S Homestyle Harvest Tomato with Basil Soup
+-  Burdock root, without salt, drained, boiled, cooked
+-  Babyfood, prepared with whole milk, oatmeal, cereal
+-  Pie Crust, Ready Crust, Graham Cracker, Cookie-type
+-  Chicken, fried, cooked, giblets, broilers or fryers
+-  Onion rings, unprepared, frozen, par fried, breaded
+-  Babyfood, with tomato sauce, cheese filled, ravioli
+-  Crackers, sandwich-type with cheese filling, cheese
+-  Chicken, breast meat only, BBQ, rotisserie, broiler
+-  Carrots, with salt, drained, boiled, cooked, frozen
+-  Mung beans, with salt, boiled, cooked, mature seeds
+-  Pork, unheated, boneless, separable fat, ham, cured
+-  Lentils, without salt, boiled, cooked, mature seeds
+-  Crustaceans, cooked (not previously frozen), shrimp
+-  Pizza, cooked, frozen, rising crust, cheese topping
+-  Tomato products, with tomato tidbits, sauce, canned
+-  Fish, raw (Alaska Native), mixed species, whitefish
+-  Protein supplement, powder, Muscle Milk, milk based
+-  Apricots, with added sugar, stewed, sulfured, dried
+-  Apricot nectar, without added ascorbic acid, canned
+-  Amaranth leaves, with salt, drained, boiled, cooked
+-  Ice creams, French Vanilla, No Sugar Added, BREYERS
+-  Beverages, Orange Pineapple, V8 SPLASH Juice Drinks
+-  Tomatoes, packed in tomato juice, canned, ripe, red
+-  Snacks, peanut butter, uncoated, soft, granola bars
+-  Cereals ready-to-eat, Cocoa DYNO-BITES, MALT-O-MEAL
+-  Apples, stewed, sulfured, dehydrated (low moisture)
+-  Seal, dried (Alaska Native), meat, bearded (Oogruk)
+-  CAMPBELL'S Homestyle Light New England Clam Chowder
+-  Soup, prepared with water, mix, dry, chicken noodle
+-  Chicken, meat only, thigh, BBQ, rotisserie, broiler
+-  MORNINGSTAR FARMS Corn Dog Mini, unprepared, frozen
+-  Goose, roasted, cooked, meat and skin, domesticated
+-  DOMINO'S 14" Cheese Pizza, Ultimate Deep Dish Crust
+-  Rice, dry, unenriched, parboiled, long-grain, white
+-  Cereals, dry, Banana Bread, Instant Oatmeal, QUAKER
+-  Ice cream bar, with crunch coating, stick or nugget
+-  CAMPBELL'S Low Sodium Soups, Cream of Mushroom Soup
+-  Soup, prepared with water, dry, chicken broth cubes
+-  Sauce, ready-to-serve, basil pesto, CLASSICO, pesto
+-  Pie, unenriched flour, commercially prepared, apple
+-  Pork, raw, separable lean and fat, spareribs, fresh
+-  Restaurant, breaded and fried, shrimp, family style
+-  Kale, without salt, drained, boiled, cooked, scotch
+-  Waterchestnuts, solids and liquids, canned, chinese
+-  Candies, SKITTLES Sours Original, MARS SNACKFOOD US
+-  Cereals ready-to-eat, FIBER 7 Flakes, HEALTH VALLEY
+-  Restaurant, chili with meat and beans, family style
+-  McDONALD'S, McCHICKEN Sandwich (without mayonnaise)
+-  Cake, prepared from recipe, biscuit-type, shortcake
+-  Babyfood, strained, applesauce and pineapple, fruit
+-  Restaurant, chicken parmesan without pasta, Italian
+-  Soybeans, with salt, drained, boiled, cooked, green
+-  Veal, roasted, cooked, separable lean and fat, loin
+-  Veal, braised, cooked, separable lean and fat, loin
+-  KEEBLER, Chocolate Malt Chunk Cookies, CHIPS DELUXE
+-  KEEBLER, Dark Chocolate Chunk Cookies, CHIPS DELUXE
+-  Wheat flour, bleached, enriched, all-purpose, white
+-  Cereals ready-to-eat, RICE CRUNCHINS, GENERAL MILLS
+-  Beverages, unsweetened, decaffeinated, instant, tea
+-  Beverages, no caffeine, lemon-lime soda, carbonated
+-  PIZZA HUT 14" Pepperoni Pizza, THIN 'N CRISPY Crust
+-  CARRABBA'S ITALIAN GRILL, spaghetti with meat sauce
+-  Lamb, cooked, seam fat, fresh, imported, Australian
+-  Babyfood, GERBER GRADUATE FRUIT SPLASHERS, beverage
+-  Cereals ready-to-eat, Honey Nut O's, CASCADIAN FARM
+-  Pears, without added sugar, stewed, sulfured, dried
+-  Lentils, without salt, stir-fried, cooked, sprouted
+-  Cereals ready-to-eat, Honey Nut CHEX, GENERAL MILLS
+-  CAMPBELL'S Red and White, condensed, Vegetable Soup
+-  Snacks, unsalted, buckwheat, brown rice, rice cakes
+-  McDONALD'S, Premium Crispy Chicken Classic Sandwich
+-  Lamb, raw, Intermuscular fat, imported, New Zealand
+-  Beverages, low calorie, Gatorade G2, PEPSICO QUAKER
+-  Caribou, cooked (Alaska Native), meat, hind quarter
+-  Snacks, traditional flavor, CHEX MIX, GENERAL MILLS
+-  Cabbage, without salt, drained, boiled, cooked, red
+-  Beverages, canned, pineapple and orange juice drink
+-  Pie, no-bake type, prepared from mix, coconut cream
+-  KFC, Skin and Breading, EXTRA CRISPY, Fried Chicken
+-  Cabbage, with salt, drained, boiled, cooked, common
+-  Okra, without salt, drained, boiled, cooked, frozen
+-  Cereals ready-to-eat, KELLOGG'S PRODUCT 19, KELLOGG
+-  Turkey, roasted, meat only, from whole bird, breast
+-  Turkey, raw, meat and skin, drumstick, retail parts
+-  Puddings, with added oil, regular, dry mix, vanilla
+-  CAMPBELL'S Soup on the Go, New England Clam Chowder
+-  KELLOGG'S, Gingerbread Toaster Pastries, POP-TARTS
+-  Cereals ready-to-eat, REESE'S PUFFS, GENERAL MILLS
+-  Salad dressing, fat-free, thousand island dressing
+-  WORTHINGTON Multigrain Cutlets, unprepared, canned
+-  WORTHINGTON Low Fat Veja-Links, unprepared, canned
+-  Fish, cooked (not previously frozen), Pacific, cod
+-  Fish, raw (not previously frozen), Alaska, pollock
+-  Apples, heated, drained, sliced, sweetened, canned
+-  WORTHINGTON Smoked Turkey Roll, unprepared, frozen
+-  Bread, toasted, commercially prepared, whole-wheat
+-  Veal, raw, pancreas, variety meats and by-products
+-  Lamb, raw, pancreas, variety meats and by-products
+-  Sweet potato leaves, without salt, steamed, cooked
+-  Crackers, rye (includes pumpernickel), melba toast
+-  Cereals, dry, Farina Hot Wheat Cereal, MALT-O-MEAL
+-  Alcoholic beverage, prepared-from-recipe, daiquiri
+-  MORNINGSTAR FARMS Chik Patties, unprepared, frozen
+-  Cookies, unenriched, commercially prepared, butter
+-  Cookies, without lemon juice and rind, ladyfingers
+-  Beverages, Glacial Natural spring water, ICELANDIC
+-  Soup, dry, low sodium, bouillon cubes and granules
+-  Grapefruit, all areas, pink and red and white, raw
+-  Bread, toasted (includes whole-grain), multi-grain
+-  Cereals, dry, Butter flavor, Instant Grits, QUAKER
+-  Beverages, Cran Raspberry Juice Drink, OCEAN SPRAY
+-  Mothbeans, with salt, boiled, cooked, mature seeds
+-  Squash, without salt, baked, cooked, acorn, winter
+-  Candies, GOOBERS Chocolate Covered Peanuts, NESTLE
+-  Peppers, unprepared, chopped, frozen, green, sweet
+-  Babyfood, mango and kiwi, apple, 3rd Foods, GERBER
+-  Desserts, prepared-from-recipe, baked, egg custard
+-  HOT POCKETS Ham 'N Cheese Stuffed Sandwich, frozen
+-  Pork sausage, microwaved, fully cooked, link/patty
+-  Cookies, soft-type, commercially prepared, oatmeal
+-  Rice, cooked, enriched, regular, long-grain, white
+-  Beverages, diet, lemon, ready-to-drink, black, tea
+-  USDA Commodity pears, drained, light syrup, canned
+-  Fast foods, and bacon, cheese, with egg, croissant
+-  Babyfood, strained, orange, fruit pudding, dessert
+-  OSCAR MAYER, Braunschweiger Liver Sausage (sliced)
+-  Beverages, diet, peach, ready-to-drink, black, tea
+-  Soup, ready-to-serve, chunky, canned, chicken rice
+-  BURGER KING, CROISSAN'WICH with Sausage and Cheese
+-  Cake, prepared from recipe without frosting, white
+-  Beverages, Strawberry Kiwi, V8 SPLASH Juice Drinks
+-  Alcoholic beverage, Fume Blanc, white, table, wine
+-  MURRAY, Chocolate Chip & Pecan Cookies, SUGAR FREE
+-  Babyfood, strained, applesauce and cherries, fruit
+-  Babyfood, strained, applesauce and apricots, fruit
+-  Cookies, cake-type (includes trolley cakes), fudge
+-  KASHI Pizza, unprepared, frozen, Roasted Vegetable
+-  KELLOGG'S, Original, Waffles, Thick & Fluffy, EGGO
+-  Veal, braised, cooked, separable lean and fat, rib
+-  Veal, roasted, cooked, separable lean and fat, rib
+-  Pie, no-bake type, prepared from mix, banana cream
+-  Crustaceans, moist heat, cooked, northern, lobster
+-  Cereals ready-to-eat, Cinnamon CHEX, GENERAL MILLS
+-  Beef, raw, pancreas, variety meats and by-products
+-  Cereals ready-to-eat, COLOSSAL CRUNCH, MALT-O-MEAL
+-  Cereals ready-to-eat, TOOTIE FRUITIES, MALT-O-MEAL
+-  Veal, raw, separable lean and fat, leg (top round)
+-  Drumstick pods, with salt, drained, boiled, cooked
+-  Fish, drained solids, canned in water, light, tuna
+-  Fish, drained solids, canned in water, white, tuna
+-  Fish, liver (Alaska Native), chinook, king, salmon
+-  Figs, solids and liquids, light syrup pack, canned
+-  Ice cream sandwich, no sugar added, light, vanilla
+-  Pork, raw, separable lean and fat, backribs, fresh
+-  Sweeteners, saccharin (sodium saccharin), tabletop
+-  Fish, plain (Alaska Native), Pacific, herring eggs
+-  Babyfood, prepared with whole milk, barley, cereal
+-  Tangerines, juice pack, canned, (mandarin oranges)
+-  Pork, cooked, lean and fat, low sodium, ham, cured
+-  Cereals ready-to-eat, KELLOGG'S SPECIAL K, KELLOGG
+-  Cereals ready-to-eat, KELLOGG'S CORN POPS, KELLOGG
+-  KEEBLER, Holiday, Merry Mint Patties, FUDGE SHOPPE
+-  Turkey, roasted, meat only, from whole bird, thigh
+-  Gravy, fat free, slow roast, beef, FRANCO-AMERICAN
+-  Snacks, 90 Calorie Bar, chewy, QUAKER, granola bar
+-  Chayote, with salt, drained, boiled, cooked, fruit
+-  Lupins, without salt, boiled, cooked, mature seeds
+-  Turnover, frozen, meat and cheese, filled with egg
+-  Beet greens, without salt, drained, boiled, cooked
+-  Turkey, raw, with added solution, meat only, whole
+-  KEEBLER, Garlic Herb Crackers, TOPPERS, TOWN HOUSE
+-  CAMPBELL'S Red and White, condensed, Beef Consomme
+-  Doughnuts, sugared or glazed, chocolate, cake-type
+-  Restaurant, arroz con leche (rice pudding), Latino
+-  HORMEL ALWAYS TENDER, Fresh Pork, Center Cut Chops
+-  Nuts, with salt added, dry roasted, macadamia nuts
+-  WORTHINGTON Vegetable Skallops, unprepared, canned
+-  Beef, raw, select, separable lean and fat, carcass
+-  Beef, raw, choice, separable lean and fat, carcass
+-  KEEBLER, Peanut Creme Filled Cookies, FUDGE SHOPPE
+-  KEEBLER, Triple Fudge Filled Cookies, FUDGE SHOPPE
+-  KEEBLER, Fudge-Dipped Ice Cream Cups, FUDGE SHOPPE
+-  ARCHWAY Home Style Cookies, Old Fashioned Molasses
+-  Plums, without added sugar, stewed, dried (prunes)
+-  Nuts, with salt added, dry roasted, pistachio nuts
+-  Peas, without salt, drained, boiled, cooked, green
+-  Peas, without salt, drained, boiled, edible-podded
+-  Pork, raw, separable lean only, whole, loin, fresh
+-  Nuts, without salt added, dry roasted, cashew nuts
+-  Nuts, without salt added, oil roasted, cashew nuts
+-  Chicken, meat only, wing, BBQ, rotisserie, broiler
+-  USDA Commodity Chicken, drained, meat only, canned
+-  Beans, microwaved, all styles, frozen, green, snap
+-  Beans, unprepared, all styles, frozen, green, snap
+-  Mushroom, raw, exposed to ultraviolet light, white
+-  Duck, roasted, cooked, meat and skin, domesticated
+-  Candies, COCOAVIA Chocolate Bar, MARS SNACKFOOD US
+-  Beverages, prepared with tap water, brewed, coffee
+-  Fish, breaded and fried, cooked, Atlantic, croaker
+-  Crackers, multi-seeded and multigrain, gluten-free
+-  Cookies, baked, refrigerated dough, chocolate chip
+-  Beverages, unsweetened, ready to drink, green, tea
+-  Cereals ready-to-eat, COUNT CHOCULA, GENERAL MILLS
+-  MURRAY, Vanilla Creme Sandwich Cookies, SUGAR FREE
+-  Leeks, freeze-dried, (bulb and lower-leaf portion)
+-  Soup, condensed, canned, new england, clam chowder
+-  Pork, crumbles, cooked, 84% lean / 16% fat, ground
+-  Pork, crumbles, cooked, 72% lean / 28% fat, ground
+-  Beverages, brewed, other than chamomile, herb, tea
+-  CAMPBELL'S Red and White, condensed, Chicken Broth
+-  KELLOGG'S, Chocolate Chip, FIBERPLUS Waffles, EGGO
+-  Alcoholic Beverage, Petite Sirah, red, table, wine
+-  McDONALD'S, Bacon Ranch Salad with Grilled Chicken
+-  Ground turkey, broiled, patties, 15% fat, 85% lean
+-  Soup, condensed, canned, vegetable with beef broth
+-  Beef, raw, subcutaneous fat, imported, New Zealand
+-  Puddings, with added oil, instant, dry mix, banana
+-  Spinach, solids and liquids, no salt added, canned
+-  Rennin, prepared with whole milk, dry mix, vanilla
+-  Waffle, toasted, ready-to-heat, frozen, buttermilk
+-  Alcoholic beverage, Chardonnay, white, table, wine
+-  Fruit juice smoothie, BERRY BOOST, BOLTHOUSE FARMS
+-  KEEBLER, Mini Chocolate Chip Cookies, CHIPS DELUXE
+-  ARCHWAY Home Style Cookies, Chocolate Chip Ice Box
+-  Pie crust, baked, prepared, dry mix, standard-type
+-  Peaches, with added sugar, stewed, sulfured, dried
+-  Refried beans, reduced sodium, traditional, canned
+-  Peas, drained solids, no salt added, canned, green
+-  Candies, MILKY WAY Midnight Bar, MARS SNACKFOOD US
+-  Oil, (partially hydrogenated), linoleic, sunflower
+-  KEEBLER, Vanilla, Jumbo Fudge Sticks, FUDGE SHOPPE
+-  Crustaceans, moist heat, cooked, alaska king, crab
+-  USDA Commodity, raw, frozen, beef patties with VPP
+-  Potatoes, with salt, flesh, cooked in skin, boiled
+-  TACO BELL, cheese and lettuce, Soft Taco with beef
+-  CAMPBELL'S Red and White, condensed, Tomato Bisque
+-  Cauliflower, without salt, drained, boiled, cooked
+-  Lamb, raw,  85% lean / 15% fat, ground, Australian
+-  Lamb, raw, subcutaneous fat, imported, New Zealand
+-  Soup, canned, HEALTHY CHOICE Chicken and Rice Soup
+-  Soup, canned, HEALTHY CHOICE Garden Vegetable Soup
+-  Cereals, dry, regular, white, hominy grits, QUAKER
+-  Pumpkin leaves, with salt, drained, boiled, cooked
+-  Pasta mix, unprepared, Italian four cheese lasagna
+-  Carrots, solids and liquids, no salt added, canned
+-  Cabbage, with salt, drained, boiled, cooked, savoy
+-  Puddings, with added oil, regular, dry mix, banana
+-  Turkey, raw, meat only, from whole bird, drumstick
+-  School Lunch, whole grain breaded, chicken nuggets
+-  Tomato products, without salt added, puree, canned
+-  Tomato products, without salt added, paste, canned
+-  Turnip greens, with salt, drained, boiled, cooked
+-  Yam, with salt, or baked, drained, boiled, cooked
+-  Yardlong bean, with salt, drained, boiled, cooked
+-  Noodles, with added salt, unenriched, cooked, egg
+-  Bamboo shoots, with salt, drained, boiled, cooked
+-  Mollusks, dry heat, cooked, wild, eastern, oyster
+-  Crustaceans, raw, farmed, mixed species, crayfish
+-  Bread, toasted, prepared from recipe, whole-wheat
+-  Cereals ready-to-eat, COOKIE CRISP, GENERAL MILLS
+-  Cereals ready-to-eat, QUAKER CRUNCHY BRAN, QUAKER
+-  Chicken breast, sliced, mesquite flavor, fat-free
+-  Chicken, raw, meat only, back, broilers or fryers
+-  Pork, pan-fried, cooked, pre-sliced, bacon, cured
+-  Fish, dry heat, cooked, mixed species, yellowtail
+-  PEPPERIDGE FARM, Farmhouse 100% Whole Wheat Bread
+-  Cereals ready-to-eat, KASHI 7 Whole Grain Nuggets
+-  Cereals ready-to-eat, WEETABIX whole grain cereal
+-  Beverages, ready-to-drink, Muscle Milk, CYTOSPORT
+-  Fast foods, and beef, cheese, with beans, burrito
+-  Peas, solids and liquids, seasoned, canned, green
+-  Fish, breaded and fried, cooked, channel, catfish
+-  Cookies, pecan, commercially prepared, shortbread
+-  Cookies, plain, commercially prepared, shortbread
+-  Ham, packaged (96% fat free, water added), sliced
+-  Cornmeal, enriched, degermed, self-rising, yellow
+-  Beverages, ready-to-drink, chocolate, almond milk
+-  MORNINGSTAR FARMS BBQ Riblets, unprepared, frozen
+-  Peppers, solids and liquids, canned, green, sweet
+-  Pizza, cooked, frozen, thin crust, cheese topping
+-  Cereals ready-to-eat, original, BARBARA'S PUFFINS
+-  Turkey, roasted, skin from whole (light and dark)
+-  Potatoes, whole milk added, home-prepared, mashed
+-  Rice, dry, enriched, parboiled, long-grain, white
+-  Beverages, powder, decaffeinated, instant, coffee
+-  Lamb, raw, kidneys, variety meats and by-products
+-  Veal, raw, kidneys, variety meats and by-products
+-  Babyfood, junior, cherry vanilla pudding, dessert
+-  Chicken, roasted, cooked, meat and skin, roasting
+-  Mollusks, steamed, cooked, (bay and sea), scallop
+-  Cereals ready-to-eat, Frosted Flakes, MALT-O-MEAL
+-  Beverages, shelf stable, unsweetened, almond milk
+-  Cereals ready-to-eat, FRANKENBERRY, GENERAL MILLS
+-  Beverages, DANNON, non-carbonated, bottled, water
+-  PILLSBURY, refrigerated dough, Crusty French Loaf
+-  CRACKER BARREL, fried, chicken tenderloin platter
+-  Candies, dietetic or low calorie (sorbitol), hard
+-  Lemon juice, single strength, unsweetened, frozen
+-  KEEBLER, Honey Wheat, Snack Sticks, CLUB Crackers
+-  Babyfood, strained, vegetables and turkey, dinner
+-  Cereals ready-to-eat, QUAKER Puffed Wheat, QUAKER
+-  Ground turkey, broiled, patties, 7% fat, 93% lean
+-  Soup, condensed, canned, mushroom with beef stock
+-  Cake, prepared from recipe, pineapple upside-down
+-  KELLOGG'S, Chocolate Chip, Mini Muffin Tops, EGGO
+-  Lemon juice from concentrate, REAL LEMON, bottled
+-  Desserts, prepared-from-recipe, chocolate, mousse
+-  Potatoes, home-prepared with margarine, scalloped
+-  CAMPBELL'S CHUNKY Soups, Hearty Bean 'N' Ham Soup
+-  Frozen novelties, no sugar added, fruit, ice type
+-  Rennin, prepared with 2% milk, dry mix, chocolate
+-  Restaurant, fried mozzarella sticks, family style
+-  KEEBLER, Cheese & Peanut Butter Sandwich Crackers
+-  Beverages, powder, sweetened, lemon, instant, tea
+-  Pie, enriched flour, commercially prepared, apple
+-  Infant formula, powder, store brand, PBM PRODUCTS
+-  Peach nectar, without added ascorbic acid, canned
+-  Jute, with salt, drained, boiled, cooked, potherb
+-  Cress, with salt, drained, boiled, cooked, garden
+-  Lotus root, without salt, drained, boiled, cooked
+-  MURRAY, Coconut Bars Cookies, COOKIE JAR CLASSICS
+-  Carrots, solids and liquids, regular pack, canned
+-  Fish, raw (Alaska Native), king (chinook), salmon
+-  Beverages, prepared with water, powder, Cocoa mix
+-  Cream puff, iced, custard or cream filled, eclair
+-  Babyfood, prepared with whole milk, mixed, cereal
+-  Muffin, low-fat, commercially prepared, blueberry
+-  Salad dressing, reduced calorie, italian dressing
+-  Cream, light (coffee cream or table cream), fluid
+-  Turkey, roasted, meat only, from whole bird, back
+-  Prairie Turnips, boiled (Northern Plains Indians)
+-  Yogurt, with low calorie sweetener, lowfat, fruit
+-  Meat drippings (lard, beef tallow, mutton tallow)
+-  Pork, heated, boneless, separable fat, ham, cured
+-  Gravy, ready-to-serve, canned or bottled, chicken
+-  Lima beans, raw, mature seeds, thin seeded (baby)
+-  Frozen novelties, POPSICLE SCRIBBLERS, juice type
+-  Ice creams, Butter Pecan, No Sugar Added, BREYERS
+-  LOMA LINDA Low Fat Big Franks, unprepared, canned
+-  Beverages, Tropical Blend, V8 SPLASH Juice Drinks
+-  KEEBLER, Multigrain Crackers, TOPPERS, TOWN HOUSE
+-  Salad dressing, milk cream, imitation, mayonnaise
+-  Apples, with added sugar, stewed, sulfured, dried
+-  Alcoholic beverage, BUDWEISER SELECT, light, beer
+-  Seal, raw (Alaska Native), meat, bearded (Oogruk)
+-  WORTHINGTON Vegetarian Burger, unprepared, canned
+-  Sweet potato, without salt, baked, cooked, frozen
+-  Soup, ready-to-serve, canned, beef and vegetables
+-  Beverages, canned, orange and apricot juice drink
+-  USDA Commodity pears, drained, juice pack, canned
+-  KEEBLER, bite-size, Chocolate Chip Grahams, GRIPZ
+-  Chicken, raw, meat only, neck, broilers or fryers
+-  Pork sausage, unprepared, reduced fat, link/patty
+-  Artichokes, unprepared, frozen, (globe or french)
+-  Cereals, Regular, Instant Oatmeal Organic, QUAKER
+-  Rice, unenriched, raw, regular, long-grain, white
+-  Fast foods, french fried in vegetable oil, potato
+-  Bacon, unprepared, reduced/low sodium, pre-sliced
+-  KRAFT CHEEZ WHIZ Pasteurized Process Cheese Sauce
+-  Beverages, Strawberry Banana, V8 SPLASH Smoothies
+-  T.G.I. FRIDAY'S, from kids' menu, chicken fingers
+-  Chicken, raw, meat only, wing, broilers or fryers
+-  Fast foods, large patty; plain, hamburger; single
+-  Pork, crumbles, cooked, 96% lean / 4% fat, ground
+-  Beverages, bottled, cranberry-apricot juice drink
+-  Grapefruit juice, with added calcium, pink or red
+-  Restaurant, spaghetti and meatballs, family style
+-  Spaghetti, canned, with meatballs in tomato sauce
+-  Lasagna with meat & sauce, frozen entree, low-fat
+-  Sweetener, herbal extract powder from Stevia leaf
+-  Babyfood, junior, applesauce and pineapple, fruit
+-  Snacks, reduced fat, nacho-flavor, tortilla chips
+-  Snacks, made with olestra, fat-free, potato chips
+-  Snacks, salted, white corn, plain, tortilla chips
+-  Puddings, prepared with whole milk, dry mix, rice
+-  Fruit juice smoothie, ORIGINAL SUPERFOOD, ODWALLA
+-  Tofu, prepared with calcium sulfate, regular, raw
+-  KEEBLER, Peanut Butter Cups Cookies, CHIPS DELUXE
+-  Beef, raw, kidneys, variety meats and by-products
+-  Soybeans, steamed, cooked, sprouted, mature seeds
+-  Spinach, solids and liquids, regular pack, canned
+-  Puddings, prepared with 2% milk, dry mix, tapioca
+-  Turkey from whole, raw, meat and skin, light meat
+-  Soybeans, with salt, boiled, cooked, mature seeds
+-  Mollusks, moist heat, cooked, mixed species, clam
+-  Cereals ready-to-eat, Raisin Bran Cereal, MALT-O-MEAL
+-  Radishes, with salt, drained, boiled, cooked, oriental
+-  Turkey, roasted, with added solution, meat only, whole
+-  Oil, (over 70%), linoleic, salad or cooking, safflower
+-  Shortening bread, soybean (hydrogenated) and cottonseed
+-  Seeds, with salt added, toasted, sunflower seed kernels
+-  Squash, with salt, baked, cooked, all varieties, winter
+-  Ice creams, All Natural Light French Chocolate, BREYERS
+-  Pork sausage, pan-fried, cooked, reduced fat, link/patty
+-  Beef, fast fried, cooked, knuckle, imported, New Zealand
+-  Oil, (partially hydrogenated), salad or cooking, soybean
+-  Turkey, 97% fat-free, lemon pepper flavor, smoked, breast
+-  Cereals, dry, peach almond, REAL MEDLEYS, oatmeal, QUAKER
+-  Applesauce, with added ascorbic acid, unsweetened, canned
+-  Soup, prepared with equal volume water, canned, green, pea
+-  Beef, baked, cooked, loaf, 85% lean meat / 15% fat, ground
+-  Candies, M&M's Peanut Chocolate Candies, MARS SNACKFOOD US
+-  Whipped cream substitute, made from powdered mix, dietetic
+-  Gooseberries, solids and liquids, light syrup pack, canned
+-  Cereals ready-to-eat, Golden Maple, QUAKER Oatmeal Squares
+-  Beef, baked, cooked, loaf, 70% lean meat / 30% fat, ground
+-  CAMPBELL'S CHUNKY Soups, Beef with Country Vegetables Soup
+-  SUPPER BAKES MEAL KITS, Creamy Stroganoff Sauce with pasta
+-  Puddings, prepared with 2% milk, regular, dry mix, vanilla
+-  Soup, prepared with equal volume water, canned, chili beef
+-  New Zealand spinach, without salt, drained, boiled, cooked
+-  Squash, with salt, mashed, boiled, cooked, hubbard, winter
+-  CAMPBELL'S CHUNKY Soups, Old Fashioned Vegetable Beef Soup
+-  Beverages, dairy based., powder, natural, Malted drink mix
+-  Cereals, dry, apples and cinnamon, Instant Oatmeal, QUAKER
+-  Cereals, cinnamon, weight control, Instant Oatmeal, QUAKER
+-  Veal, raw, separable fat, composite of trimmed retail cuts
+-  HUNGRY MAN, unprepared, frozen, Salisbury Steak With Gravy
+-  Turkey, bone removed, with skin, cooked, smoked, drumstick
+-  Mustard greens, with salt, drained, boiled, cooked, frozen
+-  CAMPBELL'S, condensed, 98% Fat Free Cream of Mushroom Soup
+-  Cake, with vanilla frosting, commercially prepared, yellow
+-  Game meat, broiled, cooked, separable lean only, loin, elk
+-  Salad dressing, without salt, reduced fat, french dressing
+-  Cookies, with creme filling, vanilla sandwich, gluten-free
+-  Peppers, without salt, drained, boiled, cooked, red, sweet
+-  CAMPBELL'S Red and White, condensed, PHINEAS and FERB Soup
+-  Corn, without salt, drained, boiled, cooked, yellow, sweet
+-  Turkey ham, prepackaged or deli-sliced, extra lean, sliced
+-  Chrysanthemum, with salt, drained, boiled, cooked, garland
+-  Beverages, diet, decaffeinated, ready to drink, black, tea
+-  Cereals ready-to-eat, KASHI GOLEAN Vanilla Graham Clusters
+-  Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolate Almond
+-  Chicken, raw, meat and skin, drumstick, broilers or fryers
+-  Infant formula, powder, PROTECT PLUS, GOOD START 2, GERBER
+-  Beef, raw, all grades, separable lean only, whole, brisket
+-  Turkey, roasted, with added solution, meat and skin, whole
+-  KEEBLER, Original, Pretzel Crackers, FLIPSIDES, TOWN HOUSE
+-  Beans, without salt, drained, boiled, cooked, yellow, snap
+-  Babyfood, toddler, beef and tomato sauce, macaroni, dinner
+-  HORMEL ALWAYS TENDER, Peppercorn-Flavored, Pork Tenderloin
+-  Beef, baked, cooked, loaf, 80% lean meat / 20% fat, ground
+-  Cereals ready-to-eat, KELLOGG'S ALL-BRAN Original, KELLOGG
+-  Pork, raw, separable lean and fat, whole, leg (ham), fresh
+-  Snacks, TERRA CHIPS, HAIN CELESTIAL GROUP, vegetable chips
+-  KEEBLER, Dark Chocolate Almond Shortbread Cookies, SANDIES
+-  Alcoholic beverage, prepared from item 14028, whiskey sour
+-  Soup, prepared with equal volume milk, canned, oyster stew
+-  Candies, M&M's Almond Chocolate Candies, MARS SNACKFOOD US
+-  Elk, cooked patties (Shoshone Bannock), ground, free range
+-  Crackers, sandwich-type with peanut butter filling, cheese
+-  Grapefruit juice, OCEAN SPRAY, unsweetened, bottled, white
+-  Chicken, fried, cooked, meat only, leg, broilers or fryers
+-  Succotash, with cream style corn, canned, (corn and limas)
+-  Beans, drained solids, no salt added, canned, yellow, snap
+-  Strawberries, solids and liquids, heavy syrup pack, canned
+-  CAMPBELL'S, condensed, 98% Fat Free Cream of Broccoli Soup
+-  Squash, without salt, baked, cooked, all varieties, winter
+-  Yardlong beans, without salt, boiled, cooked, mature seeds
+-  Beverages, canned, with added nutrients, Fruit punch drink
+-  Cereals ready-to-eat, CINNAMON TOAST CRUNCH, GENERAL MILLS
+-  Gelatin desserts, with aspartame, reduced calorie, dry mix
+-  Potatoes, without salt, flesh, cooked without skin, boiled
+-  Tortillas, without added salt, corn, ready-to-bake or -fry
+-  Restaurant, from kid's menu, chicken fingers, family style
+-  Chicken, raw, meat and skin and giblets and neck, roasting
+-  Chicken, drumstick meat and skin, BBQ, rotisserie, broiler
+-  Crackers, reduced fat, peanut butter filled, sandwich-type
+-  Potatoes, dry form, granules with milk, dehydrated, mashed
+-  Babyfood, dry, with apple and orange, high protein, cereal
+-  Peas and carrots, solids and liquids, regular pack, canned
+-  Chicken, raw, and giblets and neck, meat and skin, stewing
+-  Pork, raw, separable lean and fat, boneless, Leg Cap Steak
+-  CAMPBELL'S Red and White, condensed, Chicken Alphabet Soup
+-  MORNINGSTAR FARMS Sesame Chik'n Entree, unprepared, frozen
+-  MORNINGSTAR FARMS Buffalo Chik Patties, unprepared, frozen
+-  Toaster Pastries, Strawberry, KELLOGG'S POP TARTS, KELLOGG
+-  Pancakes, incomplete (includes buttermilk), dry mix, plain
+-  Cereals, dry, Ham 'n' Cheese flavor, Instant Grits, QUAKER
+-  Nuts, with salt added, unflavored, wheat-based, formulated
+-  Soup, prepared with equal volume water, canned, minestrone
+-  SUBWAY, meatball marinara sub on white bread (no toppings)
+-  Coffeecake, prepared, dry mix, cinnamon with crumb topping
+-  Cowpeas, without salt, drained, boiled, cooked, leafy tips
+-  Milk, without added vitamin A and vitamin D, 1% fat, fluid
+-  Soup, prepared with equal volume water, canned, black bean
+-  Cereals, without salt, cooked with water, enriched, farina
+-  Hyacinth beans, without salt, boiled, cooked, mature seeds
+-  Bread, frozen, commercially prepared, whole wheat, paratha
+-  Sweet Potatoes, unprepared, frozen, crosscut, french fried
+-  Potatoes, unprepared, frozen, french fried, yellow fleshed
+-  Cereals ready-to-eat, MOTHER'S Cinnamon Oat Crunch, QUAKER
+-  Cheese, fat-free, cheddar or American, pasteurized process
+-  Cauliflower, without salt, drained, boiled, cooked, frozen
+-  Beverages, milk based, mocha, iced, ready to drink, coffee
+-  Macaroni and cheese, unprepared, box mix with cheese sauce
+-  Pork, unheated, canned, extra lean and regular, ham, cured
+-  ARCHWAY Home Style Cookies, Old Fashioned Windmill Cookies
+-  Snacks, mixed flavors, crunchy, KASHI TLC Bar, granola bar
+-  Beverages, lemon, ready-to-drink, black, tea, LIPTON BRISK
+-  Macaroni or noodles with cheese, unprepared, microwaveable
+-  Chicken, raw, meat and skin, dark meat, broilers or fryers
+-  Turkey, roasted, cooked, meat and skin, wing, retail parts
+-  UDI'S, Soft & Delicious White Sandwich Bread, Gluten Free
+-  Beans, without salt, boiled, cooked, mature seeds, yellow
+-  Vitasoy USA Organic Nasoya Sprouted, Tofu Plus Super Firm
+-  KELLOGG'S, Frosted Wild Grape Toaster Pastries, POP-TARTS
+-  Beverages, CRYSTAL GEYSER, non-carbonated, bottled, water
+-  Fast foods, and sausage, cheese, with egg, english muffin
+-  Beef, raw, select, separable lean and fat, chuck for stew
+-  Beef, raw, choice, separable lean and fat, chuck for stew
+-  Cereals ready-to-eat, SPECIAL K Vanilla Almond, KELLOGG'S
+-  Pork, raw, separable lean and fat, whole, shoulder, fresh
+-  Cheese product, reduced fat, cheddar, pasteurized process
+-  Beef, baked, cooked, loaf, 95% lean meat / 5% fat, ground
+-  Turkey, roasted, cooked, meat and skin, back, all classes
+-  Beans, without salt, drained, boiled, cooked, green, snap
+-  Cookies, made with margarine, prepared from recipe, sugar
+-  KRAFT CHEEZ WHIZ LIGHT Pasteurized Process Cheese Product
+-  USDA Commodity, cooked, frozen, fine/coarse, ground, pork
+-  Puddings, prepared with 2% milk, regular, dry mix, banana
+-  Fish, raw (may have been previously frozen), Pacific, cod
+-  Turnip greens, with salt, drained, boiled, cooked, frozen
+-  CAMPBELL'S, condensed, 98% Fat Free Cream of Chicken Soup
+-  Babyfood, without added fluoride., GERBER, bottled, water
+-  Corn, without salt, drained, boiled, cooked, white, sweet
+-  Pie crust, enriched, ready-to-bake, frozen, standard-type
+-  Beef, baked, cooked, loaf, 97% lean meat / 3% fat, ground
+-  Corn, drained solids, whole kernel, canned, yellow, sweet
+-  Cereals, dry, Country Bacon flavor, Instant Grits, QUAKER
+-  Cereals ready-to-eat, FROSTED TOAST CRUNCH, GENERAL MILLS
+-  Chicken, roasted, cooked, meat only, light meat, roasting
+-  Pork, unheated, separable lean and fat, whole, ham, cured
+-  Beef, raw,  external fat, grass-fed, imported, Australian
+-  CAMPBELL'S Red and White, condensed, Cream of Shrimp Soup
+-  CAMPBELL'S, condensed, chicken with rice, HEALTHY REQUEST
+-  Cereals ready-to-eat, ORGANIC PROMISE Autumn Wheat, KASHI
+-  KEEBLER, Dark Chocolate, Cheesecake Middles, FUDGE SHOPPE
+-  Potatoes, prepared, with butter sauce, frozen, hash brown
+-  MISSION FOODS, 8 inch, Soft Taco, MISSION Flour Tortillas
+-  Puddings, dry mix, instant, low calorie, chocolate flavor
+-  Beef, raw, choice, separable lean and fat, shortribs, rib
+-  Cookies, sugar free, commercially prepared, peanut butter
+-  Cereals ready-to-eat, POST GREAT GRAINS Banana Nut Crunch
+-  Soup, reduced sodium, condensed, canned, cream of chicken
+-  Cereals, dry, summer berry, REAL MEDLEYS, oatmeal, QUAKER
+-  Cereals, dry, apple walnut, REAL MEDLEYS, oatmeal, QUAKER
+-  CAMPBELL'S, Essential Antioxidants V8, V8 Vegetable Juice
+-  Soup, prepared with water, powder, beef broth or bouillon
+-  CAMPBELL'S, condensed, Chicken Noodle Soup, Red and White
+-  Nuts, smoke flavor, with salt added, oil roasted, almonds
+-  Turkey breast, roasted, cooked, meat and skin, pre-basted
+-  Turkey, roasted, cooked, meat and skin, wing, all classes
+-  Fast foods, and bacon, cheese, egg, griddle cake sandwich
+-  Salad dressing, reduced fat, commercial, italian dressing
+-  Cereals ready-to-eat, Warm Cinnamon, KASHI HEART TO HEART
+-  Cereals ready-to-eat, Banana Nut, CHEERIOS, GENERAL MILLS
+-  CAMPBELL'S CHUNKY Soups, Old Fashioned Potato Ham Chowder
+-  Pears, solids and liquids, extra light syrup pack, canned
+-  Pears, solids and liquids, extra heavy syrup pack, canned
+-  Sweet rolls, commercially prepared with raisins, cinnamon
+-  Lettuce, raw, butterhead (includes boston and bibb types)
+-  Onions, with salt, drained, boiled, cooked, whole, frozen
+-  PILLSBURY GRANDS, refrigerated dough, Buttermilk Biscuits
+-  Peppers, with salt, drained, boiled, cooked, green, sweet
+-  Onions, raw, spring or scallions (includes tops and bulb)
+-  Puddings, dry mix, regular, low calorie, chocolate flavor
+-  Sour dressing, filled cream-type, cultured, non-butterfat
+-  Margarine-like spread, SMART BALANCE Light Buttery Spread
+-  CAMPBELL'S Soup on the Go, Chicken with Mini Noodles Soup
+-  PEPPERIDGE FARM, Parmesan, Baked Snack Crackers, Goldfish
+-  PEPPERIDGE FARM, Original, Baked Snack Crackers, Goldfish
+-  Spaghetti, enriched (n x 6.25), cooked, protein-fortified
+-  CAMPBELL'S Red and White, condensed, Bean with Bacon Soup
+-  Babyfood, dry fortified, with apples, whole wheat, cereal
+-  Protein supplement, powder, Muscle Milk Light, milk based
+-  Oil, woks and light frying, canola for salads, industrial
+-  Beans, drained solids, no salt added, canned, green, snap
+-  WORTHINGTON Meatless Corned Beef Roll, unprepared, frozen
+-  Snacks, mixed flavors, crunchy, KASHI GOLEAN, granola bar
+-  Snacks, confectioners coating, almond, soft, granola bars
+-  Soup, ready to serve, traditional, beef barley, PROGRESSO
+-  PREGO Pasta, ready-to-serve, Zesty Mushroom Italian Sauce
+-  Soup, prepared with equal volume milk, canned, green, pea
+-  Babyfood, junior, noodles and chicken, vegetables, dinner
+-  Child formula, ready-to-feed, PEDIASURE, ABBOTT NUTRITION
+-  PREGO Pasta, ready-to-serve, Fresh Mushroom Italian Sauce
+-  PREGO Pasta, ready-to-serve, Garlic Supreme Italian Sauce
+-  Beans, drained solids, regular pack, canned, yellow, snap
+-  Candies, COCOAVIA Crispy Chocolate Bar, MARS SNACKFOOD US
+-  Toaster Pastries, Blueberry, KELLOGG'S POP TARTS, KELLOGG
+-  Milk, calcium fortified (fat free or skim), nonfat, fluid
+-  CRACKER BARREL, from kid's menu, macaroni n' cheese plate
+-  Cowpeas, with salt, boiled, cooked, mature seeds, catjang
+-  Seeds, type of kernels unspecified, tahini, sesame butter
+-  Cereals ready-to-eat, KASHI GOLEAN CRISP Cinnamon Crumble
+-  CAMPBELL'S Red and White, condensed, Broccoli Cheese Soup
+-  OSCAR MAYER, Smokies Sausage Little Cheese (pork, turkey)
+-  Cookies, soft-type, commercially prepared, chocolate chip
+-  Potatoes, without salt, flesh, cooked in skin, microwaved
+-  Soup, prepared with water, dry, chicken broth or bouillon
+-  Cereals ready-to-eat, Multi-Grain CHEERIOS, GENERAL MILLS
+-  Soup, condensed, canned, beef broth bouillon and consomme
+-  Beef, baked, cooked, loaf, 93% lean meat / 7% fat, ground
+-  Smoked link sausage, nonfat dry milk added, pork and beef
+-  Puddings, prepared with 2% milk, instant, dry mix, banana
+-  Soup, ready-to-serve, chunky, canned, split with ham, pea
+-  Pork, raw, pancreas, variety meats and by-products, fresh
+-  Cookies, reduced fat, vanilla sandwich with creme filling
+-  Pork, raw, leaf fat, variety meats and by-products, fresh
+-  Radishes, without salt, drained, boiled, cooked, oriental
+-  Fish, Pacific (Alaska Native), herring eggs on giant kelp
+-  Veal, roasted, cooked, separable lean only, arm, shoulder
+-  Veal, braised, cooked, separable lean only, arm, shoulder
+-  Veal, grilled, cooked, separable lean and fat, chop, loin
+-  Beverages, prepared with water, unsweetened, instant, tea
+-  KEEBLER, Reduced Fat, Graham Pie Crust (10"), READY CRUST
+-  CAMPBELL'S Red and White, condensed, Golden Mushroom Soup
+-  Cereals ready-to-eat, Multi-Grain Squares, CASCADIAN FARM
+-  Lamb, braised, cooked, ground lamb, imported, New Zealand
+-  Beans, without salt, boiled, cooked, mature seeds, french
+-  Beans, without salt, boiled, cooked, mature seeds, adzuki
+-  Pork, roasted, canned, extra lean and regular, ham, cured
+-  LITTLE CAESARS 14" Pepperoni Pizza, Large Deep Dish Crust
+-  CAMPBELL'S Red and White, condensed, Chicken Won Ton Soup
+-  Margarine, without salt, tub, composite, 80% fat, regular
+-  CAMPBELL'S Red and White, condensed, Cream of Celery Soup
+-  Alcoholic beverage, 34 proof, coffee with cream, liqueur
+-  English muffins, toasted (includes granola), mixed-grain
+-  Salad dressing, regular, commercial, peppercorn dressing
+-  Margarine-like, with salt, 20% fat, vegetable oil spread
+-  Turkey, roasted, cooked, meat only, breast, retail parts
+-  Veal, raw, separable lean and fat, shank (fore and hind)
+-  KASHI Italian Vegetable Medley Pasta, unprepared, frozen
+-  Doughnuts, chocolate-coated or frosted, plain, cake-type
+-  Lemonade, prepared with water, white, frozen concentrate
+-  Oil, for woks and light frying, refined, soy, industrial
+-  Fast foods, round pieces or patty, hash browns, potatoes
+-  Sweet potato, without salt, flesh, baked in skin, cooked
+-  Infant formula, ready-to-feed, store brand, PBM PRODUCTS
+-  Bread, made with margarine, prepared from recipe, banana
+-  Beans, drained solids, regular pack, canned, green, snap
+-  Turkey, roasted, cooked, meat and skin, leg, all classes
+-  Beans, drained solids, canned, mature seeds, red, kidney
+-  KEEBLER, Cheese, Pretzel Crackers, FLIPSIDES, TOWN HOUSE
+-  Cookies, special dietary, commercially prepared, oatmeal
+-  Soup, ready to serve, less/reduced sodium, chicken broth
+-  Peas, rinsed in tap water, drained solids, canned, green
+-  Soymilk, vitamins A and D, with added calcium, chocolate
+-  Sausage,  lower sodium, Italian style, chicken or turkey
+-  CAMPBELL'S, condensed, 98% Fat Free Cream of Celery Soup
+-  CAMPBELL'S, condensed, 98% Fat Free Broccoli Cheese Soup
+-  Asparagus, without salt, drained, boiled, cooked, frozen
+-  SUNSHINE, Reduced Fat, 100 Calorie Right Bites, CHEEZ-IT
+-  Finger snacks, apple and cinnamon, GERBER GRADUATE PUFFS
+-  KASHI Pizza, unprepared, frozen, Mushroom Trio & Spinach
+-  CAMPBELL'S Homestyle Mexican Style Chicken Tortilla Soup
+-  Bread, no salt, low sodium, commercially prepared, white
+-  Corn, drained solids, whole kernel, canned, white, sweet
+-  Beverages, prepared with water, regular, instant, coffee
+-  Beverages, restaurant-prepared, espresso, brewed, coffee
+-  SUNSHINE, Duoz Sharp Cheddar Parmesan Crackers, CHEEZ-IT
+-  Lima beans, unprepared, fordhook, frozen, immature seeds
+-  Cereals ready-to-eat, Apple Cinnamon CHEX, GENERAL MILLS
+-  Beans, without salt, boiled, cooked, mature seeds, white
+-  CAMPBELL'S Red and White, condensed, Beefy Mushroom Soup
+-  Candies, M&M's Milk Chocolate Candies, MARS SNACKFOOD US
+-  PILLSBURY, refrigerated dough, Cinnamon Rolls with Icing
+-  Infant formula, powder, PROTECT PLUS, GOOD START, GERBER
+-  Chicken, raw, meat and skin and giblets and neck, capons
+-  Fish, dry heat, cooked, mixed species, Pacific, rockfish
+-  Agutuk, meat-caribou (Alaskan ice cream) (Alaska Native)
+-  Pancakes, complete (includes buttermilk), dry mix, plain
+-  Babyfood, strained, guava and papaya with tapioca, fruit
+-  Babyfood, strained, bananas with apples and pears, fruit
+-  Pork, raw, stomach, variety meats and by-products, fresh
+-  Flan, prepared with whole milk, dry mix, caramel custard
+-  Beverages, sweetened, lemon, decaffeinated, instant, tea
+-  Pickles, sweet, with cauliflower onion mustard, chowchow
+-  Beverages, sweetened, milk based, ready to drink, coffee
+-  Babyfood, toddlers, mashed cheddar potatoes and broccoli
+-  Turkey thigh, roasted, cooked, meat and skin, pre-basted
+-  Alcoholic Beverage, Cabernet Sauvignon, red, table, wine
+-  Cereals, dry, 10 minute cooking, regular, CREAM OF WHEAT
+-  Babyfood, strained, macaroni and tomato and beef, dinner
+-  Squash, with salt, mashed, boiled, cooked, acorn, winter
+-  Cereals ready-to-eat, Chocolate, CHEERIOS, GENERAL MILLS
+-  CAMPBELL'S Red and White, condensed, Cream of Onion Soup
+-  Sauce, soy sauce, water, made from peanut butter, peanut
+-  Cookie, with chocolate icing or filling, butter or sugar
+-  Cereals ready-to-eat, BERRY COLOSSAL CRUNCH, MALT-O-MEAL
+-  KASHI, Frozen Entree, Chicken Enchilada with Ancho Sauce
+-  Beverages, whey and milk based, Chocolate-flavored drink
+-  Soup, ready-to-serve, reduced sodium, canned, minestrone
+-  Figs, solids and liquids, extra heavy syrup pack, canned
+-  Babyfood, prepared with whole milk, high protein, cereal
+-  Orange juice, undiluted, unsweetened, frozen concentrate
+-  Beans, without salt, boiled, cooked, mature seeds, black
+-  PEPPERIDGE FARM, Cheddar, Baked Snack Crackers, Goldfish
+-  Yogurt, fortified with vitamin D, nonfat milk, chocolate
+-  Fish, (Alaska Native), kippered, with skin, king, salmon
+-  Frozen novelties, SLIM-A-BEAR Vanilla Sandwich, KLONDIKE
+-  Ice creams, Vanilla Fudge Twirl, No Sugar Added, BREYERS
+-  Infant Formula, powder, GENTLE PLUS, GERBER GOOD START 2
+-  Cereals ready-to-eat, Fruit & Yogurt, SPECIAL K, KELLOGG
+-  Restaurant, pupusas con frijoles (pupusas, bean), Latino
+-  HORMEL ALWAYS TENDER, Teriyaki-Flavored, Pork Tenderloin
+-  Babyfood, toddler, spaghetti and tomato and meat, dinner
+-  Beans, without salt, boiled, cooked, mature seeds, pinto
+-  Snacks, mixed flavors, chewy, KASHI TLC Bar, granola bar
+-  Oil, filling fat, palm kernel (hydrogenated), industrial
+-  Cereals, dry, QUAKER/MOTHER'S Oat Bran, Oat Bran, QUAKER
+-  PREGO Pasta, ready-to-serve, Mini Meatball Italian Sauce
+-  Beverages, with added ascorbic acid, lemon, instant, tea
+-  Cookies, soft-type, commercially prepared, peanut butter
+-  AUSTIN, sandwich-type, Cheddar Cheese on Cheese Crackers
+-  AUSTIN, sandwich-type, Chocolatey Peanut Butter Crackers
+-  Infant formula, powder, with iron, ENFAMIL, MEAD JOHNSON
+-  SUNSHINE, Cheez-It Mixx and Cheesy Pizza Crackers, GRIPZ
+-  CAMPBELL'S Homestyle Chicken with White & Wild Rice Soup
+-  Winged beans, without salt, boiled, cooked, mature seeds
+-  Cookies, regular, with creme filling, chocolate sandwich
+-  Frozen novelties, restaurant-prepared, italian, ice type
+-  Potatoes, without salt, skin, cooked in skin, microwaved
+-  Lamb, cooked, separable fat, fresh, imported, Australian
+-  Fish, bones removed (Alaska Native), canned, red, salmon
+-  Infant Formula, powder, GENTLEASE, ENFAMIL, MEAD JOHNSON
+-  Chicken, roasted, cooked, meat only, dark meat, roasting
+-  Cake, chocolate with frosting, creme-filled, snack cakes
+-  Pork, raw, kidneys, variety meats and by-products, fresh
+-  Sauce, ready to serve, mild, red, enchilada, OLD EL PASO
+-  Mushrooms, raw, exposed to ultraviolet light, portabella
+-  Fruit juice smoothie, strawberry banana, BOLTHOUSE FARMS
+-  Margarine, with salt, stick, composite, 80% fat, regular
+-  Cereals ready-to-eat, 25% Less Sugar TRIX, GENERAL MILLS
+-  Cereals ready-to-eat, KELLOGG'S CINNABON cereal, KELLOGG
+-  Puddings, prepared with 2% milk, instant, dry mix, lemon
+-  Mollusks, breaded and fried, cooked, mixed species, clam
+-  KELLOGG'S, Egg & Cheese, Bacon, Biscuit Scramblers, EGGO
+-  KEEBLER, Peanut Butter, Jumbo Fudge Sticks, FUDGE SHOPPE
+-  Macaroni and cheese, prepared, box mix with cheese sauce
+-  Seeds, without salt, dry roasted, sunflower seed kernels
+-  Seeds, without salt, oil roasted, sunflower seed kernels
+-  Salad dressing, light, blue or roquefort cheese dressing
+-  Tangerines, light syrup pack, canned, (mandarin oranges)
+-  Cereals ready-to-eat, RALSTON Enriched Wheat Bran flakes
+-  Cereals ready-to-eat, Frosted Mini SPOONERS, MALT-O-MEAL
+-  Wocas, yellow pond lily (Klamath), Oregon, cooked, tuber
+-  Granola bar, peanut butter, milk chocolate coated, soft
+-  Chicken, roasted, cooked, skin only, broilers or fryers
+-  Corn, no salt added, cream style, canned, yellow, sweet
+-  Corn, no salt added, vacuum pack, canned, yellow, sweet
+-  Corn, with salt, drained, boiled, cooked, yellow, sweet
+-  Brussels sprouts, without salt, drained, boiled, cooked
+-  Yogurt, fortified with vitamin D, nonfat, fruit variety
+-  Beverages, Diet Strawberry Kiwi, V8 SPLASH Juice Drinks
+-  Cereals ready-to-eat, HONEY NUT CHEERIOS, GENERAL MILLS
+-  Cereals ready-to-eat, KELLOGG'S COCOA KRISPIES, KELLOGG
+-  KEEBLER, Reduced Fat, Vienna Fingers with Creme Filling
+-  KEEBLER, Roasted Almond, Nut Crisp Crackers, WHEATABLES
+-  Soup, single brand, condensed, canned, cream of chicken
+-  Cereals ready-to-eat, HONEY GRAHAM SQUARES, MALT-O-MEAL
+-  Salad dressing, KRAFT MIRACLE WHIP FREE Nonfat Dressing
+-  Salad dressing, KRAFT Mayo Fat Free Mayonnaise Dressing
+-  Chicken, raw, meat and skin, breast, broilers or fryers
+-  Mungo beans, without salt, boiled, cooked, mature seeds
+-  Peas, without salt, boiled, cooked, mature seeds, split
+-  Mollusks, moist heat, cooked, mixed species, cuttlefish
+-  Pork, raw, separable lean only, whole, leg (ham), fresh
+-  Beans, without salt, boiled, cooked, mature seeds, pink
+-  Soup, prepared with equal volume water, low sodium, pea
+-  Cereals ready-to-eat, HONEY NUT CLUSTERS, GENERAL MILLS
+-  Snacks, peanut butter, KUDOS Whole Grain Bars, M&M MARS
+-  Muffins, toasted, toaster-type with raisins, wheat bran
+-  BURGER KING, Egg and Cheese, CROISSAN'WICH with Sausage
+-  Soy protein concentrate, produced by alcohol extraction
+-  Sauce, peanuts, sugar, water, made from coconut, peanut
+-  Alcoholic beverage, Sauvignon Blanc, white, table, wine
+-  Pizza, cooked, frozen, regular crust, pepperoni topping
+-  Chicken, stewed, cooked, meat only, light meat, stewing
+-  Fast foods, with tartar sauce and cheese, fish sandwich
+-  Fast foods, plain with pickles, chicken fillet sandwich
+-  Snacks, KELLOGG'S RICE KRISPIES TREATS Squares, KELLOGG
+-  CARRABBA'S ITALIAN GRILL, spaghetti with pomodoro sauce
+-  Bread, refrigerated, commercially prepared, plain, naan
+-  Pork, raw, spleen, variety meats and by-products, fresh
+-  Corn, unprepared, kernels on cob, frozen, yellow, sweet
+-  Lamb, cooked, external fat, fresh, imported, Australian
+-  Cereals, without salt, cooked with water, CREAM OF RICE
+-  Yardlong beans, with salt, boiled, cooked, mature seeds
+-  KEEBLER, soft, Chocolate Chip Cookie, BAKER'S TREASURES
+-  KEEBLER, soft, Oatmeal Raisin Cookie, BAKER'S TREASURES
+-  Ginger root, with artificial sweetener, canned, pickled
+-  Cowpeas, with salt, drained, boiled, cooked, leafy tips
+-  Babyfood, toddler, potatoes with cheese and ham, dinner
+-  New zealand spinach, with salt, drained, boiled, cooked
+-  Peas, with salt, drained, boiled, cooked, edible-podded
+-  Beverages, canned, pineapple and grapefruit juice drink
+-  Beverages, sweetened, lemon, ready-to-drink, black, tea
+-  Pineapple, solids and liquids, heavy syrup pack, canned
+-  Beans, without salt, boiled, cooked, mature seeds, navy
+-  Cereals ready-to-eat, SPECIAL K Protein Plus, KELLOGG'S
+-  KEEBLER, Holiday/Spiderman, Fudge Stripes, FUDGE SHOPPE
+-  Peppers, with salt, drained, boiled, cooked, red, sweet
+-  Game meat, raw, composite of cuts, domesticated, rabbit
+-  Cherries, solids and liquids, water pack, canned, sweet
+-  Cherries, solids and liquids, juice pack, canned, sweet
+-  Light Ice Cream, blended with cookie pieces, soft serve
+-  Orange-grapefruit juice, unsweetened, canned or bottled
+-  Cereals ready-to-eat, KELLOGG'S FROSTED FLAKES, KELLOGG
+-  Seeds, partially defatted (glandless), cottonseed flour
+-  KELLOGG'S, Sour Cream & Onion, Cracker Chips, SPECIAL K
+-  Cauliflower, with salt, drained, boiled, cooked, frozen
+-  Beverages, peanut flavor, canned, Meal supplement drink
+-  Turkey, roasted, cooked, meat only, thigh, retail parts
+-  Apricots, uncooked, sulfured, dehydrated (low-moisture)
+-  LOMA LINDA Tender Rounds with Gravy, unprepared, canned
+-  USDA Commodity, heated, frozen, breaded, salmon nuggets
+-  Pork, raw, separable lean only, tenderloin, loin, fresh
+-  Restaurant, pupusas con queso (pupusas, cheese), Latino
+-  Beans, with salt, drained, boiled, cooked, yellow, snap
+-  Fish, dry heat, cooked, mixed species, freshwater, bass
+-  Babyfood, junior, spaghetti and tomato and meat, dinner
+-  Snacks, mixed flavors, chewy, KASHI GOLEAN, granola bar
+-  Snacks, all flavors, QUAKER OATMEAL TO GO, granola bars
+-  KEEBLER, Reduced Fat, Pecan Shortbread Cookies, SANDIES
+-  Cereals ready-to-eat, Toasted Multigrain Crisps, QUAKER
+-  Cereals ready-to-eat, cinnamon, Oatmeal Squares, QUAKER
+-  Cookies, without raisins, prepared from recipe, oatmeal
+-  Beans, low sodium, canned, mature seeds, great northern
+-  MORNINGSTAR FARMS Grillers Original, unprepared, frozen
+-  Babyfood, toddler, and vegetables, rice, turkey, dinner
+-  Salad dressing, reduced calorie, honey mustard dressing
+-  Pasta with Sliced Franks in Tomato Sauce, canned entree
+-  Cereals, dry, Raisin and Spice, Instant Oatmeal, QUAKER
+-  AUSTIN, sandwich-type, Cheddar Cheese on Wheat Crackers
+-  AUSTIN, sandwich-type, Grilled Cheese on Wafer Crackers
+-  Chicken, meat only, drumstick, BBQ, rotisserie, broiler
+-  Hyacinth beans, with salt, boiled, cooked, mature seeds
+-  SUNSHINE, Reduced Fat Crackers, White Cheddar, CHEEZ-IT
+-  Beverages, frozen concentrate, citrus fruit juice drink
+-  Babyfood, finger snacks cereal fortified, baked product
+-  Chicken, breast meat and skin, BBQ, rotisserie, broiler
+-  Grapefruit juice, unsweetened, canned or bottled, white
+-  Pork, unheated, extra lean, boneless, steak, ham, cured
+-  Yambean (jicama), without salt, drained, boiled, cooked
+-  CAMPBELL'S Red and White, condensed, Chicken Gumbo Soup
+-  Toaster Pastries, S'mores, KELLOGG'S POP TARTS, KELLOGG
+-  Pork, raw, tongue, variety meats and by-products, fresh
+-  Fast foods, soft, lettuce and cheese, taco with chicken
+-  Restaurant, cheese ravioli with marinara sauce, Italian
+-  Beef, boiled, cooked, sweetbread, imported, New Zealand
+-  Drumstick leaves, without salt, drained, boiled, cooked
+-  Cake, prepared from recipe with coconut frosting, white
+-  SUBWAY, tuna sub on white bread with lettuce and tomato
+-  Snacks, chocolate chip, KUDOS Whole Grain Bar, M&M MARS
+-  Cranberry, raw (Alaska Native), low bush or lingenberry
+-  Cereals, with salt, cooked with water, enriched, farina
+-  Cowpeas (blackeyes), unprepared, frozen, immature seeds
+-  AUSTIN, sandwich-type, Peanut Butter on Cheese Crackers
+-  Dandelion greens, without salt, drained, boiled, cooked
+-  Veal, raw, separable lean and fat, blade chop, shoulder
+-  Jams, sweetened with fruit juice, marmalades, preserves
+-  CAMPBELL'S CHUNKY Soups, HEALTHY REQUEST Vegetable Soup
+-  Soup, ready-to-serve, canned, new england, clam chowder
+-  Mushrooms, without salt, drained, boiled, cooked, white
+-  Peas, with salt, drained, boiled, cooked, frozen, green
+-  Sweet rolls, refrigerated dough with frosting, cinnamon
+-  Pineapple, solids and liquids, light syrup pack, canned
+-  Pie crust, unbaked, prepared from recipe, standard-type
+-  Potatoes, with salt, flesh, cooked without skin, boiled
+-  Nutritional supplement for people with diabetes, liquid
+-  Beverages, Lemonade, Minute Maid, The COCA-COLA company
+-  Bread, salvadoran sweet cheese (quesadilla salvadorena)
+-  Chicken, raw, meat only, light meat, broilers or fryers
+-  DOMINO'S 14" Pepperoni Pizza, Classic Hand-Tossed Crust
+-  AUSTIN, sandwich-type, Cheddar Cheese on Wafer Crackers
+-  AUSTIN, sandwich-type, Peanut Butter on Toasty Crackers
+-  CAMPBELL'S, condensed, Cream of Chicken with Herbs Soup
+-  Chicken, stewed, cooked, skin only, broilers or fryers
+-  Corn, regular pack, cream style, canned, yellow, sweet
+-  Corn, regular pack, vacuum pack, canned, yellow, sweet
+-  Turkey, roasted, cooked, meat only, wing, retail parts
+-  Fast foods, regular patty; plain, cheeseburger; double
+-  Imitation cheese, low cholesterol, american or cheddar
+-  Fish, kippered (Alaska Native), (sockeye), red, salmon
+-  Pork, raw, separable lean only, whole, shoulder, fresh
+-  KEEBLER, Toasted Pecan, Nut Crisp Crackers, WHEATABLES
+-  Ice creams, Chocolate Caramel, No Sugar Added, BREYERS
+-  Mung beans, without salt, boiled, cooked, mature seeds
+-  Beans, solids and liquids, canned, mature seeds, pinto
+-  USDA Commodity, raw, frozen, fine/coarse, ground, pork
+-  Cornmeal, enriched, plain, bolted, self-rising, yellow
+-  Beverages, French Vanilla Cafe, instant, coffee, KRAFT
+-  Chicken, raw, meat and skin, thigh, broilers or fryers
+-  Squash, without salt, baked, cooked, butternut, winter
+-  Corn, no salt added, vacuum pack, canned, white, sweet
+-  Corn, no salt added, cream style, canned, white, sweet
+-  Corn, with salt, drained, boiled, cooked, white, sweet
+-  Cereals ready-to-eat, KELLOGG'S KRAVE chocolate cereal
+-  DENNY'S, from kid's menu, star shaped, chicken nuggets
+-  Cereals ready-to-eat, TOTAL Raisin Bran, GENERAL MILLS
+-  Juice, with added ascorbic acid, apple and grape blend
+-  Pasta, TINKYADA, cooked, brown rice flour, gluten-free
+-  Veal, grilled, cooked, separable lean only, chop, loin
+-  Rolls, calcium-fortified, whole grain white, hamburger
+-  Chicken, thigh meat and skin, BBQ, rotisserie, broiler
+-  Pork, unheated, separable lean only, whole, ham, cured
+-  Pork, raw, brain, variety meats and by-products, fresh
+-  Babyfood, dry fortified, Multigrain whole grain cereal
+-  Chicken, stewed, cooked, meat only, dark meat, stewing
+-  Candies, no sugar or low calorie (sorbitol), gum drops
+-  Fast foods, regular patty; plain, cheeseburger; triple
+-  Beverages, Concord Grape, Light Cranberry, OCEAN SPRAY
+-  Beef, raw, choice, separable lean only, shortribs, rib
+-  Ground turkey, pan-broiled crumbles, 15% fat, 85% lean
+-  KELLOGG, Mixed Berry, KELLOG'S NUTRI-GRAIN CEREAL BARS
+-  Pork, raw, liver, variety meats and by-products, fresh
+-  Pork, raw, lungs, variety meats and by-products, fresh
+-  Beverages, prepared with tap water, brewed, black, tea
+-  McDONALD'S, with syrup and margarine, Deluxe Breakfast
+-  Snacks, COMBOS Snacks Cheddar Cheese Pretzel, M&M MARS
+-  Soup, prepared with equal volume water, canned, cheese
+-  Babyfood, junior, macaroni and tomato and beef, dinner
+-  Veal, roasted, cooked, separable lean and fat, sirloin
+-  Veal, braised, cooked, separable lean and fat, sirloin
+-  CAMPBELL'S CHUNKY Soups, Roadhouse - Beef & Bean Chili
+-  Game meat, roasted, cooked, separable lean only, bison
+-  Game meat, roasted, cooked, composite of cuts, beefalo
+-  Ice cream sandwich, vanilla, made with light ice cream
+-  Crackers, whole wheat (includes multi-grain), saltines
+-  KFC, Skin and Breading, ORIGINAL RECIPE, Fried Chicken
+-  Fast foods, regular patty; plain, cheeseburger; single
+-  Beverages, non-carbonated, fruit-flavored, Propel Zero
+-  Chicken, simmered, cooked, giblets, broilers or fryers
+-  Cereals ready-to-eat, KELLOGG'S RICE KRISPIES, KELLOGG
+-  Beverages, powder, high protein, nutritional shake mix
+-  USDA Commodity Food, low saturated fat, vegetable, oil
+-  PEPPERIDGE FARM, Pizza, Baked Snack Crackers, Goldfish
+-  Peaches, solids and liquids, extra light syrup, canned
+-  Cookies, regular, commercially prepared, peanut butter
+-  KASHI Mushroom & Asparagus Risotto, unprepared, frozen
+-  Apricots, without added sugar, stewed, sulfured, dried
+-  Cereals ready-to-eat, Sweetened WHEAT-FULS, MOM'S BEST
+-  Frozen novelties, SLIM-A-BEAR Chocolate Cone, KLONDIKE
+-  Beverages, Guava Passion Fruit, V8 SPLASH Juice Drinks
+-  Beverages, Diet Tropical Blend, V8 SPLASH Juice Drinks
+-  Turkey, raw, with added solution, meat and skin, whole
+-  Frostings, prepared with water, dry mix, fluffy, white
+-  Cereals ready-to-eat, Honey Nut TOASTY O'S, MOM'S BEST
+-  Restaurant, prepared, entree, chicken and rice, Latino
+-  Beans, with salt, drained, boiled, cooked, green, snap
+-  Chicken, raw, meat only, dark meat, broilers or fryers
+-  Snacks, all flavors, reduced sugar, chewy, granola bar
+-  Cereals ready-to-eat, QUAKER OAT CINNAMON LIFE, QUAKER
+-  Beans, with salt, boiled, cooked, mature seeds, french
+-  Rice and vermicelli mix, unprepared, rice pilaf flavor
+-  Mung beans, stir-fried, cooked, sprouted, mature seeds
+-  McDONALD'S, Premium Grilled Chicken Ranch BLT Sandwich
+-  Spaghetti, enriched (n x 6.25), dry, protein-fortified
+-  Salad dressing, assorted flavors, spray-style dressing
+-  USDA Commodity, with broth, meat only, canned, Chicken
+-  USDA Commodity, with water, meat only, canned, Chicken
+-  Wheat flour, enriched, self-rising, all-purpose, white
+-  Fish, drained solids, canned in oil, european, anchovy
+-  Beverages, half the caffeine, regular, instant, coffee
+-  Chicken, roasted, cooked, meat only, cornish game hens
+-  Snacks, salt added, white popcorn, oil-popped, popcorn
+-  Amaranth leaves, without salt, drained, boiled, cooked
+-  Corn, unprepared, kernels on cob, frozen, white, sweet
+-  Rice, cooked, unenriched, parboiled, long-grain, white
+-  Jellies, any flavors, no sugar (with sodium saccharin)
+-  Beans, with salt, boiled, cooked, mature seeds, yellow
+-  CAMPBELL'S Low Sodium Soups, Chicken with Noodles Soup
+-  Yogurt, 11 grams protein per 8 ounce, low fat, vanilla
+-  Yogurt, 13 grams protein per 8 ounce, skim milk, plain
+-  Yogurt, 8 grams protein per 8 ounce, whole milk, plain
+-  PREGO Pasta, ready-to-serve, Traditional Italian Sauce
+-  Alcoholic beverage, Muller Thurgau, white, table, wine
+-  Alcoholic beverage, Gewurztraminer, white, table, wine
+-  MORNINGSTAR FARMS Breakfast Pattie, unprepared, frozen
+-  Egg, glucose reduced, stabilized, flakes, dried, white
+-  Egg, glucose reduced, stabilized, powder, dried, white
+-  Pumpkin flowers, without salt, drained, boiled, cooked
+-  Chicken, roasted, cooked, skin (drumsticks and thighs)
+-  Chicken, braised, cooked, skin (drumsticks and thighs)
+-  Cake, prepared from recipe without frosting, chocolate
+-  Pork, raw, heart, variety meats and by-products, fresh
+-  Pie, no-bake type, prepared from mix, chocolate mousse
+-  Infant formula, powder, soy, store brand, PBM PRODUCTS
+-  Candies, STARBURST Sour Fruit Chews, MARS SNACKFOOD US
+-  Beef, cooked, intermuscular fat, imported, New Zealand
+-  KEEBLER, Original Chocolate Chip Cookies, CHIPS DELUXE
+-  Cereals ready-to-eat, DORA THE EXPLORER, GENERAL MILLS
+-  Soybeans, without salt, drained, boiled, cooked, green
+-  CAMPBELL'S CHUNKY, HEALTHY REQUEST Chicken Noodle Soup
+-  Peaches, uncooked, sulfured, dehydrated (low-moisture)
+-  Peas, solids and liquids, no salt added, canned, green
+-  CAMPBELL'S Red and White, condensed, French Onion Soup
+-  Seaweed, rehydrated, Canadian Cultivated EMI-TSUNOMATA
+-  Babyfood, strained, sweet potatoes and chicken, dinner
+-  Beverages, powder, breakfast type, orange-flavor drink
+-  Beverages, frozen concentrate, fruit punch juice drink
+-  KEEBLER, Fudge Mint, Grasshopper Cookies, FUDGE SHOPPE
+-  Potatoes, with salt, flesh, cooked in skin, microwaved
+-  TACO BELL, cheese and lettuce, Original Taco with beef
+-  Carrots, without salt, drained, boiled, cooked, frozen
+-  Lamb, cooked, Intermuscular fat, imported, New Zealand
+-  Cereals ready-to-eat, Whole Grain TOTAL, GENERAL MILLS
+-  LITTLE CAESARS 14" Cheese Pizza, Large Deep Dish Crust
+-  Turkey, roasted, cooked, meat and skin, fryer-roasters
+-  Turnips, without salt, drained, boiled, cooked, frozen
+-  Seeds, partially defatted (glandless), cottonseed meal
+-  Yellow rice with seasoning, unprepared, dry packet mix
+-  Margarine, with salt, tub, composite, 80% fat, regular
+-  DOMINO'S 14" Pepperoni Pizza, Ultimate Deep Dish Crust
+-  Turkey, roasted, meat only, from whole bird, drumstick
+-  Wocas, yellow pond lily (Klamath), Oregon, dried seeds
+-  Mayonnaise, cholesterol-free, reduced-calorie or diet
+-  Chicken, fried, cooked, meat only, broilers or fryers
+-  Fish, cooked (not previously frozen), Alaska, pollock
+-  Veal, raw, separable lean only, shank (fore and hind)
+-  Chayote, without salt, drained, boiled, cooked, fruit
+-  Apples, uncooked, sulfured, dehydrated (low moisture)
+-  Cherries, drained, heavy syrup, pitted, canned, sweet
+-  Soup, single brand, condensed, canned, vegetable beef
+-  Plums, solids and liquids, juice pack, purple, canned
+-  Plums, solids and liquids, water pack, purple, canned
+-  Restaurant, arepa (unleavened cornmeal bread), Latino
+-  Restaurant, pupusas del cerdo (pupusas, pork), Latino
+-  Beverages, contains caffeine, pepper-type, carbonated
+-  Alcoholic beverage, prepared-from-recipe, pina colada
+-  Walrus, meat and subcutaneous fat raw (Alaska Native)
+-  Beans, with salt, boiled, cooked, mature seeds, black
+-  Soup, ready to serve, less/reduced sodium, beef broth
+-  Grapefruit, California and Arizona, pink and red, raw
+-  Bread, toasted (includes sourdough), french or vienna
+-  Soup, prepared with equal volume milk, canned, cheese
+-  Babyfood, strained, vanilla, custard pudding, dessert
+-  Corn, regular pack, vacuum pack, canned, white, sweet
+-  Corn, regular pack, cream style, canned, white, sweet
+-  Fish, dry heat, cooked, Atlantic and Pacific, halibut
+-  Turkey, raw, from turkey frames, mechanically deboned
+-  Pork, raw, tail, variety meats and by-products, fresh
+-  Beans, with salt, boiled, cooked, mature seeds, white
+-  Peaches, without added sugar, stewed, sulfured, dried
+-  Cereals ready-to-eat, Honey Nut SCOOTERS, MALT-O-MEAL
+-  APPLEBEE'S, from kid's menu, Macaroni & Cheese, KRAFT
+-  McDONALD'S, Fruit 'n Yogurt Parfait (without granola)
+-  Fast foods, with corn flour coating (corndog), hotdog
+-  Beverages, unsweetened, ready-to-drink, Coconut water
+-  Chicken, wing meat and skin, BBQ, rotisserie, broiler
+-  Cereals ready-to-eat, FROSTED CHEERIOS, GENERAL MILLS
+-  Pork, roasted, separable lean only, whole, ham, cured
+-  Nuts, without salt added, dry roasted, macadamia nuts
+-  Frozen novelties, prepackaged, sundae, ice cream type
+-  CAMPBELL'S Homestyle Light Italian-Style Wedding Soup
+-  PILLSBURY, refrigerated dough, Chocolate Chip Cookies
+-  Nuts, without salt added, dry roasted, pistachio nuts
+-  NABISCO, Cookie Crumb Topping, NABISCO OREO CRUNCHIES
+-  McDONALD'S, NEWMAN'S OWN Low Fat Balsamic Vinaigrette
+-  Ground turkey, pan-broiled crumbles, 7% fat, 93% lean
+-  Ice creams, All Natural Light French Vanilla, BREYERS
+-  Flan, prepared with 2% milk, dry mix, caramel custard
+-  Cereals ready-to-eat, KASHI 7 Whole Grain Honey Puffs
+-  Margarine, without salt, stick, composite, 80% fat, regular
+-  Chicken, stewed, cooked, meat only, leg, broilers or fryers
+-  Nuts, shredded, sweetened, dried (desiccated), coconut meat
+-  CAMPBELL'S Red and White, condensed, Chicken Vegetable Soup
+-  Pork, raw, separable lean and fat, boneless, Shoulder breast
+-  Turnip greens, without salt, drained, boiled, cooked, frozen
+-  Pork, raw, separable lean only, shank half, leg (ham), fresh
+-  SPAGHETTIOS, SpaghettiOs RavioliOs Beef Ravioli in Meat Sauce
+-  USDA Commodity, unheated, cooked as purchased, salmon nuggets
+-  Cereals ready-to-eat, Organic FLAX PLUS flakes, NATURE'S PATH
+-  Beef, simmered, cooked, kidneys, variety meats and by-products
+-  Cereals ready-to-eat, KELLOGG'S SPECIAL K Multi-grain, KELLOGG
+-  Cereals, dry, fruit and cream variety, Instant Oatmeal, QUAKER
+-  Soup, prepared with equal volume water, canned, mushroom barley
+-  Frozen yogurts, sweetened without sugar, nonfat milk, chocolate
+-  Cereals, dry, Maple & Brown Sugar Hot Wheat Cereal, MALT-O-MEAL
+-  Wheat flour, enriched, bleached, 13% protein, white (industrial)
+-  Wheat flour, enriched, bleached, 15% protein, white (industrial)
+-  Light Ice Cream, blended with milk chocolate candies, soft serve
+-  Chicken, stewed, cooked, meat and skin, wing, broilers or fryers
+-  Pork, unheated, separable lean and fat, center slice, ham, cured
+-  Fast foods, regular patty; with condiments, cheeseburger; double
+-  Fast Food, thin crust, pepperoni topping, 14" pizza, Pizza Chain
+-  Fast foods, meatball marinara on white bread, submarine sandwich
+-  Beef, raw, separable lean only, striploin, imported, New Zealand
+-  Beef, fast roasted, cooked, ribs prepared, imported, New Zealand
+-  Beverages, ready-to-drink, nutritional drink, Boost plus, NESTLE
+-  Soup, prepared with equal volume water, canned, turkey vegetable
+-  Snacks, nacho cheese, made with olestra, low fat, tortilla chips
+-  Puddings, prepared with 2% milk, instant, dry mix, coconut cream
+-  Game meat, raw, separable lean only, shoulder clod, chuck, bison
+-  Beef, raw, separable lean only, hind shin, imported, New Zealand
+-  LITTLE CAESARS 14" Original Round Pepperoni Pizza, Regular Crust
+-  Veal, grilled, cooked, separable lean only, blade chop, shoulder
+-  Cereals ready-to-eat, KELLOGG'S MARSHMALLOW FROOT LOOPS, KELLOGG
+-  Veal, grilled, cooked, boneless, cutlet, cap off, top round, leg
+-  Peas, with salt, drained, boiled, cooked, sprouted, mature seeds
+-  Cookies, special dietary, with creme filling, chocolate sandwich
+-  Potatoes, with salt, flesh and skin, in skin, cooked, microwaved
+-  Cake, home baked style, Panque Casero, BIMBO Bakeries USA, pound
+-  Veal, raw, separable lean only, bone-in, hind, shank, Australian
+-  Soymilk, vitamins A and D, with added calcium, nonfat, chocolate
+-  DIGIORNO Pizza, baked, frozen, thin crispy crust, cheese topping
+-  Babyfood, strained, with applesauce and bananas, oatmeal, cereal
+-  Milk, without added vitamin A and vitamin D, evaporated, canned
+-  French toast, made with low fat (2%) milk, prepared from recipe
+-  Cereals ready-to-eat, CHOCO ZUCARITAS, KELLOGG'S FROSTED FLAKES
+-  Salmon, without skin and bones, drained solids, canned, sockeye
+-  Broccoli, without salt, drained, boiled, cooked, spears, frozen
+-  Doughnuts, plain (includes unsugared, old-fashioned), cake-type
+-  Chicken, stewed, cooked, meat and skin, leg, broilers or fryers
+-  Seeds, from raw and stone ground kernels, tahini, sesame butter
+-  Bread, made with low fat (2%) milk, prepared from recipe, white
+-  Cereals ready-to-eat, POST GREAT GRAINS Cranberry Almond Crunch
+-  Popcorn, made with palm oil, regular (butter) flavor, microwave
+-  NABISCO, NABISCO SNACKWELL'S Fat Free Devil's Food Cookie Cakes
+-  Cereals ready-to-eat, Blueberry MUFFIN TOPS Cereal, MALT-O-MEAL
+-  Beans, with salt, drained, boiled, cooked, frozen, yellow, snap
+-  Pizza, cooked, frozen, rising crust, meat and vegetable topping
+-  Cereals, dry, Hearty Honey & Cinnamon, KASHI GO LEAN Hot Cereal
+-  Pork, raw, separable lean and fat, shank half, leg (ham), fresh
+-  Crackers, unsalted tops (includes oyster, soda, soup), saltines
+-  Rice, with salt, unenriched, cooked, regular, long-grain, white
+-  Soybeans, with salt, stir-fried, cooked, sprouted, mature seeds
+-  Winged bean, with salt, drained, boiled, cooked, immature seeds
+-  Soup, prepared with equal volume milk, canned, cream of chicken
+-  Squash, without salt, boiled, cooked, frozen, butternut, winter
+-  Beverages, yellow green colored citrus soft drink with caffeine
+-  Pokeberry shoots, without salt, drained, boiled, cooked, (poke)
+-  Cereals ready-to-eat, CHOCOLATE MARSHMALLOW MATEYS, MALT-O-MEAL
+-  Nuts, without salt added, with peanuts, dry roasted, mixed nuts
+-  Nuts, without salt added, with peanuts, oil roasted, mixed nuts
+-  Potatoes, whole milk and margarine added, home-prepared, mashed
+-  Sandwich spread, unspecified oils, regular, with chopped pickle
+-  Soup, prepared with equal volume water, canned, cream of shrimp
+-  Soup, prepared with equal volume water, canned, cream of potato
+-  Cereals ready-to-eat, PEANUT BUTTER TOAST CRUNCH, GENERAL MILLS
+-  Cereals, reduced sugar, Cinnamon Spice, Instant Oatmeal, QUAKER
+-  Cereals ready-to-eat, original spoon-size, Shredded Wheat, POST
+-  MARTHA WHITE FOODS, dry, Martha White's Chewy Fudge Brownie Mix
+-  Pork, roasted, cooked, separable lean and fat, spareribs, fresh
+-  CAMPBELL'S Red and White, condensed, Chicken and Dumplings Soup
+-  Beef, boiled, cooked, manufacturing beef, imported, New Zealand
+-  Cereals ready-to-eat, with almonds, HONEY BUNCHES OF OATS, POST
+-  Potatoes, unprepared, extruded, par fried, french fried, frozen
+-  Puddings, prepared with whole milk, instant, dry mix, chocolate
+-  Puddings, prepared with whole milk, regular, dry mix, chocolate
+-  Cereals, dry, unenriched, regular and quick, yellow, corn grits
+-  Veal, raw, separable lean only, whole (arm and blade), shoulder
+-  Soup, prepared with equal volume water, canned, cream of celery
+-  Cereals ready-to-eat, Caramel Delight, FIBER ONE, GENERAL MILLS
+-  CAMPBELL'S Red and White, condensed, Creamy Chicken Noodle Soup
+-  Cereals, dry, with cinnamon and spice, fortified, instant, oats
+-  KASHI, Frozen Entree, Chicken and Chipotle BBQ Sauce with Mango
+-  POPEYES, meat and skin with breading, Wing, Mild, Fried Chicken
+-  Candies, milk chocolate with honey and almond nougat, TOBLERONE
+-  Turnover, unprepared, frozen, tomato-based sauce, cheese-filled
+-  Dessert topping, 1.5 ounce prepared with 1/2 cup milk, powdered
+-  CAMPBELL'S Red and White, condensed, Italian Style Wedding Soup
+-  Brussels sprouts, without salt, drained, boiled, cooked, frozen
+-  Babyfood, prepared with whole milk, with bananas, mixed, cereal
+-  USDA Commodity, cooked, frozen, ground bulk/coarse ground, beef
+-  Chicken, raw, with added solution, skin (drumsticks and thighs)
+-  Beans, without salt, boiled, cooked, mature seeds, black turtle
+-  KELLOGG'S, Frosted Chocolate Baked Bites, POP-TARTS MINI CRISPS
+-  Salmon, smoked (Alaska Native), filets with skin, red (sockeye)
+-  Cake, special dietary (includes lemon-flavored), dry mix, white
+-  KELLOGG'S, Frosted Blueberry Muffin Toaster Pastries, POP-TARTS
+-  Chicken, roasted, cooked, meat only, breast, broilers or fryers
+-  Nuts, with salt added, without peanuts, oil roasted, mixed nuts
+-  Wheat flour, enriched, bleached, 9% protein, white (industrial)
+-  KEEBLER, bite-size, Chocolate Chip Cookies, CHIPS DELUXE, GRIPZ
+-  Buffalo, cooked (Shoshone Bannock), top round steak, free range
+-  Elk, cooked (Shoshone Bannock), eye of round, roast, free range
+-  Margarine, tub, 67-70% fat, margarine-like vegetable oil spread
+-  Infant formula, ready-to-feed, LACTOFREE, ENFAMIL, MEAD JOHNSON
+-  Peas and carrots, without salt, drained, boiled, cooked, frozen
+-  Babyfood, Real Fruit Bars, GERBER GRADUATE FRUIT  STRIPS, snack
+-  Infant formula, ready-to-feed, with iron, ENFAMIL, MEAD JOHNSON
+-  Pork, raw, separable lean only, country-style ribs, loin, fresh
+-  Pork, roasted, separable lean only, arm picnic, shoulder, cured
+-  Potatoes, unprepared, frozen, salt added in processing, roasted
+-  Babyfood, junior, without ascorbic acid, fruit dessert, dessert
+-  Pork, braised, cooked, separable lean and fat, spareribs, fresh
+-  Pie crust, made with enriched flour, unbaked, frozen, deep dish
+-  Candies, SKITTLES Tropical Bite Size Candies, MARS SNACKFOOD US
+-  Beef, pan-broiled, cooked, patty, 97% lean meat /3% fat, ground
+-  Beef, pan-broiled, cooked, patty, 93% lean meat /7% fat, ground
+-  Infant Formula, powder, Newborn, Premium, ENFAMIL, MEAD JOHNSON
+-  Infant formula, ready-to-feed, PROTECT PLUS, GOOD START, GERBER
+-  Infant Formula, ready-to-feed, GENTLE PLUS, GERBER GOOD START 2
+-  Beef, raw, separable lean and fat, flank, imported, New Zealand
+-  Seal, raw (Alaska Native), low quadrant, meat, bearded (Oogruk)
+-  Fast Food, thick crust, sausage topping, 14" pizza, Pizza Chain
+-  Pork, unheated, separable lean only, bone-in, shank, ham, cured
+-  Pork, unheated, separable lean only, bone-in, slice, ham, cured
+-  MORNINGSTAR FARMS Breakfast Sausage Patties, unprepared, frozen
+-  Game meat, raw, 1" steak, separable lean only, top round, bison
+-  Succotash, with salt, drained, boiled, cooked, (corn and limas)
+-  Pigeon peas (red gram), with salt, boiled, cooked, mature seeds
+-  Crustaceans, made from surimi, imitation, mixed species, shrimp
+-  Peas, with salt, drained, boiled, cooked, frozen, edible-podded
+-  Cookies, special dietary, commercially prepared, chocolate chip
+-  Cereals, dry, blueberry hazelnut, REAL MEDLEYS, oatmeal, QUAKER
+-  Lamb, soaked and simmered, cooked, heart, imported, New Zealand
+-  Candies, SKITTLES Original Bite Size Candies, MARS SNACKFOOD US
+-  Cookies, made with butter, prepared from recipe, chocolate chip
+-  Cheese food, vitamin D fortified, American, pasteurized process
+-  Cheese, fortified with vitamin D, American, pasteurized process
+-  Babyfood, prepared with whole milk, with honey, oatmeal, cereal
+-  Margarine-like, with salt, stick, 60% fat, vegetable oil spread
+-  Cabbage, with salt, drained, boiled, cooked, chinese (pak-choi)
+-  Turkey, roasted, cooked, meat and skin, drumstick, retail parts
+-  CAMPBELL'S Soup on the Go, Cheesy Potato with Bacon Flavor Soup
+-  Apricots, solids and liquids, without skin, water pack, canned
+-  Corn, solids and liquids, no salt added, canned, yellow, sweet
+-  Candies, COCOAVIA Chocolate Covered Almonds, MARS SNACKFOOD US
+-  Raspberries, solids and liquids, heavy syrup pack, red, canned
+-  Cereals ready-to-eat, KELLOGG'S FROSTED RICE KRISPIES, KELLOGG
+-  Infant Formula, powder, Infant, Premium, ENFAMIL, MEAD JOHNSON
+-  KELLOGG'S, Frosted Wild Strawberry Toaster Pastries, POP-TARTS
+-  Lima beans, with salt, drained, boiled, cooked, immature seeds
+-  Cereals ready-to-eat, spoon-size, Shredded Wheat n' Bran, POST
+-  Pork, raw, separable lean and fat, arm picnic, shoulder, fresh
+-  Veal, braised, cooked, pancreas, variety meats and by-products
+-  Lamb, braised, cooked, pancreas, variety meats and by-products
+-  Fish, smoked and canned (Alaska Native), chinook, king, salmon
+-  Broadbeans, with salt, drained, boiled, cooked, immature seeds
+-  Beans, with salt, drained, boiled, cooked, frozen, green, snap
+-  Soup, prepared with equal volume milk, canned, cream of potato
+-  Cereals ready-to-eat, Honey Almond Flax, KASHI GO LEAN CRUNCH!
+-  Pork, raw, separable lean and fat, rump half, leg (ham), fresh
+-  Beans, without salt, boiled, cooked, mature seeds, small white
+-  Chicken, simmered, cooked, meat only, neck, broilers or fryers
+-  Chicken, roasted, cooked, meat only, thigh, broilers or fryers
+-  Soup, prepared with equal volume milk, canned, cream of celery
+-  MORNINGSTAR FARMS California Turk'y Burger, unprepared, frozen
+-  Babyfood, organic, carrot and squash, apple, 2nd Foods, GERBER
+-  Beverages, prepared with water, decaffeinated, instant, coffee
+-  Pork loin, lean only, cooked-roasted, bone-in, backribs, fresh
+-  Beef, raw, separable lean and fat, flat, imported, New Zealand
+-  Oil, all purpose salad or cooking, industrial and retail, corn
+-  Frostings, prepared with margarine, dry mix, creamy, chocolate
+-  Danish pastry, nut (includes almond, raisin nut, cinnamon nut)
+-  Cereals ready-to-eat, STRAWBERRY FIELDS, KASHI ORGANIC PROMISE
+-  CAMPBELL'S CHUNKY Soups, Slow Roasted Beef with Mushrooms Soup
+-  CAMPBELL'S CHUNKY Soups, Grilled Steak- Steak Chili with Beans
+-  MARTHA WHITE FOODS, dry, Martha White's Buttermilk Biscuit Mix
+-  Potatoes, without salt, drained, boiled, cooked, whole, frozen
+-  Soup, prepared with equal volume water, canned, vegetable beef
+-  CAMPBELL'S CHUNKY Soups, Baked Potato with Steak & Cheese Soup
+-  Cereals ready-to-eat, KELLOGG'S SPECIAL K Red Berries, KELLOGG
+-  Potatoes, home-prepared from recipe using margarine, au gratin
+-  Soup, prepared with equal volume water, canned, chicken noodle
+-  Beverages, prepared with water, sweetened, lemon, instant, tea
+-  Fast Food, thick crust, cheese topping, 14" pizza, Pizza Chain
+-  Crustaceans, moist heat, cooked, wild, mixed species, crayfish
+-  Cereals ready-to-eat, HONEY CLUSTERS, FIBER ONE, GENERAL MILLS
+-  Beef, braised, cooked, pancreas, variety meats and by-products
+-  Veal, roasted, cooked, separable lean and fat, blade, shoulder
+-  Veal, roasted, cooked, separable lean and fat, leg (top round)
+-  Veal, braised, cooked, separable lean and fat, leg (top round)
+-  Beans, without salt, boiled, cooked, mature seeds, red, kidney
+-  Pork, roasted, cooked, separable lean and fat, backribs, fresh
+-  Pigeonpeas, with salt, drained, boiled, cooked, immature seeds
+-  Chicken, raw, with added solution, meat only, thigh, dark meat
+-  Milk, with blend of hydrogenated vegetable oils, fluid, filled
+-  Babyfood, prepared with whole milk, with bananas, rice, cereal
+-  Babyfood, strained, with applesauce and bananas, mixed, cereal
+-  Fast foods, plain, boneless pieces, breaded and fried, chicken
+-  DIGIORNO Pizza, baked, frozen, rising crust, pepperoni topping
+-  KELLOGG'S, Frosted Cookies & Creme Toaster Pastries, POP-TARTS
+-  Chicken, stewed, cooked, meat only, breast, broilers or fryers
+-  Cereals ready-to-eat, Date & Pecan, Raisin, GREAT GRAINS, POST
+-  Soup, single brand, ready-to-serve, chunky, potato ham chowder
+-  Beans, solids and liquids, no salt added, canned, yellow, snap
+-  Fish, drained solids, without salt, canned in oil, light, tuna
+-  Fish, drained solids, without salt, canned in oil, white, tuna
+-  Tortillas, without added calcium, flour, ready-to-bake or -fry
+-  Formulated bar, mixed flavors, ZONE PERFECT CLASSIC CRUNCH BAR
+-  Beans, with salt, boiled, cooked, mature seeds, great northern
+-  Nuts, lightly salted, without peanuts, oil roasted, mixed nuts
+-  Pork, braised, cooked, separable lean only, whole, loin, fresh
+-  Pork, roasted, cooked, separable lean only, whole, loin, fresh
+-  Pork, broiled, cooked, separable lean only, whole, loin, fresh
+-  PREGO Pasta, ready-to-serve, Mushroom and Garlic Italian Sauce
+-  Peas and onions, without salt, drained, boiled, cooked, frozen
+-  Chicken breast, prepackaged, sliced, rotisserie seasoned, deli
+-  Bread, enriched (includes corn muffin mix), dry mix, cornbread
+-  Infant formula, ready-to-feed, low iron, ENFAMIL, MEAD JOHNSON
+-  GARDENBURGER Sun-Dried Tomato Basil Burger, unprepared, frozen
+-  SUNSHINE, Duoz Smoked Cheddar Monterey Jack Crackers, CHEEZ-IT
+-  Milk, with added vitamin A and vitamin D, instant, nonfat, dry
+-  Fast foods, large patty; with condiments, cheeseburger; single
+-  Fast foods, large patty; with condiments, cheeseburger; double
+-  Beverages, prepared with fat free milk, powder, chocolate malt
+-  Pork, unheated, separable fat (from ham and arm picnic), cured
+-  Cocoa, HERSHEY'S European Style Cocoa, unsweetened, dry powder
+-  Beverages, prepared with whole milk, powder, Eggnog-flavor mix
+-  Candies, M&M's MINIs Milk Chocolate Candies, MARS SNACKFOOD US
+-  Toaster Pastries, Frosted cherry, KELLOGG'S POP TARTS, KELLOGG
+-  Fast Food, thin crust, sausage topping, 14" pizza, Pizza Chain
+-  Soup, prepared with equal volume water, canned, cream of onion
+-  SUBWAY, SUBWAY CLUB sub on white bread with lettuce and tomato
+-  Pork, unheated, separable lean only, bone-in, rump, ham, cured
+-  Milk, with added vitamin A and vitamin D, regular, nonfat, dry
+-  CAMPBELL'S CHUNKY Soups, Fajita Chicken with Rice & Beans Soup
+-  CAMPBELL'S CHUNKY Soups, Chicken Broccoli Cheese & Potato Soup
+-  Soup, ready-to-serve, canned, reduced sodium, chunky vegetable
+-  Cereals ready-to-eat, KASHI GOLEAN CRISP Toasted Berry Crumble
+-  Veal, braised, cooked, separable lean and fat, blade, shoulder
+-  Soup, prepared with equal volume water, canned, bean with pork
+-  Margarine-like, soybean oil and butter, margarine-butter blend
+-  Squash, unprepared, frozen, crookneck and straightneck, summer
+-  Squash, without salt, drained, boiled, cooked, scallop, summer
+-  CAMPBELL'S Soup on the Go, HEALTHY REQUEST Classic Tomato Soup
+-  Sweet rolls, baked, refrigerated dough with frosting, cinnamon
+-  Cereals ready-to-eat, MOTHER'S Toasted Oat Bran cereal, QUAKER
+-  Cereals, dry, with raisins and spice, fortified, instant, oats
+-  CAMPBELL'S Red and White, condensed, Vegetarian Vegetable Soup
+-  Cheese, without added vitamin D, American, pasteurized process
+-  Veal, separable lean and fat, bone-in, hind, shank, Australian
+-  Beverages, citrus flavor, sugar-free, VAULT Zero, Energy drink
+-  Cabbage, with salt, drained, boiled, cooked, chinese (pe-tsai)
+-  Onions, without salt, drained, boiled, cooked, chopped, frozen
+-  Babyfood, junior, with applesauce and bananas, oatmeal, cereal
+-  Macaroni and cheese dinner with dry sauce mix, uncooked, boxed
+-  Chicken, batter, fried, cooked, skin only, broilers or fryers
+-  Vegetables, with salt, drained, boiled, cooked, frozen, mixed
+-  Snacks, M&M's milk chocolate, KUDOS Whole Grain Bar, M&M MARS
+-  Beverages, prepared with water, powder, lemonade-flavor drink
+-  Beef, raw, all grades, separable lean and fat, chuck for stew
+-  Bread, made with nonfat dry milk, prepared from recipe, white
+-  Beverages, assorted flavors, calorie-free, Powerade Zero Ion4
+-  Cereals ready-to-eat, QUAKER Honey Graham LIFE Cereal, QUAKER
+-  Margarine-like, sweetened, stick or tub, vegetable oil spread
+-  Fish, canned (Alaska Native), kippered, chinook, king, salmon
+-  Chicken, roasted, cooked, meat only, back, broilers or fryers
+-  MORNINGSTAR FARMS Mushroom Lover's Burger, unprepared, frozen
+-  Crustaceans, moist heat, cooked, mixed species, spiny lobster
+-  Beef, broiled, cooked, patty, 90% lean meat / 10% fat, ground
+-  Beef, broiled, cooked, patty, 85% lean meat / 15% fat, ground
+-  Beans, solids and liquids, seasoned, all styles, canned, snap
+-  Beef, pan-fried, cooked, liver, variety meats and by-products
+-  CAMPBELL'S HEALTHY REQUEST, condensed, Cream of Mushroom Soup
+-  Cereals ready-to-eat, Big Bite, KELLOGG'S FROSTED MINI-WHEATS
+-  KEEBLER, Mini Brownies, FUDGE SHOPPE, 100 Calorie RIGHT BITES
+-  Chicken, raw, meat only, thigh, dark meat, broilers or fryers
+-  Chicken, stewed, cooked, meat only, thigh, broilers or fryers
+-  CAMPBELL'S, condensed, 25% Less Sodium Cream of Mushroom Soup
+-  Soup, prepared with equal volume water, canned, beef mushroom
+-  Cereals ready-to-eat, KELLOGG'S KRAVE double chocolate cereal
+-  Veal, pan-fried, cooked, brain, variety meats and by-products
+-  Lamb, braised, cooked, kidneys, variety meats and by-products
+-  Veal, braised, cooked, kidneys, variety meats and by-products
+-  Soup, prepared with equal volume water, canned, tomato bisque
+-  Chrysanthemum, without salt, drained, boiled, cooked, garland
+-  Pork, raw, chitterlings, variety meats and by-products, fresh
+-  Ravioli, canned, with tomato sauce or meat sauce, meat-filled
+-  Fast foods, regular patty; with condiments, hamburger; single
+-  Babyfood, strained, papaya and applesauce with tapioca, fruit
+-  Rice, with salt, enriched, cooked, regular, long-grain, white
+-  Beef, broiled, cooked, patty, 70% lean meat / 30% fat, ground
+-  MORNINGSTAR FARMS Spicy Black Bean Burger, unprepared, frozen
+-  Cereals ready-to-eat, Honey Toasted Oat, KASHI HEART TO HEART
+-  ON THE BORDER, cheese and lettuce, soft taco with ground beef
+-  Soup, prepared with equal volume water, canned, chicken broth
+-  Soup, prepared with equal volume water, canned, chicken gumbo
+-  Infant formula, ready-to-feed, soy, store brand, PBM PRODUCTS
+-  Fast Food, thin crust, cheese topping, 14" pizza, Pizza Chain
+-  Mustard greens, without salt, drained, boiled, cooked, frozen
+-  Cereals ready-to-eat, CAP'N CRUNCH with CRUNCHBERRIES, QUAKER
+-  Babyfood, strained, vegetables and dumplings and beef, dinner
+-  Cereals, dry, cherry pistachio, REAL MEDLEYS, oatmeal, QUAKER
+-  Snacks, cheese-flavor, made from dried potatoes, potato chips
+-  Veal, cooked, separable fat, composite of trimmed retail cuts
+-  Lamb, raw, separable lean only, breast, imported, New Zealand
+-  Lamb, soaked and fried, cooked, kidney, imported, New Zealand
+-  Beef, pan-fried, cooked, brain, variety meats and by-products
+-  Veal, raw, separable lean and fat, rib roast, rib, Australian
+-  CAMPBELL'S Red and White, condensed, New England Clam Chowder
+-  Pineapple, solids and liquids, extra heavy syrup pack, canned
+-  Cherries, solids and liquids, light syrup pack, canned, sweet
+-  Pie crust, made with enriched flour, baked, frozen, deep dish
+-  Broccoli, with salt, drained, boiled, cooked, chopped, frozen
+-  Collards, with salt, drained, boiled, cooked, chopped, frozen
+-  Lima beans, without salt, boiled, cooked, mature seeds, large
+-  Beverages, fortified with vitamin C, Apple juice light, MOTTS
+-  Chicken, fried, cooked, meat only, breast, broilers or fryers
+-  Babyfood, prepared with whole milk, with honey, mixed, cereal
+-  Cereals ready-to-eat, CINNAMON HARVEST, KASHI ORGANIC PROMISE
+-  Cereals ready-to-eat, GREAT GRAINS Crunchy Pecan Cereal, POST
+-  Snacks, original flavor, Multigrain Snack, SUNCHIPS, FRITOLAY
+-  KEEBLER, Reduced Fat, Pretzel Crackers, FLIPSIDES, TOWN HOUSE
+-  KEEBLER, Garlic Herb, Pretzel Crackers, FLIPSIDES, TOWN HOUSE
+-  Biscuits, higher fat, refrigerated dough, plain or buttermilk
+-  Restaurant, Arroz con grandules (rice and pigeonpeas), Latino
+-  Beans, solids and liquids, regular pack, canned, yellow, snap
+-  Beans, solids and liquids, no salt added, canned, green, snap
+-  HORMEL ALWAYS TENDER, Lemon Garlic-Flavored, Pork Loin Filets
+-  Beef, broiled, cooked, patty, 80% lean meat / 20% fat, ground
+-  Beef, broiled, cooked, patty, 75% lean meat / 25% fat, ground
+-  KEEBLER, Reduced Fat, 1/2 Dipped, Fudge Grahams, FUDGE SHOPPE
+-  Veal, pan-fried, cooked, liver, variety meats and by-products
+-  Lamb, pan-fried, cooked, liver, variety meats and by-products
+-  KEEBLER, White Fudge Dipped Pretzels, 100 Calorie RIGHT BITES
+-  Soup, prepared with equal volume milk, canned, cream of onion
+-  MORNINGSTAR FARMS Breakfast Sausage Links, unprepared, frozen
+-  Babyfood, strained, vegetables and noodles and turkey, dinner
+-  USDA Commodity, raw, frozen, bulk/links/patties, pork sausage
+-  PREGO Pasta, ready-to-serve, Flavored with Meat Italian Sauce
+-  Cocoa, processed with alkali, hi-fat or breakfast, dry powder
+-  CAMPBELL'S, condensed, cream of chicken soup, HEALTHY REQUEST
+-  Babyfood, strained, bananas and pineapple with tapioca, fruit
+-  Squash, without salt, mashed, boiled, cooked, hubbard, winter
+-  KASHI Pizza, unprepared, frozen, single serve, Greek Tzatziki
+-  Infant formula, powder, with iron, GOOD START SUPREME, NESTLE
+-  Lamb, pan-fried, cooked, brain, variety meats and by-products
+-  SUBWAY, roast beef sub on white bread with lettuce and tomato
+-  Beverages, canned, without added nutrients, fruit punch drink
+-  Pork, roasted, separable fat (from ham and arm picnic), cured
+-  Cereals ready-to-eat, KELLOGG'S APPLE JACKS with marshmallows
+-  Chicken, roasted, cooked, meat only, wing, broilers or fryers
+-  Fast foods, regular patty; with condiments, hamburger; double
+-  Cereals ready-to-eat, CAP'N CRUNCH'S Halloween Crunch, QUAKER
+-  Potatoes, dry form, granules without milk, dehydrated, mashed
+-  Seal, partially dried (Alaska Native), meat, bearded (Oogruk)
+-  Cereals, dry, enriched, regular and quick, yellow, corn grits
+-  CRUNCHMASTER, Gluten-Free, Snack Crackers, Multi-Grain Crisps
+-  Pork, raw, frozen, ears, variety meats and by-products, fresh
+-  Seeds, without salt, roasted, whole, pumpkin and squash seeds
+-  Beef, simmered, cooked, tongue, variety meats and by-products
+-  Soup, prepared with equal volume water, canned, turkey noodle
+-  CAMPBELL'S CHUNKY Soups, Grilled Chicken & Sausage Gumbo Soup
+-  Beverages, fortified with vitamin C, light, Apple juice drink
+-  Mollusks, made from surimi, imitation, mixed species, scallop
+-  Puddings, prepared with whole milk, regular, dry mix, vanilla
+-  Puddings, prepared with whole milk, instant, dry mix, vanilla
+-  Milk, with added vitamin A and vitamin D, fat free, chocolate
+-  Peaches, solids and liquids, heavy syrup pack, canned, spiced
+-  Chicken, not reheated, frozen, precooked, white meat, nuggets
+-  Turkey from whole, roasted, cooked, meat and skin, light meat
+-  Babyfood, toddler, chicken and noodle with vegetables, dinner
+-  Crustaceans, breaded and fried, cooked, mixed species, shrimp
+-  CAMPBELL'S Red and White, condensed, Fiesta Nacho Cheese Soup
+-  Bread, refrigerated, commercially prepared, whole wheat, naan
+-  Cereals, banana bread, Weight Control Instant Oatmeal, QUAKER
+-  Cereals, dry, maple and brown sugar, fortified, instant, oats
+-  Fast Foods, meat and skin and breading, Breast, Fried Chicken
+-  Lamb, soaked and fried, cooked, testes, imported, New Zealand
+-  Lamb, soaked and fried, cooked, brains, imported, New Zealand
+-  Margarine-like, with salt, tub, 60% fat, vegetable oil spread
+-  LITTLE CAESARS 14" Original Round Cheese Pizza, Regular Crust
+-  Babyfood, strained, with applesauce and bananas, rice, cereal
+-  USDA Commodity, raw, frozen, bulk/coarse ground, ground, beef
+-  Seeds, without salt, roasted, pumpkin and squash seed kernels
+-  Corn, unprepared, kernels cut off cob, frozen, yellow, sweet
+-  Chicken, flour, fried, cooked, skin only, broilers or fryers
+-  Beverages, Ready-to-Drink, Nutritional Shake, ENSURE, ABBOTT
+-  Cheese, low sodium, cheddar or American, pasteurized process
+-  Fish, smoked (Alaska Native), canned, (sockeye), red, salmon
+-  Veal, braised, cooked, thymus, variety meats and by-products
+-  Veal, braised, cooked, spleen, variety meats and by-products
+-  Lamb, braised, cooked, spleen, variety meats and by-products
+-  Cookies, with creme filling, chocolate sandwich, gluten-free
+-  Chicken, stewed, cooked, meat only, back, broilers or fryers
+-  Beans, solids and liquids, regular pack, canned, green, snap
+-  Cereals ready-to-eat, chocolate-flavored frosted puffed corn
+-  Beans, with salt, boiled, cooked, mature seeds, black turtle
+-  USDA Commodity, unheated, cooked, boneless, ham, cured, pork
+-  Puddings, prepared with 2% milk, instant, dry mix, chocolate
+-  Soybeans, with salt, steamed, cooked, sprouted, mature seeds
+-  Puddings, prepared with whole milk, instant, dry mix, banana
+-  Chicken, fried, cooked, meat only, thigh, broilers or fryers
+-  Peppers, without salt, drained, boiled, cooked, green, sweet
+-  Shortening industrial, soybean (hydrogenated) and cottonseed
+-  Cookies, plain or honey (includes cinnamon), graham crackers
+-  Rice, dry, enriched, precooked or instant, long-grain, white
+-  Grapefruit, solids and liquids, water pack, canned, sections
+-  Nuts, raw (liquid expressed from grated meat), coconut cream
+-  Cereals, dry, enriched, regular and quick, white, corn grits
+-  Cereals ready-to-eat, Dulce De Leche CHEERIOS, GENERAL MILLS
+-  Cereals ready-to-eat, APPLE CINNAMON CHEERIOS, GENERAL MILLS
+-  Wheat flour, calcium-fortified, enriched, all-purpose, white
+-  Frostings, prepared with margarine, dry mix, creamy, vanilla
+-  Cookies, reduced fat, with creme filling, chocolate sandwich
+-  Restaurant, spaghetti with pomodoro sauce (no meat), Italian
+-  Cereals ready-to-eat, RAISIN BRAN CRUNCH, KELLOGG'S, KELLOGG
+-  CAMPBELL'S CHUNKY Soups, Hearty Chicken with Vegetables Soup
+-  HOT POCKETS, frozen, meatballs & mozzarella stuffed sandwich
+-  Squash, with salt, boiled, cooked, frozen, butternut, winter
+-  Beef, braised, cooked, spleen, variety meats and by-products
+-  Beef, braised, cooked, thymus, variety meats and by-products
+-  Cereals ready-to-eat, RAISIN VINEYARD, KASHI ORGANIC PROMISE
+-  Candies, TWIX chocolate fudge cookie bars, MARS SNACKFOOD US
+-  Lamb, soaked and fried, cooked, liver, imported, New Zealand
+-  Snacks, cheese-flavor, puffs or twists, extruded, corn-based
+-  Cereals, dry, maple and brown sugar, Instant Oatmeal, QUAKER
+-  DIGIORNO Pizza, baked, frozen, rising crust, supreme topping
+-  Beans, solids and liquids, canned, mature seeds, red, kidney
+-  Pokeberry shoots, with salt, drained, boiled, cooked, (poke)
+-  Pickles, sweet (includes bread and butter pickles), cucumber
+-  Biscuits, lower fat, refrigerated dough, plain or buttermilk
+-  Brussels sprouts, with salt, drained, boiled, cooked, frozen
+-  Broccoli, with salt, drained, boiled, cooked, spears, frozen
+-  Onions, without salt, drained, boiled, cooked, whole, frozen
+-  MARY'S GONE CRACKERS, Organic Gluten Free, Original Crackers
+-  Beef, simmered, cooked, tripe, variety meats and by-products
+-  Babyfood, junior, with applesauce and bananas, mixed, cereal
+-  Fast Foods, meat and skin and breading, Thigh, Fried Chicken
+-  KELLOGG'S, Frosted Confetti Cake Toaster Pastries, POP-TARTS
+-  KELLOGG'S, Frosted Cinnamon Roll Toaster Pastries, POP-TARTS
+-  KELLOGG'S, Frosted Apple Strudel Toaster Pastries, POP-TARTS
+-  Margarine-like spread with yogurt, with salt, stick, 70% fat
+-  Beef, broiled, cooked, patty, 95% lean meat / 5% fat, ground
+-  Cheese, large or small curd, dry, uncreamed, nonfat, cottage
+-  Nuts, with salt added, with peanuts, oil roasted, mixed nuts
+-  Nuts, with salt added, with peanuts, dry roasted, mixed nuts
+-  Cereals, dry, Creamy TRULY VANILLA, KASHI GO LEAN Hot Cereal
+-  Crackers, with cheese filling, sandwich, standard snack-type
+-  KEEBLER, Sandies Shortbread Cookies, 100 Calorie RIGHT BITES
+-  MORNINGSTAR FARMS Breakfast Bacon Strips, unprepared, frozen
+-  Veal, braised, cooked, tongue, variety meats and by-products
+-  Lamb, braised, cooked, tongue, variety meats and by-products
+-  Elk, raw (Shoshone Bannock), eye of round, roast, free range
+-  Buffalo, raw (Shoshone Bannock), top round steak, free range
+-  Beverages, bottled, Cranberry-Apple Juice Drink, OCEAN SPRAY
+-  Chicken, roasted, cooked, meat only, leg, broilers or fryers
+-  Beverages, prepared with distilled water, brewed, black, tea
+-  GENERAL MILLS, dry, BETTY CROCKER SUPERMOIST Yellow Cake Mix
+-  Fast foods, and sausage, cheese, with egg, breakfast burrito
+-  Potatoes, whole milk and butter added, home-prepared, mashed
+-  Mushrooms, grilled, exposed to ultraviolet light, portabella
+-  Puddings, prepared with whole milk, regular, dry mix, banana
+-  Sauce, low sodium, ready-to-serve, spaghetti/marinara, pasta
+-  Fish, dry heat, cooked, flatfish (flounder and sole species)
+-  Salami, 50% less sodium, sliced, dry, pork and beef, Italian
+-  Cereals ready-to-eat, Cinnamon Burst CHEERIOS, GENERAL MILLS
+-  Restaurant, from kids' menu, macaroni & cheese, family style
+-  Chicken, stewed, cooked, meat only, wing, broilers or fryers
+-  Beef, broiled, cooked, patty, 97% lean meat / 3% fat, ground
+-  Beef, broiled, cooked, patty, 93% lean meat / 7% fat, ground
+-  Grapefruit, solids and liquids, juice pack, canned, sections
+-  Nuts, without salt added, dry roasted, hazelnuts or filberts
+-  Cereals ready-to-eat, KELLOGG'S SPECIAL K Blueberry, KELLOGG
+-  MORNINGSTAR FARMS Mediterranean Chickpea, unprepared, frozen
+-  Fish, raw (may have been previously frozen), Alaska, pollock
+-  CARRABBA'S ITALIAN GRILL, cheese ravioli with marinara sauce
+-  Puddings, prepared with 2% milk, regular, dry mix, chocolate
+-  Tofu, prepared with calcium sulfate, dried-frozen (koyadofu)
+-  Beef, raw, separable lean only, flank, imported, New Zealand
+-  Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolatey Delight
+-  Veal, roasted, cooked, separable lean and fat, arm, shoulder
+-  Veal, braised, cooked, separable lean and fat, arm, shoulder
+-  Beef, simmered, cooked, heart, variety meats and by-products
+-  Beef, simmered, cooked, brain, variety meats and by-products
+-  Soup, ready-to-serve, canned, reduced sodium, chicken noodle
+-  Milk, with added vitamin A and vitamin D, 2% fat, evaporated
+-  Turkey, roasted, cooked, meat and skin, dark meat from whole
+-  Peas and carrots, with salt, drained, boiled, cooked, frozen
+-  Soup, prepared with equal volume milk, canned, tomato bisque
+-  Cookie, and chocolate coating, coconut, vanilla with caramel
+-  Cereals, high fiber, Cinnamon Swirl, Instant Oatmeal, QUAKER
+-  Fast Foods, Skin and breading from all pieces, Fried Chicken
+-  Beverages, frozen, concentrated, non-alcoholic, Cocktail mix
+-  Pork, unheated, extra lean and regular, boneless, ham, cured
+-  CAMPBELL'S Red and White, condensed, Cream of Asparagus Soup
+-  Babyfood, prepared with whole milk, with honey, rice, cereal
+-  Potsticker or wonton, unprepared, frozen, pork and vegetable
+-  Cowpeas, without salt, boiled, cooked, mature seeds, catjang
+-  Turkey, roasted, cooked, meat and skin, breast, retail parts
+-  Fish, batter-dipped and fried, cooked, mixed species, shark
+-  Apricots, solids and liquids, with skin, water pack, canned
+-  Apricots, solids and liquids, with skin, juice pack, canned
+-  Margarine-like, without salt, 20% fat, vegetable oil spread
+-  Beverages, Hi-C Flashin' Fruit Punch, The COCA-COLA company
+-  KELLOGG'S, Frosted Orange Cream Toaster Pastries, POP-TARTS
+-  KELLOGG'S, Frosted Spring Berry Toaster Pastries, POP-TARTS
+-  KELLOGG'S, Frosted Sugar Cookie Toaster Pastries, POP-TARTS
+-  Oil, all purpose, soy ( partially hydrogenated), industrial
+-  Fast foods, with cone, soft-serve ice cream, light, vanilla
+-  Pork, raw, separable lean only, arm picnic, shoulder, fresh
+-  Snacks, French onion flavor, multigrain, SUNCHIPS, FRITOLAY
+-  CAMPBELL'S Red and White, condensed, Chicken NOODLEO's Soup
+-  Plums, solids and liquids, light syrup pack, purple, canned
+-  Plums, solids and liquids, heavy syrup pack, purple, canned
+-  Fish, brined (Alaska Native), smoked, chinook, king, salmon
+-  Chicken, fried, cooked, meat only, back, broilers or fryers
+-  Beans, with salt, boiled, cooked, mature seeds, red, kidney
+-  Fast foods, and sausage, cheese, egg, griddle cake sandwich
+-  Pork, raw, separable lean only, rump half, leg (ham), fresh
+-  Beef, braised, cooked, lungs, variety meats and by-products
+-  Beef, braised, cooked, liver, variety meats and by-products
+-  Sausage, with cheddar cheese, sticks, pork and beef, summer
+-  Fast foods, with condiments, single patty, large, hamburger
+-  PREGO Pasta, ready-to-serve, Organic Mushroom Italian Sauce
+-  GARDENBURGER Black Bean Chipotle Burger, unprepared, frozen
+-  Soup, ready-to-serve, chunky style, canned, beef stroganoff
+-  Infant formula, powder, with iron, GOOD START 2 SOY, GERBER
+-  Beverages, powder, cereal grain beverage, coffee substitute
+-  Soup, canned, ready-to-serve, low sodium, cream of mushroom
+-  Squash, without salt, mashed, boiled, cooked, acorn, winter
+-  Nuts, lightly salted, with peanuts, oil roasted, mixed nuts
+-  Cookies, animal crackers (includes arrowroot, tea biscuits)
+-  Turkey breast, luncheon meat, prepackaged or deli, low salt
+-  Lamb, braised, cooked, heart, variety meats and by-products
+-  Veal, braised, cooked, heart, variety meats and by-products
+-  Cereals, Blueberry Mini SPOONERS, MALT-O-MEAL, ready-to-eat
+-  Potatoes, home-prepared from recipe using butter, au gratin
+-  Potatoes, dry form, flakes without milk, dehydrated, mashed
+-  Candies, prepared-from-recipe, chocolate marshmallow, fudge
+-  Beans, with salt, boiled, cooked, mature seeds, small white
+-  Pancakes plain, ready-to-heat (includes buttermilk), frozen
+-  Cereals ready-to-eat, KELLOGG'S CRACKLIN' OAT BRAN, KELLOGG
+-  Milk, with added vitamin A and vitamin D, lowfat, chocolate
+-  Potatoes, unprepared, with butter sauce, frozen, hash brown
+-  Babyfood, junior, vegetables and noodles and turkey, dinner
+-  Alcoholic beverage, Pinot Gris (Grigio), white, table, wine
+-  Fluid replacement, electrolyte solution (include PEDIALYTE)
+-  CAMPBELL'S Red and White, condensed, Chicken and Stars Soup
+-  MORNINGSTAR FARMS Garden Veggie Nuggets, unprepared, frozen
+-  MORNINGSTAR FARMS Parmesan Garlic Wings, unprepared, frozen
+-  MORNINGSTAR FARMS Tuscan Greens & Beans, unprepared, frozen
+-  CAMPBELL'S CHUNKY Soups, Beef with White and Wild Rice Soup
+-  Tangerines, drained, juice pack, canned, (mandarin oranges)
+-  Corn with red and green peppers, solids and liquids, canned
+-  School Lunch, frozen, TONY'S Breakfast Pizza Sausage, pizza
+-  Snacks, reduced fat, made from dried potatoes, potato chips
+-  Cereals ready-to-eat, bagged cereal, Shredded Wheat, QUAKER
+-  Turkey, roasted, cooked, meat and skin, breast, all classes
+-  Squash, with salt, drained, boiled, cooked, scallop, summer
+-  Cereals ready-to-eat, ISLAND VANILLA, KASHI ORGANIC PROMISE
+-  Veal, braised, cooked, separable lean only, blade, shoulder
+-  Veal, roasted, cooked, separable lean only, blade, shoulder
+-  KEEBLER, Soft 'n Chewy Chocolate Chip Cookies, CHIPS DELUXE
+-  Onions, with salt, drained, boiled, cooked, chopped, frozen
+-  CAMPBELL'S Red and White, condensed, Manhattan Clam Chowder
+-  PREGO Pasta, ready-to-serve, Heart Smart- Traditional Sauce
+-  Pineapple juice, undiluted, unsweetened, frozen concentrate
+-  Game meat, broiled, cooked, separable lean only, round, elk
+-  Salad dressing, without salt, reduced fat, italian dressing
+-  Sweeteners, contains sugar and sucralose, brown, for baking
+-  Chicken, raw, meat and skin, light meat, broilers or fryers
+-  Salad dressing, low calorie, mayonnaise and mayonnaise-type
+-  Babyfood, junior, vegetables and dumplings and beef, dinner
+-  Margarine-like, with salt, tub, vegetable oil-butter spread
+-  Chicken, roasted, cooked, meat and skin, broilers or fryers
+-  Cereals ready-to-eat, CHOCOLATE LUCKY CHARMS, GENERAL MILLS
+-  Turkey, roasted, cooked, meat only, drumstick, retail parts
+-  Fast Foods, meat and skin and breading, Wing, Fried Chicken
+-  Seal, in oil (Alaska Native), dried, meat, bearded (Oogruk)
+-  Cereals, dry, Cranberry Almond, KELLOGG'S SPECIAL K NOURISH
+-  Frostings, prepared with butter, dry mix, creamy, chocolate
+-  Cereals ready-to-eat, KELLOGG'S ALL-BRAN BRAN BUDS, KELLOGG
+-  Lamb, braised, cooked, lungs, variety meats and by-products
+-  Lamb, braised, cooked, liver, variety meats and by-products
+-  Veal, braised, cooked, liver, variety meats and by-products
+-  Veal, braised, cooked, lungs, variety meats and by-products
+-  KEEBLER, Chocolate Chip & Pecan Shortbread Cookies, SANDIES
+-  CAMPBELL'S Red and White - Microwaveable Bowls, Tomato Soup
+-  Turkey and pork sausage, cooked, patty or link, bulk, fresh
+-  Beverages, 3-2-1 Plan, powder, SLIMFAST Shake Mix, UNILEVER
+-  Seeds, with salt added, oil roasted, sunflower seed kernels
+-  Chicken, fried, cooked, meat only, neck, broilers or fryers
+-  Seeds, with salt added, dry roasted, sunflower seed kernels
+-  Babyfood, junior, bananas and pineapple with tapioca, fruit
+-  KASHI Pizza, unprepared, frozen, single serve, Tikka Masala
+-  Lamb, braised, cooked, brain, variety meats and by-products
+-  Veal, braised, cooked, brain, variety meats and by-products
+-  Babyfood, strained, noodles and chicken, vegetables, dinner
+-  Corn, unprepared, kernels cut off cob, frozen, white, sweet
+-  MORNINGSTAR FARMS Garden Veggie Patties, unprepared, frozen
+-  Pie crust, unenriched, ready-to-bake, frozen, standard-type
+-  Cereals ready-to-eat, Berry Fruitful, KASHI ORGANIC PROMISE
+-  Beans, drained solids, canned, sprouted, mature seeds, mung
+-  Chicken, fried, cooked, meat only, wing, broilers or fryers
+-  Fast foods, with condiments, triple patty, large, hamburger
+-  Frozen novelties, with low calorie sweetener, pop, ice type
+-  MORNINGSTAR FARMS Chik Patties Original, unprepared, frozen
+-  Soup, prepared with equal volume water, canned, oyster stew
+-  Cereals ready-to-eat, Maple Brown Sugar LIFE Cereal, QUAKER
+-  SUBWAY, cold cut sub on white bread with lettuce and tomato
+-  Veal, roasted, cooked, separable lean only, leg (top round)
+-  Veal, braised, cooked, separable lean only, leg (top round)
+-  Soup, prepared with equal volume water, canned, tomato rice
+-  Beef, raw, separable lean only, flat, imported, New Zealand
+-  Mollusks, breaded and fried, cooked, mixed species, scallop
+-  Turkey, roasted, cooked, meat and skin, thigh, retail parts
+-  Beef macaroni with tomato sauce, reduced fat, frozen entree
+-  Soup, prepared with equal volume water, canned, beef noodle
+-  Beverages, without caffeine, lemon-lime, SPRITE, carbonated
+-  Peaches, solids and liquids, extra heavy syrup pack, canned
+-  Peas and onions, with salt, drained, boiled, cooked, frozen
+-  Peas and carrots, solids and liquids, no salt added, canned
+-  Squash, unprepared, frozen, includes skin, zucchini, summer
+-  Tea, herb and laborador combination (Alaska Native), tundra
+-  Salad dressing, fat-free, blue or roquefort cheese dressing
+-  Crustaceans, made from surimi, imitation, alaska king, crab
+-  Potatoes, with salt, drained, boiled, cooked, whole, frozen
+-  Cheese spread, reduced fat, American or Cheddar cheese base
+-  Pork, roasted, extra lean and regular, boneless, ham, cured
+-  DIGIORNO Pizza, baked, frozen, rising crust, cheese topping
+-  Puddings, prepared with whole milk, instant, dry mix, lemon
+-  CAMPBELL'S Red and White, condensed, Cream of Broccoli Soup
+-  English muffins, raisin-cinnamon (includes apple-cinnamon)
+-  Chicken, stewed, cooked, meat and skin, broilers or fryers
+-  Beverages, reduced calorie, with whitener, instant, coffee
+-  Veal, raw, separable lean and fat, boneless, whole, breast
+-  Crackers, low salt (includes oyster, soda, soup), saltines
+-  KELLOGG'S, Frosted Pumpkin Pie Toaster Pastries, POP-TARTS
+-  KELLOGG'S, Frosted Waffle Cone Toaster Pastries, POP-TARTS
+-  Beverages, AQUAFINA, PEPSI, non-carbonated, bottled, water
+-  Veal, raw, separable lean only, rib roast, rib, Australian
+-  Cookies, with rice cereal and chocolate chips, marshmallow
+-  MORNINGSTAR FARMS Asian Veggie Patties, unprepared, frozen
+-  Beef, baked, cooked, loaf, 90% lean meat / 10% fat, ground
+-  Cereals ready-to-eat, frosted oat cereal with marshmallows
+-  Whale, subcutaneous fat (blubber) (Alaska Native), bowhead
+-  Ice creams, All Natural Light Mint Chocolate Chip, BREYERS
+-  USDA Commodity, heated, cooked, boneless, ham, cured, pork
+-  Soup, reduced sodium, condensed, canned, cream of mushroom
+-  CAMPBELL'S HEALTHY REQUEST, condensed, Chicken Noodle Soup
+-  Peas, without salt, drained, boiled, cooked, frozen, green
+-  Beef, baked, cooked, loaf, 75% lean meat / 25% fat, ground
+-  CAMPBELL'S, condensed, 25% Less Sodium Chicken Noodle Soup
+-  Lima beans, with salt, boiled, cooked, mature seeds, large
+-  Fast foods, hard shell, cheese and lettuce, taco with beef
+-  Candies, prepared-from-recipe, with nuts, chocolate, fudge
+-  Whiskey sour mix, with added potassium and sodium, bottled
+-  Candies, M&M's Crispy Chocolate Candies, MARS SNACKFOOD US
+-  Cereals ready-to-eat, Gluten Free, KELLOGG'S RICE KRISPIES
+-  Shortening frying (heavy duty), beef tallow and cottonseed
+-  Beverages, fortified with Vitamin C, aloe vera juice drink
+-  Chicken, roasted, cooked, meat and skin, cornish game hens
+-  Cereals ready-to-eat, FIBER ONE Bran Cereal, GENERAL MILLS
+-  Candies, TWIX Peanut Butter Cookie Bars, MARS SNACKFOOD US
+-  Pork, raw, separable lean and fat, tenderloin, loin, fresh
+-  Cereals ready-to-eat, OAT BLENDERS with honey, MALT-O-MEAL
+-  Chickpeas (garbanzo beans, bengal gram), raw, mature seeds
+-  Tortilla, includes plain and from mutton sandwich (Navajo)
+-  Cereals ready-to-eat, original big biscuit, Shredded Wheat, POST
+-  CAMPBELL'S, condensed, Cream of Mushroom with Roasted Garlic Soup
+-  Pork, braised, cooked, separable lean and fat, whole, loin, fresh
+-  Nuts, canned, flaked, sweetened, dried (desiccated), coconut meat
+-  Beverages, prepared with water, pink, frozen concentrate, lemonade
+-  Soup, single brand, ready-to-serve, sirloin burger with vegetables
+-  PREGO Pasta, ready-to-serve, Roasted Garlic Parmesan Italian Sauce
+-  Cereals, reduced sugar, Apple and Cinnamon, Instant Oatmeal, QUAKER
+-  Pork, braised, cooked, spleen, variety meats and by-products, fresh
+-  Lamb, soaked and simmered, cooked, sweetbread, imported, New Zealand
+-  Game meat, braised, cooked, separable lean only, shoulder clod, deer
+-  Beef, raw, formed and thinly sliced, chopped, flaked, sandwich steaks
+-  Cereals ready-to-eat, KELLOGG'S Low Fat Granola with Raisins, KELLOGG
+-  Cake, butter (includes fresh and frozen), commercially prepared, pound
+-  Pork, roasted, extra lean (approximately 5% fat), boneless, ham, cured
+-  Infant formula, 24 calo ready-to-feed, Premature, ENFAMIL, MEAD JOHNSON
+-  Cookies, with added fiber, reduced fat, commercially prepared, brownies
+-  Cereals ready-to-eat, presweetened with nuts and fruits, wheat and bran
+-  MORNINGSTAR FARMS Spicy Black Bean Enchilada Entree, unprepared, frozen
+-  Beef, raw, kidney, variety meats and by-products, imported, New Zealand
+-  Cereals, dry, Instant Grits Product with American Cheese Flavor, QUAKER
+-  Pork, raw, mechanically separated, variety meats and by-products, fresh
+-  Gourd, without salt, drained, boiled, cooked, white-flowered (calabash)
+-  Snacks, salted nuts and seeds, with chocolate chips, regular, trail mix
+-  Pasta, dry, remaining unenriched semolina, 51% whole wheat, whole grain
+-  Alcoholic beverage, all (gin, rum, vodka, whiskey) 100 proof, distilled
+-  Spinach, without salt, drained, boiled, cooked, chopped or leaf, frozen
+-  Fast Foods, skin and breading removed, meat only, Breast, Fried Chicken
+-  CAMPBELL'S Red and White, condensed, Chicken Barley with Mushrooms Soup
+-  Fish, packed in oil (Alaska Native), air-dried, flesh, Pacific, herring
+-  Beverages, ready-to-drink., G performance O 2, Gatorade, PEPSICO QUAKER
+-  Leavening agents, sodium aluminum sulfate, double-acting, baking powder
+-  Toaster pastries, fruit (includes apple, blueberry, cherry, strawberry)
+-  Pork, roasted, extra lean and regular, low sodium, boneless, ham, cured
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, steak, flank
+-  Chicken, stewed, meat and skin and giblets and neck, broilers or fryers
+-  Turkey, roasted, with added solution, meat only, from whole bird, thigh
+-  Cereals ready-to-eat, KELLOGG'S ALL-BRAN COMPLETE Wheat Flakes, KELLOGG
+-  Pork, raw, separable lean only, boneless, top loin (chops), loin, fresh
+-  Formulated bar, Chocolate Almond Snack Bar, COCOAVIA, MARS SNACKFOOD US
+-  Chicken, batter, fried, cooked, meat and skin, back, broilers or fryers
+-  Cereals ready-to-eat, strawberry, Yogurt Burst, CHEERIOS, GENERAL MILLS
+-  Cereals ready-to-eat, Pumpkin Granola, Organic FLAX PLUS, NATURE'S PATH
+-  Candies, POP'ABLES MILKY WAY Brand Bite Size Candies, MARS SNACKFOOD US
+-  KEEBLER, bite-size, Rainbow Chocolate Chip Cookies, CHIPS DELUXE, GRIPZ
+-  Cereals ready-to-eat, Triple Berry, Berry Burst CHEERIOS, GENERAL MILLS
+-  Beverages, White Cranberry Strawberry Flavored Juice Drink, OCEAN SPRAY
+-  Chicken, batter, fried, cooked, meat and skin, neck, broilers or fryers
+-  Candies, COCOAVIA Blueberry and Almond Chocolate Bar, MARS SNACKFOOD US
+-  Beverages, decaffeinated, restaurant-prepared, espresso, brewed, coffee
+-  Rolls, made with low fat (2%) milk, prepared from recipe, plain, dinner
+-  SUBWAY, oven roasted chicken sub on white bread with lettuce and tomato
+-  Beans, rinsed in tap water, drained solids, canned, mature seeds, pinto
+-  Balsam-pear (bitter gourd), without salt, drained, boiled, cooked, pods
+-  Chicken, batter, fried, cooked, meat and skin, wing, broilers or fryers
+-  Pork, raw, separable lean only, country-style, center slice, ham, cured
+-  Toaster Pastries, Frosted chocolate fudge, KELLOGG'S POP TARTS, KELLOGG
+-  Nuts, CHOSEN ROASTER, salt added, with peanuts, dry roasted, mixed nuts
+-  Soup, prepared with equal volume water, canned, tomato beef with noodle
+-  Pancakes, microwave (includes buttermilk), ready-to-heat, frozen, plain
+-  Beef, braised, cooked, separable lean only, flat, imported, New Zealand
+-  Squash, with salt, or baked, drained, boiled, cooked, spaghetti, winter
+-  Succotash, with salt, drained, boiled, cooked, frozen, (corn and limas)
+-  Soup, ready-to-serve, canned, reduced sodium, new england, clam chowder
+-  Soup, prepared with equal volume water, canned, manhattan, clam chowder
+-  Oil, (partially hydrogenated) and cottonseed, salad or cooking, soybean
+-  Cherries, solids and liquids, extra heavy syrup pack, canned, red, sour
+-  KFC, meat and skin with breading, Thigh, ORIGINAL RECIPE, Fried Chicken
+-  Rice and vermicelli mix, prepared with 80% margarine, rice pilaf flavor
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, steak, flank
+-  Cereals ready-to-eat, bite size, KELLOGG'S FROSTED MINI-WHEATS, KELLOGG
+-  Turkey, roasted, with added solution, (light and dark), skin from whole
+-  Chicken, roasted, cooked, meat and skin, light meat, broilers or fryers
+-  Frozen novelties, Stickless Bar, No Sugar Added, SLIM-A-BEAR, KLONDIKE
+-  Veal, braised, cooked, separable lean and fat, boneless, whole, breast
+-  Formulated bar, SNICKERS MARATHON Honey Nut Oat Bar, MARS SNACKFOOD US
+-  Mung beans, with salt, drained, boiled, cooked, sprouted, mature seeds
+-  Chicken, batter, fried, cooked, meat and skin, leg, broilers or fryers
+-  Soup, single brand, condensed, canned, beef with vegetables and barley
+-  Chicken, flour, fried, cooked, meat and skin, back, broilers or fryers
+-  Beans, with salt, boiled, cooked, mature seeds, california red, kidney
+-  Beef, raw, Aust. marble score 9, seam fat, Wagyu, imported, Australian
+-  Fish, dry heat (may have been previously frozen), cooked, Pacific, cod
+-  Alcoholic beverage, all (gin, rum, vodka, whiskey) 80 proof, distilled
+-  Alcoholic beverage, all (gin, rum, vodka, whiskey) 90 proof, distilled
+-  Alcoholic beverage, all (gin, rum, vodka, whiskey) 86 proof, distilled
+-  Fast foods, prepared with garlic and parmesan cheese, soft, breadstick
+-  KEEBLER, Chocolate Chip Cookies, CHIPS DELUXE, 100 Calorie RIGHT BITES
+-  KEEBLER, Fudge Covered Pretzels, FUDGE SHOPPE, 100 Calorie RIGHT BITES
+-  Alcoholic beverage, all (gin, rum, vodka, whiskey) 94 proof, distilled
+-  Cereals ready-to-eat, MEDLEY CRUNCH, HONEY NUT CHEERIOS, GENERAL MILLS
+-  Chicken, roasted, cooked, meat and skin and giblets and neck, roasting
+-  Pasta, DE BOLES, cooked, rice flour and rice bran extract, gluten-free
+-  Beef, raw, 85% lean / 15% fat, ground, grass-fed, imported, Australian
+-  Beef, raw, separable lean and fat, oyster blade, imported, New Zealand
+-  Potatoes, pan fried in canola oil, prepared, plain, frozen, hash brown
+-  Cereals ready-to-eat, HONEY BUNCHES OF OATS with vanilla bunches, POST
+-  Salad dressing, regular, commercial, blue or roquefort cheese dressing
+-  Beverages, with added nutrients, Mixed vegetable and fruit juice drink
+-  Cornmeal, enriched, with wheat flour added, bolted, self-rising, white
+-  Beef, raw, liver, variety meats and by-products, imported, New Zealand
+-  Cereals, dry, Redeye Gravy & Country Ham flavor, Instant Grits, QUAKER
+-  CAMPBELL'S Red and White, condensed, Split Pea with Ham and Bacon Soup
+-  Cereals ready-to-eat, POST HONEY BUNCHES OF OATS with cinnamon bunches
+-  Soup, prepared with equal volume water, consomme, bouillon, beef broth
+-  Beverages, prepared with whole milk, powder, natural, Malted drink mix
+-  Lamb, raw, separable lean only, boneless, chump, imported, New Zealand
+-  Fast Foods, skin and breading removed, meat only, Thigh, Fried Chicken
+-  Candies, MILKY WAY Caramels. dark chocolate covered, MARS SNACKFOOD US
+-  Rolls, commercially prepared (includes brown-and-serve), plain, dinner
+-  Seeds, without salt added (decorticated), toasted, sesame seed kernels
+-  Chicken, raw, with added solution, meat and skin, drumstick, dark meat
+-  Turkey, raw, with added solution, meat and skin, from whole bird, back
+-  Snacks, with yogurt coating, NATURE VALLEY, GENERAL MILLS, granola bar
+-  KFC, meat and skin with breading, Wing, ORIGINAL RECIPE, Fried Chicken
+-  Turkey, roasted, with added solution, meat only, from whole bird, back
+-  DIGIORNO Pizza, baked, frozen, cheese stuffed crust, pepperoni topping
+-  Tomato products, and celery, green peppers, with onions, sauce, canned
+-  Chicken, roasted, cooked, meat and skin, drumstick, broilers or fryers
+-  Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers
+-  Turkey from whole, raw, with added solution, meat and skin, light meat
+-  KEEBLER, Sea Salt and Olive Oil Crackers, FLATBREAD CRISPS, TOWN HOUSE
+-  Snacks, peanut butter and chocolate chip, uncoated, soft, granola bars
+-  Pork, roasted, cooked, separable lean and fat, whole, leg (ham), fresh
+-  Fast Foods, with lettuce and mayonnaise, crispy chicken filet sandwich
+-  Chicken, flour, fried, cooked, meat and skin, neck, broilers or fryers
+-  Seeds, with salt added, dry roasted, sunflower seed kernels from shell
+-  Pork, roasted, cooked, separable lean and fat, tenderloin, loin, fresh
+-  Pork, broiled, cooked, separable lean and fat, tenderloin, loin, fresh
+-  Soup, ready-to-serve, chunky, chicken vegetable with potato and cheese
+-  Child formula, prepared from powder, with iron, PORTAGEN, MEAD JOHNSON
+-  Chicken, flour, fried, cooked, meat and skin, wing, broilers or fryers
+-  Candies, POP'ABLES SNICKERS Brand Bite Size Candies, MARS SNACKFOOD US
+-  Infant Formula, ready-to-feed, Newborn, Premium, ENFAMIL, MEAD JOHNSON
+-  Pork, roasted, heated, separable lean only, bone-in, shank, ham, cured
+-  Snacks, whole-wheat including both salted and unsalted, hard, pretzels
+-  Veal, breaded, pan-fried, cooked, separable lean only, leg (top round)
+-  Beverages, prepared with whole milk, powder, Carob-flavor beverage mix
+-  Beef, raw, heart, variety meats and by-products, imported, New Zealand
+-  Soup, prepared with equal volume water, canned, bean with frankfurters
+-  Chicken, not reheated, frozen, precooked, dark and white meat, nuggets
+-  Cereals, maple and brown sugar, Weight Control Instant Oatmeal, QUAKER
+-  Veal, cooked, separable lean and fat, composite of trimmed retail cuts
+-  Candies, milk chocolate covered, MILKY WAY Caramels, MARS SNACKFOOD US
+-  Chicken, stewed, cooked, meat and skin, light meat, broilers or fryers
+-  Chicken, roasted, cooked, meat and skin, dark meat, broilers or fryers
+-  Turkey, roasted, with added solution, meat only, from whole bird, wing
+-  Snacks, multigrain, made from dried potatoes (preformed), potato chips
+-  Applesauce, without salt (includes USDA commodity), sweetened, canned
+-  Infant Formula, ready-to-feed, Infant, Premium, ENFAMIL, MEAD JOHNSON
+-  Puddings, dry mix, instant, low calorie, all flavors except chocolate
+-  Beverages, diet, lemon, ready to drink, black and green, tea, SNAPPLE
+-  Beverages, diet, peach, ready to drink, black and green, tea, SNAPPLE
+-  Cereals ready-to-eat, KELLOGG'S RAISIN BRAN with cranberries, KELLOGG
+-  Lima beans, solids and liquids, no salt added, canned, immature seeds
+-  Chicken, flour, fried, cooked, meat and skin, leg, broilers or fryers
+-  Chicken, stewed, cooked, meat and skin, drumstick, broilers or fryers
+-  Beef, braised, cooked, choice, separable lean and fat, chuck for stew
+-  Beef, braised, cooked, select, separable lean and fat, chuck for stew
+-  Pork, roasted, cooked, separable lean and fat, whole, shoulder, fresh
+-  Swamp cabbage (skunk  cabbage), without salt, drained, boiled, cooked
+-  Soup, single brand, condensed, canned, chicken with star-shaped pasta
+-  Pork, simmered, cooked, stomach, variety meats and by-products, fresh
+-  Pie crust, chilled, graham cracker, prepared from recipe, cookie-type
+-  Apple juice, with added ascorbic acid, unsweetened, canned or bottled
+-  Muffins, made with low fat (2%) milk, prepared from recipe, blueberry
+-  Turnip greens and turnips, with salt, drained, boiled, cooked, frozen
+-  Peppers, without salt, drained, boiled, chopped, frozen, green, sweet
+-  Poultry, raw, from backs and necks without skin, mechanically deboned
+-  Nuts, raw (liquid expressed from grated meat and water), coconut milk
+-  Pasta, dry, remaining enriched semolina, 51% whole wheat, whole grain
+-  Beef, raw, separable lean and fat, rump centre, imported, New Zealand
+-  Beef, raw, separable lean and fat, bolar blade, imported, New Zealand
+-  Pork, unheated, canned, extra lean (approximately 4% fat), ham, cured
+-  Beef, braised, cooked, choice, separable lean and fat, shortribs, rib
+-  Pork, braised, cooked, pancreas, variety meats and by-products, fresh
+-  Cereals ready-to-eat, Cinnamon Almond, KELLOGG'S RAISIN BRAN, KELLOGG
+-  Beef, raw, separable lean only, chuck eye roll, imported, New Zealand
+-  Grape juice, with added ascorbic acid, unsweetened, canned or bottled
+-  Infant formula, prepared from powder,NEXT STEP PROSOBEE, MEAD JOHNSON
+-  Mustard spinach, without salt, drained, boiled, cooked, (tendergreen)
+-  Beef, raw, mechanically separated beef, variety meats and by-products
+-  CAMPBELL'S CHUNKY Soups, Salisbury Steak with Mushrooms & Onions Soup
+-  Lamb, raw, separable lean only, boneless, flap, imported, New Zealand
+-  Fast Foods, skin and breading removed, meat only, Wing, Fried Chicken
+-  Lamb, raw, separable lean and fat, loin saddle, imported, New Zealand
+-  Game meat, broiled, cooked, 1" steak, separable lean only, loin, deer
+-  Cherries, solids and liquids, heavy syrup pack, pitted, canned, sweet
+-  Puddings, dry mix, regular, low calorie, all flavors except chocolate
+-  Cereals, with salt, cooked with water, whole wheat hot natural cereal
+-  KFC, meat and skin with breading, Breast, EXTRA CRISPY, Fried Chicken
+-  Lamb, raw, separable lean only, boneless, loin, imported, New Zealand
+-  Turkey, raw, with added solution, meat and skin, breast, retail parts
+-  Turkey, raw, with added solution, meat and skin, dark meat from whole
+-  Game meat, raw, trimmed to 0" fat, separable lean only, ribeye, bison
+-  Cake, unenriched, other than all butter, commercially prepared, pound
+-  Chicken, stewed, cooked, and giblets and neck, meat and skin, stewing
+-  Fish, solids with bone and liquid, without salt, canned, pink, salmon
+-  Fish, drained solids with bone, without salt, canned, sockeye, salmon
+-  Oil, filling fat (non-hydrogenated), palm and palm kernel, industrial
+-  KRAFT FREE Singles American Nonfat Pasteurized Process Cheese Product
+-  PREGO Pasta, ready-to-serve, Italian Sausage and Garlic Italian Sauce
+-  Cereals, salt, prepared with water, QUAKER MultiGrain Oatmeal, QUAKER
+-  AUSTIN, reduced fat, sandwich-type, Cheddar Cheese on Cheese Crackers
+-  Beverages, prepared with water, frozen concentrate, Fruit punch drink
+-  Sauce, refrigerated, ready-to-serve, pesto with basil, BUITONI, pesto
+-  Cereals ready-to-eat, KRETSCHMER Honey Crunch Wheat Germ, SUN COUNTRY
+-  PILLSBURY, refrigerated dough, Artificial Flavor, Buttermilk Biscuits
+-  Cereals ready-to-eat, Cap'n Crunch's OOPS! All Berries Cereal, QUAKER
+-  Pork, roasted, heated, separable lean only, bone-in, rump, ham, cured
+-  Hyacinth-beans, without salt, drained, boiled, cooked, immature seeds
+-  Babyfood, strained, without ascorbic acid, prunes with tapioca, fruit
+-  Cowpeas, without salt, drained, boiled, cooked, young pods with seeds
+-  CAMPBELL'S CHUNKY Soups, Grilled Chicken with Vegetables & Pasta Soup
+-  Beverages, decaffeinated, prepared with tap water, brewed, black, tea
+-  SUPPER BAKES MEAL KITS, Herb Chicken with rice (chicken not included)
+-  Potatoes, pan-fried in canola oil, prepared, refrigerated, hash brown
+-  Chicken, stewed, cooked, meat and skin, dark meat, broilers or fryers
+-  Apricots, solids and liquids, without skin, heavy syrup pack, canned
+-  Veal, braised, cooked, separable lean and fat, shank (fore and hind)
+-  Balsam-pear (bitter gourd), with salt, drained, boiled, cooked, pods
+-  Snacks, Harvest Cheddar flavor, Multigrain Snack, SUNCHIPS, FRITOLAY
+-  Lamb, raw, separable lean and fat, fore-shank, imported, New Zealand
+-  Beef, pan-browned, cooked, crumbles, 90% lean meat / 10% fat, ground
+-  Wheat flour, enriched, unbleached, 11.5% protein, white (industrial)
+-  CAMPBELL'S HEALTHY REQUEST, condensed, Homestyle Chicken Noodle Soup
+-  Infant formula, powder, with iron, GOOD START ESSENTIALS SOY, NESTLE
+-  Lima beans, solids and liquids, regular pack, canned, immature seeds
+-  Cereals ready-to-eat, OAT BLENDERS with honey & almonds, MALT-O-MEAL
+-  Lamb, raw, separable lean and fat, tenderloin, imported, New Zealand
+-  Grapes, raw, red or green (European type, such as Thompson seedless)
+-  Babyfood, toddler fortified, instant, dry, oatmeal cereal with fruit
+-  Chicken, roasted, cooked, meat and skin and giblets and neck, capons
+-  Agutuk, fish/berry with seal oil (Alaskan ice cream) (Alaska Native)
+-  Cereals ready-to-eat, Reduced Sugar Frosted Flakes Cereal, KELLOGG'S
+-  Cereals ready-to-eat, KELLOGG'S RICE KRISPIES TREATS Cereal, KELLOGG
+-  Pork, roasted, canned, extra lean (approximately 4% fat), ham, cured
+-  Pork, roasted, regular (approximately 11% fat), boneless, ham, cured
+-  Beef, pan-browned, cooked, crumbles, 70% lean meat / 30% fat, ground
+-  MORNINGSTAR FARMS Roasted Garlic & Quinoa Burger, unprepared, frozen
+-  KELLOGG'S, Mixed Berry Granola, NUTRI-GRAIN Frozen Fruit Pizza, EGGO
+-  Beef, pan-browned, cooked, crumbles, 75% lean meat / 25% fat, ground
+-  CAMPBELL'S CHUNKY Soups, Baked Potato with Cheddar & Bacon Bits Soup
+-  Lamb, raw, separable lean and fat, neck chops, imported, New Zealand
+-  Cereals ready-to-eat, RAISIN BRAN CLUSTERS, FIBER ONE, GENERAL MILLS
+-  Snacks, and E, C, with vitamins A, FARLEY Fruit Snacks, FARLEY CANDY
+-  POPEYES, meat and skin with breading, Drumstick, Mild, Fried Chicken
+-  Gourd, with salt, drained, boiled, cooked, white-flowered (calabash)
+-  BANQUET, unprepared, frozen, family size, Salisbury Steak With Gravy
+-  Lamb, raw, separable lean and fat, hind-shank, imported, New Zealand
+-  Margarine-like, without salt, stick, 80% fat, butter-margarine blend
+-  Beans, without salt, boiled, cooked, mature seeds, royal red, kidney
+-  Peppers, solids and liquids, excluding seeds, canned, red, hot chili
+-  Candies, prepared-by-recipe, with nuts, chocolate marshmallow, fudge
+-  Orange juice, with added calcium, includes from concentrate, chilled
+-  Chicken, raw, meat and skin and giblets and neck, broilers or fryers
+-  Turkey, raw, with added solution, meat only, from whole bird, breast
+-  Cereals ready-to-eat, KELLOGG RAISIN BRAN with Omega-3 from flaxseed
+-  Soup, single brand, ready-to-serve, chunky, chicken mushroom chowder
+-  Alcoholic beverage, Gewurztraminer, late harvest, white, table, wine
+-  Biscuits, baked, higher fat, refrigerated dough, plain or buttermilk
+-  KFC, meat and skin with breading, Thigh, EXTRA CRISPY, Fried Chicken
+-  Restaurant, Arroz con frijoles negros (rice and black beans), Latino
+-  Beef, pan-browned, cooked, crumbles, 85% lean meat / 15% fat, ground
+-  Beef, pan-browned, cooked, crumbles, 80% lean meat / 20% fat, ground
+-  Pork, cooked, with added solution, composite of separable fat, fresh
+-  Wheat flour, unenriched, bleached, 11.5% protein, white (industrial)
+-  Luncheon meat, includes SPAM (Hormel), canned, minced, pork with ham
+-  Beverages, Light Cranberry and Raspberry Flavored Juice, OCEAN SPRAY
+-  PREGO Pasta, ready-to-serve, Chunky Garden Combination Italian Sauce
+-  AUSTIN, reduced fat, sandwich-type, Peanut Butter on Cheese Crackers
+-  AUSTIN, reduced fat, sandwich-type, Peanut Butter on Toasty Crackers
+-  Chicken, heated (microwave), barbecue flavored, glazed, frozen, wing
+-  Infant formula, ready-to-feed, with iron, GOOD START SUPREME, NESTLE
+-  Artichokes, without salt, drained, boiled, cooked, (globe or french)
+-  Milk, with added vitamin A and vitamin D, nonfat, evaporated, canned
+-  Squash, without salt, drained, boiled, cooked, all varieties, summer
+-  Toaster Pastries, Brown sugar cinnamon, KELLOGG'S POP TARTS, KELLOGG
+-  Beef, raw, separable lean and fat, tenderloin, imported, New Zealand
+-  Infant Formula, powder, Infant, Premium LIPIL, ENFAMIL, MEAD JOHNSON
+-  MORNINGSTAR FARMS Meal Starters Veggie Meatballs, unprepared, frozen
+-  MORNINGSTAR FARMS Grillers Chik'n Veggie Patties, unprepared, frozen
+-  Cereals ready-to-eat, Natural Granola Apple Cranberry Almond, QUAKER
+-  Gourd, without salt, drained, boiled, cooked, dishcloth (towelgourd)
+-  Puddings, sodium, potassium, with added oil, regular, dry mix, lemon
+-  Babyfood, strained, without ascorbic acid, plums with tapioca, fruit
+-  Spinach, with salt, drained, boiled, cooked, chopped or leaf, frozen
+-  Pork, braised, cooked, kidneys, variety meats and by-products, fresh
+-  Soup, prepared with equal volume water, canned, vegetarian vegetable
+-  Pie crust, chilled, vanilla wafer, prepared from recipe, cookie-type
+-  Beans, without salt, boiled, cooked, mature seeds, cranberry (roman)
+-  Beans, without salt, boiled, cooked, mature seeds, all types, kidney
+-  Fast foods, and condiments, cheese, egg, with breakfast steak, bagel
+-  Rice and vermicelli mix, prepared with 80% margarine, chicken flavor
+-  Snacks, no trans fat, regular flavor, microwave, oil-popped, popcorn
+-  Snacks, gluten- free made with cornstarch and potato flour, Pretzels
+-  English muffins, toasted (includes apple-cinnamon), raisin-cinnamon
+-  Veal, braised, cooked, separable lean only, boneless, whole, breast
+-  Turkey, bone removed, with skin, cooked, smoked, light or dark meat
+-  Soup, single brand, condensed, canned, split pea with ham and bacon
+-  Beef, pan-browned, cooked, crumbles, 95% lean meat / 5% fat, ground
+-  Cereals, dry, Apple Cinnamon, Instant Oatmeal, KASHI HEART TO HEART
+-  Pork, roasted, cooked, separable lean only, whole, leg (ham), fresh
+-  CAMPBELL'S Homestyle HEALTHY REQUEST Mexican Style Chicken Tortilla
+-  Infant formula, ready-to-feed, with iron, SIMILAC, ABBOTT NUTRITION
+-  SUBWAY, black forest ham sub on white bread with lettuce and tomato
+-  PREGO Pasta, ready-to-serve, Organic Tomato and Basil Italian Sauce
+-  P REGO Pasta, ready-to-serve, Roasted Garlic and Herb Italian Sauce
+-  PREGO Pasta, ready-to-serve, Basil and Garlic Italian Sauce, Tomato
+-  Ice creams, All Natural Light Vanilla Chocolate Strawberry, BREYERS
+-  Peas, without salt, drained, boiled, cooked, sprouted, mature seeds
+-  Snacks, unsalted, made with unenriched flour, plain, hard, pretzels
+-  SUNSHINE, Extra Cheesy Party Mix, 100 Calorie RIGHT BITES, CHEEZ-IT
+-  Milk, with added vitamin A and vitamin D, 1% milkfat, fluid, lowfat
+-  Babyfood, instant fortified, dry, rice with pears and apple, cereal
+-  Beef, pan-browned, cooked, crumbles, 97% lean meat / 3% fat, ground
+-  Pork, unheated, separable lean and fat, blade roll, shoulder, cured
+-  CAMPBELL'S Red and White - Microwaveable Bowls, Chicken Noodle Soup
+-  Beef, raw, separable lean and fat, striploin, imported, New Zealand
+-  Beef, raw, separable lean and fat, hind shin, imported, New Zealand
+-  Cereals ready-to-eat, KELLOGG'S SPECIAL K Multigrain Oats and Honey
+-  Cereals ready-to-eat, KELLOGG'S CRUNCHY NUT Golden Honey Nut flakes
+-  Soup, ready-to-serve, chunky, canned, manhattan style, clam chowder
+-  Pork, raw, separable lean and fat, boneless, Shoulder petite tender
+-  KEEBLER, Chocolate Graham Cookies, Mint Creme Middles, FUDGE SHOPPE
+-  Soup, prepared with equal volume water, canned, split with ham, pea
+-  Cereals ready-to-eat, 25% Reduced Sugar, COCOA PUFFS, GENERAL MILLS
+-  Beef, raw, separable lean only, oyster blade, imported, New Zealand
+-  KELLOGG'S, Strawberry Granola, NUTRI-GRAIN Frozen Fruit Pizza, EGGO
+-  Restaurant, cheese and lettuce, soft taco with ground beef, Mexican
+-  Pancakes, incomplete (includes buttermilk), dry mix, low fat, plain
+-  Cereals, without salt, prepared with water, instant, CREAM OF WHEAT
+-  Fast Food, regular crust, pepperoni topping, 14" pizza, Pizza Chain
+-  English muffins, with ca prop (includes sourdough), enriched, plain
+-  CAMPBELL'S CHUNKY Soups, Savory Chicken with White & Wild Rice Soup
+-  Veal, cooked, separable lean only, composite of trimmed retail cuts
+-  DIGIORNO Pizza, baked, frozen, thin crispy crust, pepperoni topping
+-  Salad dressing, without salt, regular, commercial, italian dressing
+-  Soymilk (All flavors), vitamins A and D, with added calcium, lowfat
+-  Cherries, solids and liquids, extra heavy syrup pack, canned, sweet
+-  Biscuits, baked, lower fat, refrigerated dough, plain or buttermilk
+-  Beverages, high vitamin C, greater than 3% juice, fruit juice drink
+-  Margarine-like spread, SMART BEAT Super Light without saturated fat
+-  Beverages, powder, low calorie, breakfast type, Orange-flavor drink
+-  Milk, with added calcium, reduced fat, commercial, fluid, chocolate
+-  Turkey, raw, with added solution, meat only, from whole bird, thigh
+-  Snacks, made with enriched masa flour, nacho-flavor, tortilla chips
+-  Doughnuts, unenriched (includes honey buns), glazed, yeast-leavened
+-  Cereals, dry, Maple Brown Sugar Crunch, KELLOGG'S SPECIAL K NOURISH
+-  Chicken, roasted, cooked, meat and skin, breast, broilers or fryers
+-  Broadbeans (fava beans), without salt, boiled, cooked, mature seeds
+-  Pork, roasted, cooked, separable lean only, tenderloin, loin, fresh
+-  KFC, meat and skin with breading, Wing, EXTRA CRISPY, Fried Chicken
+-  Lamb, raw, separable lean and fat, loin chop, imported, New Zealand
+-  Chicken, roasted, cooked, meat only, light meat, broilers or fryers
+-  Crackers, with peanut butter filling, sandwich, standard snack-type
+-  KRAFT VELVEETA LIGHT Reduced Fat Pasteurized Process Cheese Product
+-  Beverages, sweetened, ginseng and honey, ready to drink, green, tea
+-  CAMPBELL'S Red and White - Microwaveable Bowls, Vegetable Beef Soup
+-  Luncheon meat, includes SPAM Lite, canned, minced, pork and chicken
+-  Game meat, roasted, cooked, composite of cuts, domesticated, rabbit
+-  MORNINGSTAR FARMS Sausage Style Recipe Crumbles, unprepared, frozen
+-  KASHI Pizza, unprepared, frozen, single serve, Mushroom and Spinach
+-  Pork, broiled, cooked, separable lean only, tenderloin, loin, fresh
+-  Puddings, prepared with whole milk, regular, dry mix, coconut cream
+-  Puddings, prepared with whole milk, instant, dry mix, coconut cream
+-  Bread, made with low fat (2%) milk, prepared from recipe, cornbread
+-  Peppers, without salt, drained, boiled, chopped, frozen, red, sweet
+-  Soymilk, vitamins A and D, with added calcium, original and vanilla
+-  Beverages, ready-to-drink, lemon-lime flavored, POWERADE, COCA-COLA
+-  Nuts, packaged, flaked, sweetened, dried (desiccated), coconut meat
+-  Winged beans, without salt, drained, boiled, cooked, immature seeds
+-  Beef, pan-browned, cooked, crumbles, 93% lean meat / 7% fat, ground
+-  Grapefruit juice, undiluted, unsweetened, frozen concentrate, white
+-  Seeds, with salt added (decorticated), toasted, sesame seed kernels
+-  GEORGE WESTON BAKERIES, dry, Brownberry Sage and Onion Stuffing Mix
+-  Infant formula, ready-to-feed, NUTRAMIGEN AA, ENFAMIL, MEAD JOHNSON
+-  Beef, raw, separable lean and fat, eye round, imported, New Zealand
+-  Beef, raw, separable lean and fat, cube roll, imported, New Zealand
+-  Cake, enriched, other than all butter, commercially prepared, pound
+-  Pork, braised, cooked, tongue, variety meats and by-products, fresh
+-  Babyfood, junior, without ascorbic acid, prunes with tapioca, fruit
+-  Veal, grilled, cooked, separable lean and fat, blade chop, shoulder
+-  Veal, braised, cooked, separable lean and fat, osso buco, foreshank
+-  Breakfast bars, coconut (include granola bar), raisins, sugar, oats
+-  CAMPBELL'S Red and White, condensed, Old Fashioned Tomato Rice Soup
+-  Cereals ready-to-eat, MOTHER'S PEANUT BUTTER BUMPERS Cereal, QUAKER
+-  Veal, raw, separable lean and fat, composite of trimmed retail cuts
+-  KEEBLER, Original, Magic Middles Fudge Filled Cookies, FUDGE SHOPPE
+-  Cream substitute, with lauric acid oil and sodium caseinate, liquid
+-  Cheese food, without added vitamin D, American, pasteurized process
+-  Veal, raw, separable lean and fat, bone-in, fore, shank, Australian
+-  Soymilk (all flavors), vitamins A and D, with added calcium, nonfat
+-  DIGIORNO Pizza, baked, frozen, cheese stuffed crust, cheese topping
+-  KELLOGG'S, Yum-azing Vanilla Milkshake Toaster Pastries, POP-TARTS
+-  Corn, rinsed with tap water, drained solids, canned, yellow, sweet
+-  Cowpeas, with salt, drained, boiled, cooked, young pods with seeds
+-  Fish, without skin and bones, drained solids, canned, pink, Salmon
+-  Turkey, raw, with added solution, meat only, from whole bird, back
+-  Pork, roasted, cooked, separable lean only, whole, shoulder, fresh
+-  Beans, without salt, drained, boiled, cooked, frozen, yellow, snap
+-  Noodles, dehydrated, cellophane or long rice (mung beans), chinese
+-  Beverages, fortified, prepared with 1% milk, chocolate malt powder
+-  Wheat flour, enriched, bleached, 11.5% protein, white (industrial)
+-  Wheat flour, enriched, unbleached, 10% protein, white (industrial)
+-  Whale, skin and subcutaneous fat (muktuk) (Alaska Native), bowhead
+-  Cereals ready-to-eat, Crunchy Almond, OATMEAL CRISP, GENERAL MILLS
+-  Potatoes, without salt, flesh and skin, cooked in skin, microwaved
+-  Chicken, roasted, cooked, meat and skin, thigh, broilers or fryers
+-  Pigeon peas (red gram), without salt, boiled, cooked, mature seeds
+-  Refried beans, traditional style (includes USDA commodity), canned
+-  Pork, braised, cooked, brain, variety meats and by-products, fresh
+-  Cookies, chocolate-coated (includes marshmallow pies), marshmallow
+-  Poultry, raw, from backs and necks with skin, mechanically deboned
+-  Pork, simmered, cooked, tail, variety meats and by-products, fresh
+-  Pork, simmered, cooked, feet, variety meats and by-products, fresh
+-  Pork, roasted, separable lean and fat, blade roll, shoulder, cured
+-  Soup, commercial, prepared with equal volume water, canned, tomato
+-  Beef, raw, separable lean only, rump centre, imported, New Zealand
+-  Cookies, lower fat, regular, commercially prepared, chocolate chip
+-  Nuts, without salt added, without peanuts, oil roasted, mixed nuts
+-  KRAFT FOODS, dry, Coating for Pork, SHAKE 'N' BAKE ORIGINAL RECIPE
+-  Pork, raw, separable lean and fat, boneless, Leg sirloin tip roast
+-  KEEBLER, Original Graham Cookies, Cheesecake Middles, FUDGE SHOPPE
+-  MORNINGSTAR FARMS Chipotle Black Bean Crumbles, unprepared, frozen
+-  Pork, braised, cooked, liver, variety meats and by-products, fresh
+-  Pork, braised, cooked, lungs, variety meats and by-products, fresh
+-  CAMPBELL'S CHUNKY Soups, Beef Rib Roast with Potatoes & Herbs Soup
+-  Turkey roast, raw, light and dark meat, seasoned, frozen, boneless
+-  Veal, raw, separable lean and fat, whole (arm and blade), shoulder
+-  Infant formula, powder, with iron, GOOD START 2 ESSENTIALS, NESTLE
+-  Hyacinth-beans, with salt, drained, boiled, cooked, immature seeds
+-  Mustard spinach, with salt, drained, boiled, cooked, (tendergreen)
+-  Leavening agents, straight phosphate, double-acting, baking powder
+-  Beef, raw, separable lean only, bolar blade, imported, New Zealand
+-  Salad dressing, without salt, regular, commercial, french dressing
+-  Syrups, HERSHEY'S Genuine Chocolate Flavored Lite Syrup, chocolate
+-  Snacks, CHEWY TRAIL MIX, NATURE VALLEY, GENERAL MILLS, granola bar
+-  KELLOGG'S, Cinnamon Brown Sugar Baked Bites, POP-TARTS MINI CRISPS
+-  Lamb, raw, separable lean only, loin saddle, imported, New Zealand
+-  Toaster Pastries, Frosted wild berry, KELLOGG'S POP TARTS, KELLOGG
+-  Cereals, without salt, prepared with water, chocolate, MALT-O-MEAL
+-  Turkey, raw, with added solution, meat only, from whole bird, wing
+-  KELLOGG'S, Chocolate Chip Cookie Dough Toaster Pastries, POP-TARTS
+-  Chicken, stewed, cooked, meat and skin, breast, broilers or fryers
+-  Tomatoes, no salt added, packed in tomato juice, canned, ripe, red
+-  Salad dressing, soybean without cholesterol, imitation, mayonnaise
+-  Chicken, stewed, cooked, meat only, light meat, broilers or fryers
+-  Chicken, roasted, cooked, meat only, dark meat, broilers or fryers
+-  Fish, drained solids with bone, without salt, canned, chum, salmon
+-  Beverages, powder, orange flavor, GATORADE, QUAKER OATS, drink mix
+-  Peas, without salt, drained, boiled, cooked, frozen, edible-podded
+-  Wheat flour, unenriched, bleached, 10% protein, white (industrial)
+-  Candies, Fruit and Creme, STARBURST Fruit Chews, MARS SNACKFOOD US
+-  CAMPBELL'S Red and White - Microwaveable Bowls, Creamy Tomato Soup
+-  Game meat, stewed, cooked, composite of cuts, domesticated, rabbit
+-  Salad Dressing, Omega Plus light, SMART BALANCE, light, mayonnaise
+-  Beverages, B6, E, C, fortified with vitamins A, orange mango, FUZE
+-  Succotash, without salt, drained, boiled, cooked, (corn and limas)
+-  CRACKER BARREL, from kid's menu, fried, chicken tenderloin platter
+-  Pork, raw, separable lean and fat, country-style ribs, loin, fresh
+-  Cookies, made with margarine, prepared from recipe, chocolate chip
+-  Pork, roasted, separable lean and fat, arm picnic, shoulder, cured
+-  Beans, low sodium, solids and liquids, canned, mature seeds, pinto
+-  Infant formula, ready-to-feed, low iron, SIMILAC, ABBOTT NUTRITION
+-  Wheat flour, unenriched, bleached, 13% protein, white (industrial)
+-  Wheat flour, unenriched, bleached, 15% protein, white (industrial)
+-  Fast foods, and condiments, cheese, sausage patty, with egg, bagel
+-  Grapefruit, solids and liquids, light syrup pack, canned, sections
+-  Pork, roasted, canned, regular (approximately 13% fat), ham, cured
+-  Candies, Original fruits, STARBURST Fruit Chews, MARS SNACKFOOD US
+-  Cereals ready-to-eat, Cinnamon Pecan, KELLOGG'S SPECIAL K, KELLOGG
+-  Infant formula, ready-to-feed, with iron, GOOD START 2 Soy, GERBER
+-  Toaster Pastries, Frosted strawberry, KELLOGG'S POP TARTS, KELLOGG
+-  CARRABBA'S ITALIAN GRILL, chicken parmesan without cavatappi pasta
+-  Beef, braised, cooked, choice, separable lean only, shortribs, rib
+-  Chicken, raw, with added solution, meat only, drumstick, dark meat
+-  Pork, unheated, separable lean and fat, bone-in, shank, ham, cured
+-  Pork, unheated, separable lean and fat, bone-in, slice, ham, cured
+-  Babyfood, junior, without ascorbic acid, plums with tapioca, fruit
+-  Pork, braised, cooked, heart, variety meats and by-products, fresh
+-  CAMPBELL'S CHUNKY Soups, Firehouse - Hot & Spicy Beef & Bean Chili
+-  Cereals ready-to-eat, KELLOGG'S SPECIAL K Low Fat Granola, KELLOGG
+-  Soup, prepared with equal volume water, canned, cream of asparagus
+-  Syrups, with added potassium, with 2% maple, pancake, table blends
+-  Soup, prepared with equal volume low fat (2%) milk, canned, tomato
+-  Bread, frozen, commercially prepared, whole wheat, chapati or roti
+-  Candies, Tropical fruits, STARBURST Fruit Chews, MARS SNACKFOOD US
+-  Cheese product, vitamin D fortified, American, pasteurized process
+-  Cabbage, without salt, drained, boiled, cooked, chinese (pak-choi)
+-  Turkey, raw, with added solution, skin from whole (light and dark)
+-  Turkey, roasted, cooked, with added solution, meat only, dark meat
+-  Turkey from whole, raw, with added solution, meat only, light meat
+-  Chicken, raw, with added solution, meat and skin, thigh, dark meat
+-  Cabbage, raw, stored, common (danish, domestic, and pointed types)
+-  Milk, without added vitamin A and vitamin D, 3.25% milkfat, whole
+-  Apricots, solids and liquids, with skin, heavy syrup pack, canned
+-  Apricots, solids and liquids, with skin, light syrup pack, canned
+-  Lamb, raw, separable lean only, neck chops, imported, New Zealand
+-  Lamb, raw, separable lean only, hind-shank, imported, New Zealand
+-  Veal, braised, cooked, separable lean only, shank (fore and hind)
+-  POPEYES, meat and skin with breading, Breast, Mild, Fried Chicken
+-  Chicken, stewed, cooked, meat only, drumstick, broilers or fryers
+-  Chicken, raw, meat only, drumstick, dark meat, broilers or fryers
+-  Turkey, skin and bone removed, cooked, smoked, light or dark meat
+-  Cereals ready-to-eat, CAP'N CRUNCH'S PEANUT BUTTER CRUNCH, QUAKER
+-  Swamp cabbage (skunk cabbage), with salt, drained, boiled, cooked
+-  Plums, solids and liquids, extra heavy syrup pack, purple, canned
+-  Beverages, ready-to-drink, vanilla flavor, sweetened, almond milk
+-  Chicken, roasted, cooked, meat and skin, back, broilers or fryers
+-  MORNINGSTAR FARMS Tomato & Basil Pizza Burger, unprepared, frozen
+-  Beef, pan-broiled, cooked, patty, 90% lean meat / 10% fat, ground
+-  Beef, pan-broiled, cooked, patty, 85% lean meat / 15% fat, ground
+-  Cookies, regular (includes vanilla), commercially prepared, sugar
+-  Beverages, Cranberry Energy Juice Drink, Cran-Energy, OCEAN SPRAY
+-  Fish, dry heat, cooked, mixed species, Pacific and jack, mackerel
+-  Rice, cooked without salt, unenriched, regular, long-grain, white
+-  Cereals, dry, dates and walnuts, raisins, Instant Oatmeal, QUAKER
+-  Chicken, stewed, cooked, meat and skin, thigh, broilers or fryers
+-  Snacks, unsalted, made with enriched flour, plain, hard, pretzels
+-  Fast foods, and tomatoes, ground beef, beans, with cheese, nachos
+-  MORNINGSTAR FARMS Lasagna with Veggie Sausage, unprepared, frozen
+-  Rice, prepared, enriched, precooked or instant, long-grain, white
+-  Cereals ready-to-eat, Hearty Raisin, OATMEAL CRISP, GENERAL MILLS
+-  Lima beans, without salt, drained, boiled, cooked, immature seeds
+-  Grapes, solids and liquids, water pack, thompson seedless, canned
+-  Cranberry juice cocktail, prepared with water, frozen concentrate
+-  Toaster Pastries, Frosted raspberry, KELLOGG'S POP TARTS, KELLOGG
+-  Beverages, prepared with water, powder, with aspartame, cocoa mix
+-  Infant formula, ready-to-feed, PROTECT PLUS, GOOD START 2, GERBER
+-  Beef, raw, separable lean only, tenderloin, imported, New Zealand
+-  Toaster Pastries, Frosted blueberry, KELLOGG'S POP TARTS, KELLOGG
+-  Pork, raw, separable lean only, tenderloin, loin, enhanced, fresh
+-  Pork, raw, with added solution, composite of separable fat, fresh
+-  Soup, prepared with equal volume water, canned, chicken with rice
+-  Cereals ready-to-eat, Regular, KRETSCHMER Wheat Germ, SUN COUNTRY
+-  Fast Food, thick crust, pepperoni topping, 14" pizza, Pizza Chain
+-  Gourd, with salt, drained, boiled, cooked, dishcloth (towelgourd)
+-  CAMPBELL'S Red and White, condensed, Mega Noodle in Chicken Broth
+-  Game meat, broiled, cooked, separable lean only, tenderloin, deer
+-  Cereals ready-to-eat, KELLOGG'S HONEY CRUNCH CORN FLAKES, KELLOGG
+-  Candies, M&M's Peanut Butter Chocolate Candies, MARS SNACKFOOD US
+-  Onion rings, heated in oven, prepared, frozen, par fried, breaded
+-  CAMPBELL'S Soup on the Go, Vegetable with Mini Round Noodles Soup
+-  Chicken, batter, fried, cooked, meat and skin, broilers or fryers
+-  Cabbage, without salt, drained, boiled, cooked, chinese (pe-tsai)
+-  Lamb, raw, separable lean only, tenderloin, imported, New Zealand
+-  Beverages, with vitamin E added, reduced sugar, fruit juice drink
+-  Muffins, made with low fat (2%) milk, prepared from recipe, plain
+-  Muffins, commercially prepared (Includes mini-muffins), blueberry
+-  Margarine-like, with salt, liquid, fat free, vegetable oil spread
+-  Artichokes, with salt, drained, boiled, cooked, (globe or french)
+-  Ice creams, Vanilla Chocolate Strawberry, No Sugar Added, BREYERS
+-  Broadbeans, without salt, drained, boiled, cooked, immature seeds
+-  Turkey, raw, with added solution, meat only, breast, retail parts
+-  Doughnuts, enriched (includes honey buns), glazed, yeast-leavened
+-  Lamb, raw, separable lean only, fore-shank, imported, New Zealand
+-  Chicken, fried, cooked, meat only, light meat, broilers or fryers
+-  Chicken, stewed, cooked, meat only, dark meat, broilers or fryers
+-  Beef, pan-broiled, cooked, patty, 80% lean meat / 20% fat, ground
+-  Beef, pan-broiled, cooked, patty, 75% lean meat / 25% fat, ground
+-  Beans, with salt, boiled, cooked, mature seeds, all types, kidney
+-  Beans, with salt, boiled, cooked, mature seeds, cranberry (roman)
+-  Pork, roasted, cooked, separable lean and fat, whole, loin, fresh
+-  Pork, broiled, cooked, separable lean and fat, whole, loin, fresh
+-  Wheat flour, unenriched, bleached, 9% protein, white (industrial)
+-  CAMPBELL'S Red and White - Microwaveable Bowls, Chicken Rice Soup
+-  DIGIORNO Pizza, baked, frozen, thin crispy crust, supreme topping
+-  USDA Commodity, cooked, frozen, bulk/links/patties, sausage, pork
+-  Restaurant, without meat or noodles, vegetable chow mein, Chinese
+-  Chicken, cooked simmered, meat and skin, neck, broilers or fryers
+-  PREGO Pasta, ready-to-serve, Diced Onion and Garlic Italian Sauce
+-  Beverages, decaffeinated, prepared with tap water, brewed, coffee
+-  Soup, prepared with equal volume milk, canned, cream of asparagus
+-  MORNINGSTAR FARMS Chik'n Grill Veggie Patties, unprepared, frozen
+-  Pigeonpeas, without salt, drained, boiled, cooked, immature seeds
+-  Milk, without added vitamin A and vitamin D, regular, nonfat, dry
+-  Cereals, dry, Brown Sugar, DINOSAUR EGGS, Instant Oatmeal, QUAKER
+-  Babyfood, strained, without ascorbic acid, fruit dessert, dessert
+-  Chicken, roasted, cooked, meat and skin, wing, broilers or fryers
+-  Candies, SKITTLES Wild Berry Bite Size Candies, MARS SNACKFOOD US
+-  Restaurant, fried, battered or breaded, fish fillet, family style
+-  Pork, unheated, separable lean and fat, bone-in, rump, ham, cured
+-  Fast Food, regular crust, sausage topping, 14" pizza, Pizza Chain
+-  Soup, prepared with equal volume water, canned, cream of mushroom
+-  Milk, without added vitamin A and vitamin D, instant, nonfat, dry
+-  Squash, with salt, drained, boiled, cooked, all varieties, summer
+-  Soy sauce, made from hydrolyzed vegetable protein, reduced sodium
+-  Soup, ready-to-serve, canned, reduced sodium, beef and vegetables
+-  Veal, raw, separable lean only, cubed for stew (leg and shoulder)
+-  Beans, without salt, boiled, cooked, mature seeds, great northern
+-  CAMPBELL'S CHUNKY Soups, HEALTHY REQUEST New England Clam Chowder
+-  Snacks, salted, made with unenriched flour, plain, hard, pretzels
+-  Cherries, solids and liquids, heavy syrup pack, canned, red, sour
+-  Cherries, solids and liquids, light syrup pack, canned, red, sour
+-  Rice and vermicelli mix, prepared with 80% margarine, beef flavor
+-  KASHI, Frozen Entree, Roasted Garlic Chicken Farfalle, STEAM MEAL
+-  Babyfood, prepared with whole milk, with bananas, oatmeal, cereal
+-  Turkey, raw, with added solution, meat only, dark meat from whole
+-  DOMINO'S 14" EXTRAVAGANZZA FEAST Pizza, Classic Hand-Tossed Crust
+-  Cowpeas, raw, mature seeds, common (blackeyes, crowder, southern)
+-  Fast Foods, meat and skin with breading, Drumstick, Fried Chicken
+-  Bread, commercially prepared (includes soft bread crumbs), white
+-  Broccoli, without salt, drained, boiled, cooked, chopped, frozen
+-  Turkey, roasted, cooked, from dark meat, from retail parts, skin
+-  KELLOGG'S, Frosted Wild Fruit Fusion Toaster Pastries, POP-TARTS
+-  Fast foods, with condiments, regular patty, cheeseburger; single
+-  Chicken, fried, cooked, meat only, drumstick, broilers or fryers
+-  Chicken, roasted, cooked, meat and skin, leg, broilers or fryers
+-  Fast foods, and canadian bacon, cheese, with egg, english muffin
+-  Salad dressing, with salt, soybean and safflower oil, mayonnaise
+-  Crustaceans, moist heat, cooked, farmed, mixed species, crayfish
+-  Formulated bar, milk chocolate peanut, SLIM-FAST OPTIMA meal bar
+-  Chicken, stewed, cooked, meat and skin, back, broilers or fryers
+-  Pizza, cooked, frozen, regular crust, meat and vegetable topping
+-  Beans, boiled with salt, cooked, mature seeds, royal red, kidney
+-  MORNINGSTAR FARMS Italian Herb Chik'n Pattie, unprepared, frozen
+-  SUBWAY, turkey breast sub on white bread with lettuce and tomato
+-  PREGO Pasta, ready-to-serve, Mushroom and Parmesan Italian Sauce
+-  Seeds, with salt added, roasted, whole, pumpkin and squash seeds
+-  KEEBLER, Cookies 'N Creme, FUDGE SHOPPE, 100 Calorie RIGHT BITES
+-  CAMPBELL'S Red and White, condensed, 25% Less Sodium Tomato Soup
+-  Bread, unenriched (includes corn muffin mix), dry mix, cornbread
+-  Cereals ready-to-eat, pecan bunches, HONEY BUNCHES OF OATS, POST
+-  Pie crust, baked, enriched, ready-to-bake, frozen, standard-type
+-  Broadbeans (fava beans), with salt, boiled, cooked, mature seeds
+-  Beverage, not reconstituted, chocolate, instant breakfast powder
+-  Cereals, dry, cheddar cheese flavor, instant, corn grits, QUAKER
+-  Vegetables, without salt, drained, boiled, cooked, frozen, mixed
+-  Bread, low sodium no salt, toasted, commercially prepared, white
+-  Cereals ready-to-eat, Oat Cluster CHEERIOS Crunch, GENERAL MILLS
+-  Beef, pan-broiled, patty cooked, 70% lean meat / 30% fat, ground
+-  SUBWAY, lettuce and tomato, B.L.T. sub on white bread with bacon
+-  MORNINGSTAR FARMS Spicy Indian Veggie Burger, unprepared, frozen
+-  POPEYES, meat and skin with breading, Thigh, Mild, Fried Chicken
+-  Beef, raw, separable lean only, eye round, imported, New Zealand
+-  Beef, raw, separable lean only, cube roll, imported, New Zealand
+-  Snacks, chocolate-flavor, confectioner's coating, hard, pretzels
+-  PEPPERIDGE FARM, Explosive Pizza, Baked Snack Crackers, Goldfish
+-  Crackers, with peanut butter filling, sandwich-type, whole grain
+-  Soup, prepared with equal volume water, canned, cream of chicken
+-  Puddings, prepared with 2% milk, regular, dry mix, coconut cream
+-  Cereals ready-to-eat, KRETSCHMER Toasted Wheat Bran, SUN COUNTRY
+-  Tofu, prepared with calcium sulfate, salted and fermented (fuyu)
+-  Veal, braised, cooked, separable lean only, osso buco, foreshank
+-  Veal, raw, separable lean only, composite of trimmed retail cuts
+-  KEEBLER, bite size, Rainbow Chocolate Chip Cookies, CHIPS DELUXE
+-  Soup, reduced sodium, reduced fat, any flavor, dry, ramen noodle
+-  Beverages, DANNON Fluoride To Go, non-carbonated, bottled, water
+-  Game meat, broiled, cooked, separable lean only, tenderloin, elk
+-  Veal, raw, separable lean only, bone-in, fore, shank, Australian
+-  Seeds, with salt added, roasted, pumpkin and squash seed kernels
+-  KELLOGG'S, Frosted Strawberry Baked Bites, POP-TARTS MINI CRISPS
+-  Collards, without salt, drained, boiled, cooked, chopped, frozen
+-  Chicken, flour, fried, cooked, meat and skin, broilers or fryers
+-  Fast Food, regular crust, cheese topping, 14" pizza, Pizza Chain
+-  Fat free ice cream, flavors other than chocolate, no sugar added
+-  Agutuk, fish with shortening (Alaskan ice cream) (Alaska Native)
+-  Fish, drained solids with bone, canned in oil, Atlantic, sardine
+-  Cereals, dry, Cinnamon Raisin Pecan, KELLOGG'S SPECIAL K NOURISH
+-  Muffins, made with low fat (2%) milk, prepared from recipe, corn
+-  Beef, pan-broiled, cooked, patty, 95% lean meat / 5% fat, ground
+-  Soup, single brand, ready-to-serve, chunky, chicken corn chowder
+-  Lamb, raw, separable lean only, loin chop, imported, New Zealand
+-  Chicken, fried, cooked, meat only, dark meat, broilers or fryers
+-  Fish, drained solids, without salt, canned in water, light, tuna
+-  Fish, drained solids, without salt, canned in water, white, tuna
+-  Lamb, raw, mechanically separated, variety meats and by-products
+-  Soup, single brand, ready-to-serve, microwavable, vegetable beef
+-  Wheat flour, enriched, bleached, 10% protein, white (industrial)
+-  Cereals ready-to-eat, honey roasted, HONEY BUNCHES OF OATS, POST
+-  Infant formula, powder, with ARA and DHA, GOOD START SOY, NESTLE
+-  Beans, drained without salt, boiled, cooked, frozen, green, snap
+-  Fast Food, stuffed crust, cheese topping, 14" pizza, Pizza Chain
+-  GARDENBURGER Savory Portabella Veggie Burger, unprepared, frozen
+-  Soup, low sodium, prepared with water, canned, vegetable chicken
+-  Peppers, with salt, drained, boiled, chopped, frozen, red, sweet
+-  Jams and preserves, any flavor, no sugar (with sodium saccharin)
+-  Soup, prepared with equal volume water, canned, chicken mushroom
+-  Infant formula, ready-to-feed, with iron, PROSOBEE, MEAD JOHNSON
+-  Cereals ready-to-eat, Nutty Clusters & Almonds, FIBER ONE, GENERAL MILLS
+-  Pasta, cooked, remaining enriched semolina, 51% whole wheat, whole grain
+-  Snacks, peanut, SWEET&SALTY NUT, GENERAL MILLS NATURE VALLEY, granola bar
+-  Squash, without salt, or baked, drained, boiled, cooked, spaghetti, winter
+-  KEEBLER, Mini Fudge Stripes Cookies, FUDGE SHOPPE, 100 Calorie RIGHT BITES
+-  KFC, meat and skin with breading, Drumstick, ORIGINAL RECIPE, Fried Chicken
+-  Peppers, solids and liquids, excluding seeds, pods, canned, green, hot chili
+-  Pork, raw, separable lean and fat, boneless, center loin (chops), loin, fresh
+-  Chicken, braised, cooked, with added solution, meat and skin, thigh, dark meat
+-  Margarine, with added vitamin D, with salt, stick, composite, 80% fat, regular
+-  Beef, braised, cooked, separable lean and fat, hind shin, imported, New Zealand
+-  SUPPER BAKES MEAL KITS, Southwestern-Style Chicken w/rice (chicken not included)
+-  Beef, fast fried, cooked, separable lean only, rump centre, imported, New Zealand
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, roast, tip round, round
+-  Beef, boiled, cooked, tongue, variety meats and by-products, imported, New Zealand
+-  Lamb, raw, separable lean and fat, square-cut shoulder chops, imported, New Zealand
+-  KELLOGG'S, Ice Cream Shoppe Frosted Strawberry Milkshake Toaster Pastries, POP-TARTS
+-  Pork, braised, cooked, separable lean only, bone-in, center rib (chops), loin, fresh
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, arm pot roast, chuck
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, arm pot roast, chuck
+-  Pork, roasted, cooked, separable lean only, boneless, top loin (roasts), loin, fresh
+-  Apple juice, without added ascorbic acid, undiluted, unsweetened, frozen concentrate
+-  Shortening, pourable liquid fry shortening, soy (partially hydrogenated), industrial
+-  Bagels, without calcium propionate(includes onion, poppy, sesame), unenriched, plain
+-  Pork, roasted, cooked, bone-in, separable lean only, country-style ribs, loin, fresh
+-  Cereals, reduced sugar, variety of flavors, fruit and cream, Instant Oatmeal, QUAKER
+-  Pork, roasted, cooked, separable lean and fat, boneless, blade (roasts), loin, fresh
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, steak, top round, round
+-  Beef, slow roasted, cooked, separable lean and fat, eye round, imported, New Zealand
+-  Beef, fast roasted, cooked, separable lean and fat, cube roll, imported, New Zealand
+-  Beef, braised, cooked, separable lean and fat, chuck eye roll, imported, New Zealand
+-  Cereals ready-to-eat, Bite Size, Maple & Brown Sugar, FROSTED MINI-WHEATS, KELLOGG'S
+-  Babyfood, multigrain cereal and added iron fortified, with fruit, whole milk, yogurt
+-  Fast foods, turkey breast on white bread with lettuce and tomato, submarine sandwich
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, steak, top round, round
+-  Toaster Pastries, Frosted brown sugar cinnamon, KELLOGG'S LOW FAT POP TARTS, KELLOGG
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, chuck eye steak
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, chuck eye steak
+-  Pork, unheated, separable lean only, boneless, whole, ham with natural juices, cured
+-  Candies, candy bar, soft nougats, peanut butter, milk chocolate, REESE's Fast Break
+-  Oil, multiuse for non-dairy butter flavor, soy (partially hydrogenated), industrial
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean and fat, foreshank, domestic
+-  Bagels, without calcium propionate (includes onion, poppy, sesame), enriched, plain
+-  Margarine-like, with added vitamin D, with salt, tub, 60% fat, vegetable oil spread
+-  Pork, roasted, cooked, separable lean and fat, bone-in, blade (roasts), loin, fresh
+-  Lima beans, without salt, drained, boiled, cooked, fordhook, frozen, immature seeds
+-  Pork, raw, separable lean and fat, boneless, sirloin (chops or roasts), loin, fresh
+-  Pork, roasted, cooked, separable lean only, boneless, sirloin (roasts), loin, fresh
+-  English muffins, without calcium propionate (includes sourdough), unenriched, plain
+-  Chickpeas (garbanzo beans, bengal gram), without salt, boiled, cooked, mature seeds
+-  Milk, with added vitamin A and vitamin D, reduced fat, commercial, fluid, chocolate
+-  Cake, with added fiber, low-fat, chocolate with frosting, creme-filled, snack cakes
+-  CONTINENTAL MILLS, dry, Artificially Flavored, KRUSTEAZ Almond Poppyseed Muffin Mix
+-  Cereals, with salt, cooked with water, enriched, quick, regular, yellow, corn grits
+-  Babyfood, multigrain cereal and added DHA fortified, with fruit, whole milk, yogurt
+-  Infant formula, ready-to-feed, ADVANCE with iron, ISOMIL, SIMILAC, ABBOTT NUTRITION
+-  Pork, unheated, separable lean and fat, bone-in, rump, ham and water product, cured
+-  Squash, with salt, drained, boiled, cooked, frozen, includes skin, zucchini, summer
+-  Potatoes, unprepared, frozen, salt not added in processing, steak cut, french fried
+-  Beef, fast roasted, cooked, separable lean only, bolar blade, imported, New Zealand
+-  Pork, raw, separable lean only, boneless, center rib (chops or roasts), loin, fresh
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean only, steak, flank
+-  Lamb, fast roasted, cooked, separable lean only, loin saddle, imported, New Zealand
+-  Pork, unheated, separable lean only, bone-in, shank, ham with natural juices, cured
+-  Pork, unheated, separable lean only, bone-in, slice, ham with natural juices, cured
+-  Beverages, E, C, with added vitamins A, 100% juice, vegetable and fruit juice blend
+-  Pork, broiled, cooked, separable lean only, boneless, top loin (chops), loin, fresh
+-  Pork, braised, cooked, separable lean only, boneless, top loin (chops), loin, fresh
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, flat half, brisket
+-  Lamb, raw, choice, trimmed to 1/8" fat, separable lean and fat, foreshank, domestic
+-  Snacks, made with enriched masa flour, barbecue-flavor, chips, extruded, corn-based
+-  Pork, roasted, cooked, separable lean only, boston (roasts), blade, shoulder, fresh
+-  Pork, broiled, cooked, separable lean only, boston (steaks), blade, shoulder, fresh
+-  Beef, fast fried, cooked, separable lean and fat, tenderloin, imported, New Zealand
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, steak, top sirloin
+-  Potatoes, as purchased, frozen, salt added in processing, steak fries, french fried
+-  Lamb, fast fried, cooked, separable lean and fat, tenderloin, imported, New Zealand
+-  Snacks, with vitamin C, berry flavored, BETTY CROCKER Fruit Roll Ups, GENERAL MILLS
+-  Snacks, unsalted, made with partially hydrogenated soybean oil, plain, potato chips
+-  Beef, broiled, cooked, choice, trimmed to 0" fat, separable lean only, steak, flank
+-  Beef, broiled, cooked, select, trimmed to 0" fat, separable lean only, steak, flank
+-  Pork, raw, separable lean and fat, bone-in, sirloin (chops or roasts), loin, fresh
+-  Pork, roasted, cooked, separable lean only, bone-in, sirloin (roasts), loin, fresh
+-  KELLOGG'S, Ice Cream Shoppe Frosted Ice Creme Sandwich Toaster Pastries, POP-TARTS
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, whole, brisket
+-  Infant formula, powder, LIPIL, Toddler, GENTLEASE, ENFAGROW, ENFAMIL, MEAD JOHNSON
+-  Yogurt, sweetened with low-calorie sweetener, nonfat milk, vanilla or lemon flavor
+-  Beverages, zero calories, pomegranate with anti-oxidants, yumberry, bottled, water
+-  Pork, broiled, cooked, separable lean and fat, bone-in, blade (chops), loin, fresh
+-  Shortening confectionery, coconut (hydrogenated) and or palm kernel (hydrogenated)
+-  Pork, broiled, cooked, separable lean only, boneless, sirloin (chops), loin, fresh
+-  Pork, braised, cooked, separable lean only, boneless, sirloin (chops), loin, fresh
+-  Beef, fast fried, cooked, separable lean and fat, striploin, imported, New Zealand
+-  Beef, braised, cooked, separable lean and fat, oyster blade, imported, New Zealand
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, steak, tenderloin
+-  Cake, with added fiber, low-fat, with icing or filling, not chocolate, snack cakes
+-  Potatoes, as purchased, frozen, salt added in processing, shoestring, french fried
+-  Beef, boiled, cooked, kidney, variety meats and by-products, imported, New Zealand
+-  Corn, without salt, drained, boiled, cooked, kernels on cob, frozen, yellow, sweet
+-  Pork, unheated, separable lean and fat, boneless, whole, ham -- water added, cured
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, steak, top sirloin
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, steak, top sirloin
+-  Lamb, fast fried, cooked, separable lean and fat, loin chop, imported, New Zealand
+-  Chicken, braised, cooked, with added solution, meat and skin, drumstick, dark meat
+-  Chicken, roasted, cooked, with added solution, meat and skin, drumstick, dark meat
+-  Orange juice, with added calcium and vitamin D, includes from concentrate, chilled
+-  Pork, roasted, extra lean (approximately 5% fat), low sodium, boneless, ham, cured
+-  Chicken, braised, cooked, meat only, boneless, skinless, breast, broiler or fryers
+-  Chicken, grilled, cooked, meat only, boneless, skinless, breast, broiler or fryers
+-  Pork, unheated, separable lean only, bone-in, rump, ham with natural juices, cured
+-  Pork, raw, separable lean only, bone-in, center rib (chops or roasts), loin, fresh
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, blade roast, chuck
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, blade roast, chuck
+-  Margarine, includes regular and hydrogenated corn and soybean oils, stick, 80% fat
+-  Turkey from whole, roasted, cooked, with added solution, meat and skin, light meat
+-  Oil, roasting nuts, oil sprays, principal uses candy coatings, coconut, industrial
+-  Lamb, broiled, cooked, separable lean and fat, loin, frozen, imported, New Zealand
+-  Oil, non-dairy, used for whipped toppings, palm kernel (hydrogenated) , industrial
+-  USDA Commodity, drained, light syrup, canned, mixed fruit (peaches, pears, grapes)
+-  Pork, unheated, separable lean only, boneless, whole, ham and water product, cured
+-  Pork, braised, cooked, separable lean and fat, bone-in, blade (chops), loin, fresh
+-  PREGO Pasta, ready-to-serve, Chunky Garden Mushroom and Green Pepper Italian Sauce
+-  Fast foods, vegetables and ham, large patty; with condiments, cheeseburger; single
+-  Infant formula, ready-to-feed, Toddler, GENTLEASE, ENFAGROW, ENFAMIL, MEAD JOHNSON
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, bone-in, back ribs, rib
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, bone-in, back ribs, rib
+-  Potatoes, oven-heated, frozen, salt added in processing, steak fries, french fried
+-  SUBWAY, lettuce and tomato, steak & cheese sub on white bread with American cheese
+-  Beef, raw, all grades, trimmed to 1/4" fat, separable lean only, clod roast, chuck
+-  Cowpeas (blackeyes), without salt, drained, boiled, cooked, frozen, immature seeds
+-  Infant formula, with ARA and DHA, ready-to-feed, SIMILAC NEOSURE, ABBOTT NUTRITION
+-  Shortening, soybean (hydrogenated) palm and cottonseed, special purpose for baking
+-  Bagels, with calcium propionate (includes onion, poppy, sesame), unenriched, plain
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, flat half, brisket
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, roast, tip round, round
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, flat half, brisket
+-  Turkey, microwaved, frozen, assorted vegetables, mashed potatoes w/gravy, stuffing
+-  Cereals ready-to-eat, USDA Commodity Corn and Rice (includes all commodity brands)
+-  Pork, unheated, separable lean and fat, bone-in, shank, ham -- water added, cured
+-  Pork, braised, cooked, separable lean only, bone-in, sirloin (chops), loin, fresh
+-  Pork, broiled, cooked, separable lean only, bone-in, sirloin (chops), loin, fresh
+-  Cereals ready-to-eat, FROSTED MINI-WHEATS Bite Size Strawberry Delight, KELLOGG'S
+-  Margarine, with added vitamin D, without salt, stick, composite, 80% fat, regular
+-  Fast foods, roast beef on white bread with lettuce and tomato, submarine sandwich
+-  Pork, roasted, cooked, separable lean only, boneless, blade (roasts), loin, fresh
+-  Nuts, PLANTERS pistachio blend, salt added, with peanuts, dry roasted, mixed nuts
+-  PILLSBURY Golden Layer Buttermilk Biscuits, refrigerated dough, Artificial Flavor
+-  Potatoes, oven-heated, frozen, salt added in processing, shoestring, french fried
+-  Beef, slow roasted, cooked, separable lean only, eye round, imported, New Zealand
+-  Beef, braised, cooked, separable lean only, chuck eye roll, imported, New Zealand
+-  Beef, fast roasted, cooked, separable lean only, cube roll, imported, New Zealand
+-  Lamb, braised, cooked, separable lean only, boneless, flap, imported, New Zealand
+-  Squash, without salt, drained, boiled, cooked, crookneck and straightneck, summer
+-  KELLOGG'S, Ice Cream Shoppe Frosted Vanilla Milkshake Toaster Pastries, POP-TARTS
+-  KFC, skin and breading removed, meat only, Drumstick, EXTRA CRISPY, Fried Chicken
+-  Beverages, all with morro seeds, variety of brands, unprepared, dry mix, Horchata
+-  Chickpeas (garbanzo beans, bengal gram), solids and liquids, canned, mature seeds
+-  Turkey, roasted, cooked, with added solution, meat and skin, dark meat from whole
+-  Lamb, raw, separable lean and fat, bone-in, leg chop/steak, imported, New Zealand
+-  Cereals, no salt, prepared with water, QUAKER/MOTHER'S Oat Bran, Oat Bran, QUAKER
+-  Infant formula, with ARA and DHA, powder, PROSOBEE LIPIL, NEXT STEP, MEAD JOHNSON
+-  Apple juice, with added ascorbic acid, undiluted, unsweetened, frozen concentrate
+-  PREGO Pasta, ready-to-serve, Onion and Garlic Italian Sauce, Chunky Garden Tomato
+-  Soymilk, vitamins A and D, with added calcium, light, chocolate and other flavors
+-  Infant formula, with ARA and DHA, powder, with iron, LIPIL, ENFAMIL, MEAD JOHNSON
+-  Snacks, salted, made with partially hydrogenated soybean oil, plain, potato chips
+-  Corn, without salt, drained, boiled, cooked, kernels on cob, frozen, white, sweet
+-  Pork, raw, separable lean and fat, blade (steaks), (Boston butt), shoulder, fresh
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, arm pot roast, chuck
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, arm pot roast, chuck
+-  Pork, pan-fried, cooked, separable lean only, bone-in, blade (chops), loin, fresh
+-  Infant formula, ready-to-feed, DHA and ARA, with iron, GOOD START SUPREME, NESTLE
+-  Chicken, braised, cooked, meat and skin, drumstick, dark meat, broilers or fryers
+-  Seeds, from roasted and toasted kernels (most common type), tahini, sesame butter
+-  Grape juice, with added ascorbic acid and calcium, unsweetened, canned or bottled
+-  Pork, unheated, separable lean and fat, bone-in, slice, ham -- water added, cured
+-  KFC, skin and breading removed, meat only, Breast, ORIGINAL RECIPE, Fried Chicken
+-  Beef, boiled, cooked, heart, variety meats and by-products, imported, New Zealand
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, steak, tenderloin
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, steak, tenderloin
+-  CAMPBELL'S Red and White, condensed, GOLDFISH Pasta with Chicken in Chicken Broth
+-  Beverages, not fortified with vitamin C, less than 3% juice, Fruit flavored drink
+-  Pork, separable lean only, unheated, bone-in, shank, ham and water product, cured
+-  Pork, unheated, separable lean only, bone-in, slice, ham and water product, cured
+-  Infant formula, with ARA and DHA, powder, GO AND GROW, SIMILAC, ABBOTT NUTRITION
+-  KELLOGG'S, Ice Cream Shoppe Frosted Hot Fudge Sundae Toaster Pastries, POP-TARTS
+-  Creamy dressing, reduced calorie, made with sour cream and/or buttermilk and oil
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean only, foreshank, domestic
+-  Lima beans, with salt, drained, boiled, cooked, fordhook, frozen, immature seeds
+-  Lamb, braised, cooked, separable lean and fat, fore-shank, imported, New Zealand
+-  Potatoes, whole milk and margarine, without milk, prepared from granules, mashed
+-  Pork, roasted, cooked, separable lean only, bone-in, blade (roasts), loin, fresh
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, tip round, round
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, tip round, round
+-  Chickpeas (garbanzo beans, bengal gram), with salt, boiled, cooked, mature seeds
+-  Pork, raw, separable lean only, boneless, sirloin (chops or roasts), loin, fresh
+-  English muffins, with calcium propionate (includes sourdough), unenriched, plain
+-  English muffins, without calcium propionate(includes sourdough), enriched, plain
+-  Oil, high oleic (primary safflower oil of commerce), salad or cooking, safflower
+-  Infant formula, with ARA and DHA, powder, For Spit Up, SIMILAC, ABBOTT NUTRITION
+-  Pork, broiled, cooked, separable lean and fat, boneless, petite tender, shoulder
+-  Beef, boiled, tripe cooked, variety meats and by-products, imported, New Zealand
+-  Beef, boiled, cooked, variety meats and by-products liver, imported, New Zealand
+-  Lamb, braised, cooked, separable lean and fat, neck chops, imported, New Zealand
+-  Beverages, powder, lemon-flavored, sweetened with sodium saccharin, instant, tea
+-  Infant formula, not reconstituted, liquid concentrate, store brand, PBM PRODUCTS
+-  Lamb, braised, cooked, separable lean and fat, hind-shank, imported, New Zealand
+-  CAMPBELL'S Homestyle Microwaveable Bowls, HEALTHY REQUEST Mexican Style Tortilla
+-  Lamb, fast fried, cooked, separable lean only, tenderloin, imported, New Zealand
+-  Lamb, raw, separable lean only, square-cut shoulder chops, imported, New Zealand
+-  Beverages, frozen concentrate, with juice and pulp, breakfast type, Orange drink
+-  Yogurt, fortified with vitamin D, 11 grams protein per 8 ounce, low fat, vanilla
+-  Bagels, with calcium propionate (includes onion, poppy, sesame), enriched, plain
+-  Shortening, soy (partially hydrogenated ) for baking and confections, industrial
+-  Infant formula, liquid concentrate, with iron, ISOMIL, SIMILAC, ABBOTT NUTRITION
+-  CAMPBELL'S CHUNKY Microwavable Bowls, ready-to-serve, Chicken and Dumplings Soup
+-  Peas, unprepared, drained solids, canned, green (includes baby and lesuer types)
+-  Pork, raw, separable lean and fat, bone-in, blade (chops or roasts), loin, fresh
+-  Bread, and rice flour, rice starch, made with potato extract, white, gluten-free
+-  Beef, fast fried, cooked, separable lean only, tenderloin, imported, New Zealand
+-  Infant formula, with ARA and DHA, ready-to-feed, AR LIPIL, ENFAMIL, MEAD JOHNSON
+-  Pork, unheated, separable lean and fat, bone-in, rump, ham -- water added, cured
+-  KFC, skin and breading removed, meat only, Thigh, ORIGINAL RECIPE, Fried Chicken
+-  School Lunch, cooked, frozen, whole grain, thick crust, pepperoni topping, pizza
+-  Beverages,  without caffeine, other than cola or pepper, low calorie, carbonated
+-  Squash, without salt, solid, drained, canned, crookneck and straightneck, summer
+-  Lamb, raw, separable lean and fat, rack - partly frenched, imported, New Zealand
+-  CAMPBELL'S CHUNKY Soups, Chicken Noodle Soup, HEALTHY REQUEST Microwavable Bowls
+-  Toaster Pastries, frosted (include apples, blueberry, cherry, strawberry), fruit
+-  Pork, unheated, separable lean only, bone-in, rump, ham and water product, cured
+-  Cereals ready-to-eat, USDA Commodity Rice Crisps (includes all commodity brands)
+-  Corn, without salt, drained, boiled, kernels cut off cob, frozen, yellow, sweet
+-  Corn, with salt, drained, boiled, cooked, kernels on cob, frozen, yellow, sweet
+-  Cowpeas (blackeyes), with salt, drained, boiled, cooked, frozen, immature seeds
+-  Lamb, fast fried, cooked, separable lean only, loin chop, imported, New Zealand
+-  Babyfood, prepared with whole milk, with apple and orange, high protein, cereal
+-  Pork, raw, separable lean only, bone-in, sirloin (chops or roasts), loin, fresh
+-  Formulated bar, SNICKERS MARATHON Chewy Chocolate Peanut Bar, MARS SNACKFOOD US
+-  Fast foods, with condiments and vegetables, regular patty, cheeseburger; double
+-  Cereals ready-to-eat, cinnamon brown sugar crunch, SPECIAL K protein, KELLOGG'S
+-  Cookies, unenriched, higher fat, regular, commercially prepared, chocolate chip
+-  Infant formula, not reconstituted, powder, with iron, SIMILAC, ABBOTT NUTRITION
+-  Frozen novelties, no sugar added, 98% fat free, SLIM-A-BEAR Fudge Bar, KLONDIKE
+-  Frozen novelties, and grape POPSICLE pops, cherry, orange, sugar free, ice type
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, steak, top sirloin
+-  Beverages, with added nutrients, powder, chocolate-flavor beverage mix for milk
+-  Pork, braised, cooked, separable lean only, bone-in, blade (chops), loin, fresh
+-  Pork, broiled, cooked, separable lean only, bone-in, blade (chops), loin, fresh
+-  Beverages,, 3-2-1 Plan, whey powder, high protein, SLIMFAST Shake Mix, UNILEVER
+-  Lamb, raw, separable lean and fat, rack - fully frenched, imported, New Zealand
+-  Fast foods, cold cut on white bread with lettuce and tomato, submarine sandwich
+-  Danish pastry, unenriched (includes apple, cinnamon, raisin, strawberry), fruit
+-  Babyfood, baked whole grain corn snack, LIL CRUNCHIES, GRADUATES, GERBER, Snack
+-  Beef, raw, tripe uncooked, variety meats and by-products, imported, New Zealand
+-  Beef, braised, cooked, separable lean only, oyster blade, imported, New Zealand
+-  Potatoes, unprepared, frozen, salt added in processing, all types, french fried
+-  Beverages, D2, B12, vitamins A, fortified with calcium, sweetened, coconut milk
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, steak, top sirloin
+-  Cereals, prepared with water, with cinnamon and spice, fortified, instant, oats
+-  Macaroni or noodles with cheese, unprepared, made from reduced fat packaged mix
+-  School Lunch, cooked, frozen, whole grain, thin crust, pepperoni topping, pizza
+-  Lamb, broiled, cooked, separable lean only, loin, frozen, imported, New Zealand
+-  Lima beans, without salt, drained, boiled, cooked, baby, frozen, immature seeds
+-  Soup, prepared with water or ready-to-serve, reduced sodium, canned, bean & ham
+-  Baking chocolate, M&M's Semisweet Chocolate Mini Baking Bits, MARS SNACKFOOD US
+-  Fast foods, with condiments and vegetables, regular patty, cheeseburger; single
+-  Shortening frying (heavy duty), linoleic (less than 1%), soybean (hydrogenated)
+-  Infant formula, not reconstituted, powder, with iron, PREGESTIMIL, MEAD JOHNSON
+-  Gelatin desserts, prepared with water, with aspartame, reduced calorie, dry mix
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, flat half, brisket
+-  Syrups, Lite Syrup, Genuine Chocolate Flavored, HERSHEY'S Sugar free, chocolate
+-  Pork, raw, with added solution, separable lean and fat, tenderloin, loin, fresh
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, flat half, brisket
+-  Beef, fast fried, cooked, separable lean only, striploin, imported, New Zealand
+-  Beef, raw, prime, trimmed to 1/8" fat, separable lean and fat, top round, round
+-  Succotash, solids and liquids, with whole kernel corn, canned, (corn and limas)
+-  Potatoes, unprepared, frozen, salt added in processing, roasted, yellow fleshed
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, full cut, round
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, full cut, round
+-  Cake, in-store bakery, commercially prepared with chocolate frosting, chocolate
+-  KFC, skin and breading removed, meat only, Wing, ORIGINAL RECIPE, Fried Chicken
+-  Toaster pastries, toasted (include apple, blueberry, cherry, strawberry), fruit
+-  Pork, unheated, separable lean only, boneless, whole, ham -- water added, cured
+-  Yogurt, fortified with vitamin D, 10 grams protein per 8 ounce, low fat, fruit
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean and fat, loin, domestic
+-  Yogurt, with low-calorie sweetener, nonfat milk, flavors not chocolate, frozen
+-  Oil, typical basis for ice cream coatings, confection fat, coconut, industrial
+-  KASHI Three Cheese Ravioli with Mediterranean Tomato Sauce, unprepared, frozen
+-  CAMPBELL'S CHUNKY Microwavable Bowls, ready-to-serve, New England Clam Chowder
+-  Lamb, raw, choice, trimmed to 1/8" fat, separable lean and fat, loin, domestic
+-  Infant formula, not reconstituted, powder, low iron, SIMILAC, ABBOTT NUTRITION
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, steak, tenderloin
+-  Child formula, with iron and fiber, ready-to-feed, PEDIASURE, ABBOTT NUTRITION
+-  Cereals, salt, prepared with water, QUAKER/MOTHER'S Oat Bran, QUAKER, Oat Bran
+-  Pork, raw, separable lean only, boneless, blade (chops or roasts), loin, fresh
+-  Pork, broiled, cooked, separable lean and fat, boneless, (chops), blade, fresh
+-  Cereals ready-to-eat, KELLOGG's FROSTED MINI-WHEATS Bite Size Blueberry Muffin
+-  Pork, braised, cooked, separable lean and fat, boneless, Leg sirloin tip roast
+-  Chicken, original seasoning, rotisserie, cooked, skin only, broilers or fryers
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, steak, flank
+-  Cheese food, without added vitamin D, imitation, American, pasteurized process
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, top loin, loin
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, top loin, loin
+-  Pork, raw, separable lean only, blade (steaks), (Boston butt), shoulder, fresh
+-  Veal, roasted, cooked, separable lean and fat, whole (arm and blade), shoulder
+-  Veal, braised, cooked, separable lean and fat, whole (arm and blade), shoulder
+-  Rolls, made with tapioca starch and brown rice flour, whole grain, gluten-free
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, steak, tenderloin
+-  Cereals, prepared with water, with raisins and spice, fortified, instant, oats
+-  CAMPBELL'S Homestyle Microwaveable Bowls, HEALTHY REQUEST Italian Wedding Soup
+-  Chicken, braised, cooked, with added solution, meat only, drumstick, dark meat
+-  School Lunch, cooked, frozen, whole grain, thick crust, sausage topping, pizza
+-  KFC, skin and breading removed, meat only, Breast, EXTRA CRISPY, Fried Chicken
+-  Lamb, raw, separable lean only, bone-in, leg chop/steak, imported, New Zealand
+-  KEEBLER, Mini Mints Grasshopper Cookies, FUDGE SHOPPE, 100 Calorie RIGHT BITES
+-  Infant formula, ready-to-feed, with iron, ALIMENTUM, SIMILAC, ABBOTT NUTRITION
+-  Fast foods, and ranch sauce, cheese, with lettuce, grilled chicken in tortilla
+-  MORNINGSTAR FARMS Breakfast Sausage Patties Maple Flavored, unprepared, frozen
+-  Pork, braised, cooked, separable lean and fat, country-style ribs, loin, fresh
+-  Corn, with salt, drained, boiled, cooked, kernels on cob, frozen, white, sweet
+-  Corn, without salt, drained, boiled, kernels cut off cob, frozen, white, sweet
+-  Bread, made with tapioca starch and brown rice flour, whole grain, gluten-free
+-  Beverages, with aspartame, low calorie, dry powdered mix, fruit-flavored drink
+-  Chicken, roasted, cooked, with added solution, meat only, drumstick, dark meat
+-  Squash, with salt, drained, boiled, cooked, crookneck and straightneck, summer
+-  Game meat , broiled, cooked, 1" steak, separable lean only, top sirloin, bison
+-  Cowpeas, canned with pork, mature seeds, common (blackeyes, crowder, southern)
+-  Squash, without salt, drained, boiled, cooked, includes skin, zucchini, summer
+-  Turkey from whole, roasted, cooked, with added solution, meat only, light meat
+-  Chicken, roasted, cooked, with added solution, meat and skin, thigh, dark meat
+-  Pork, unheated, separable lean only, bone-in, slice, ham -- water added, cured
+-  Pork, unheated, separable lean only, bone-in, shank, ham -- water added, cured
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean and fat, rib, domestic
+-  Corn, with salt, drained, boiled, cut off cob, kernels, frozen, yellow, sweet
+-  Lamb, braised, cooked, separable lean only, neck chops, imported, New Zealand
+-  Lamb, braised, cooked, separable lean only, hind-shank, imported, New Zealand
+-  Formulated bar, SNICKERS MARATHON Double Chocolate Nut Bar, MARS SNACKFOOD US
+-  Chicken, roasted, cooked, meat only, drumstick, dark meat, broilers or fryers
+-  Beans, rinsed in tap water, drained solids, canned, mature seeds, red, kidney
+-  Pork, unheated, separable lean only, bone-in, rump, ham -- water added, cured
+-  Lamb, raw, choice, trimmed to 1/8" fat, separable lean and fat, rib, domestic
+-  Pork, raw, separable lean only, bone-in, blade (chops or roasts), loin, fresh
+-  Soup, prepared with equal volume water, low sodium, condensed, vegetable soup
+-  Chickpeas (garbanzo beans, bengal gram), drained solids, canned, mature seeds
+-  Cookies, enriched, higher fat, regular, commercially prepared, chocolate chip
+-  Infant formula, with ARA and DHA, ready-to-feed, LIPIL, ENFAMIL, MEAD JOHNSON
+-  Infant formula, powder not reconstituted, PM 60/40, SIMILAC, ABBOTT NUTRITION
+-  Fast foods, with condiments and vegetables, large patty, cheeseburger; double
+-  Milk, with added vitamin A and vitamin D, whole, commercial, fluid, chocolate
+-  POPEYES, skin and breading removed, meat only, Drumstick, Mild, Fried Chicken
+-  Cereals, without salt, cooked with water, regular (10 minute), CREAM OF WHEAT
+-  Veal, not breaded, pan-fried, cooked, separable lean and fat, leg (top round)
+-  Cake, in-store bakery, with chocolate frosting, commercially prepared, yellow
+-  Beverages, fortified with vitamin C, diet, citrus, ready-to-drink, green, tea
+-  Pineapple juice, diluted with 3 volume water, unsweetened, frozen concentrate
+-  Rolls, and corn starch, rice starch, made with rice flour, white, gluten-free
+-  School Lunch, cooked, frozen, whole grain, thick crust, cheese topping, pizza
+-  School Lunch, cooked, frozen, whole grain, thin crust, sausage topping, pizza
+-  KFC, skin and breading removed, meat only, Thigh, EXTRA CRISPY, Fried Chicken
+-  Water, fruit flavored, with corn syrup and/or sugar and low calorie sweetener
+-  Margarine-like, without salt, stick/tub/bottle, 60% fat, vegetable oil spread
+-  Turkey, roasted, cooked, with added solution, meat only, breast, retail parts
+-  Lamb, braised, cooked, separable lean only, fore-shank, imported, New Zealand
+-  Alcoholic beverage, whiskey and powder mix, prepared with water, whiskey sour
+-  Soup, prepared with equal volume low fat (2%) milk, canned, cream of mushroom
+-  Split pea soup, prepared with water or ready-to serve, reduced sodium, canned
+-  Fast foods, and ranch sauce, cheese, with lettuce, crispy chicken in tortilla
+-  Fast foods, large patty; with condiments and vegetables, cheeseburger; single
+-  Balsam-pear (bitter gourd), without salt, drained, boiled, cooked, leafy tips
+-  Cereals ready-to-eat, Chocolate Squares, FIBER ONE 80 Calories, GENERAL MILLS
+-  MORNINGSTAR FARMS Breakfast Biscuit Sausage, unprepared, frozen, Egg & Cheese
+-  Chicken, braised, cooked, meat and skin, thigh, dark meat, broilers or fryers
+-  Chicken, braised, cooked, meat only, drumstick, dark meat, broilers or fryers
+-  Milk, without added vitamin A and vitamin D (fat free or skim), fluid, nonfat
+-  Yogurt, fortified with vitamin D, 9 grams protein per 8 ounce, low fat, fruit
+-  Veal, braised, cooked, separable lean only, cubed for stew (leg and shoulder)
+-  Lamb, raw, separable lean and fat, square-cut shoulder, imported, New Zealand
+-  Lamb, raw, separable lean only, rack - partly frenched, imported, New Zealand
+-  Chicken, batter, fried, cooked, meat and skin, light meat, broilers or fryers
+-  Lamb, raw, separable lean only, rack - fully frenched, imported, New Zealand
+-  Infant formula, powder, LIPIL, Toddler, Soy, ENFAGROW, ENFAMIL, MEAD JOHNSON
+-  Cereals ready-to-eat, touch of brown sugar, SPECIAL K gluten free, KELLOGG'S
+-  Lima beans, with salt, drained, boiled, cooked, baby, frozen, immature seeds
+-  Fast Food, regular crust, meat and vegetable topping, 14" pizza, Pizza Chain
+-  Margarine, with added vitamin D, with salt, tub, composite, 80% fat, regular
+-  Pork, raw, separable lean and fat, bone-in, center loin (chops), loin, fresh
+-  Beef, raw, choice, trimmed to 1/4" fat, separable lean only, shank crosscuts
+-  Chicken, heated (conventional oven), barbecue flavored, glazed, frozen, wing
+-  Beans, without salt, drained, boiled, cooked, sprouted, mature seeds, kidney
+-  Beverage, not reconstituted, sugar-free, chocolate, instant breakfast powder
+-  Beef, raw, Aust. marble score 4/5, external fat, Wagyu, imported, Australian
+-  Fast foods, regular patty; with condiments and vegetables, hamburger; single
+-  Cranberry juice blend, with added vitamin C and calcium, bottled, 100% juice
+-  Beverages, Hot Cocoa Mix Rich Chocolate With Marshmallows, NESTLE, Cocoa mix
+-  Pineapple juice, without added ascorbic acid, unsweetened, canned or bottled
+-  Margarine-like, with salt, tub, reduced calorie, vegetable oil-butter spread
+-  Orange juice, with added calcium, undiluted, unsweetened, frozen concentrate
+-  School Lunch, cooked, frozen, whole grain, thin crust, cheese topping, pizza
+-  KELLOGG'S, Ice Cream Shoppe Frosted Rainbow Chip Toaster Pastries, POP-TARTS
+-  KFC, skin and breading removed, meat only, Wing, EXTRA CRISPY, Fried Chicken
+-  Snacks, graham and marshmallow, chocolate chip, uncoated, soft, granola bars
+-  Chicken, batter, fried, cooked, meat and skin, drumstick, broilers or fryers
+-  Cereals ready-to-eat, Oat Flakes & Blueberry Clusters, HEART TO HEART, KASHI
+-  Game meat, raw, trimmed to 0" fat, separable lean only, shoulder clod, bison
+-  Formulated bar, all flavors, SNICKERS MARATHON Energy Bar, MARS SNACKFOOD US
+-  CAMPBELL'S CHUNKY Microwavable Bowls, ready-to-serve, Classic Chicken Noodle
+-  Bread, and/or tapioca, corn starch, made with rice flour, white, gluten-free
+-  Toaster Pastries, Frosted brown sugar cinnamon, KELLOGG'S POP TARTS, KELLOGG
+-  Beverages, prepared with water, frozen concentrate, citrus fruit juice drink
+-  Pork, broiled, cooked, separable lean and fat, boneless, leg cap steak, loin
+-  Infant formula, liquid concentrate, with DHA and ARA, GOOD START SOY, NESTLE
+-  Infant formula, with ARA and DHA, powder, NEOSURE, SIMILAC, ABBOTT NUTRITION
+-  Infant formula, ready-to-feed, with iron, ADVANCE, SIMILAC, ABBOTT NUTRITION
+-  Game meat, braised, cooked, separable lean only, shoulder clod, chuck, bison
+-  Beef, braised, cooked, separable lean only, hind shin, imported, New Zealand
+-  Beverages, contains caffeine and sweeteners, cola, reduced sugar, carbonated
+-  Gelatin desserts, sodium-citrate and salt, with added ascorbic acid, dry mix
+-  Lamb, soaked and simmered, cooked, tongue - swiss cut, imported, New Zealand
+-  Chicken, flour, fried, cooked, meat and skin, light meat, broilers or fryers
+-  Chicken, batter, fried, cooked, meat and skin, dark meat, broilers or fryers
+-  Artichokes, without salt, drained, boiled, cooked, frozen, (globe or french)
+-  Beverages, B12, B6, B3, B2, fortified with vitamins C, Monster, Energy Drink
+-  Yogurt, fortified with vitamin D, with low calorie sweetener, lowfat, fruit
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean only, loin, domestic
+-  Veal, braised, cooked, separable lean and fat, boneless, point half, breast
+-  Veal, braised, cooked, separable lean and fat, boneless, plate half, breast
+-  Oil, high oleic (70%), non trans, high stability, Natreon canola, vegetable
+-  Soup, prepared with equal volume low fat (2%) milk, canned, cream of shrimp
+-  Pork, roasted, cooked, separable lean and fat, shank half, leg (ham), fresh
+-  Child formula, not reconstituted, powder, with iron, PORTAGEN, MEAD JOHNSON
+-  Corn, solids and liquids, no salt added, whole kernel, canned, white, sweet
+-  Beans, without salt, drained, boiled, cooked, sprouted, mature seeds, pinto
+-  Infant formula, ready-to-feed, with iron, NUTRAMIGEN, ENFAMIL, MEAD JOHNSON
+-  Infant formula, not reconstituted, powder, NEXT STEP PROSOBEE, MEAD JOHNSON
+-  Fast foods, tuna on white bread with lettuce and tomato, submarine sandwich
+-  Beef, raw, separable lean and fat, brisket navel end, imported, New Zealand
+-  Cereals ready-to-eat, chocolate, KELLOGG'S FROSTED MINI-WHEATS LITTLE BITES
+-  Beverages, prepared with whole milk, powder, Strawberry-flavor beverage mix
+-  Beverages, fortified with vitamin E and C, Lemonade fruit juice drink light
+-  Snacks, sour-cream and onion-flavor, made from dried potatoes, potato chips
+-  Squash, with salt, drained, boiled, cooked, includes skin, zucchini, summer
+-  Candies, milk chocolate peanut butter and soft nougats, FAST BREAK, REESE'S
+-  Chicken, roasted, cooked, with added solution, skin (drumsticks and thighs)
+-  Chicken, braised, cooked, with added solution, skin (drumsticks and thighs)
+-  Cabbage, raw, freshly harvest, common (danish, domestic, and pointed types)
+-  Beverages, prepared with water, frozen concentrate, fruit punch juice drink
+-  Turkey, roasted, with added solution, meat only, from whole bird, drumstick
+-  Chicken, flour, fried, cooked, meat and skin, drumstick, broilers or fryers
+-  Infant formula, ready-to-feed, with iron, ISOMIL, SIMILAC, ABBOTT NUTRITION
+-  Beef, braised, cooked, separable lean and fat, flank, imported, New Zealand
+-  Beans, without salt, drained, boiled, cooked, frozen, immature seeds, pinto
+-  Pork, raw, separable lean and fat, boneless, top loin (roasts), loin, fresh
+-  Pork, braised, cooked, separable lean only, country-style ribs, loin, fresh
+-  Corn, with salt, drained, boiled, kernels cut off cob, frozen, white, sweet
+-  Waxgourd, without salt, drained, boiled, cooked, (chinese preserving melon)
+-  Infant formula, Toddler ready-to-feed, Soy, Enfagrow, ENFAMIL, MEAD JOHNSON
+-  Infant formula, 20 calories ready-to-feed, Premature, ENFAMIL, MEAD JOHNSON
+-  Beef, raw, separable lean and fat, brisket point end, imported, New Zealand
+-  Pork, pan-broil, heated, separable lean and fat, bone-in, slice, ham, cured
+-  Gelatin desserts, no added sodium, with aspartame, reduced calorie, dry mix
+-  Snacks, made with olestra, fat-free, made from dried potatoes, potato chips
+-  Game meat, broiled, cooked, 1" steak, separable lean only, top round, bison
+-  Milk, without added vitamin A and vitamin D, 2% milkfat, fluid, reduced fat
+-  Veal, roasted, cooked, separable lean only, whole (arm and blade), shoulder
+-  Veal, braised, cooked, separable lean only, whole (arm and blade), shoulder
+-  Shortening, soybean (hydrogenated), special purpose for cakes and frostings
+-  Infant formula, ready-to-feed, with iron, GOOD START ESSENTIALS SOY, NESTLE
+-  Cowpeas, plain, canned, mature seeds, common (blackeyes, crowder, southern)
+-  Fast Foods, tomato and spread, with lettuce, grilled chicken filet sandwich
+-  SUPPER BAKES MEAL KITS, Lemon Chicken with herb rice (chicken not included)
+-  Leeks, without salt, drained, boiled, cooked, (bulb and lower leaf-portion)
+-  Beverages, prepared with water, powder, breakfast type, orange-flavor drink
+-  MORNINGSTAR FARMS Grillers Burger Style Recipe Crumbles, unprepared, frozen
+-  Chicken, flour, fried, cooked, meat and skin, dark meat, broilers or fryers
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, steak, flank
+-  Apricots, solids and liquids, without skin, extra heavy syrup pack, canned
+-  Beverages, Energy Drink with carbonated water and high fructose corn syrup
+-  Formulated bar, SNICKERS MARATHON MULTIGRAIN CRUNCH BAR, MARS SNACKFOOD US
+-  Balsam-pear (bitter gourd), with salt, drained, boiled, cooked, leafy tips
+-  Pork, roasted, cooked, separable lean and fat, arm picnic, shoulder, fresh
+-  Pork, braised, cooked, separable lean and fat, arm picnic, shoulder, fresh
+-  Succotash, without salt, drained, boiled, cooked, frozen, (corn and limas)
+-  Beef, raw, Aust. marble score 9, external fat, Wagyu, imported, Australian
+-  Pork, roasted, cooked, separable lean and fat, rump half, leg (ham), fresh
+-  KEEBLER, Mini Fudge Grahams Cookies, FUDGE SHOPPE, 100 Calorie RIGHT BITES
+-  MORNINGSTAR FARMS Grillers Quarter Pound Veggie Burger, unprepared, frozen
+-  MORNINGSTAR FARMS Hot and Spicy Veggie Sausage Patties, unprepared, frozen
+-  Soup, prepared with equal volume water, canned, low sodium, chicken noodle
+-  Milk, with added vitamin A and vitamin D (fat free or skim), fluid, nonfat
+-  Coffeecake, unenriched, commercially prepared, cinnamon with crumb topping
+-  Corn, solids and liquids, regular pack, whole kernel, canned, white, sweet
+-  JIMMY DEAN, unprepared, frozen, and Cheese Breakfast Biscuit, Egg, Sausage
+-  Beef, braised, cooked, separable lean and fat, flat, imported, New Zealand
+-  Baking chocolate, M&M's Milk Chocolate Mini Baking Bits, MARS SNACKFOOD US
+-  Pork, simmered, cooked, chitterlings, variety meats and by-products, fresh
+-  Snacks, Crunchy Almond/Brown Sugar, KELLOGG'S Low Fat Granola Bar, KELLOGG
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, steak, flank
+-  Cereals, with salt, cooked with water, regular (10 minute), CREAM OF WHEAT
+-  Beverages, prepared with whole milk, powder, chocolate-flavor beverage mix
+-  Pasta, cooked, remaining unenriched semolina, 51% whole wheat, whole grain
+-  Snacks, and E, C, with vitamins A, strawberry, SUNKIST Fruit Roll, SUNKIST
+-  Cereals ready-to-eat, little bites, KELLOGG'S FROSTED MINI-WHEATS, KELLOGG
+-  Fast Foods, skin and breading removed, meat only, Drumstick, Fried Chicken
+-  Ice cream cone, flavors other than chocolate, with nuts, chocolate covered
+-  Game meat, broiled, cooked, 1" steak, separable lean only, top round, deer
+-  Pork, raw, separable lean only, boneless, center loin (chops), loin, fresh
+-  Peppers, with salt, drained, boiled, cooked, chopped, frozen, green, sweet
+-  Soymilk, vitamins A and D, with added calcium, light, original and vanilla
+-  Chicken, roasted, cooked, with added solution, meat only, thigh, dark meat
+-  Chicken, braised, cooked, with added solution, meat only, thigh, dark meat
+-  Orange juice, diluted with 3 volume water, unsweetened, frozen concentrate
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, steak, flank
+-  Turkey, roasted, with added solution, meat and skin, from whole bird, back
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean only, rib, domestic
+-  Lima beans, without salt, boiled, cooked, mature seeds, thin seeded (baby)
+-  Turnover, frozen, reduced fat, tomato-based sauce, meat- and cheese-filled
+-  Pork, raw, separable lean and fat, boneless, top loin (chops), loin, fresh
+-  Game meat, raw, trimmed to 0" fat, separable lean only, top sirloin, bison
+-  Formulated bar, Chocolate Blueberry Snack Bar, COCOAVIA, MARS SNACKFOOD US
+-  Snacks, chocolate chip, milk chocolate coating, coated, soft, granola bars
+-  POPEYES, skin and breading removed, meat only, Breast, Mild, Fried Chicken
+-  KEEBLER, Fudge Dipped, Sandies Shortbread Cookies, 100 Calorie RIGHT BITES
+-  Beans, without salt, drained, boiled, cooked, sprouted, mature seeds, navy
+-  Candies, POP'ABLES 3 MUSKETEERS Brand Bite Size Candies, MARS SNACKFOOD US
+-  MORNINGSTAR FARMS Pizza, unprepared, frozen, single serve, Baja Black Bean
+-  Infant formula, not reconstituted, powder, low iron, ENFAMIL, MEAD JOHNSON
+-  Milk, with added vitamin D and without added vitamin A, evaporated, canned
+-  Cookies, chocolate-coated, regular, with creme filling, chocolate sandwich
+-  Infant formula, prepared from powder, with iron, PREGESTIMIL, MEAD JOHNSON
+-  Ice cream, added peanuts and chocolate sauce, cone, no sugar added, lowfat
+-  Fast foods, large patty; with condiments and vegetables, hamburger; double
+-  Fast foods, large patty; with condiments and vegetables, hamburger; single
+-  Fast foods, ham on white bread with lettuce and tomato, submarine sandwich
+-  Pork, simmered, cooked, frozen, ears, variety meats and by-products, fresh
+-  Veal, not breaded, pan-fried, cooked, separable lean only, leg (top round)
+-  Cowpeas (blackeyes), without salt, drained, boiled, cooked, immature seeds
+-  CAMPBELL'S CHUNKY Soups, Grilled Sirloin Steak with Hearty Vegetables Soup
+-  Toaster Pastries, Frosted strawberry, KELLOGG'S LOW FAT POP TARTS, KELLOGG
+-  Sweet Potatoes, salt added in processing, frozen as packaged, french fried
+-  Lamb, raw, separable lean only, square-cut shoulder, imported, New Zealand
+-  Candies, milk chocolate, peanut butter, REESESTICKS crispy wafers, HERSHEY
+-  Margarine-like, with salt, stick/tub/bottle, 60% fat, vegetable oil spread
+-  Corn, solids and liquids, regular pack, brine pack, canned, yellow, sweet
+-  Fish, cheeks and soft bones (Alaska Native), eyes, head, broad, whitefish
+-  Beverages, with vitamin C added, low calorie, cranberry-apple juice drink
+-  Yogurt, sweetened with low calorie sweetener, lowfat milk, vanilla flavor
+-  Beans, with salt, drained, boiled, cooked, sprouted, mature seeds, kidney
+-  Beef, braised, cooked, all grades, separable lean and fat, chuck for stew
+-  Chicken, batter, fried, cooked, meat and skin, breast, broilers or fryers
+-  Pineapple juice, with added ascorbic acid, unsweetened, canned or bottled
+-  Cereals ready-to-eat, Honey Squares, FIBER ONE 80 Calories, GENERAL MILLS
+-  Tofu, prepared with calcium sulfate and magnesium chloride (nigari), firm
+-  Tofu, prepared with calcium sulfate and magnesium chloride (nigari), soft
+-  Fast foods, and tomato on white bread, lettuce, bacon, submarine sandwich
+-  Soup, prepared with equal volume water, canned, vegetable with beef broth
+-  Cereals ready-to-eat, unfrosted bite size, KELLOGG'S MINI-WHEATS, KELLOGG
+-  Crustaceans, raw (may have been previously frozen), mixed species, shrimp
+-  Soup, prepared with equal volume water, canned, new england, clam chowder
+-  Veal, breaded, pan-fried, cooked, separable lean and fat, leg (top round)
+-  Infant formula, ready-to-feed, with iron, GOOD START 2 ESSENTIALS, NESTLE
+-  Beans, without salt, boiled, cooked, mature seeds, california red, kidney
+-  Frozen novelties, with nuts, chocolate or caramel covered, ice cream type
+-  Margarine-like spread, SMART BALANCE Regular Buttery Spread with flax oil
+-  Pork, raw, separable lean only, bone-in, center loin (chops), loin, fresh
+-  Artichokes, with salt, drained, boiled, cooked, frozen, (globe or french)
+-  POPEYES, skin and breading removed, meat only, Thigh, Mild, Fried Chicken
+-  Snacks, peanut butter, milk chocolate coating, coated, soft, granola bars
+-  Shortening, soy (partially hydrogenated ) and corn for frying, industrial
+-  Bread, and eggs, 80% margarine, prepared with 2% milk, dry mix, cornbread
+-  Mung beans, without salt, drained, boiled, cooked, sprouted, mature seeds
+-  Cereals ready-to-eat, 25% Less Sugar CINNAMON TOAST CRUNCH, GENERAL MILLS
+-  PREGO Pasta, ready-to-serve, Chunky Garden Mushroom Supreme Italian Sauce
+-  Shortening cake mix, soybean (hydrogenated) and cottonseed (hydrogenated)
+-  Snacks, unsalted nuts and seeds, with chocolate chips, regular, trail mix
+-  Cereals ready-to-eat, with real strawberries, HONEY BUNCHES OF OATS, POST
+-  Fish, dry heat (may have been previously frozen), cooked, Alaska, pollock
+-  Chicken, braised, cooked, meat only, thigh, dark meat, broilers or fryers
+-  Pork, roasted, heated, separable lean and fat, bone-in, shank, ham, cured
+-  Infant formula, with ARA and DHA, powder, AR LIPIL, ENFAMIL, MEAD JOHNSON
+-  Beef, raw, prime, trimmed to 1/8" fat, separable lean and fat, tenderloin
+-  LITTLE CAESARS 14" Original Round Meat and Vegetable Pizza, Regular Crust
+-  Pork, reduced sodium, pan-fried or roasted, broiled, cooked, bacon, cured
+-  CAMPBELL'S Soup on the GO, HEALTHY REQUEST Chicken with Mini Noodles Soup
+-  CAMPBELL'S Red and White, condensed, Beef with Vegetables and Barley Soup
+-  Cream substitute, with hydrogenated vegetable oil and soy protein, liquid
+-  Nuts, without salt, all flavors except macadamia, wheat-based, formulated
+-  Lamb, braised, cooked, separable lean only, breast, imported, New Zealand
+-  Beverages, fortified, ready to drink, milk and soy based, chocolate drink
+-  Pudding, egg yolk and water, prepared with sugar, regular, dry mix, lemon
+-  Cereals ready-to-eat, Wheat and Honey, Oats, 100% Natural Granola, QUAKER
+-  Waxgourd, with salt, drained, boiled, cooked, (chinese preserving melon)
+-  Turkey, roasted, with added solution, meat only, from whole bird, breast
+-  Fast foods, large patty; with condiments and bacon, cheeseburger; single
+-  Chicken, flour, fried, cooked, meat and skin, breast, broilers or fryers
+-  Pork, roasted, cooked, separable lean only, shank half, leg (ham), fresh
+-  PREGO Pasta, ready-to-serve, Heart Smart- Ricotta Parmesan Italian Sauce
+-  Beverages, prepared with water, cereal grain beverage, coffee substitute
+-  Chicken, batter, fried, cooked, meat and skin, thigh, broilers or fryers
+-  Cereals, no salt, prepared with water, QUAKER MultiGrain Oatmeal, QUAKER
+-  Juice, with added ascorbic acid and calcium, grape and pear blend, apple
+-  Nuts, canned (liquid expressed from grated meat and water), coconut milk
+-  POPEYES, skin and breading removed, meat only, Wing, Mild, Fried Chicken
+-  Pasta, ANCIENT HARVEST, cooked, corn flour and quinoa flour, gluten-free
+-  Beverages, non-carbonated, bottled, water, DASANI, The COCA-COLA company
+-  Beef, raw, Aust. marble score 4/5, seam fat, Wagyu, imported, Australian
+-  Pickles, low sodium (includes bread and butter pickles), sweet, cucumber
+-  Nuts, frozen (liquid expressed from grated meat and water), coconut milk
+-  Beverages, sweetened, milk based, light, vanilla, ready to drink, coffee
+-  SUPPER BAKES MEAL KITS, Cheesy Chicken with pasta (chicken not included)
+-  SUPPER BAKES MEAL KITS, Garlic Chicken with pasta (chicken not included)
+-  Lamb, raw, separable lean and fat, boneless, loin, imported, New Zealand
+-  Beef, raw, separable lean only, brisket navel end, imported, New Zealand
+-  Grape juice, without added ascorbic acid, unsweetened, canned or bottled
+-  CAMPBELL'S Red and White, condensed, DOUBLE NOODLE in Chicken Broth Soup
+-  Shortening, soybean (hydrogenated) and palm (hydrogenated), multipurpose
+-  Beverages, prepared with whole milk, powder, chocolate, Malted drink mix
+-  Lamb, raw, separable lean and fat, boneless, flap, imported, New Zealand
+-  Milk, with added vitamin A and vitamin D, 2% milkfat, fluid, reduced fat
+-  Soymilk (all flavors), vitamins A and D, with added calcium, unsweetened
+-  Turnip greens and turnips, without salt, drained, boiled, cooked, frozen
+-  Cereals ready-to-eat, KELLOGG'S Low Fat Granola without Raisins, KELLOGG
+-  KFC, meat and skin with breading, Drumstick, EXTRA CRISPY, Fried Chicken
+-  KFC, meat and skin with breading, Breast, ORIGINAL RECIPE, Fried Chicken
+-  Chicken, roasted, meat and skin and giblets and neck, broilers or fryers
+-  Pork, pan-broil, heated, separable lean only, bone-in, slice, ham, cured
+-  Cereals, without salt, prepared with water, plain, original, MALT-O-MEAL
+-  Turnover, frozen, reduced fat, and vegetable-filled, chicken- or turkey-
+-  Fish, drained solids with bone, canned in tomato sauce, Pacific, sardine
+-  Margarine-like spread with yogurt, with salt, tub, approximately 40% fat
+-  Apple juice, without added ascorbic acid, unsweetened, canned or bottled
+-  Oil, canola (partially hydrogenated) oil for deep fat frying, industrial
+-  Restaurant, Arroz con habichuelas colorados (Rice And Red Beans), Latino
+-  Beans, with salt, drained, boiled, cooked, sprouted, mature seeds, pinto
+-  Beans, with salt, drained, boiled, cooked, frozen, immature seeds, pinto
+-  Cereals, without salt, cooked with water, whole wheat hot natural cereal
+-  Pork, raw, separable lean only, boneless, top loin (roasts), loin, fresh
+-  Mushrooms, raw, exposed to ultraviolet light, or crimini, italian, brown
+-  Snacks, unenriched, cheese-flavor, puffs or twists, extruded, corn-based
+-  Beef composite, cooked, choice, trimmed to 1/8" fat, separable lean only
+-  Cereals ready-to-eat, NATURE VALLEY LOW FAT FRUIT GRANOLA, GENERAL MILLS
+-  Bread, made with tapioca starch and brown rice flour, white, gluten-free
+-  Potatoes, whole milk and butter, prepared with water, dry mix, scalloped
+-  Potatoes, whole milk and butter, prepared with water, dry mix, au gratin
+-  Pork, broiled, cooked, separable lean and fat, boneless, Shoulder breast
+-  Beef, raw, separable lean and fat, chuck eye roll, imported, New Zealand
+-  Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolatey Strawberry, KELLOGG
+-  Soup, prepared with equal volume water, canned, mushroom with beef stock
+-  Coffeecake, enriched, commercially prepared, cinnamon with crumb topping
+-  Game meat, broiled, cooked, 1" steak, separable lean only, ribeye, bison
+-  Beef, braised, cooked, separable lean only, flank, imported, New Zealand
+-  CAMPBELL'S Homestyle HEALTHY REQUEST Chicken with Whole Grain Pasta Soup
+-  Pork, roasted, heated, separable lean and fat, bone-in, rump, ham, cured
+-  Cereals ready-to-eat, Peanut Butter, Multi Grain CHEERIOS, GENERAL MILLS
+-  Leeks, with salt, drained, boiled, cooked, (bulb and lower leaf-portion)
+-  KEEBLER, Peanut Butter, Magic Middles Fudge Filled Cookies, FUDGE SHOPPE
+-  Beef, raw, separable lean only, brisket point end, imported, New Zealand
+-  Fast foods, with condiments, regular patty and bun, double, cheeseburger
+-  Cereals ready-to-eat, spoon-size, lightly frosted, Shredded Wheat, POST
+-  Apricots, solids and liquids, with skin, extra light syrup pack, canned
+-  Cowpeas (blackeyes), with salt, drained, boiled, cooked, immature seeds
+-  Snacks, fruit flavored with high vitamin C, yogurt-covered, candy rolls
+-  Beans, with salt, drained, boiled, cooked, sprouted, mature seeds, navy
+-  MORNINGSTAR FARMS Breakfast Pattie with Organic Soy, unprepared, frozen
+-  Turkey, raw, with added solution, meat only, from whole bird, drumstick
+-  Pork, braised, cooked, separable lean only, arm picnic, shoulder, fresh
+-  Pork, roasted, cooked, separable lean only, arm picnic, shoulder, fresh
+-  Beans, low sodium, solids and liquid, canned, mature seeds, red, kidney
+-  Cereals, dry, golden brown maple, Instant Oatmeal, KASHI HEART TO HEART
+-  Pork, roasted, cooked, separable lean only, rump half, leg (ham), fresh
+-  Infant formula, ready-to-feed, with DHA and ARA, GOOD START SOY, NESTLE
+-  Fast foods, strawberry banana smoothie made with ice and low-fat yogurt
+-  Cereals ready-to-eat, Low Fat 100% Natural Granola with Raisins, QUAKER
+-  Cornmeal, enriched, with wheat flour added, bolted, self-rising, yellow
+-  Chicken, flour, fried, cooked, meat and skin, thigh, broilers or fryers
+-  Lima beans, with salt, boiled, cooked, mature seeds, thin seeded (baby)
+-  Sauce, ready-to-serve, basil pesto, NAPA VALLEY BISTRO, MEZZETTA, pesto
+-  Grapes, solids and liquids, heavy syrup pack, thompson seedless, canned
+-  Beverages, with added nutrients, ready-to-drink, orange breakfast drink
+-  Tortellini, as purchased, fresh-refrigerated, pasta with cheese filling
+-  Beef, raw, tongue, variety meats and by-products, imported, New Zealand
+-  Pork, broiled, cooked, separable lean only, bone-in, center loin (chops), loin, fresh
+-  Split pea with ham soup, prepared with water or ready-to-serve, reduced sodium, canned
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean only, steak, flank
+-  Infant formula, with ARA and DHA, ready-to-feed, GO AND GROW, SIMILAC, ABBOTT NUTRITION
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, small end (ribs 10-12), rib
+-  Potatoes, water and margarine added, prepared from granules with milk, dehydrated, mashed
+-  Infant formula, with ARA and DHA, powder, with iron, ENFACARE LIPIL, ENFAMIL, MEAD JOHNSON
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, top round roast, round
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean only, arm pot roast, chuck
+-  Beverages, prepared with whole milk, powder, with added nutrients, natural, Malted drink mix
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, porterhouse steak, short loin
+-  Cereals ready-to-eat, and Raisins, Honey, Wheat, QUAKER 100% Natural Granola with Oats, QUAKER
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, ribeye  petite roast/filet
+-  Lamb, fast roasted, cooked, separable lean and fat, rack - fully frenched, imported, New Zealand
+-  Fast foods, roast beef and ham on white bread with lettuce and tomato, turkey, submarine sandwich
+-  Beverages, contains caffeine, with sodium saccharin, cola or pepper-types, low calorie, carbonated
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, bone-in, t-bone steak, short loin
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, composite of trimmed retail cuts
+-  Infant formula, ready- to- feed with ARA and DHA, Diarrhea, Expert Care, SIMILAC, ABBOTT NUTRITION
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, arm pot roast, chuck
+-  School Lunch, frozen, BIG DADDY'S LS 16" 51% Whole Grain Rolled Edge Turkey Pepperoni Pizza, pizza
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, arm, shoulder, fresh, imported, Australian
+-  Beef, broiled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, steak, top sirloin
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, lip off, boneless, rib eye steak
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, boneless, top loin petite roast/filet
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, boneless, top loin petite roast/filet
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean and fat, whole (ribs 6-12), rib
+-  Beef, broiled, cooked, select, trimmed to 1/8" fat, separable lean and fat, whole (ribs 6-12), rib
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, shoulder steak
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, shoulder steak
+-  Beef, braised, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, blade roast, chuck
+-  Beverages, prepared with water, frozen concentrate, with pulp, breakfast type, Orange-flavor drink
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean only, shank half, leg, domestic
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, tenderloin roast, loin
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, inside skirt, boneless, plate steak
+-  Beef, broiled, cooked, select, trimmed to 0" fat, separable lean only, small end (ribs 10-12), rib
+-  Beef, broiled, cooked, choice, trimmed to 0" fat, separable lean only, small end (ribs 10-12), rib
+-  Lamb, broiled, cooked, choice, trimmed to 1/4" fat, separable lean only, blade, shoulder, domestic
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean only, blade, shoulder, domestic
+-  Lamb, braised, cooked, choice, trimmed to 1/4" fat, separable lean only, blade, shoulder, domestic
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, lip off, boneless, top loin steak, loin
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, lip off, boneless, top loin steak, loin
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean only, roast, tip round, round
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean only, bone-in, back ribs, rib
+-  Beef, cooked, all grades, trimmed to 0" fat, separable lean only, composite of trimmed retail cuts
+-  SUBWAY, tomato and sweet onion sauce, sweet onion chicken teriyaki sub on white bread with lettuce
+-  Beef, broiled, cooked, prime, trimmed to 1/8" fat, separable lean and fat, steak, top round, round
+-  Lamb, broiled, cooked, trimmed to 1/8" fat, separable lean only, loin, fresh, imported, Australian
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, outside skirt, boneless, plate steak
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, outside skirt, boneless, plate steak
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, boneless, top sirloin cap steak, loin
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, boneless, top sirloin cap steak, loin
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean only, boneless, short ribs, chuck
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean only, boneless, short ribs, chuck
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, tenderloin steak, loin
+-  Creamy dressing, cholesterol-free, reduced calorie, made with sour cream and/or buttermilk and oil
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, lip-on, bone-in, rib eye steak/roast
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, lip-on, bone-in, rib eye steak/roast
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable fat, composite of trimmed retail cuts, domestic
+-  CAMPBELL'S CHUNKY Microwavable Bowls, ready-to-serve, Sirloin Burger with Country Vegetables Soup
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean only, roast, bottom round, round
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean only, steak, bottom round, round
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean only, steak, bottom round, round
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, composite of trimmed retail cuts
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, shank half, leg, fresh, imported, Australian
+-  Beef, braised, cooked, all grades, trimmed to 1/8" fat, separable lean only, arm pot roast, chuck
+-  Infant formula, with ARA and DHA, ready-to-feed, ADVANCE, NATURAL CARE, SIMILAC, ABBOTT NUTRITION
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, point half, brisket
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, blade, shoulder, fresh, imported, Australian
+-  Beef, broiled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, steak, tenderloin
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, roast, tenderloin
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, inside skirt, boneless, plate steak
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, inside skirt, boneless, plate steak
+-  Cereals, prepared with water (boiling water added or microwaved), plain, fortified, instant, oats
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, porterhouse steak, short loin
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, ribeye filet
+-  Infant formula, not reconstituted, liquid concentrate, with iron, GOOD START 2 ESSENTIALS, NESTLE
+-  Fast foods, and mayonnaise, lettuce, with cheese, bacon and tomato club sandwich, grilled chicken
+-  Fast foods, and mayonnaise, lettuce, with cheese, and tomato club sandwich, bacon, crispy chicken
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean and fat, bone-in, back ribs, rib
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean and fat, bone-in, back ribs, rib
+-  Beef, roasted, cooked, prime, trimmed to 1/8" fat, separable lean and fat, whole (ribs 6-12), rib
+-  Beef, broiled, cooked, prime, trimmed to 1/8" fat, separable lean and fat, whole (ribs 6-12), rib
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, eye of round steak, round
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, eye of round roast, round
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, boneless, eye of round roast, round
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, mock tender steak, chuck
+-  Fast foods, regular patty; double decker bun with condiments and special sauce, hamburger; single
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean and fat, roast, tip round, round
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean and fat, roast, tip round, round
+-  Pork, raw, separable lean only, composite of trimmed retail cuts (loin and shoulder blade), fresh
+-  Duck, roasted, cooked, boneless, meat and skin, breast, White Pekin, domesticated, young duckling
+-  Beef, cooked, select, trimmed to 0" fat, separable lean and fat, composite of trimmed retail cuts
+-  Beef, cooked, choice, trimmed to 0" fat, separable lean and fat, composite of trimmed retail cuts
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, boneless, ribeye cap steak
+-  Lamb, fast roasted, cooked, separable lean and fat, rack - partly frenched, imported, New Zealand
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, boneless, ribeye cap steak
+-  CAMPBELL'S CHUNKY Soups, Grilled Chicken & Sausage Gumbo Soup, HEALTHY REQUEST Microwavable Bowls
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean only, boneless, top loin filet
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean only, boneless, top loin filet
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, shoulder top blade steak
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, chuck eye Country-Style ribs
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, chuck eye Country-Style ribs
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, steak, tip side, knuckle, round
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean only, large end (ribs 6-9), rib
+-  Lamb, broiled, cooked, choice, trimmed to 1/4" fat, separable lean only, arm, shoulder, domestic
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean only, bottom round roast, round
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, boneless, shoulder top blade steak
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean and fat, steak, top sirloin
+-  Lamb, raw, separable lean and fat, shank off, chump off, tunnel-boned leg, imported, New Zealand
+-  MORNINGSTAR FARMS Breakfast Sandwich Veggie Scramble & Cheese English Muffin, unprepared, frozen
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, blade roast, chuck
+-  Pork, pan-broil, heated, separable lean and fat, boneless, slice, ham with natural juices, cured
+-  Beverages, contains caffeine, with aspartame, other than cola or pepper, low calorie, carbonated
+-  Beef, pan-fried, cooked, choice, trimmed to 1/8" fat, separable lean and fat, steak, top sirloin
+-  Lamb, braised, cooked, choice, trimmed to 1/4" fat, separable lean only, arm, shoulder, domestic
+-  Lamb, fast fried, cooked, separable lean and fat, bone-in, leg chop/steak, imported, New Zealand
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, shoulder pot roast or steak
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, shoulder pot roast or steak
+-  Beef, broiled, cooked, choice, trimmed to 1/8" fat, separable lean only, steak, top round, round
+-  Beef, braised, cooked, choice, trimmed to 1/8" fat, separable lean and fat, arm pot roast, chuck
+-  Beef, braised, cooked, select, trimmed to 1/8" fat, separable lean and fat, arm pot roast, chuck
+-  Beef, raw, choice, trimmed to 0" fat, boneless separable lean and fat, eye of round steak, round
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean only, large end (ribs 6-9), rib
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean only, arm, shoulder, domestic
+-  Beef, broiled, cooked, select, trimmed to 1/8" fat, separable lean only, steak, top round, round
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, composite of trimmed retail cuts
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, composite of trimmed retail cuts
+-  Beef, braised, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, top round, round
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, boneless, mock tender steak, chuck
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, mock tender steak, chuck
+-  Beef, cooked, select, trimmed to 1/8" fat, separable lean only, composite of trimmed retail cuts
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, flat half, brisket
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, shoulder top blade steak
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, boneless, chuck eye steak
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, boneless, chuck eye steak
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, foreshank, frozen, imported, New Zealand
+-  Danish pastry, enriched (includes apple, cinnamon, raisin, lemon, raspberry, strawberry), fruit
+-  Lamb, braised, cooked, choice, trimmed to 1/4" fat, separable lean and fat, foreshank, domestic
+-  Lamb, raw, separable lean only, composite of trimmed retail cuts, frozen, imported, New Zealand
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, tenderloin roast, loin
+-  Milk, with added nonfat milk solids and vitamin A and vitamin D, 2% milkfat, fluid, reduced fat
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, composite of trimmed retail cuts
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, tri-tip roast, bottom sirloin
+-  Fast foods, lettuce and tomato, steak and cheese on white bread with cheese, submarine sandwich
+-  Pork, raw, with added solution, separable lean and fat, boneless, top loin (chops), loin, fresh
+-  Potatoes, oven heated, home-prepared, frozen, salt added in processing, all types, french fried
+-  Infant formula, not reconstituted, powder, ADVANCE with iron, ISOMIL, SIMILAC, ABBOTT NUTRITION
+-  Lamb, braised, cooked, separable lean and fat, square-cut shoulder chops, imported, New Zealand
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, arm, shoulder, fresh, imported, Australian
+-  Pork, pan-broil, heated, separable lean and fat, bone-in, slice, ham with natural juices, cured
+-  Beef, broiled, cooked, prime, trimmed to 1/8" fat, separable lean and fat, top loin, short loin
+-  Beef, broiled, cooked, all grades, trimmed to 1/8" fat, separable lean only, steak, top sirloin
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, lip off, boneless, rib eye steak
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, outside skirt, boneless, plate steak
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, outside skirt, boneless, plate steak
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, top round roast, round
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, steak, tip center, knuckle, round
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, steak, tip center, knuckle, round
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean and fat, clod roast, chuck
+-  Margarine, sauces and candy, use for baking, soy and partially hydrogenated soy oil, industrial
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, tenderloin steak, loin
+-  Beef, braised, cooked, all grades, trimmed to 1/8" fat, separable lean only, flat half, brisket
+-  Potatoes, whole milk and margarine added, prepared from flakes without milk, dehydrated, mashed
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, boneless, shoulder steak
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, boneless, shoulder steak
+-  Beef, broiled, cooked, choice, trimmed to 0" fat, separable lean only, mock tender steak, chuck
+-  Beef, broiled, cooked, select, trimmed to 0" fat, separable lean only, mock tender steak, chuck
+-  Beef, broiled, cooked, select, trimmed to 0" fat, separable lean only, t-bone steak, short loin
+-  Beef, broiled, cooked, choice, trimmed to 0" fat, separable lean only, t-bone steak, short loin
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, steak, top loin, short loin
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, top round steak, round
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, ribeye  petite roast/filet
+-  Beef, braised, cooked, select, trimmed to 1/8" fat, separable lean and fat, blade roast, chuck
+-  Beef, braised, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, whole, brisket
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, boneless, top round roast, round
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, top round roast, round
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, boneless, top round steak, round
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, top round steak, round
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean and fat, top blade, chuck
+-  Beef, braised, cooked, choice, trimmed to 1/8" fat, separable lean and fat, flat half, brisket
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, eye of round steak, round
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, eye of round steak, round
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, eye of round roast, round
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, eye of round roast, round
+-  Milk, with added vitamin A and vitamin D (fat free and skim), protein fortified, fluid, nonfat
+-  Milk, vitamin A and vitamin D (fat free or skim), with added nonfat milk solids, fluid, nonfat
+-  Potatoes, as purchased, frozen, salt added in processing, crinkle or regular cut, french fried
+-  Beef, broiled, cooked, all grades, trimmed to 1/8" fat, separable lean only, steak, tenderloin
+-  Beef, cooked, all grades, trimmed to 1/8" fat, separable lean only, roast, bottom round, round
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean only, point half, brisket
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean and fat, arm pot roast, chuck
+-  Lamb, slow roasted, cooked, separable lean and fat, square-cut shoulder, imported, New Zealand
+-  Pork, pan-broil, heated, separable lean and fat, boneless, slice, ham and water product, cured
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, top loin, loin
+-  Infant formula, with ARA and DHA, ready-to-feed, ADVANCE, ALIMENTUM, SIMILAC, ABBOTT NUTRITION
+-  Pork, unheated, separable lean and fat, boneless, spiral slice, ham with natural juices, cured
+-  Beef, broiled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, steak, top sirloin
+-  Beef, broiled, cooked, select, trimmed to 1/8" fat, separable lean and fat, steak, top sirloin
+-  Beverages, prepared with whole milk, powder, with added nutrients, chocolate, Malted drink mix
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, lip off, boneless, rib eye steak
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, lip off, boneless, rib eye steak
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, roast, eye of round, round
+-  Orange juice, with added calcium, diluted with 3 volume water, unsweetened, frozen concentrate
+-  Beef, braised, cooked, choice, trimmed to 1/8" fat, separable lean and fat, blade roast, chuck
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, tenderloin roast, loin
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, boneless, tenderloin roast, loin
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, inside skirt, boneless, plate steak
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, inside skirt, boneless, plate steak
+-  Formulated bar, Caramel Nut Rush, SNICKERS MARATHON Protein Performance Bar, MARS SNACKFOOD US
+-  Oil, principal uses popcorn and flavoring vegetables, soy (partially hydrogenated), industrial
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean only, roast, tip round, round
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean only, roast, tip round, round
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, top round, round
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, bone-in, t-bone steak, short loin
+-  Beef, pan-fried, cooked, choice, trimmed to 1/8" fat, separable lean and fat, top round, round
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, porterhouse steak, short loin
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, composite of trimmed retail cuts
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, composite of trimmed retail cuts
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, foreshank, fresh, imported, Australian
+-  Potatoes, whole milk and butter added, prepared from granules without milk, dehydrated, mashed
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean only, bone-in, back ribs, rib
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean only, bone-in, back ribs, rib
+-  Beef, cooked, select, trimmed to 0" fat, separable lean only, composite of trimmed retail cuts
+-  Beef, cooked, choice, trimmed to 0" fat, separable lean only, composite of trimmed retail cuts
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, bone-in, t-bone steak, short loin
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, flat half, brisket
+-  Beef, braised, cooked, all grades, trimmed to 1/4" fat, separable lean only, clod steak, chuck
+-  Beef, roasted, cooked, all grades, trimmed to 1/4" fat, separable lean only, clod roast, chuck
+-  Infant formula, with ARA and DHA, powder, (LACTOSE FREE), SENSITIVE, SIMILAC, ABBOTT NUTRITION
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat , steak, tip side, knuckle, round
+-  Pork, roasted, heated, separable lean and fat, boneless, whole, ham with natural juices, cured
+-  Lamb, fast roasted, cooked, separable lean only, rack - partly frenched, imported, New Zealand
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, boneless, tenderloin steak, loin
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, small end (ribs 10-12), eye, rib
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, steak, bottom round, round
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, tenderloin steak, loin
+-  Beef, braised, cooked, select, trimmed to 1/8" fat, separable lean and fat, flat half, brisket
+-  Lamb, fast roasted, cooked, separable lean only, rack - fully frenched, imported, New Zealand
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean only, blade roast, chuck
+-  Beverages,,Gerolsteiner naturally sparkling mineral water, GEROLSTEINER BRUNNEN GmbH & Co. KG
+-  Infant formula, with ARA and DHA, liquid concentrate, with iron, LIPIL, ENFAMIL, MEAD JOHNSON
+-  Beverages, assorted fruit flavors, sweetened, bottles, Water with added vitamins and minerals
+-  Infant Formula, not reconstituted, Liquid concentrate, Infant, Premium, ENFAMIL, MEAD JOHNSON
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean only, steak, top sirloin
+-  Chicken, original seasoning, rotisserie, cooked, meat and skin, drumstick, broilers or fryers
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean only, flat half, brisket
+-  Pork, roasted, heated, separable lean and fat, bone-in, shank, ham with natural juices, cured
+-  Pork, pan-broil, heated, separable lean and fat, bone-in, slice, ham and water product, cured
+-  Cereals, dry, quick (1-3 minutes), assorted brands including CREAM OF WHEAT, enriched, farina
+-  Lamb, fast fried, cooked, separable lean only, bone-in, leg chop/steak, imported, New Zealand
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, shoulder top blade steak
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, shoulder top blade steak
+-  Lamb, raw, separable lean only, shank off, chump off, tunnel-boned leg, imported, New Zealand
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, boneless, ribeye filet
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, mock tender steak, chuck
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, mock tender steak, chuck
+-  Pork, raw, separable lean only, composite of trimmed retail cuts (leg, loin, shoulder), fresh
+-  USDA Commodity, solids and liquids, light syrup, canned, mixed fruit (peaches, pears, grapes)
+-  Duck, roasted, cooked, bone in, meat and skin, leg, White Pekin, domesticated, young duckling
+-  Chickpeas (garbanzo beans, bengal gram), low sodium, solids and liquids, canned, mature seeds
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, composite of trimmed retail cuts
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, composite of trimmed retail cuts
+-  Potatoes, oven-heated, frozen, salt added in processing, crinkle or regular cut, french fried
+-  Pork, braised, cooked, separable lean and fat, blade (steaks), (Boston butt), shoulder, fresh
+-  Beef, braised, cooked, choice, trimmed to 1/8" fat, separable lean only, arm pot roast, chuck
+-  Beef, braised, cooked, select, trimmed to 1/8" fat, separable lean only, arm pot roast, chuck
+-  Toddler formula, powder, PREMIUM (formerly ENFAMIL, LIPIL, NEXT STEP), ENFAGROW, MEAD JOHNSON
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, porterhouse steak, short loin
+-  Apple juice, and potassium, calcium, with added ascorbic acid, unsweetened, canned or bottled
+-  Beef, broiled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, steak, tenderloin
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, roast, tenderloin
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean and fat, roast, tenderloin
+-  Beef, broiled, cooked, select, trimmed to 1/8" fat, separable lean and fat, steak, tenderloin
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, steak, tip side, knuckle, round
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, boneless, ribeye filet
+-  Pork, pan-broiled, cooked, separable lean and fat, boneless, center loin (chops), loin, fresh
+-  Pork, pan-broil, heated, separable lean only, boneless, slice, ham with natural juices, cured
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, short ribs, chuck
+-  Lamb, cooked, separable fat, composite of trimmed retail cuts, frozen, imported, New Zealand
+-  Infant formula, with ARA and DHA, liquid concentrate, low iron, LIPIL, ENFAMIL, MEAD JOHNSON
+-  Beef, broiled, cooked, select, trimmed to 0" fat, separable lean and fat, steak, top sirloin
+-  Beef, broiled, cooked, choice, trimmed to 0" fat, separable lean and fat, steak, top sirloin
+-  Beverages, fortified with vitamin D2 and E, shelf-stable, unsweetened, chocolate almond milk
+-  Potatoes, whole milk and butter added, prepared from flakes without milk, dehydrated, mashed
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean and fat, flat half, brisket
+-  Pork, raw, with added solution, separable lean only, boneless, top loin (chops), loin, fresh
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean and fat, flat half, brisket
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, t-bone steak, short loin
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, tri-tip roast, bottom sirloin
+-  Lamb, braised, cooked, separable lean only, square-cut shoulder chops, imported, New Zealand
+-  Lamb, braised, cooked, choice, trimmed to 1/4" fat, separable lean only, foreshank, domestic
+-  Oil, woks and light frying, principal uses salads, canola with antifoaming agent, industrial
+-  Pork, pan-broil, heated, separable lean only, bone-in, slice, ham with natural juices, cured
+-  Cereals, without salt, microwaved, cooked with water, 2 1/2 minute cook time, CREAM OF WHEAT
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, small end (ribs 10-12), rib
+-  Beef, braised, cooked, select, trimmed to 1/8" fat, separable lean and fat, top round, round
+-  Beef, braised, cooked, choice, trimmed to 1/8" fat, separable lean and fat, top round, round
+-  Beverages, with whitener and low calorie sweetener, decaffeinated, instant, coffee and cocoa
+-  Chicken, raw, with added solution, meat only, boneless, skinless, breast, broilers or fryers
+-  Infant formula, not reconstituted, liquid concentrate, with iron, GOOD START SUPREME, NESTLE
+-  Frozen novelties, chocolate coated, no sugar added, light, vanilla ice cream, ice cream type
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, whole, brisket
+-  Milk, without added vitamin A, with added nonfat milk solids, 2% milkfat, fluid, reduced fat
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean only, clod roast, chuck
+-  Beef, broiled, cooked, prime, trimmed to 1/8" fat, separable lean and fat, steak, tenderloin
+-  Beef, roasted, cooked, prime, trimmed to 1/8" fat, separable lean and fat, roast, tenderloin
+-  Potatoes, unprepared, frozen, salt added in processing, shredded, hash brown, yellow fleshed
+-  Pork, roasted, heated, separable lean and fat, boneless, whole, ham and water product, cured
+-  Pork, roasted, heated, separable lean and fat, bone-in, rump, ham with natural juices, cured
+-  Pork, roasted, heated, separable lean and fat, bone-in, shank, ham and water product, cured
+-  Lamb, slow roasted, cooked, separable lean only, square-cut shoulder, imported, New Zealand
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean and fat, clod roast, chuck
+-  Water, sweetened with low calorie sweetener, natural fruit flavors, bottles, non-carbonated
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, lip off, boneless, rib eye steak
+-  Soup, single brand, ready-to-serve, reduced sodium, reduced fat, chunky, split pea with ham
+-  Lamb, raw, choice, trimmed to 1/8" fat, separable lean and fat, sirloin half, leg, domestic
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, tenderloin roast, loin
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, tenderloin roast, loin
+-  Milk, with added vitamin A and vitamin D, protein fortified, 2% milkfat, fluid, reduced fat
+-  Chickpeas (garbanzo beans, bengal gram), rinsed in tap water, drained, canned, mature seeds
+-  Cereals ready-to-eat, Raspberry, KELLOGG'S FROSTED MINI-WHEATS Touch of Fruit in the Middle
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, top loin steak, short loin
+-  Beef, broiled, cooked, choice, trimmed to 1/8" fat, separable lean only, steak, top sirloin
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, tri-tip roast, bottom sirloin
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, tri-tip roast, bottom sirloin
+-  Shortening, soybean (partially hydrogenated)-cottonseed (partially hydrogenated), household
+-  Potatoes, without salt, heated in oven, prepared, extruded, par fried, french fried, frozen
+-  Lamb, raw, separable lean and fat, boneless, rolled, netted shoulder, imported, New Zealand
+-  School Lunch, frozen, TONY'S SMARTPIZZA Whole Grain 4x6 Pepperoni Pizza 50/50 Cheese, pizza
+-  Potatoes, with salt, heated in oven, prepared, cottage-cut, par fried, french fried, frozen
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, lip off, boneless, rib eye steak
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Pork, unheated, separable lean only, boneless, spiral slice, ham with natural juices, cured
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean and fat, clod roast, chuck
+-  Lamb, broiled, cooked, trimmed to 1/8" fat, separable lean and fat, arm, shoulder, domestic
+-  Lamb, roasted, choice, trimmed to 1/8" fat, separable lean and fat, arm, shoulder, domestic
+-  Beverages, powder, with low-calorie sweeteners, reduced calorie, chocolate, Dairy drink mix
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean and fat, sirloin half, leg, domestic
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, loin, frozen, imported, New Zealand
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, chuck eye steak
+-  Pork, pan-broil, heated, separable lean only, boneless, slice, ham and water product, cured
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, tenderloin steak, loin
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, tenderloin steak, loin
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, roast, eye of round, round
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, roast, bottom round, round
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, steak, top round, round
+-  Beef, pan-fried, cooked, choice, trimmed to 1/8" fat, separable lean only, top round, round
+-  Cereals, without salt, stove-top, cooked with water, 2 1/2 minute cook time, CREAM OF WHEAT
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, composite of trimmed retail cuts
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, composite of trimmed retail cuts
+-  Crackers, made with corn starch and white rice flour, multigrain and vegetable, gluten-free
+-  Infant formula, with ARA and DHA, powder, with iron, LACTOFREE LIPIL, ENFAMIL, MEAD JOHNSON
+-  Infant formula, not reconstituted, liquid concentrate, with iron, SIMILAC, ABBOTT NUTRITION
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, foreshank, fresh, imported, Australian
+-  Beef, braised, cooked, choice, trimmed to 1/8" fat, separable lean only, flat half, brisket
+-  Beverages, fortified with vitamin C, unsweetened, lemon, decaffeinated, instant, green, tea
+-  Beef, broiled, cooked, select, trimmed to 1/8" fat, separable lean only, steak, top sirloin
+-  Pork, roasted, cooked, with added solution, separable lean and fat, tenderloin, loin, fresh
+-  Beef, braised, cooked, select, trimmed to 1/8" fat, separable lean only, flat half, brisket
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean only, arm pot roast, chuck
+-  Fast foods, oven roasted chicken on white bread with lettuce and tomato, submarine sandwich
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean only, top blade, chuck
+-  Pork, pan-broil, heated, separable lean and fat, boneless, slice, ham -- water added, cured
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, top round roast, round
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, top round steak, round
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, top round steak, round
+-  Ravioli, includes regular and light entrees, not prepared, frozen, cheese with tomato sauce
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, small end (ribs 10-12), eye, rib
+-  Beef, broiled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, full cut, round
+-  Beef, broiled, cooked, select, trimmed to 1/8" fat, separable lean and fat, full cut, round
+-  Beverages, high vitamin C and added thiamin, greater than 3% fruit juice, fruit juice drink
+-  Pork, roasted, heated, separable lean only, boneless, whole, ham with natural juices, cured
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, whole (ribs 6-12), rib
+-  Beverages, contains caffeine, with aspartame, cola or pepper-type, low calorie, carbonated
+-  Pork, roasted, heated, separable lean and fat, bone-in, rump, ham and water product, cured
+-  Lamb, broiled, cooked, choice, trimmed to 1/4" fat, separable lean and fat, loin, domestic
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean and fat, loin, domestic
+-  Beef, broiled, cooked, select, trimmed to 0" fat, separable lean and fat, top blade, chuck
+-  Beef, broiled, cooked, choice, trimmed to 0" fat, separable lean and fat, top blade, chuck
+-  Beef, raw, all grades, trimmed to 0" fat, boneless separable lean only, flat half, brisket
+-  Pork, pan-broil, heated, separable lean only, bone-in, slice, ham and water product, cured
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean and fat, top round, round
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean and fat, top round, round
+-  Lamb, broiled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, loin, domestic
+-  Lamb, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, loin, domestic
+-  Beef, broiled, cooked, select, trimmed to 1/8" fat, separable lean only, steak, tenderloin
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, roast, eye of round, round
+-  Pork, pan-fried, cooked, separable lean and fat, bone-in, center loin (chops), loin, fresh
+-  Pork, broiled, cooked, boneless, separable lean only, boneless, blade (chops), loin, fresh
+-  Beef, broiled, cooked, choice, trimmed to 1/8" fat, separable lean only, steak, tenderloin
+-  Chicken, original seasoning, rotisserie, cooked, meat and skin, breast, broilers or fryers
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, boneless, flat half, brisket
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean and fat, top loin, loin
+-  Beef, raw, prime, trimmed to 1/8" fat, separable lean and fat, steak, top loin, short loin
+-  Pork, braised, cooked, separable lean only, blade (steaks), (Boston butt), shoulder, fresh
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, steak, bottom round, round
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, steak, bottom round, round
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, roast, eye of round, round
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, short ribs, chuck
+-  Pork, pan-fried, cooked, separable lean and fat, boneless, center rib (chops), loin, fresh
+-  Beef, raw, prime, trimmed to 1/8" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, rib, frozen, imported, new zealand
+-  Soup, single brand, ready-to-serve, reduced sodium, reduced fat, chunky, chicken vegetable
+-  Pork, roasted, heated, separable lean only, bone-in, shank, ham with natural juices, cured
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, porterhouse steak, short loin
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, porterhouse steak, short loin
+-  Pork, pan-broiled, cooked, separable lean only, boneless, center loin (chops), loin, fresh
+-  Infant formula, not reconstituted, liquid concentrate, low iron, SIMILAC, ABBOTT NUTRITION
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean and fat, steak, flank
+-  Cranberry juice cocktail, saccharin and corn sweetener, with calcium, low calorie, bottled
+-  Pineapple juice, C and E, with added vitamins A, unsweetened, not from concentrate, canned
+-  Pork, pan-broil, heated, separable lean and fat, bone-in, slice, ham -- water added, cured
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, flat half, brisket
+-  Creamy dressing, fat-free, reduced calorie, made with sour cream and/or buttermilk and oil
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, small end (ribs 10-12), rib eye
+-  Cowpeas, without salt, boiled, cooked, mature seeds, common (blackeyes, crowder, southern)
+-  Lamb, raw, separable fat, composite of trimmed retail cuts, frozen, imported, New Zealand
+-  Lamb, raw, choice, trimmed to 1/8" fat, separable lean and fat, shank half, leg, domestic
+-  Fast foods, vegetables and mayonnaise, large patty; with condiments, cheeseburger; single
+-  Pork, roasted, cooked, separable lean and fat, bone-in, center loin (roasts), loin, fresh
+-  Beef, simmered, cooked, choice, trimmed to 1/4" fat, separable lean only, shank crosscuts
+-  Beef, broiled, cooked, choice, trimmed to 0" fat, separable lean only, steak, top sirloin
+-  Beef, broiled, cooked, select, trimmed to 0" fat, separable lean only, steak, top sirloin
+-  Chicken, original seasoning, rotisserie, cooked, meat only, drumstick, broilers or fryers
+-  Cereals, without salt, cooked with water, enriched, regular and quick, yellow, corn grits
+-  Orange juice, E, D, with added calcium and vitamins A, includes from concentrate, chilled
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, bone-in, back ribs, rib
+-  Lamb, fast roasted, cooked, separable lean and fat, boneless, loin, imported, New Zealand
+-  Pork, roasted, cooked, separable lean and fat, boneless, center rib (roasts), loin, fresh
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean and fat, rib, domestic
+-  Lamb, broiled, cooked, choice, trimmed to 1/4" fat, separable lean and fat, rib, domestic
+-  Lamb, broiled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, rib, domestic
+-  Lamb, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, rib, domestic
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean and fat, shank half, leg, domestic
+-  Snacks, made with partially hydrogenated oil, regular (butter) flavor, microwave, popcorn
+-  Bagels, toasted, with calcium propionate (includes onion, poppy, sesame), enriched, plain
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean and fat, blade, shoulder, domestic
+-  Pork, roasted, heated, separable lean only, bone-in, rump, ham with natural juices, cured
+-  Pork, roasted, heated, separable lean only, boneless, whole, ham and water product, cured
+-  Infant formula, with ARA and DHA, ready to feed, LIPIL, PROSOBEE, NEXT STEP, MEAD JOHNSON
+-  Fast Foods, vegetables and mayonnaise, large patty; with condiments, cheeseburger; double
+-  Chicken, original seasoning, rotisserie, cooked, meat and skin, thigh, broilers or fryers
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean only, whole, brisket
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, ribeye cap steak
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, roast, tip round, round
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean only, flat half, brisket
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean only, flat half, brisket
+-  Pork, roasted, heated, separable lean and fat, boneless, whole, ham -- water added, cured
+-  Beverages, without caffeine, with aspartame, cola or pepper-type, low calorie, carbonated
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, loin, fresh, imported, Australian
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, short ribs, chuck
+-  Squash, without salt, drained, boiled, cooked, frozen, crookneck and straightneck, summer
+-  Pork, pan-fried, cooked, separable lean and fat, bone-in, center rib (chops), loin, fresh
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, boneless, short ribs, chuck
+-  Lamb, raw, choice, trimmed to 1/8" fat, separable lean and fat, blade, shoulder, domestic
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean only, sirloin half, leg, domestic
+-  Lamb, raw, separable lean only, boneless, rolled, netted shoulder, imported, New Zealand
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, arm pot roast, chuck
+-  Fast foods, patty and bun; with condiments and vegetables, regular, cheeseburger; double
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, small end (ribs 10-12), rib
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, steak, top loin, short loin
+-  Pork, braised, cooked, separable lean and fat, bone-in, center loin (chops), loin, fresh
+-  Pork, broiled, cooked, separable lean and fat, bone-in, center loin (chops), loin, fresh
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, tri-tip roast, bottom sirloin
+-  Cereals, without salt, cooked with water, enriched, regular and quick, white, corn grits
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, steak, top round, round
+-  Chicken, original seasoning, rotisserie, cooked, meat and skin, back, broilers or fryers
+-  Pork, roasted, cooked, with added solution, separable lean only, tenderloin, loin, fresh
+-  Infant formula, not reconstituted, powder, with iron, ADVANCE, SIMILAC, ABBOTT NUTRITION
+-  Infant formula, liquid concentrate, ADVANCE with iron, ISOMIL, SIMILAC, ABBOTT NUTRITION
+-  School Lunch, frozen, TONY'S SMARTPIZZA Whole Grain 4x6 Cheese Pizza 50/50 Cheese, pizza
+-  School Lunch, frozen, BIG DADDY'S LS 16" 51% Whole Grain Rolled Edge Cheese Pizza, pizza
+-  Macaroni and cheese, prepared with 2% milk and 80% stick margarine from dry mix, dry mix
+-  Rolls, and sorghum flour, tapioca starch, made with brown rice flour, white, gluten-free
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean only, clod roast, chuck
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, t-bone steak, short loin
+-  Margarine-like, with salt, approximately 37% fat, unspecified oils, vegetable oil spread
+-  Pork, braised, cooked, separable lean and fat, boneless, center rib (chops), loin, fresh
+-  Pork, broiled, cooked, separable lean and fat, boneless, center rib (chops), loin, fresh
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, steak, top loin, short loin
+-  Pork, roasted, cooked, separable lean and fat, bone-in, center rib (roasts), loin, fresh
+-  Cereals ready-to-eat, raisin, KELLOGG's FROSTED MINI-WHEATS Touch of Fruit in the Middle
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, chuck eye steak
+-  Oil, principal uses icings and fillings, palm, soy (partially hydrogenated ), industrial
+-  Pork, pan-broil, heated, separable lean only, boneless, slice, ham -- water added, cured
+-  Cereals, without salt, microwaved, cooked with water, 1 minute cook time, CREAM OF WHEAT
+-  Pork, broiled, cooked, boneless, separable lean and fat, country-style ribs, loin, fresh
+-  Pork, roasted, cooked, boneless, separable lean and fat, country-style ribs, loin, fresh
+-  Rolls, and potato starch, tapioca starch, made with brown rice flour, white, gluten-free
+-  Infant formula, not reconstituted, liquid concentrate, with iron, PROSOBEE, MEAD JOHNSON
+-  Infant formula, with ARA and DHA, ready to feed, with iron, PROSOBEE LIPIL, MEAD JOHNSON
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean only, clod roast, chuck
+-  Chicken, original seasoning, rotisserie, cooked, meat and skin, wing, broilers or fryers
+-  Beef, broiled, cooked, select, trimmed to 1/4" fat, separable lean only, full cut, round
+-  Beef, broiled, cooked, choice, trimmed to 1/4" fat, separable lean only, full cut, round
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, t-bone steak, short loin
+-  Pork, roasted, heated, separable lean and fat, bone-in, shank, ham -- water added, cured
+-  Crustaceans, moist heat (may have been previously frozen), cooked, mixed species, shrimp
+-  Pork, pan-fried, cooked, separable lean and fat, boneless, top loin (chops), loin, fresh
+-  Beverages, with high vitamin C, Fruit flavored drink containing less than 3% fruit juice
+-  Beef, raw, prime, trimmed to 1/8" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, tri-tip roast, bottom sirloin
+-  Pork, roasted, heated, separable lean only, bone-in, shank, ham and water product, cured
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean only, loin, domestic
+-  Lamb, broiled, cooked, choice, trimmed to 1/4" fat, separable lean only, loin, domestic
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, point half, brisket
+-  Oil, intermediate grade product, confection fat, palm kernel (hydrogenated), industrial
+-  Oil, pourable clear fry, soy (partially hydrogenated ) and soy (winterized), industrial
+-  Oil, uses similar to high quality cocoa butter, confection fat, palm kernel, industrial
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, flat half, brisket
+-  CAMPBELL'S CHUNKY Microwavable Bowls, ready-to-serve, Old Fashioned Vegetable Beef Soup
+-  Pork, pan-broil, heated, separable lean only, bone-in, slice, ham -- water added, cured
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean only, top round, round
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean only, top round, round
+-  Infant formula, not reconstituted, powder, with iron, NUTRAMIGEN, ENFAMIL, MEAD JOHNSON
+-  Infant formula, with ARA and DHA, ready-to-feed, with iron, ENFAMIL LIPIL, MEAD JOHNSON
+-  Milk, vitamin A and vitamin D, with added nonfat milk solids, 1% milkfat, fluid, lowfat
+-  Pork, pan-fried, cooked, separable lean only, bone-in, center loin (chops), loin, fresh
+-  Infant formula, with ARA and DHA, ready-to-feed, For Spit Up, SIMILAC, ABBOTT NUTRITION
+-  Beef, braised, cooked, separable lean and fat, brisket navel end, imported, New Zealand
+-  Seeds, from unroasted kernels (non-chemically removed seed coat), tahini, sesame butter
+-  Potatoes, as purchased, frozen, salt not added in processing, cottage-cut, french fried
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, boneless, chuck eye steak
+-  Pork, unheated, separable lean and fat, boneless, whole, ham with natural juices, cured
+-  Lamb, fast roasted, cooked, separable lean only, boneless, chump, imported, New Zealand
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean and fat, arm, shoulder, domestic
+-  Soymilk, vitamins A and D, with added calcium, unsweetened, light, original and vanilla
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, flat half, brisket
+-  Pork, broiled, cooked, separable lean and fat, bone-in, center rib (chops), loin, fresh
+-  Pork, braised, cooked, separable lean and fat, bone-in, center rib (chops), loin, fresh
+-  Lamb, raw, choice, trimmed to 1/8" fat, separable lean and fat, arm, shoulder, domestic
+-  Pork, roasted, cooked, separable lean and fat, boneless, top loin (roasts), loin, fresh
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, chuck eye steak
+-  English muffins, with calcium propionate (includes sourdough), enriched, toasted, plain
+-  Oil, used for whipped toppings and coffee whiteners, coconut (hydrogenated), industrial
+-  Infant formula, not reconstituted, powder, with iron, ISOMIL, SIMILAC, ABBOTT NUTRITION
+-  CAMPBELL'S CHUNKY Microwavable Bowls, ready-to-serve, Grilled Chicken and Sausage Gumbo
+-  CAMPBELL'S CHUNKY Microwavable Bowls, ready-to-serve, Beef with Country Vegetables Soup
+-  Pork, roasted, heated, separable lean only, bone-in, rump, ham and water product, cured
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, roast, bottom round, round
+-  Cereals, without salt, stove-top, cooked with water, 1 minute cook time, CREAM OF WHEAT
+-  Lamb, braised, cooked, trimmed to 1/8" fat, separable lean and fat, foreshank, domestic
+-  Margarine, CANOLA HARVEST Soft Spread (canola, palm and palm kernel oils), tub, 80% fat
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, steak, top round, round
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, steak, top round, round
+-  Cowpeas, with salt, boiled, cooked, mature seeds, common (blackeyes, crowder, southern)
+-  Pork, pan-fried, cooked, separable lean only, boneless, center rib (chops), loin, fresh
+-  Pork, roasted, cooked, bone-in, separable lean and fat, country-style ribs, loin, fresh
+-  Pork, broiled, cooked, bone-in, separable lean and fat, country-style ribs, loin, fresh
+-  Infant formula, with ARA and DHA, ready to feed, low iron, LIPIL, ENFAMIL, MEAD JOHNSON
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, roast, eye of round, round
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, roast, bottom round, round
+-  Beef, braised, cooked, separable lean and fat, brisket point end, imported, New Zealand
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, roast, eye of round, round
+-  Beef, broiled, cooked, choice, trimmed to 0" fat, separable lean only, top blade, chuck
+-  Beef, broiled, cooked, select, trimmed to 0" fat, separable lean only, top blade, chuck
+-  Pork, roasted, heated, separable lean and fat, bone-in, rump, ham -- water added, cured
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, whole (ribs 6-12), rib
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, flat half, brisket
+-  Fast foods, vegetables and mayonnaise, large patty; with condiments, hamburger; single
+-  Infant formula, not reconstituted, powder, AA LIPIL, NUTRAMIGEN, ENFAMIL, MEAD JOHNSON
+-  Milk, with added vitamin A and vitamin D, protein fortified, 1% milkfat, fluid, lowfat
+-  HOT POCKETS, frozen, and Cheddar Stuffed Sandwich, Broccoli, CROISSANT POCKETS Chicken
+-  Pork, pan-fried, cooked, separable lean only, bone-in, center rib (chops), loin, fresh
+-  Pork, roasted, cooked, separable lean and fat, boneless, sirloin (roasts), loin, fresh
+-  Fast foods, vegetables and mayonnaise, large patty; with condiments, hamburger; double
+-  Pork, raw, separable lean and fat only, boneless, blade (chops or roasts), loin, fresh
+-  Beverages, fortified, Revive Fruit Punch, Glaceau Vitamin Water, The COCA-COLA company
+-  Beef, fast roasted, cooked, separable lean and fat, bolar blade, imported, New Zealand
+-  Chicken, original seasoning, rotisserie, cooked, meat only, breast, broilers or fryers
+-  Potatoes, oven-heated, frozen, salt not added in processing, cottage-cut, french fried
+-  Infant Formula, with ARA and DHA, ready-to-feed, ENFACARE LIPIL, ENFAMIL, MEAD JOHNSON
+-  Pork, unheated, separable lean and fat, bone-in, slice, ham with natural juices, cured
+-  Pork, unheated, separable lean and fat, bone-in, shank, ham with natural juices, cured
+-  Lamb, fast roasted, cooked, separable lean and fat, loin saddle, imported, New Zealand
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, short ribs, chuck
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, short ribs, chuck
+-  Pork, raw, separable lean and fat, boneless, center rib (chops or roasts), loin, fresh
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean and fat, steak, flank
+-  Beef, broiled, cooked, choice, trimmed to 0" fat, separable lean and fat, steak, flank
+-  Margarine-like spread, SMART BALANCE Omega Plus Spread (with plant sterols & fish oil)
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, whole (ribs 6-12), rib
+-  Chicken, batter, fried, cooked, meat and skin and giblets and neck, broilers or fryers
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean only, rib, domestic
+-  Lamb, broiled, cooked, choice, trimmed to 1/4" fat, separable lean only, rib, domestic
+-  Lamb, fast roasted, cooked, separable lean only, boneless, loin, imported, New Zealand
+-  Pork, roasted, cooked, separable lean only, bone-in, center loin (roasts), loin, fresh
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, blade roast, chuck
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean only, shank half, leg, domestic
+-  Pork, broiled, cooked, separable lean and fat, boneless, top loin (chops), loin, fresh
+-  Pork, braised, cooked, separable lean and fat, boneless, top loin (chops), loin, fresh
+-  Applesauce, without added ascorbic acid (includes USDA commodity), unsweetened, canned
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean only, blade, shoulder, domestic
+-  Pork, roasted, heated, separable lean only, boneless, whole, ham -- water added, cured
+-  Beverages, 3-2-1 plan, Ready-To-Drink,  High Protein Shake, Meal replacement, SLIMFAST
+-  Infant formula, not reconstituted, powder, with iron, LACTOFREE, ENFAMIL, MEAD JOHNSON
+-  Pork, roasted, cooked, separable lean only, boneless, center rib (roasts), loin, fresh
+-  Pork, roasted, cooked, separable lean and fat, boston (roasts), blade, shoulder, fresh
+-  Pork, broiled, cooked, separable lean and fat, boston (steaks), blade, shoulder, fresh
+-  Beef, broiled, cooked, select, trimmed to 0" fat, separable lean and fat, steak, flank
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, bone-in, back ribs, rib
+-  Infant Formula, prepared from powder, with iron, ENFAMIL GENTLEASE LIPIL, MEAD JOHNSON
+-  Squash, with salt, drained, boiled, cooked, frozen, crookneck and straightneck, summer
+-  SUPPER BAKES MEAL KITS, Traditional Roast Chicken with stuffing (chicken not included)
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, steak, top sirloin
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, loin, fresh, imported, Australian
+-  Beverages, prepared with water, without added sodium, powder, fruit punch-flavor drink
+-  Vegetables, no salt added, mixed (corn, lima beans, peas, green beans, carrots) canned
+-  Squash, without salt, drained, boiled, cooked, frozen, includes skin, zucchini, summer
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, roast, tip round, round
+-  Pork, roasted, cooked, separable lean only, bone-in, center rib (roasts), loin, fresh
+-  Pork, roasted, cooked, separable lean and fat, bone-in, sirloin (roasts), loin, fresh
+-  Pork, roasted, heated, separable lean only, bone-in, shank, ham -- water added, cured
+-  Pork, unheated, separable lean and fat, bone-in, rump, ham with natural juices, cured
+-  Pork, unheated, separable lean and fat, boneless, whole, ham and water product, cured
+-  Margarine-like, with added vitamin D, with salt, stick, 60% fat, vegetable oil spread
+-  Soup, prepared with equal volume low fat (2%) milk, canned, new england, clam chowder
+-  PREGO Pasta, ready-to-serve, Heart Smart- Roasted Red Pepper and Garlic Italian Sauce
+-  Pork, broiled, cooked, separable lean and fat, boneless, sirloin (chops), loin, fresh
+-  Pork, braised, cooked, separable lean and fat, boneless, sirloin (chops), loin, fresh
+-  Pork, roasted, cooked, boneless, separable lean only, country-style ribs, loin, fresh
+-  Pork, broiled, cooked, boneless, separable lean only, country-style ribs, loin, fresh
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, arm pot roast, chuck
+-  Beverages, with non dairy creamer, decaffeinated, sweetened, vanilla, instant, coffee
+-  Chicken, original seasoning, rotisserie, cooked, meat only, thigh, broilers or fryers
+-  Cereals, with salt, cooked with water, enriched, regular and quick, white, corn grits
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, steak, tenderloin
+-  Potatoes, as purchased, frozen, salt not added in processing, all types, french fried
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, bone-in, back ribs, rib
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, bone-in, back ribs, rib
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, ribeye cap steak
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, ribeye cap steak
+-  Beef, raw, prime, trimmed to 1/8" fat, separable lean and fat, whole (ribs 6-12), rib
+-  Chicken, flour, fried, cooked, meat and skin and giblets and neck, broilers or fryers
+-  Pork, raw, separable lean and fat, bone-in, center rib (chops or roasts), loin, fresh
+-  Pork, braised, cooked, separable lean only, bone-in, center loin (chops), loin, fresh
+-  Beverages, prepared with whole milk, powder, cereal grain beverage, coffee substitute
+-  SUPPER BAKES MEAL KITS, Savory Pork Chops with herb stuffing (pork chop not included)
+-  Beverages,  3-2-1 Plan, ready-to-drink, regular, meal replacement, SLIMFAST, UNILEVER
+-  Pork, broiled, cooked, separable lean only, boneless, center rib (chops), loin, fresh
+-  Pork, braised, cooked, separable lean only, boneless, center rib (chops), loin, fresh
+-  Infant formula, not reconstituted, powder, with iron, PROSOBEE, ENFAMIL, MEAD JOHNSON
+-  Grapefruit juice, diluted with 3 volume water, unsweetened, frozen concentrate, white
+-  Frostings, NFSMI Recipe No. C-32, with butter, prepared-from-recipe, chocolate, glaze
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, roast, tip round, round
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, roast, tip round, round
+-  VAN'S, Gluten Free, Crispy Six Whole Grain + Four Seed Baked Crackers, The Perfect 10
+-  Infant formula, not reconstituted, liquid concentrate, soy, store brand, PBM PRODUCTS
+-  Pork, pan-fried, cooked, separable lean only, boneless, top loin (chops), loin, fresh
+-  Cereals ready-to-eat, KELLOGG'S SMART START Strong Heart Antioxidants Cereal, KELLOGG
+-  Cheese product, fortified with vitamin D, reduced fat, American, pasteurized process
+-  Infant formula, 24 calories ready-to-feed Low iron, Premature, ENFAMIL, MEAD JOHNSON
+-  Infant formula, 20 calories ready-to-feed Low iron, Premature, ENFAMIL, MEAD JOHNSON
+-  Pork, broiled, cooked, separable lean only, bone-in, center rib (chops), loin, fresh
+-  Pork, braised, cooked, separable lean and fat, bone-in, sirloin (chops), loin, fresh
+-  Pork, broiled, cooked, separable lean and fat, bone-in, sirloin (chops), loin, fresh
+-  Pork, roasted, heated, separable lean only, bone-in, rump, ham -- water added, cured
+-  Pork, unheated, separable lean and fat, bone-in, slice, ham and water product, cured
+-  Margarine-like vegetable-oil spread, with added vitamin D, 60% fat, stick/tub/bottle
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean only, arm, shoulder, domestic
+-  KEEBLER, Dark Chocolate Fudge Stripes Cookies, FUDGE SHOPPE, 100 Calorie RIGHT BITES
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, tip round, round
+-  Pork, pan-fried, cooked, separable lean and fat, bone-in, blade (chops), loin, fresh
+-  Pork, broiled, cooked, bone-in, separable lean only, country-style ribs, loin, fresh
+-  Beef, fast fried, cooked, separable lean and fat, rump centre, imported, New Zealand
+-  Chicken, original seasoning, rotisserie, cooked, meat only, back, broilers or fryers
+-  Chicken, original seasoning, rotisserie, cooked, meat only, wing, broilers or fryers
+-  MCKEE BAKING, Chocolate Covered, Wafers with Peanut Butter, LITTLE DEBBIE NUTTY BARS
+-  Beef, braised, cooked, separable lean only, brisket point end, imported, New Zealand
+-  Potatoes, oven-heated, frozen, salt not added in processing, all types, french fried
+-  Pork, unheated, separable lean and fat, bone-in, shank, ham and water product, cured
+-  Lamb, braised, cooked, separable lean and fat, boneless, flap, imported, New Zealand
+-  Beef, braised, cooked, separable lean only, brisket navel end, imported, New Zealand
+-  KFC, skin and breading removed, meat only, Drumstick, ORIGINAL RECIPE, Fried Chicken
+-  Beef, cooked, choice, trimmed to 1/8" fat, separable lean and fat, composite of trimmed retail cuts
+-  Beverages, low calorie, with high vitamin C with other added vitamins, powder, fruit-flavored drink
+-  Beef, braised, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, arm pot roast, chuck
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, ribeye cap steak
+-  Duck, braised, cooked without skin, bone in, meat only, leg, White Pekin, domesticated, young duckling
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, chuck eye steak
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean only, lip-on, boneless, rib eye steak
+-  Beef, broiled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Duck, broiled, cooked without skin, boneless, meat only, breast, White Pekin, domesticated, young duckling
+-  Fruit cocktail, solids and liquids, water pack, canned, (peach and pineapple and pear and grape and cherry)
+-  Lamb, cooked, choice, trimmed to 1/8" fat, separable lean and fat, composite of trimmed retail cuts, domestic
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, America's Beef Roast, boneless, chuck eye roast
+-  Beef, raw, separable lean only, boneless, top sirloin cap-off steak/roast, loin, grass-fed, imported, Australian
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, steak, bottom round, outside round, round
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, top loin steak, loin
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, Denver Cut, boneless, under blade center steak, chuck
+-  Beverages, fortified with vitamins B6 and B12, charged citrus, loaded cherry, grape, Original, NOS energy drink, THE COCA-COLA COMPANY
+-  Lamb, roasted, cooked, trimmed to 0" fat, separable lean and fat, bone-in, denuded, frenched, roast, rack, fresh, imported, Australian
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, Denver Cut, boneless, under blade center steak, chuck
+-  Lamb, grilled, cooked, trimmed to 0" fat, separable lean and fat, bone-in, denuded, frenched, rib chop, fresh, imported, Australian
+-  Lamb, roasted, cooked, trimmed to 0" fat, separable lean only, bone-in, denuded, frenched, roast, rack, fresh, imported, Australian
+-  Lamb, braised, cooked, trimmed to 1/8" fat, separable lean and fat, whole (arm and blade), shoulder, frozen, imported, New Zealand
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, shoulder top and center steaks, shoulder clod, chuck
+-  Lamb, braised, cooked, trimmed to 1/8" fat, separable lean and fat, bone-in, heel on, hindshank, leg, fresh, imported, Australian
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean and fat, whole (shank and sirloin), leg, frozen, imported, New Zealand
+-  Beef, raw, Aust. marble score 4/5, separable lean and fat, boneless, small end rib steak/roast, rib, Wagyu, imported, Australian
+-  Lamb, grilled, cooked, trimmed to 0" fat, separable lean only, bone-in, denuded, frenched, rib chop, fresh, imported, Australian
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, Denver Cut, boneless, under blade center steak, chuck
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean and fat, whole (shank and sirloin), leg, fresh, imported, Australian
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean and fat, bone-in, frenched, roast, rack, fresh, imported, Australian
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, Denver Cut, boneless, under blade center steak, chuck
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, Denver Cut, boneless, under blade center steak, chuck
+-  Lamb, braised, cooked, trimmed to 1/8" fat, separable lean only, bone-in, heel on, hindshank, leg, fresh, imported, Australian
+-  Beef, raw, Aust. marble score 9, separable lean and fat, boneless, small end rib steak/roast, rib, Wagyu, imported, Australian
+-  Beef, raw, Aust. marble score 4/5, separable lean and fat, boneless, tenderloin steak/roast, loin, Wagyu, imported, Australian
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, shoulder top and center steaks, shoulder clod, chuck
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, shoulder top and center steaks, shoulder clod, chuck
+-  Pork, raw, separable lean and fat, (includes cuts to be cured), and spareribs, shoulder, loin, composite of trimmed leg, fresh
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, medallion, shoulder tender, shoulder clod, chuck
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean and fat, America's Beef Roast, boneless, chuck eye roast
+-  Lamb, broiled, cooked, trimmed to 1/8" fat, separable lean and fat, boneless, sirloin chops, leg, fresh, imported, Australian
+-  Beef, raw, Aust. marble score 4/5, separable lean only, boneless, small end rib steak/roast, rib, Wagyu, imported, Australian
+-  Beef, raw, Aust. marble score 9, separable lean and fat, boneless, tenderloin steak/roast, loin, Wagyu, imported, Australian
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean only, whole (shank and sirloin), leg, fresh, imported, Australian
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean and fat, boneless, sirloin half, leg, fresh, imported, Australian
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, Denver Cut, boneless, under blade center steak, chuck
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean only, bone-in, frenched, roast, rack, fresh, imported, Australian
+-  Beef, raw, Aust. marble score 4/5, separable lean and fat, boneless, top loin steak/roast, loin, Wagyu, imported, Australian
+-  Lamb, grilled, cooked, trimmed to 1/8" fat, separable lean and fat, bone-in, frenched, rib chop, fresh, imported, Australian
+-  Lamb, broiled, cooked, trimmed to 1/8" fat, separable lean and fat, bone-in, center slice, leg, fresh, imported, Australian
+-  Infant formula, with ARA and DHA, not reconstituted, liquid concentrate, with iron, LIPIL, LACTOFREE, ENFAMIL, MEAD JOHNSON
+-  Beef, raw, Aust. marble score 4/5, separable lean only, boneless, tenderloin steak/roast, loin, Wagyu, imported, Australian
+-  Beef, raw, Aust. marble score 9, separable lean only, boneless, small end rib steak/roast, rib, Wagyu, imported, Australian
+-  Infant formula, with ARA and DHA, liquid concentrate not reconstituted, with iron, LIPIL, NUTRAMIGEN, ENFAMIL, MEAD JOHNSON
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, bone-in, frenched, rib chop/rack roast, fresh, imported, Australian
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean only, America's Beef Roast, boneless, chuck eye roast
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, medallion, shoulder tender, shoulder clod, chuck
+-  Luncheon meat, 25% less sodium, includes SPAM, added ascorbic acid, reduced sodium, canned, minced, and chicken, ham, pork
+-  Lamb, broiled, cooked, trimmed to 1/8" fat, separable lean only, boneless, sirloin chops, leg, fresh, imported, Australian
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, medallion, shoulder tender, shoulder clod, chuck
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean and fat, bone-in, trotter off, leg, fresh, imported, Australian
+-  Lamb, cooked, trimmed to 1/8" fat, separable lean and fat, composite of trimmed retail cuts, frozen, imported, New Zealand
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean and fat, America's Beef Roast, boneless, chuck eye roast
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean and fat, America's Beef Roast, boneless, chuck eye roast
+-  Cereals, without salt, cooked with water, quick (1-3 minutes), assorted brands including CREAM OF WHEAT, enriched, farina
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean only, boneless, sirloin half, leg, fresh, imported, Australian
+-  Cereals, with salt, cooked with water (includes boiling and microwaving), unenriched, regular and quick and instant, oats
+-  Beef, raw, Aust. marble score 4/5, separable lean only, boneless, top loin steak/roast, loin, Wagyu, imported, Australian
+-  Beef, raw, Aust. marble score 9, separable lean only, boneless, tenderloin steak/roast, loin, Wagyu, imported, Australian
+-  Lamb, grilled, cooked, trimmed to 1/8" fat, separable lean only, bone-in, frenched, rib chop, fresh, imported, Australian
+-  Lamb, broiled, cooked, trimmed to 1/8" fat, separable lean only, bone-in, center slice, leg, fresh, imported, Australian
+-  Lamb, cooked, trimmed to 1/8" fat, separable lean and fat, composite of trimmed retail cuts, fresh, imported, Australian
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, bone-in, frenched, rib chop/rack roast, fresh, imported, Australian
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean only, bone-in, trotter off, leg, fresh, imported, Australian
+-  Beverages, without added sodium or vitamin A, aspartame, phosphorus, with added calcium, powder, low calorie, Cocoa mix
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, steak, bottom round, outside round, round
+-  Beef, raw, Aust. marble score 9, separable lean only, boneless, top loin steak/roast, loin, Wagyu, imported, Australian
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, Denver Cut, boneless, under blade center steak, chuck
+-  Lamb, cooked, trimmed to 1/8" fat, separable lean and fat, whole (arm and blade), shoulder, fresh, imported, Australian
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, composite of trimmed retail cuts, frozen, imported, New Zealand
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean only, America's Beef Roast, boneless, chuck eye roast
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean only, America's Beef Roast, boneless, chuck eye roast
+-  Margarine-like shortening, principal use flaky pastries, and soy, cottonseed, soy (partially hydrogenated), industrial
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean and fat, tri-tip steak, bottom sirloin butt, loin
+-  Beverages, vitamin A and vitamin D,  added calcium, Ready-to-drink, flavored and sweetened, reduced fat, milk beverage
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, whole (arm and blade), shoulder, frozen, imported, New Zealand
+-  Fast foods, tomato and sweet onion sauce, sweet onion chicken teriyaki on white bread with lettuce, submarine sandwich
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean and fat, boneless, bottom, leg, fresh, imported, Australian
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, shoulder top and center steaks, shoulder clod, chuck
+-  Lamb, braised, cooked, trimmed to 1/4" fat, separable lean only, cubed for stew or kabob (leg and shoulder), domestic
+-  Lamb, broiled, cooked, trimmed to 1/4" fat, separable lean only, cubed for stew or kabob (leg and shoulder), domestic
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, boneless, top sirloin cap steak, loin
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean and fat, whole (arm and blade), shoulder, domestic
+-  Lamb, broiled, cooked, choice, trimmed to 1/4" fat, separable lean and fat, whole (arm and blade), shoulder, domestic
+-  Lamb, braised, cooked, choice, trimmed to 1/4" fat, separable lean and fat, whole (arm and blade), shoulder, domestic
+-  Lamb, braised, cooked, choice, trimmed to 1/8" fat, separable lean and fat, whole (arm and blade), shoulder, domestic
+-  Lamb, broiled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, whole (arm and blade), shoulder, domestic
+-  Lamb, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, whole (arm and blade), shoulder, domestic
+-  Beverages, fortified with vitamins B6 and B12, sugar-free with guarana, energy drink, NOS Zero, THE COCA-COLA COMPANY
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, lip off, boneless, top loin steak, loin
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, composite of trimmed retail cuts, fresh, imported, Australian
+-  Lamb, cooked, trimmed to 1/8" fat, separable lean only, composite of trimmed retail cuts, fresh, imported, Australian
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean and fat, boneless, tenderloin, fresh, imported, Australian
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, bone-in, heel on, hindshank, leg, fresh, imported, Australian
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, whole (shank and sirloin), leg, frozen, imported, New Zealand
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, under blade pot roast, chuck
+-  Lamb, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, whole (shank and sirloin), leg, domestic
+-  Lamb, cooked, trimmed to 1/8" fat, separable lean only, whole (arm and blade), shoulder, fresh, imported, Australian
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, Denver Cut, boneless, under blade center steak, chuck
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, steak, top blade, shoulder clod, chuck
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean and fat, whole (shank and sirloin), leg, domestic
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, chuck eye Country-Style ribs
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, whole (arm and blade), shoulder, fresh, imported, Australian
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, Denver Cut, boneless, under blade center steak, chuck
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, whole (shank and sirloin), leg, fresh, imported, Australian
+-  Lamb, raw,   trimmed to 1/8" fat, separable lean only, whole (arm and blade), shoulder, fresh, imported, Australian
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean only, lip-on, boneless, top loin steak, loin
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, top sirloin petite roast, loin
+-  Beef, raw, separable lean and fat, boneless, top sirloin cap-off steak/roast, loin, grass-fed, imported, Australian
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, Denver Cut, boneless, under blade center steak, chuck
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean only, boneless, bottom, leg, fresh, imported, Australian
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, steak, bottom round, outside round, round
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean only, tri-tip roast, bottom sirloin butt, loin
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean only, boneless, tenderloin, fresh, imported, Australian
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, bone-in, heel on, hindshank, leg, fresh, imported, Australian
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean only, whole (arm and blade), shoulder, domestic
+-  Lamb, braised, cooked, choice, trimmed to 1/4" fat, separable lean only, whole (arm and blade), shoulder, domestic
+-  Lamb, broiled, cooked, choice, trimmed to 1/4" fat, separable lean only, whole (arm and blade), shoulder, domestic
+-  Fruit cocktail, solids and liquids, extra light syrup, canned, (peach and pineapple and pear and grape and cherry)
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, top loin steak, loin
+-  Beef, raw, separable lean and fat, boneless, top round cap-off steak/roast, round, grass-fed, imported, Australian
+-  Fruit cocktail, solids and liquids, extra heavy syrup, canned, (peach and pineapple and pear and grape and cherry)
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, lip off, boneless, top loin steak, loin
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, composite of trimmed retail cuts, fresh, imported, Australian
+-  Pork, braised, cooked, with added solution, separable lean and fat, blade (steaks), (Boston butt), shoulder, fresh
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, shoulder top and center steaks, shoulder clod, chuck
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, shoulder top and center steaks, shoulder clod, chuck
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, outside skirt, boneless, plate steak
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean only, boneless, top sirloin cap steak, loin
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, top loin steak, loin
+-  Pork, cooked, separable lean and fat, composite of trimmed retail cuts (leg, loin, shoulder, and spareribs), fresh
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, medallion, shoulder tender, shoulder clod, chuck
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, America's Beef Roast, boneless, chuck eye roast
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, eye of round roast, round
+-  Lamb, slow roasted, cooked, separable lean and fat, shank off, chump off, tunnel-boned leg, imported, New Zealand
+-  Beverages, vitamins B6 and B12, pantothenic acid, niacin, with added caffeine, sugar free, RED BULL, Energy drink
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, boneless, sirloin chops, leg, fresh, imported, Australian
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, inside skirt, boneless, plate steak
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, boneless, top sirloin cap steak, loin
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean only, whole (shank and sirloin), leg, domestic
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, eye of round steak, round
+-  Fruit salad, solids and liquids, extra heavy syrup, canned, (peach and pear and apricot and pineapple and cherry)
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean and fat, boneless, top sirloin cap steak, loin
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, lip off, boneless, top loin steak, loin
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, lip off, boneless, top loin steak, loin
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, under blade pot roast or steak, chuck
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, chuck eye Country-Style ribs
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, under blade pot roast, chuck
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, under blade pot roast, chuck
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, under blade pot roast, chuck
+-  Beef, raw, Aust. marble score 9, separable lean and fat, top loin steak/roast, loin, Wagyu, imported, Australian
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, shoulder top blade steak
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, mock tender steak, chuck
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, under blade steak, chuck
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, whole (shank and sirloin), leg, fresh, imported, Australian
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean and fat, shank half, leg, fresh, imported, Australian
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, boneless, sirloin half, leg, fresh, imported, Australian
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, Denver Cut, boneless, under blade center steak, chuck
+-  Cereals, without salt, cooked with water (includes boiling and microwaving), unenriched, regular and quick, oats
+-  Lamb, broiled, cooked, trimmed to 1/8" fat, separable lean and fat, blade, shoulder, fresh, imported, Australian
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, Denver Cut, boneless, under blade center steak, chuck
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, steak, top blade, shoulder clod, chuck
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, steak, top blade, shoulder clod, chuck
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, chuck eye Country-Style ribs
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, chuck eye Country-Style ribs
+-  Beef, raw, separable lean only, boneless, top round cap-off steak/roast, round, grass-fed, imported, Australian
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, bone-in, center slice, leg, fresh, imported, Australian
+-  Infant formula, with ARA and DHA, not reconstituted, powder, with iron, NUTRAMIGEN LIPIL, ENFAMIL, MEAD JOHNSON
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, rib eye roast
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean only, boneless, top sirloin petite roast, loin
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean only, lip-on, boneless, top loin steak, loin
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean only, lip-on, boneless, top loin steak, loin
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, steak, tip center, knuckle, round
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, rib eye steak
+-  Pork, pan-broiled, cooked, with added solution, separable lean and fat, boneless, top loin (chops), loin, fresh
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, outside skirt, boneless, plate steak
+-  Infant formula, with ARA and DHA, ready-to-feed, with iron, ADVANCE 24, SPECIAL CARE, SIMILAC, ABBOTT NUTRITION
+-  Infant formula, with ARA and DHA, not reconstituted, liquid concentrate, LIPIL, PROSOBEE, ENFAMIL, MEAD JOHNSON
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, boneless, top loin petite roast
+-  Pork, raw, separable lean and fat, composite of trimmed retail cuts (leg, loin, shoulder, and spareribs), fresh
+-  Cherries, solids and liquids (includes USDA commodity red tart cherries, canned), water pack, canned, red, sour
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean only, boneless, top sirloin petite roast, loin
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, tenderloin steak, loin
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, boneless, sirloin chops, leg, fresh, imported, Australian
+-  Margarine-like, with added vitamin D, with salt, unspecified oils, approximately 37% fat, vegetable oil spread
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, eye of round roast, round
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean only, bone-in, t-bone steak, short loin
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, lip off, boneless, top loin steak, loin
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, lip-on, bone-in, rib eye roast
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, top round steak, round
+-  Pork, braised, with added solution cooked, separable lean only, blade (steaks), (Boston butt), shoulder, fresh
+-  Lamb, braised, cooked, trimmed to 1/8" fat, separable lean and fat, arm, shoulder, fresh, imported, Australian
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, under blade pot roast or steak, chuck
+-  Lamb, slow roasted, cooked, separable lean only, shank off, chump off, tunnel-boned leg, imported, New Zealand
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, lip-on, bone-in, rib eye steak
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, lip off, boneless, top loin steak, loin
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, inside skirt, boneless, plate steak
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, bone-in, trotter off, leg, fresh, imported, Australian
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, medallion, shoulder tender, shoulder clod, chuck
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, medallion, shoulder tender, shoulder clod, chuck
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, lip off, boneless, rib eye steak
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, outside skirt, boneless, plate steak
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, outside skirt, boneless, plate steak
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean only, boneless, top sirloin cap steak, loin
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean only, boneless, top sirloin cap steak, loin
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, eye of round steak, round
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, top round roast, round
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, tenderloin roast, loin
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean only, boneless, under blade pot roast, chuck
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean only, boneless, under blade pot roast, chuck
+-  Lamb, cooked, choice, trimmed to 1/4" fat, separable lean and fat, composite of trimmed retail cuts, domestic
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, under blade steak, chuck
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, under blade pot roast or steak, chuck
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, boneless, sirloin half, leg, fresh, imported, Australian
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, America's Beef Roast, boneless, chuck eye roast
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, eye of round roast, round
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, eye of round roast, round
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean only, shank half, leg, fresh, imported, Australian
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean and fat, small end (ribs 10-12), rib eye
+-  Lamb, braised, cooked,   trimmed to 1/8" fat, separable lean only, arm, shoulder, fresh, imported, Australian
+-  Lamb, broiled, cooked, trimmed to 1/8" fat, separable lean only,blade, shoulder , fresh, imported, Australian
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, inside skirt, boneless, plate steak
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, inside skirt, boneless, plate steak
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, porterhouse steak, short loin
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, shoulder top blade steak
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean only, boneless, chuck eye Country-Style ribs
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, eye of round steak, round
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, mock tender steak, chuck
+-  Beef, raw, separable lean and fat, boneless, bottom round steak/roast, round, grass-fed, imported, Australian
+-  Pork, roasted, heated, separable lean only, boneless, meat only, spiral slice, ham with natural juices, cured
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, America's Beef Roast, boneless, chuck eye roast
+-  Infant formula, with ARA and DHA, not reconstituted, powder, with iron, PROSOBEE LIPIL, ENFAMIL, MEAD JOHNSON
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, boneless, under blade pot roast or steak, chuck
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, eye of round steak, round
+-  Lamb, braised, cooked, separable lean and fat, whole (arm and blade), shoulder, frozen, imported, New Zealand
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean only, boneless, chuck eye Country-Style ribs
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, top sirloin petite roast/filet, loin
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, steak, tip side, knuckle, round
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean only, lip-on, boneless, rib eye roast
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, under blade steak, chuck
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, under blade steak, chuck
+-  Lamb, slow roasted, cooked, separable lean and fat, boneless, rolled, netted shoulder, imported, New Zealand
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, bone-in, center slice, leg, fresh, imported, Australian
+-  Fruit cocktail, solids and liquids, light syrup, canned, (peach and pineapple and pear and grape and cherry)
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, top sirloin filet, loin
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean only, boneless, top loin petite roast
+-  Yogurt, fortified with vitamin D, sweetened with low-calorie sweetener, nonfat milk, vanilla or lemon flavor
+-  Lamb, roasted, cooked, separable lean and fat, whole (shank and sirloin), leg, frozen, imported, New Zealand
+-  Pork, pan-broiled, cooked, with added solution, separable lean only, boneless, top loin (chops), loin, fresh
+-  Beef, raw, separable lean and fat, boneless, ribeye steak/roast lip-on, rib, grass-fed, imported, Australian
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean only, lip-on, boneless, rib eye steak
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, mock tender steak, chuck
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, mock tender steak, chuck
+-  Beef, broiled, cooked, USDA choice, trimmed to 0" fat, separable lean and fat, porterhouse steak, short loin
+-  Beef, broiled, cooked, USDA select, trimmed to 0" fat, separable lean and fat, porterhouse steak, short loin
+-  Fruit cocktail, solids and liquids, heavy syrup, canned, (peach and pineapple and pear and grape and cherry)
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, shoulder top blade steak
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, shoulder top blade steak
+-  Lamb, braised, cooked, trimmed to 1/8" fat, separable lean and fat, foreshank, frozen, imported, New Zealand
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean only, lip-on, bone-in, rib eye steak
+-  Beverages, prepared with water and ice, powder, with aspartame, reduced calorie, chocolate, dairy drink mix
+-  Fruit salad, solids and liquids, heavy syrup, canned, tropical, (pineapple and papaya and banana and guava)
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean and fat, porterhouse steak, short loin
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, rib eye steak
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, rib eye steak
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, rib eye roast
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean and fat, tri-tip roast, bottom sirloin
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, top round steak, round
+-  Infant formula, with DHA and ARA, not reconstituted, powder, with iron, ALIMENTUM ADVANCE, ABBOTT NUTRITION
+-  Fruit cocktail, solids and liquids, juice pack, canned, (peach and pineapple and pear and grape and cherry)
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, steak, bottom round, outside round, round
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, lip off, boneless, rib eye steak
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, outside skirt, boneless, plate steak
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, outside skirt, boneless, plate steak
+-  Beef, broiled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, steak, tip center, knuckle, round
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, steak, tip center, knuckle, round
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean only, lip-on, bone-in, rib eye roast
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, tenderloin roast, loin
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, top round roast, round
+-  Beef, grilled, cooked, all grades,  trimmed to 1/8" fat, separable lean only, porterhouse steak, short loin
+-  Fruit salad, solids and liquids, light syrup, canned, (peach and pear and apricot and pineapple and cherry)
+-  Fruit salad, solids and liquids, heavy syrup, canned, (peach and pear and apricot and pineapple and cherry)
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean and fat, boneless, top loin petite roast
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, boneless, top loin petite roast
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, tenderloin steak, loin
+-  Pork, broiled, cooked, with added solution, separable lean and fat, boneless, top loin (chops), loin, fresh
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, rib eye roast
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, bone-in, trotter off, leg, fresh, imported, Australian
+-  Lamb, cooked, choice, trimmed to 1/4" fat, separable lean only, composite of trimmed retail cuts, domestic
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean and fat, composite of trimmed retail cuts, domestic
+-  Beef, raw, separable lean and fat, boneless, tenderloin steak/roast, loin, grass-fed, imported, Australian
+-  Beef, raw, separable lean only, boneless, bottom round steak/roast, round, grass-fed, imported, Australian
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean only, boneless, eye of round roast, round
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean and fat, lip-on, bone-in, rib eye roast
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, America's Beef Roast, boneless, chuck eye roast
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, America's Beef Roast, boneless, chuck eye roast
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, roast, bottom round, round
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, roast, eye of round, round
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, under blade pot roast or steak, chuck
+-  Margarine, stick, soybean and partially hydrogenated soybean, 70% fat, margarine-type vegetable oil spread
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, inside skirt, boneless, plate steak
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, inside skirt, boneless, plate steak
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean only, boneless, eye of round roast, round
+-  Lamb, raw, choice, trimmed to 1/8" fat, separable lean and fat, composite of trimmed retail cuts, domestic
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean only, bone-in, t-bone steak, short loin
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, top round roast, round
+-  Fruit salad, solids and liquids, water pack, canned, (peach and pear and apricot and pineapple and cherry)
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, tenderloin steak, loin
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, tenderloin steak, loin
+-  Lamb, braised, cooked, trimmed to 1/8" fat, separable lean and fat, foreshank, fresh, imported, Australian
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, lip-on, bone-in, rib eye roast
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, lip-on, bone-in, rib eye steak
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean and fat, lip-on, bone-in, rib eye steak
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, top round steak, round
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, top round steak, round
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean only, bone-in, t-bone steak, short loin
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, under blade pot roast or steak, chuck
+-  Infant formula, with ARA and DHA, liquid concentrate, (LACTOSE FREE), SENSITIVE, SIMILAC, ABBOTT NUTRITION
+-  Fruit salad, solids and liquids, juice pack, canned, (peach and pear and apricot and pineapple and cherry)
+-  Gelatin desserts, vitamin C, sodium, potassium, added phosphorus, with aspartame, reduced calorie, dry mix
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, shoulder pot roast
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, lip off, boneless, rib eye steak
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, lip off, boneless, rib eye steak
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, boneless, bottom, leg, fresh, imported, Australian
+-  Lamb, braised, cooked, separable lean only, whole (arm and blade), shoulder, frozen, imported, New Zealand
+-  Beef, broiled, cooked, choice, trimmed to 0" fat, separable lean and fat, small end (ribs 10-12), eye, rib
+-  Beef, braised, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, steak, bottom round, round
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, top loin steak, loin
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, boneless, eye of round steak, round
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, boneless, eye of round steak, round
+-  Beverages, added calcium, high vitamin C, greater than 3% fruit juice, reduced sugar, Fruit flavored drink
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, top round roast, round
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, tenderloin roast, loin
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, tenderloin roast, loin
+-  Lamb, slow roasted, cooked, separable lean only, boneless, rolled, netted shoulder, imported, New Zealand
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean only, boneless, under blade steak, chuck
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean only, boneless, under blade steak, chuck
+-  Beef, raw, separable lean only, boneless, ribeye steak/roast lip-on, rib, grass-fed, imported, Australian
+-  Beverages, prepared with whole milk, with added nutrients, powder, chocolate-flavor beverage mix for milk
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, boneless, top loin petite roast/filet
+-  Beef, broiled, cooked, select, trimmed to 0" fat, separable lean and fat, small end (ribs 10-12), rib eye
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, boneless, tenderloin, fresh, imported, Australian
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean and fat, porterhouse steak, short loin
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, boneless, shoulder top blade steak
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, boneless, shoulder top blade steak
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean and fat, whole (arm and blade), shoulder, domestic
+-  Lamb, raw, choice, trimmed to 1/8" fat, separable lean and fat, whole (arm and blade), shoulder, domestic
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, lip off, boneless, top loin steak, loin
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean only, boneless, mock tender steak, chuck
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean only, boneless, mock tender steak, chuck
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Lamb, roasted, cooked, separable lean only, whole (shank and sirloin), leg, frozen, imported, New Zealand
+-  Lamb, raw, trimmed to 1/4" fat, separable lean only, cubed for stew or kabob (leg and shoulder), domestic
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, boneless, top sirloin cap steak, loin
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, porterhouse steak, short loin
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, rib eye steak/roast
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, steak, tip side, knuckle, round
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, steak, tip side, knuckle, round
+-  Beef, raw, choice, trimmed to 0" fat, separable lean only, boneless, top sirloin petite roast/filet, loin
+-  Beef, raw, select, trimmed to 0" fat, separable lean only, boneless, top sirloin petite roast/filet, loin
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, short ribs, chuck
+-  Beef, raw, separable lean and fat, boneless, top loin steak/roast, loin, grass-fed, imported, Australian
+-  Lamb, raw, choice, trimmed to 1/8" fat, separable lean and fat, whole (shank and sirloin), leg, domestic
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, chuck eye Country-Style ribs
+-  Beef, broiled, cooked, all grades, trimmed to 1/8" fat, separable lean only, steak, top loin, short loin
+-  Turkey sausage, cooked (include BUTTERBALL breakfast links turkey sausage), brown and serve, reduced fat
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, lip-on, bone-in, rib eye steak/roast
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean and fat, roast, bottom round, round
+-  Pork, broiled, cooked, with added solution, separable lean only, boneless, top loin (chops), loin, fresh
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean and fat, outside skirt steak, plate
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, t-bone steak, short loin
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, boneless, top sirloin filet, loin
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, boneless, top sirloin filet, loin
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean only, boneless, top loin petite roast
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean only, boneless, top loin petite roast
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, ribeye petite roast
+-  Beverages, added vitamin C, with low-calorie sweetener, reduced calorie, Vegetable and fruit juice drink
+-  Beverages, frozen concentrate. Not manufactured anymore., with pulp, breakfast type, Orange-flavor drink
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean and fat, whole (shank and sirloin), leg, domestic
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean only, lip-on, boneless, rib eye roast
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean only, lip-on, boneless, rib eye roast
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, steak, bottom round, round
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean only, lip-on, boneless, rib eye steak
+-  Beef, broiled, cooked, all grades, trimmed to 1/8" fat, separable lean only, small end (ribs 10-12), rib
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean only, porterhouse steak, short loin
+-  Beverages, mineral bottled water, naturally sparkling, GEROLSTEINER BRUNNEN GmbH & Co. KG (Gerolsteiner)
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, boneless, top loin filet
+-  Rice bowl with chicken, prepared (includes fried, teriyaki, and sweet and sour varieties), frozen entree
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, steak, top blade, shoulder clod, chuck
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, boneless, bottom, leg, fresh, imported, Australian
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean and fat, sirloin half, leg, domestic
+-  Beef, broiled, cooked, USDA select, trimmed to 0" fat, separable lean and fat, mock tender steak, chuck
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean only, lip-on, bone-in, rib eye steak
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean only, lip-on, bone-in, rib eye steak
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean only, composite of trimmed retail cuts, domestic
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, lip off, boneless, rib eye steak
+-  Lamb, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, sirloin half, leg, domestic
+-  Beef, broiled, cooked, USDA select, trimmed to 0" fat, separable lean and fat, t-bone steak, short loin
+-  Beef, broiled, cooked, USDA choice, trimmed to 0" fat, separable lean and fat, t-bone steak, short loin
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, roast, tip round, round
+-  Cereals, without salt, prepared (microwaved or boiling water added), plain, instant, corn grits, QUAKER
+-  Beef, braised, cooked, all grades, trimmed to 1/8" fat, separable lean only, steak, bottom round, round
+-  Beef, raw, separable lean only, boneless, tenderloin steak/roast, loin, grass-fed, imported, Australian
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean and fat, tri-tip roast, bottom sirloin
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean and fat, tri-tip roast, bottom sirloin
+-  Beef, broiled, cooked, select, trimmed to 0" fat, small end (ribs 10- 12) separable lean only, eye, rib
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, boneless, top round steak, round
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, boneless, top round steak, round
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, steak, top loin, short loin
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean and fat, inside skirt steak, plate
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, shoulder pot roast or steak
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, lip off, boneless, rib eye steak
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Beef, broiled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Beef, broiled, cooked, select, trimmed to 1/8" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, steak, bottom round, outside round, round
+-  Beef, broiled, cooked, USDA choice, trimmed to 0" fat, separable lean and fat, mock tender steak, chuck
+-  Chicken, braised, cooked, with added solution, meat only, boneless, skinless, breast, broiler or fryers
+-  Chicken, grilled, cooked, with added solution, meat only, boneless, skinless, breast, broiler or fryers
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, shoulder pot roast
+-  Lamb, broiled, cooked, trimmed to 1/8" fat, separable lean and fat, loin, frozen, imported, New Zealand
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean only, lip-on, bone-in, rib eye roast
+-  Beef, roasted, cooked, select, trimmed to 0" fat, boneless, separable lean only, tenderloin roast, loin
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean only, boneless, tenderloin roast, loin
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean only, boneless, top round roast, round
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean only, lip-on, bone-in, rib eye roast
+-  Beef, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, composite of trimmed retail cuts
+-  Pork, cooked, separable lean and fat, composite of trimmed retail cuts (loin and shoulder blade), fresh
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean only, roast, eye of round, round
+-  Candies, NFS (45-59% cacao solids 90%; 60-69% cacao solids 5%; 70-85% cacao solids 5%), dark, chocolate
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean only, boneless, tenderloin steak, loin
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean only, boneless, tenderloin steak, loin
+-  Lamb, braised, cooked, trimmed to 1/8" fat, separable lean only, foreshank, fresh, imported, Australian
+-  Beef, broiled, cooked, choice, trimmed to 0" fat, separable lean only, small end (ribs 10-12), eye, rib
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, lip-on, boneless, top loin steak, loin
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean only, boneless, top round roast, round
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, steak, bottom round, outside round, round
+-  Beef, broiled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, whole (ribs 6-12), rib
+-  Beef, roasted, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, whole (ribs 6-12), rib
+-  Lamb, raw, trimmed to 1/8" fat, separable lean only, boneless, tenderloin, fresh, imported, Australian
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, lip-on, boneless, rib eye steak/roast
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, lip off, boneless, top loin steak, loin
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean and fat, t-bone steak, short loin
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean and fat, roast, eye of round, round
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, roast, eye of round, round
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean only, small end (ribs 10-12), rib
+-  Ruby Red grapefruit juice blend (grapefruit, grape, apple), with added vitamin C, bottled, OCEAN SPRAY
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean and fat, mock tender steak, chuck
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean and fat, roast, bottom round, round
+-  Beef, braised, cooked, select, trimmed to 1/8" fat, separable lean and fat, steak, bottom round, round
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, roast, bottom round, round
+-  Beef, braised, cooked, choice, trimmed to 1/8" fat, separable lean and fat, steak, bottom round, round
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, top loin steak, loin
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, boneless, top loin petite roast/filet
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean only, whole (arm and blade), shoulder, domestic
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, shoulder steak
+-  Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean and fat, rib, frozen, imported, New Zealand
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, shoulder pot roast
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean only, porterhouse steak, short loin
+-  Beef, broiled, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, top round steak, round
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean only, porterhouse steak, short loin
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, shoulder pot roast
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, outside skirt, boneless, plate steak
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, boneless, top sirloin cap steak, loin
+-  Beef, broiled, cooked, prime, trimmed to 1/8" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Beef, roasted, cooked, prime, trimmed to 1/8" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, top loin steak, loin
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, short ribs, chuck
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean only, lip-on, bone-in, rib eye steak/roast
+-  Oil, principal use as a tortilla shortening, soy (partially hydrogenated)  and cottonseed, industrial
+-  Spanish rice mix, prepared (with canola/vegetable oil blend or diced tomatoes and margarine), dry mix
+-  Lamb, cooked, separable lean and fat, composite of trimmed retail cuts, frozen, imported, New Zealand
+-  Beef, raw, separable lean only, boneless, top loin steak/roast, loin, grass-fed, imported, Australian
+-  Lamb, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, shank half, leg, domestic
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, boneless, top loin petite roast/filet
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, boneless, top loin petite roast/filet
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean only, outside skirt steak, plate
+-  Pork, roasted, heated, separable lean and fat, boneless, spiral slice, ham with natural juices, cured
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, rib eye steak/roast
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, inside skirt, boneless, plate steak
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, bone-in, back ribs, rib
+-  Beverages, prepared with water, frozen concentrate, with juice and pulp, breakfast type, Orange drink
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean and fat, shank half, leg, domestic
+-  Lamb, raw, choice, trimmed to 1/4" fat, separable lean only, whole (shank and sirloin), leg, domestic
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, eye of round steak, round
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, eye of round roast, round
+-  Beef, broiled, cooked, choice, trimmed to 0" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Beef, broiled, cooked, select, trimmed to 0" fat, separable lean and fat, small end (ribs 10-12), rib
+-  Apple juice, diluted with 3 volume water without added ascorbic acid, unsweetened, frozen concentrate
+-  Lamb, broiled, cooked, choice, trimmed to 1/4" fat, separable lean and fat, blade, shoulder, domestic
+-  Lamb, braised, cooked, choice, trimmed to 1/4" fat, separable lean and fat, blade, shoulder, domestic
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean and fat, blade, shoulder, domestic
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean and fat, roast, tip round, round
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean only, roast, bottom round, round
+-  Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean only, steak, bottom round, round
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, boneless, top sirloin cap steak, loin
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, boneless, top sirloin cap steak, loin
+-  Pork, raw,with added solution, separable lean and fat, blade (steaks), (Boston butt), shoulder, fresh
+-  Beef, cooked, all grades, trimmed to 0" fat, separable lean and fat, composite of trimmed retail cuts
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, lip-on, boneless, rib eye steak/roast
+-  Lamb, broiled, cooked, trimmed to 1/8" fat, separable lean and fat, loin, fresh, imported, Australian
+-  Beef, grilled, cooked, all grades, trimmed to 1/8" fat, separable lean only, boneless, top loin filet
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, chuck eye Country-Style ribs
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, lip off, boneless, top loin steak, loin
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, lip off, boneless, top loin steak, loin
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Beef, broiled, cooked, select, trimmed to 1/8" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Beef, broiled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, short ribs, chuck
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, short ribs, chuck
+-  Lamb, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, blade, shoulder, domestic
+-  Lamb, broiled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, blade, shoulder, domestic
+-  Lamb, braised, cooked, choice, trimmed to 1/8" fat, separable lean and fat, blade, shoulder, domestic
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean only, sirloin half, leg, domestic
+-  Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean only, large end (ribs 6-9), rib
+-  Lamb, cooked, choice, trimmed to 1/4" fat, separable fat, composite of trimmed retail cuts, domestic
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, chuck eye Country-Style ribs
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, boneless, chuck eye Country-Style ribs
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean only, tri-tip roast, bottom sirloin
+-  Carbonated beverage, without caffeine, with sodium saccharin, other than cola or pepper, low calorie
+-  Beef, broiled, cooked, select, trimmed to 0" fat, separable lean only, porterhouse steak, short loin
+-  Beef, cooked, all grades, trimmed to 1/8" fat, separable lean only, composite of trimmed retail cuts
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, shank half, leg, fresh, imported, Australian
+-  Beef, broiled, cooked, all grades, trimmed to 1/8" fat, separable lean only, steak, top round, round
+-  Pork, cooked, separable lean only, composite of trimmed retail cuts (leg, loin, and shoulder), fresh
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean and fat, lip-on, bone-in, rib eye steak/roast
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean and fat, lip-on, bone-in, rib eye steak/roast
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean only, inside skirt steak, plate
+-  Infant formula, not reconstituted, liquid concentrate, with iron, ADVANCE, SIMILAC, ABBOTT NUTRITION
+-  Lamb, raw, trimmed to 1/8" fat, separable lean and fat, blade, shoulder, fresh, imported, Australian
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean and fat, t-bone steak, short loin
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, shoulder pot roast or steak
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, steak, top blade, shoulder clod, chuck
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, steak, top blade, shoulder clod, chuck
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean only, tri-tip roast, bottom sirloin
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean only, boneless, ribeye petite roast
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean only, boneless, ribeye petite roast
+-  Infant formula, with ARA and DHA, ready-to-feed, with iron, LIPIL, NUTRAMIGEN, ENFAMIL, MEAD JOHNSON
+-  Beef, raw, all grades, trimmed to 1/8" fat, separable lean and fat, composite of trimmed retail cuts
+-  Pork, raw, separable lean and fat, composite of trimmed retail cuts (loin and shoulder blade), fresh
+-  Pork, cooked, separable lean only, composite of trimmed retail cuts (loin and shoulder blade), fresh
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean only, roast, bottom round , round
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean and fat, steak, bottom round, round
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean and fat, roast, bottom round, round
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean and fat, roast, bottom round, round
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean and fat, steak, bottom round, round
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, mock tender steak, chuck
+-  Beef, broiled, cooked, choice, trimmed to 0" fat, separable lean only, porterhouse steak, short loin
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean and fat, boneless, top loin filet
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, boneless, top loin filet
+-  Beef, grilled, cooked, select, trimmed to 1/8" fat, separable lean only, steak, top loin, short loin
+-  Beef, broiled, cooked, select, trimmed to 1/8" fat, separable lean only, small end (ribs 10-12), rib
+-  Beef, broiled, cooked, choice, trimmed to 1/8" fat, separable lean only, steak, top loin, short loin
+-  Infant formula, prepared from liquid concentrate, DHA and ARA, with iron, GOOD START SUPREME, NESTLE
+-  Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, t-bone steak, short loin
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, shoulder top blade steak
+-  Fast foods, regular patty; double decker bun with condiments and special sauce, cheeseburger; double
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, chuck eye steak
+-  Beef, broiled, cooked, prime, trimmed to 1/8" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Beef, roasted, cooked, prime, trimmed to 1/8" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Beef, roasted, cooked, select, trimmed to 0" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean and fat, large end (ribs 6-9), rib
+-  Beef, cooked, select, trimmed to 1/8" fat, separable lean and fat, composite of trimmed retail cuts
+-  Beef, braised, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, point half, brisket
+-  Beef, raw, select, trimmed to 0" fat, separable lean and fat, boneless, shoulder pot roast or steak
+-  Beef, raw, choice, trimmed to 0" fat, separable lean and fat, boneless, shoulder pot roast or steak
+-  Margarine-like, with added vitamin D, without salt, stick/tub/bottle, 60% fat, vegetable oil spread
+-  Lamb, roasted, cooked, choice, trimmed to 1/4" fat, separable lean and fat, arm, shoulder, domestic
+-  Lamb, braised, cooked, choice, trimmed to 1/4" fat, separable lean and fat, arm, shoulder, domestic
+-  Lamb, broiled, cooked, choice, trimmed to 1/4" fat, separable lean and fat, arm, shoulder, domestic
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean and fat, roast, tip round, round
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, roast, tip round, round
+-  Infant formula, not reconstituted, liquid concentrate, with iron, NUTRAMIGEN, ENFAMIL, MEAD JOHNSON
+-  Infant Formula, not reconstituted, Liquid concentrate, Infant, Premium LIPIL, ENFAMIL, MEAD JOHNSON
+-  Pork, raw, with added solution, separable lean only, blade (steaks), (Boston butt), shoulder, fresh
+-  MORNINGSTAR FARMS Breakfast Sandwich Veggie Sausage Egg & Cheese English Muffin, unprepared, frozen
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, steak, tip center, knuckle, round
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean only, roast, eye of round, round
+-  Beef, braised, cooked, choice, trimmed to 1/8" fat, separable lean only, steak, bottom round, round
+-  Beef, broiled, cooked, choice, trimmed to 1/8"fat, separable lean only, small end (ribs 10-12), rib
+-  Lamb, braised, cooked, choice, trimmed to 1/8" fat, separable lean and fat, arm, shoulder, domestic
+-  Beef, braised, cooked, choice, trimmed to 0" fat, separable lean only, boneless, shoulder pot roast
+-  Beef, braised, cooked, select, trimmed to 0" fat, separable lean only, boneless, shoulder pot roast
+-  Beef, grilled, cooked, choice, trimmed to 0" fat, separable lean and fat, boneless, chuck eye steak
+-  Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, chuck eye steak
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, outside skirt, boneless, plate steak
+-  Margarine, for flaky pastries, soy oil (partially hydrogenated ), cottonseed, non-dairy, industrial
+-  Beef, braised, cooked, select, trimmed to 1/8" fat, separable lean only, steak, bottom round, round
+-  Beef, roasted, cooked, select, trimmed to 1/8" fat, separable lean only, roast, eye of round, round
+-  Apple juice, with added ascorbic acid, diluted with 3 volume water, unsweetened, frozen concentrate
+-  Beef, broiled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, steak, top round, round
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean only, roast, bottom round, round
+-  Toddler formula, ready-to-feed, ENFAGROW PREMIUM (formerly ENFAMIL, LIPIL, NEXT STEP), MEAD JOHNSON
+-  Beef, broiled, cooked, select, trimmed to 1/8" fat, separable lean and fat, steak, top round, round
+-  Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, shoulder steak
+-  Infant formula, with ARA and DHA, SENSITIVE (LACTOSE FREE) ready-to-feed, SIMILAC, ABBOTT NUTRITION
+-  Infant formula, not reconstituted, liquid concentrate, with iron, GOOD START ESSENTIALS SOY, NESTLE
+-  Pan Dulce, contains wheat flour and rice flour, cookie-like, Salpora de Arroz con Azucar, LA RICURA
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, lip-on, boneless, top loin steak, loin
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, lip-on, boneless, top loin steak, loin
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, ribeye  petite roast/filet
+-  Beef, broiled, cooked, all grades, trimmed to 0" fat, separable lean only, mock tender steak, chuck
+-  Beef, broiled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, whole (ribs 6-12), rib
+-  Beef, roasted, cooked, choice, trimmed to 1/8" fat, separable lean and fat, whole (ribs 6-12), rib
+-  Beef, braised, cooked, all grades, trimmed to 1/8" fat, separable lean and fat, flat half, brisket
+-  Beef, raw, select, trimmed to 1/8" fat, separable lean only, lip-on, boneless, rib eye steak/roast
+-  Beef, raw, choice, trimmed to 1/8" fat, separable lean only, lip-on, boneless, rib eye steak/roast
+-  Oil, uses similar to 95 degree hard butter, confection fat, palm kernel (hydrogenated), industrial
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, top round steak, round
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean and fat, boneless, top round roast, round
+-  Lamb, cooked, separable lean only, composite of trimmed retail cuts, frozen, imported, New Zealand
+-  Lamb, raw, separable lean and fat, composite of trimmed retail cuts, frozen, imported, New Zealand
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, eye of round roast, round
+-  Beef, raw, all grades, trimmed to 0" fat, separable lean only, boneless, eye of round steak, round
