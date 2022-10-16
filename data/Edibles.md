@@ -105,7 +105,3 @@
 - Turnips, raw
 - Celtus
 - Syrups
-- Cod liver oil
-- Tuna
-- Chicken liver
-- Beef liver
