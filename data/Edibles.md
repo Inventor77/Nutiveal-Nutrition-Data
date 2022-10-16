@@ -100,8 +100,3 @@
 - Tuna
 - Chicken liver
 - Beef liver
-- Baked Potatoes
-- Lemon
-- Turnips, raw
-- Celtus
-- Syrups
