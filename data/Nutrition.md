@@ -1,6 +1,6 @@
 ## All Edibles in nutrition.json
 
--  Cornstarch      
+     
 -  Nuts, pecans    
 -  Eggplant, raw   
 -  Teff, uncooked  
