@@ -51,7 +51,7 @@ Then, you must merge four PRs into your repository between 1st to 31st October. 
 2. Contributions must be made to public repositories.
 3. PR with label as `spam` or `invalid` will not be counted. And, if a participant has 2 or more spam PRs, they'll be disqualified from Hacktoberfest.
 
-### Tips
+## Tips
 
 ### For Contributors
 
