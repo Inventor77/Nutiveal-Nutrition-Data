@@ -2,7 +2,7 @@
 # Hacktoberfest 2022
 ## Nutriveal-Nutrition-Data
 
-  ## ***Please Star the repository before moving forward to resolve/create a issue***
+***Please Star the repository before moving forward to resolve/create a issue***
 
 
 ## Special Note For Everyone
