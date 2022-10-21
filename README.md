@@ -45,13 +45,13 @@ As a Maintainer, you must facilitate participation for contributors. You should 
 
 Then, you must merge four PRs into your repository between 1st to 31st October. If you decide to use the second option mentioned in the first step, make sure to add the `hacktoberfest-accepted` label into these PRs.
 
-## Rules
+### Rules
 
 1. The PRs will only count into your participation which are merged between October 1st to October 31st.
 2. Contributions must be made to public repositories.
 3. PR with label as `spam` or `invalid` will not be counted. And, if a participant has 2 or more spam PRs, they'll be disqualified from Hacktoberfest.
 
-## Tips
+### Tips
 
 ### For Contributors
 
